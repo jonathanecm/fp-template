@@ -15,7 +15,7 @@ files_paths <- file.path(".", "files") %>%
 
 # Takes a sample of files' names.
 
-sampled_files <- sample(files_paths, 1000)
+sampled_files <- sample(files_paths, 100)
 files_names <- basename(sampled_files)
 
 # Creates a corpus of sampled files in the "corpus" directory. 

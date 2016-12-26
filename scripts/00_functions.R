@@ -1,5 +1,5 @@
 
-titles_clarifier <- function(vec) {
+text_clarifier <- function(vec) {
     # Clarifying sections titles. 
     #vec <- map_chr(vec, xmlValue)
     toSpace <- function(x, pattern) gsub(pattern, " ", x) # Fucntion to change characters to spaces.
