@@ -1,0 +1,746 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Ther Nucleic Acids</journal-id><journal-id journal-id-type="iso-abbrev">Mol Ther Nucleic Acids</journal-id><journal-title-group><journal-title>Molecular Therapy. Nucleic Acids</journal-title></journal-title-group><issn pub-type="epub">2162-2531</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmc">5024509</article-id><article-id pub-id-type="pii">mtna201643</article-id><article-id pub-id-type="doi">10.1038/mtna.2016.43</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>A Glu-urea-Lys Ligand-conjugated Lipid Nanoparticle/siRNA System Inhibits
+Androgen Receptor Expression <italic>In Vivo</italic></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Justin B</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="aunote1">*</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Kaixin</given-names></name><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="corresp" rid="aunote1">*</xref></contrib><contrib contrib-type="author"><name><surname>Tam</surname><given-names>Yuen Yi C</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Quick</surname><given-names>Joslyn</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Tam</surname><given-names>Ying K</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Lin</surname><given-names>Paulo JC</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Sam</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Liu</surname><given-names>Yan</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Nair</surname><given-names>Jayaprakash K</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Zlatev</surname><given-names>Ivan</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Rajeev</surname><given-names>Kallanthottathil G</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Manoharan</surname><given-names>Muthiah</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Rennie</surname><given-names>Paul S</given-names></name><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="corresp" rid="aunote1">*</xref></contrib><contrib contrib-type="author"><name><surname>Cullis</surname><given-names>Pieter R</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="caf1">*</xref><xref ref-type="corresp" rid="aunote1">*</xref></contrib><aff id="aff1"><label>1</label><institution>Department of Biochemistry and
+Molecular Biology at the University of British Columbia, Vancouver</institution>,
+British Columbia, <country>Canada</country></aff><aff id="aff2"><label>2</label><institution>Vancouver Prostate Centre,
+Vancouver</institution>, British Columbia, <country>Canada</country></aff><aff id="aff3"><label>3</label><institution>Department of Drug Discovery, Alnylam
+Pharmaceuticals</institution>, Cambridge, Massachusetts,
+<country>USA</country>.</aff></contrib-group><author-notes><corresp id="caf1"><label>*</label>Deaprtment of Biochemistry and Molecular Biology, University
+of British Columbia, 2350 Health Sciences Mall, Vancouver, British Columbia,
+Canada V6T 1Z3. E-mail: <email>pieterc@mail.ubc.ca</email></corresp><fn fn-type="present-address" id="aunote1"><label/><p>The first two authors and the last two authors contributed equally to this
+work.</p></fn></author-notes><pub-date pub-type="ppub"><month>08</month><year>2016</year></pub-date><pub-date pub-type="epub"><day>16</day><month>08</month><year>2016</year></pub-date><pub-date pub-type="pmc-release"><day>1</day><month>8</month><year>2016</year></pub-date><volume>5</volume><issue>8</issue><fpage>e348</fpage><lpage/><history><date date-type="received"><day>10</day><month>05</month><year>2016</year></date><date date-type="accepted"><day>11</day><month>05</month><year>2016</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2016 Official journal of the American Society of Gene &#x00026; Cell Therapy</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>Official journal of the American Society of Gene &#x00026; Cell Therapy</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><!--author-paid--><license-p>This work is licensed under a Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. The images or
+other third party material in this article are included in the article's
+Creative Commons license, unless indicated otherwise in the credit line; if
+the material is not included under the Creative Commons license, users will need
+to obtain permission from the license holder to reproduce the material. To view
+a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link></license-p></license></permissions><abstract><p>The androgen receptor plays a critical role in the progression of prostate
+cancer. Here, we describe targeting the prostate-specific membrane antigen using
+a lipid nanoparticle formulation containing small interfering RNA designed to
+silence expression of the messenger RNA encoding the androgen receptor.
+Specifically, a Glu-urea-Lys PSMA-targeting ligand was incorporated into the
+lipid nanoparticle system formulated with a long alkyl chain polyethylene
+glycol-lipid to enhance accumulation at tumor sites and facilitate intracellular
+uptake into tumor cells following systemic administration. Through these
+features, and by using a structurally refined cationic lipid and an optimized
+small interfering RNA payload, a lipid nanoparticle system with improved potency
+and significant therapeutic potential against prostate cancer and potentially
+other solid tumors was developed. Decreases in serum prostate-specific antigen,
+tumor cellular proliferation, and androgen receptor levels were observed in a
+mouse xenograft model following intravenous injection. These results support the
+potential clinical utility of a prostate-specific membrane
+antigen&#x02013;targeted lipid nanoparticle system to silence the androgen
+receptor in advanced prostate cancer.</p></abstract><kwd-group><kwd>androgen receptor</kwd><kwd>lipid nanoparticles</kwd><kwd>liposomes</kwd><kwd>prostate cancer</kwd><kwd>prostate specific membrane antigen</kwd><kwd>siRNA</kwd></kwd-group></article-meta></front><body><sec><title>Introduction</title><p>We have previously shown that inhibition of androgen receptor (AR) expression and
+reduction of prostate-specific antigen (PSA) serum levels in mouse models of
+human prostate cancer (PCa) can be achieved by intravenous (i.v.) administration
+of lipid nanoparticles (LNPs) containing small interfering RNA (siRNA) targeting
+the gene encoding the AR (LNP-AR-siRNA).<sup><xref ref-type="bibr" rid="bib1">1</xref></sup> However, relatively high doses (six doses at 10&#x02009;mg
+siRNA/kg body weight) were required to see appreciable effects. This is in
+significant contrast to the potency of LNP-siRNA systems that have achieved 50%
+silencing of a hepatic gene with a single dose of 0.005&#x02009;mg
+siRNA/kg.<sup><xref ref-type="bibr" rid="bib2">2</xref>,<xref ref-type="bibr" rid="bib3">3</xref>,<xref ref-type="bibr" rid="bib4">4</xref></sup> This large-dose
+disparity is attributed to the liver's favorable physiology and to
+endogenous processes that result in targeting of LNPs to
+hepatocytes.<sup><xref ref-type="bibr" rid="bib3">3</xref>,<xref ref-type="bibr" rid="bib5">5</xref></sup> In particular, LNPs associate with apolipoprotein E
+(ApoE)<sup><xref ref-type="bibr" rid="bib3">3</xref>,<xref ref-type="bibr" rid="bib6">6</xref></sup> following i.v. administration and are taken into
+hepatocytes through the LDL receptor, the scavenger receptor, and the
+&#x0201c;LDL-like&#x0201d; receptor.<sup><xref ref-type="bibr" rid="bib3">3</xref>,<xref ref-type="bibr" rid="bib7">7</xref></sup> Although it is unlikely that potencies
+equivalent to those seen for gene silencing in hepatocytes can be achieved in
+localized and disseminated PCa, reductions in current dose levels must be
+achieved for this approach to become a viable clinical strategy.</p><p>The objective of this study was to improve the potency of the LNP-siRNA system
+developed previously.<sup><xref ref-type="bibr" rid="bib1">1</xref></sup> The primary
+techniques that we explored concerned using a different polyethylene glycol
+(PEG)-lipid to achieve longer circulation lifetimes and facilitate higher levels
+of LNP accumulation at tumor sites, as well as the use of targeting ligands
+attached to the LNP-siRNA system to specifically enhance uptake into PCa cells
+following arrival at the tumor site. However, in order to build the most potent
+LNP system possible, two other LNP variables were investigated: first, the use
+of a more potent cationic lipid and second, a more potent AR-siRNA than used
+previously.<sup><xref ref-type="bibr" rid="bib1">1</xref></sup></p><p>The cationic lipid, DLin-KC2-DMA, used in our previous study<sup><xref ref-type="bibr" rid="bib1">1</xref></sup> was identified by screening a variety of
+cationic lipids in LNP-siRNA systems.<sup><xref ref-type="bibr" rid="bib2">2</xref></sup>
+Recent advances in cationic lipid design have resulted in a number of more
+potent cationic lipids, including DMAP-BLP,<sup><xref ref-type="bibr" rid="bib8">8</xref></sup> which results in improved gene-silencing potency when
+used in LNP-siRNA formulations compared to DLin-KC2-DMA.<sup><xref ref-type="bibr" rid="bib4">4</xref></sup> Furthermore, the AR-siRNA used
+previously<sup><xref ref-type="bibr" rid="bib1">1</xref></sup> was a 25-mer siRNA
+complementary to nucleotides 3542-3563 in the AR mRNA region that encodes the
+ligand-binding domain. Improvement in gene silencing can be expected with the
+use of other sequence-optimized siRNAs as it has been shown that siRNAs against
+different regions of an mRNA have drastically different silencing
+activities.<sup><xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib10">10</xref></sup></p><p>Additional factors that intrinsically influence the silencing activity of
+LNP-siRNAs are their ability to accumulate at the target site and to be taken up
+into the target cells. LNPs with long half-lives in circulation are likely to
+accumulate at tumors due to the impaired lymphatic drainage and leaky
+vasculature at these sites.<sup><xref ref-type="bibr" rid="bib11">11</xref>,<xref ref-type="bibr" rid="bib12">12</xref></sup> The PEG-lipid used in the previous
+studies was anchored into the LNP formulation by two C<sub>14</sub> alkyl
+chains; these lipids rapidly exchange out of the LNP with half-times on the
+order of minutes following i.v. injection.<sup><xref ref-type="bibr" rid="bib13">13</xref>,<xref ref-type="bibr" rid="bib14">14</xref></sup> This loss of the
+PEG-lipid results in short (&#x0003c; 1 hour) LNP circulation half-times with
+substantial liver accumulation. In order to achieve longer circulation
+lifetimes, we examined here the properties of LNP systems containing PEG-lipid
+with long alkyl chains, which can reside in the LNP formulation for 24 hours or
+longer.</p><p>The type of targeting ligand to actively target LNP-siRNA systems to PCa cells is
+of interest. A small molecule-targeting approach has been previously
+demonstrated for anisamide,<sup><xref ref-type="bibr" rid="bib15">15</xref>,<xref ref-type="bibr" rid="bib16">16</xref>,<xref ref-type="bibr" rid="bib17">17</xref></sup> as well
+as the cardiac glycoside strophanthidin (STR).<sup><xref ref-type="bibr" rid="bib18">18</xref></sup> The prostate-specific membrane antigen (PSMA), a
+plasma membrane glycoprotein that is overexpressed in PCa cells as well as the
+neovasculature of many solid tumors (but not in healthy tissues),<sup><xref ref-type="bibr" rid="bib19">19</xref></sup> represents an attractive target for LNP
+systems. Binding to PSMA results in internalization through clathrin-mediated
+endocytosis and thus can potentially carry LNP into the cell.<sup><xref ref-type="bibr" rid="bib20">20</xref></sup>
+<italic>In silico</italic> screening studies have identified the small molecule
+2-(3-(1,3-dicarboxypropyl)-ureido)pentanedioic acid (DUPA),<sup><xref ref-type="bibr" rid="bib21">21</xref></sup> which binds specifically to PSMA with
+high affinity.<sup><xref ref-type="bibr" rid="bib21">21</xref>,<xref ref-type="bibr" rid="bib22">22</xref>,<xref ref-type="bibr" rid="bib23">23</xref></sup> Urea-based analogs
+of DUPA have served as the template for further development of various potent
+PSMA-targeting ligands and have been studied by the Kozikowski,<sup><xref ref-type="bibr" rid="bib24">24</xref>,<xref ref-type="bibr" rid="bib25">25</xref></sup>
+Spiegel,<sup><xref ref-type="bibr" rid="bib26">26</xref>,<xref ref-type="bibr" rid="bib27">27</xref>,<xref ref-type="bibr" rid="bib28">28</xref></sup> and low
+groups,<sup><xref ref-type="bibr" rid="bib21">21</xref>,<xref ref-type="bibr" rid="bib22">22</xref>,<xref ref-type="bibr" rid="bib23">23</xref></sup> resulting in
+diagnostics and therapeutics that have considerable clinical
+potential.<sup><xref ref-type="bibr" rid="bib29">29</xref></sup> In this
+manuscript, we achieved improved potency in AR silencing by incorporating a DUPA
+analog for PSMA-targeting in long-circulating LNP systems that contain optimized
+cationic lipid and siRNA against AR.</p></sec><sec><title>Results</title><sec><title>Optimized LNP-AR21-siRNA silences AR expression <italic>in
+vitro</italic></title><p>Our first optimization of the LNP-AR-siRNA employed the ionizable cationic
+lipid, DMAP-BLP,<sup><xref ref-type="bibr" rid="bib8">8</xref></sup> which is three
+times more potent in hepatic gene silencing than the
+DLin-KC2-DMA,<sup><xref ref-type="bibr" rid="bib4">4</xref></sup> the lipid
+used in earlier LNP-AR-siRNA studies.<sup><xref ref-type="bibr" rid="bib1">1</xref></sup> Furthermore, the previously used AR siRNA
+(AR25-siRNA) was a 25-mer derived from an shRNA sequence that was shown to
+mediate silencing of AR and tumor growth delay <italic>in
+vivo</italic>.<sup><xref ref-type="bibr" rid="bib30">30</xref></sup> In order to
+improve gene-silencing activity, a 21-mer siRNA (AR21-siRNA) was identified
+in a screen of siRNAs targeting the AR gene (data not shown). We
+incorporated two phosphorothioate linkages in order to reduce degradation by
+serum nucleases such as ribonuclease A (RNase A) and RNase A-like
+enzymes,<sup><xref ref-type="bibr" rid="bib31">31</xref></sup> as well as
+multiple 2&#x02032;-OMe modifications to enhance stability in the presence of
+nucleases and to prevent undesired immune responses.<sup><xref ref-type="bibr" rid="bib32">32</xref></sup> To compare relative potencies of the
+25-mer and 21-mer siRNAs, LNPs containing either AR21-siRNA or AR25-siRNA
+were incubated with LNCaP cells <italic>in vitro</italic> at siRNA concentrations of
+0.5, 1.0, or 5.0 &#x003bc;g/ml for 48 hours and AR protein levels were analyzed
+by immunoblotting (<bold><xref ref-type="fig" rid="fig1">Figure 1</xref></bold>).
+Essentially, complete AR silencing was observed in cells treated with LNP
+containing AR21-siRNA at all dose levels tested, whereas AR protein
+knockdown was incomplete in cells treated with all doses of AR25-siRNA.
+Untreated cells or cells treated with control siRNA (a scramble sequence or
+siRNA against glyceraldehyde 3-phosphate dehydrogenase (GAPDH) showed no
+reduction of AR levels (<bold>Supplementary Figures S3</bold> and <bold>S4</bold>).
+Alternatively, another siRNA sequence against the AR also showed appreciable
+AR knockdown (<bold>Supplementary Figure S4</bold>). These results indicate that
+the AR21-siRNA is a more potent sequence than AR25-siRNA for silencing the
+AR gene in LNCaP cells <italic>in vitro</italic>. In addition, an alternate siRNA
+against The AR21-siRNA was used in all subsequent experiments.</p></sec><sec><title>LNPs containing PEG-DSG accumulate in distal tumors</title><p>Previously reported studies of AR siRNA utilized LNPs containing PEG-DMG, a
+PEG-lipid with two C<sub>14</sub> alkyl chains.<sup><xref ref-type="bibr" rid="bib1">1</xref></sup> PEG-lipids are required to produce LNP systems
+with defined sizes<sup><xref ref-type="bibr" rid="bib33">33</xref></sup> and to
+prevent aggregation of the LNP after formation.<sup><xref ref-type="bibr" rid="bib34">34</xref></sup> As noted elsewhere,<sup><xref ref-type="bibr" rid="bib13">13</xref>,<xref ref-type="bibr" rid="bib14">14</xref></sup> PEG-lipids
+with C<sub>14</sub> chains rapidly dissociate from the LNP (dissociation
+halftimes of minutes or less) following <italic>in vivo</italic> administration and
+result in short circulation lifetimes, enhancing liver accumulation but
+reducing LNP accumulation at tumor sites. In order to improve tumor
+accumulation, LNP systems used in this work incorporated PEG-DSG, a lipid
+with C<sub>18</sub> alkyl chains. Previous work has shown that PEG-lipids
+with C<sub>18</sub> alkyl chains remain associated with LNP for days or
+longer,<sup><xref ref-type="bibr" rid="bib14">14</xref></sup> leading to
+extended circulation lifetimes following i.v. administration relative to
+those with shorter PEG chains.<sup><xref ref-type="bibr" rid="bib13">13</xref>,<xref ref-type="bibr" rid="bib14">14</xref>,<xref ref-type="bibr" rid="bib35">35</xref></sup> Consistent with these reports,<sup><xref ref-type="bibr" rid="bib35">35</xref></sup> we found that LNP-siRNA, produced by
+microfluidic mixing incorporating 1.5% PEG-DSG, exhibited extended
+circulation properties compared to LNP with equivalent amounts of
+PEG-DMG.<sup><xref ref-type="bibr" rid="bib14">14</xref></sup> Increasing the
+total PEG-DSG lipid in the LNP from 2.5 to 5% resulted in a marked increase
+in circulation halftime from approximately 30 minutes to greater than 8
+hours (<bold><xref ref-type="fig" rid="fig5">Figure 5</xref></bold>). To show that increased
+circulation lifetime translates to enhanced LNP accumulation in tumors,
+fluorescently labeled LNP-AR21-siRNA containing either 2.5 or 5 mol% PEG-DSG
+were prepared and administered intravenously once every day for 3 days at a
+dose of 10&#x02009;mg siRNA/kg body weight in athymic nude mice bearing LNCaP
+tumors. Tumors were harvested at 4 and 24 hours following the final
+injection of LNP formulations, fixed in 10% formalin, cryo-sectioned, and
+analyzed for LNP accumulation by confocal microscopy. Consistent with the
+enhanced circulation lifetime, tumor tissues from mice treated with LNP
+containing 5 mol% PEG-DSG showed significantly higher accumulation of
+fluorescence than those from mice injected with LNP containing 2.5 mol%
+PEG-DSG (<bold><xref ref-type="fig" rid="fig2">Figure 2b</xref></bold>). Fluorescent
+micrographs showed that LNPs accumulated in tumor tissues over time, with
+higher levels observed in tumors collected 24 hours postadministration than
+at 4 hours. Approximately fourfold more LNP containing 5 mol% PEG-DSG was
+observed in tumor tissues than LNP containing 2.5 mol% PEG-DSG (<bold><xref ref-type="fig" rid="fig2">Figure 2b</xref></bold>).</p></sec><sec><title>Incorporation of (Glu-urea-Lys)-PEG-DSG into LNP systems results in
+increased cellular uptake and AR gene silencing in LNCaP cells and is
+enhanced via a PSMA-dependent endocytic mechanism</title><p>A durable PEG coating enhances LNP accumulation at sites of tumors, but also
+hinders uptake into cells and subsequent delivery of the siRNA payload to
+the cytoplasm. A strategy to overcome this problem is to incorporate into
+the LNP a small-molecule homing ligand that targets a cell surface
+receptor.<sup><xref ref-type="bibr" rid="bib15">15</xref>,<xref ref-type="bibr" rid="bib18">18</xref></sup> As indicated under Methods, we synthesized a
+small-molecule PSMA-targeting ligand and chemically conjugated it to
+PEG-DSG, as shown in <bold><xref ref-type="fig" rid="fig3">Figure 3</xref></bold>.</p><p>Our PSMA-targeting analog is based on a Glu-urea-Lys scaffold and was
+designed according to previously published data.<sup><xref ref-type="bibr" rid="bib21">21</xref>,<xref ref-type="bibr" rid="bib22">22</xref>,<xref ref-type="bibr" rid="bib23">23</xref></sup> The PSMA-targeting lipid (<bold>13</bold>, <bold><xref ref-type="fig" rid="fig3">Figure 3</xref></bold>) is composed of a Glu-urea-Lys
+moiety tethered to the PEG lipid through a phenyl ring. We first synthesized
+the appropriately protected Glu-urea-Lys carboxylic acid <bold>5</bold>
+(<bold><xref ref-type="fig" rid="fig3">Figure 3</xref></bold>) from
+2-[3-(5-amino-1-<italic>tert</italic>-butoxycarbonylpentyl)-ureido]pentanedioic
+acid di-<italic>tert</italic>-butyl ester (<bold>4</bold>)<sup><xref ref-type="bibr" rid="bib25">25</xref></sup> and from the carboxylic acid <bold>3</bold> under
+peptide coupling conditions, followed by selective deprotection of the
+benzyl ester as shown in Scheme 1. The carboxylic acid <bold>3</bold> was
+synthesized from benzyl 5-hexynoate (<bold>1</bold>)<sup><xref ref-type="bibr" rid="bib36">36</xref></sup> and (<italic>p</italic>-iodophenyl)acetic acid
+(<bold>2</bold>) by standard Sonogashira coupling.<sup><xref ref-type="bibr" rid="bib37">37</xref></sup> Covalent attachment of the protected carboxylic
+acid (<bold>5</bold>) under peptide coupling conditions with the amino-PEG-lipid
+(<bold>11</bold>) followed by deprotection of functional groups afforded the
+desired (Glu-urea-Lys)-PEG-DSG lipid (<bold>13</bold>), used for PSMA-targeting
+LNP formulation of the siRNA. The experimental details and compound
+characterization are included in the <bold>Supplementary Materials and
+Methods</bold>.</p><p>To evaluate the effects of incorporating (Glu-urea-Lys)-PEG-DSG on cell
+uptake, fluorescently-labeled LNP systems were utilized. A PSMA-targeted
+LNP-AR-siRNA system containing 1&#x02009;mol % (Glu-urea-Lys)-PEG-DSG and
+1.5% PEG-DSG was compared to an untargeted LNP system containing a total of
+2.5% PEG-DSG lipid. Uptake into LNCaP cells was analyzed by fluorescence
+microscopy. At 24 hours, fluorescence was approximately fourfold higher in
+cells treated with the PSMA-targeted LNP-AR-siRNA compared to those treated
+with the nontargeted LNP (<bold><xref ref-type="fig" rid="fig4">Figure 4a</xref></bold>).</p><p>To verify that uptake was via a PSMA-dependent mechanism, LNCaP cells were
+treated with (Glu-urea-Lys)-LNP in the presence or absence of the
+competitive reagent, 2-PMPA, at 100-fold molar excess to
+(Glu-urea-Lys)-PEG-DSG. The addition of 2-PMPA caused a substantial
+inhibition of (Glu-urea-Lys)-LNP uptake in LNCaP cells and little or no
+effect on the uptake of nontargeted LNP (<bold><xref ref-type="fig" rid="fig4">Figure
+4a</xref></bold>). Uptake of PSMA-targeted and untargeted LNPs was
+also measured in the PSMA-negative PCa cell line PC-3 (ref. <xref ref-type="bibr" rid="bib38">38</xref>); no enhancement in LNP uptake due to the
+presence of the (Glu-urea-Lys) ligand in the LNP would be expected. In these
+cells, significantly greater LNP uptake was observed for nontargeted LNP
+compared to PSMA-targeted LNP (<bold><xref ref-type="fig" rid="fig4">Figure
+4b</xref></bold>), possibly due to charge repulsion between the plasma
+membrane and the negatively charged (Glu-urea-Lys) targeting ligand.</p><p>We next evaluated whether the presence of the (Glu-urea-Lys)-PEG-DSG would
+lead to enhanced target gene silencing in LNCaP cells. In LNCaP cells
+treated with PSMA-targeted LNP containing 0.5 or 1 mol%
+(Glu-urea-Lys)-PEG-DSG, AR protein levels were significantly lower than in
+cells incubated with nontargeted LNP (<bold><xref ref-type="fig" rid="fig4">Figure
+4c</xref></bold>). In addition, a greater inhibition of AR expression
+was observed with the formulation containing 1 mol% (Glu-urea-Lys)-PEG-DSG
+than 0.5 mol% (Glu-urea-Lys)-PEG-DSG.</p></sec><sec><title>LNP-AR-siRNA systems containing the PSMA-targeting Glu-urea-Lys ligand
+exhibit long circulation lifetimes</title><p>As described previously, LNP systems exhibiting long circulation
+characteristics are essential to achieving enhanced accumulation at tumor
+sites. In this context, it was important to establish that the presence of
+the (Glu-urea-Lys)-PEG-DSG did not negatively impact the circulation
+lifetime of the PEG-DSG LNP systems employed here. This is of potential
+concern since (Glu-urea-Lys)-PEG-DSG contains three carboxylic acid chemical
+groups at its hydrophilic terminal end (<bold><xref ref-type="fig" rid="fig3">Figure
+3</xref></bold>). The p<italic>K</italic>a values of these carboxylic acid
+groups are predicted to be 3.11, 3.69, and 3.99 (Marvin, ChemAxon, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.chemaxon.com/products/marvin/">http://www.chemaxon.com/products/marvin/</ext-link>), indicating that
+this PSMA-targeting ligand will possess a strong negative charge at
+physiological pH. Consistent with these estimates, the zeta-potential of LNP
+containing 1 mol% of (Glu-urea-Lys)-PEG-DSG was determined to be
+&#x02212;14.97&#x02009;&#x000b1;&#x02009;9.34 mV, whereas nontargeted LNP
+exhibited a zeta-potential of &#x02212;4.91&#x02009;&#x000b1;&#x02009;11 mV. LNPs
+exhibiting negative charges can be rapidly cleared from the bloodstream via
+opsonization by serum proteins and subsequent accumulation in the
+reticuloendothelial cells of the liver and spleen.<sup><xref ref-type="bibr" rid="bib39">39</xref>,<xref ref-type="bibr" rid="bib40">40</xref></sup></p><p>The circulation lifetime of the PSMA-targeting LNP was determined following
+i.v. administration of tritiated (<sup>3</sup>H) PSMA-targeted or
+nontargeted LNP to mice at 1&#x02009;mg siRNA/kg body weight (see Materials
+and Methods). Blood was collected via intracardiac sampling at 0.5, 2, 8, 24
+hours postinjection and the percentage of the injected LNP remaining in the
+circulation was determined (<bold><xref ref-type="fig" rid="fig5">Figure 5</xref></bold>).
+Importantly, the PSMA-targeted and nontargeted LNPs exhibited very similar
+circulation properties; both formulations had <italic>t</italic><sub>1/2</sub>
+values of approximately 10&#x02013;12 hours. Since it was previously shown
+that LNP-siRNA systems incorporating PEG-DSG accumulate in tumors
+(<bold><xref ref-type="fig" rid="fig2">Figure 2</xref></bold>),<sup><xref ref-type="bibr" rid="bib11">11</xref></sup> these data support the probability
+that (Glu-urea-Lys)-LNP-siRNA will exhibit similar accumulation at distal
+tumor sites.</p></sec><sec><title>PSMA-targeted (Glu-urea-Lys)-LNPs enhance AR knockdown in mice bearing
+LNCaP tumors</title><p>The potency of long-circulating, PSMA-targeted (Glu-urea-Lys)-LNP systems was
+evaluated in athymic nude mice bearing LNCaP tumors. When serum PSA levels
+reached 50&#x02013;75&#x02009;ng/ml, mice were randomly assigned to three
+experimental groups and treated i.v. with phosphate buffered saline (PBS) or
+PSMA-targeted or nontargeted LNP at a dose of 5&#x02009;mg siRNA/kg body
+weight. While serum PSA levels rose to 40% above the pretreatment levels by
+Day 14 in the control group, PSA levels remained relatively unchanged
+compared to baseline in mice treated with nontargeted LNP (<bold><xref ref-type="fig" rid="fig6">Figure 6a</xref></bold>). This represents a significant
+improvement over previous studies, since similar effects on PSA levels were
+observed at half the dose used for the first generation
+LNP-AR-siRNA.<sup><xref ref-type="bibr" rid="bib1">1</xref></sup> The enhanced
+potency can be attributed to the combined effects of a more potent cationic
+lipid and a more active siRNA payload, as well as greater LNP accumulation
+at the distal tumor site due to enhanced circulation characteristics. Even
+more promising were the results from the PSMA-targeted (Glu-urea-Lys)-LNP
+group; in these mice, a 45% reduction in the serum PSA levels was
+observed at day 14 compared to the control group (<bold><xref ref-type="fig" rid="fig6">Figure 6a</xref></bold>). In mice treated with siRNA formulated in
+the PSMA-targeted (Glu-urea-Lys)-LNP, a decrease in serum PSA levels
+relative to pretreatment levels was observed. To directly verify AR gene
+silencing, levels of AR and PSA mRNAs were assessed in samples from LNCaP
+tumors at day 14 via quantitative real-time reverse-transcription polymerase
+chain reaction (qRT-PCR). In the PSMA-targeting (Glu-urea-Lys)-LNP group,
+there was a significant reduction in AR mRNA transcript levels compared to
+mice treated with the nontargeted LNP or PBS (<bold><xref ref-type="fig" rid="fig6">Figure
+6b</xref></bold>). The siRNA formulated in the nontargeted LNP did
+not cause a significant reduction in mRNA transcript levels compared to the
+PBS control (<bold><xref ref-type="fig" rid="fig6">Figure 6b</xref></bold>). These results
+are consistent with AR protein levels (<bold>Supplementary Figure S1</bold>).
+Similar results were obtained when levels of PSA mRNA transcript were
+evaluated. There was a significant decrease in levels of PSA mRNA in the
+PSMA-targeted LNP treatment group compared to mice treated with nontargeted
+LNP-AR-siRNA (<bold><xref ref-type="fig" rid="fig6">Figure 6c</xref></bold>).</p></sec><sec><title>Intravenous administration of PSMA-targeted (Glu-urea-Lys)-LNP reduces
+cellular proliferation, but does not enhance apoptosis</title><p>The ultimate goal in cancer treatment is to induce tumor regression; this
+has never been observed in the LNCaP xenograft model using gene-silencing
+strategies, even in conjunction with complete androgen ablation via
+castration.<sup><xref ref-type="bibr" rid="bib1">1</xref>,<xref ref-type="bibr" rid="bib30">30</xref></sup> LNCaP tumors were isolated from mice treated
+with PBS as a control or AR21-siRNA formulated in PSMA-targeted or
+nontargeted LNPs on day 14. Tumors were sectioned and analyzed by
+immunohistochemistry for cellular proliferation as indicated by staining for
+Ki67. Ki67 is a marker that is detected during all phases of the cell cycle,
+but is absent in quiescent cells.<sup><xref ref-type="bibr" rid="bib41">41</xref></sup> Data indicated that treatment with AR21-siRNA
+formulated in the PSMA-targeted (Glu-urea-Lys)-LNP caused an approximate 50%
+decrease in Ki67-positive cells relative to levels in tumors from
+PBS-treated mice (<bold><xref ref-type="fig" rid="fig7">Figure 7a</xref></bold>,<bold><xref ref-type="fig" rid="fig7">b</xref></bold>). No effect on apoptosis was observed
+based on TUNEL staining of LNCaP tumors from treated and untreated animals
+(<bold><xref ref-type="fig" rid="fig7">Figure 7c</xref></bold>,<bold><xref ref-type="fig" rid="fig7">d</xref></bold>). The lack of apoptotic cells may be due to the
+short duration of this study (14 days).</p></sec></sec><sec><title>Discussion</title><p>In previous work, we showed that AR25-siRNA formulated in LNP containing
+DLin-KC2-DMA and PEG-DMG (a PEG-lipid that rapidly dissociates from the LNP
+following i.v. injection) inhibited expression of the AR gene in an animal model
+of PCa. The potential for translating this work into the clinic is limited by
+the high doses necessary to achieve an appreciable pharmacological effect. Here,
+we describe the optimization of properties of the LNP-AR-siRNA systems to
+achieve improvements in the <italic>in vivo</italic> gene-silencing potency. An improved
+cationic lipid, DMAP-BLP, was used and the siRNA sequence and chemistry were
+optimized. In addition, a PEG-lipid (PEG-DSG) that does not readily dissociate
+from LNP systems and a PSMA-targeting lipid were incorporated, resulting in a
+longer lifetime in circulation, improved accumulation at distal tumor sites, and
+PSMA-mediated uptake into prostate tumor cells.</p><p>Inclusion of 5 mol% PEG-DSG clearly resulted in improved LNP accumulation at the
+tumor site compared to LNP with lower amounts of the PEG-lipid (<bold><xref ref-type="fig" rid="fig2">Figure 2</xref></bold>). This had a minimal impact on
+LNP-siRNA potency, as judged by PSA levels, compared to the previously reported
+work.<sup><xref ref-type="bibr" rid="bib1">1</xref></sup> However, although the
+more stable PEG coatings lead to improved tumor accumulation, the PEG coat can
+impede cellular uptake, reducing the activity of the LNP payload. Ideally, the
+PEG-lipid would remain associated with the LNP until arrival at the tumor site,
+after which it would dissociate. For actively targeted systems such as those
+containing the PSMA-targeted (Glu-urea-Lys)-PEG-lipid, it is possible that the
+presence of the PEG-lipid may reduce the endosomolytic properties of the LNP
+following ligand-dependent uptake.</p><p>The results presented demonstrate significantly greater reductions in AR (~40%)
+and PSA (~50%) mRNA when the AR21-siRNA was formulated in the PSMA-targeted
+(Glu-urea-Lys)-LNP system compared to the nontargeted LNP system (<bold><xref ref-type="fig" rid="fig6">Figure 6</xref></bold>). The use of the small molecule
+targeting ligand has a number of advantages compared with use of larger entities
+such as antibodies; most notably, the small molecule targeting ligands can
+be incorporated at the time of LNP manufacture rather than after the LNP is
+formed and well-defined, scalable systems are more readily achieved. It is
+perhaps surprising that the highly negatively charged PSMA-targeting
+Glu-urea-Lys ligand adopted a configuration when incorporated into the LNP in
+which it is available on the external surface for ligand binding. A concern was
+that the targeting ligand could become associated with the cationic lipid during
+formulation and is buried in the interior of the LNP as a result. It is possible
+that the PEG tether limits internal localization of the (Glu-urea-Lys)-PEG-DSG
+due to polarity and/or steric effects.</p><p>The data presented here demonstrate that the potency of LNP siRNA systems to
+silence the AR following i.v. administration can be improved from dose levels of
+10&#x02009;mg/kg siRNA to 5&#x02009;mg/kg when more potent cationic lipids, higher
+levels of tumor accumulation and the PSMA targeting ligand is employed. However,
+the dose levels of 5&#x02009;mg siRNA/kg body weight required for AR silencing
+are still approximately an order of magnitude too high for clinical applications
+to be envisaged, and further work is required to improve potency. This is
+especially important for achieving tumor growth regression, as we observed no
+statistically significant difference in the tumor sizes between PSMA-targeted
+LNP treatment mice and control groups, despite appreciable knockdown of the AR
+and PSA in the treatment group (<bold>Supplementary Figure S2</bold>). Ways forward
+include higher levels of external PSMA-targeting lipid or extending the
+PSMA-targeting moieties beyond the PEG coat to improve targeting could be
+envisioned. It has been noted that use of a PEG5000 tether to extend the
+targeting ligand further from the LNP surface resulted in a 160-fold improvement
+in targeting capability <italic>in vitro</italic>.<sup><xref ref-type="bibr" rid="bib42">42</xref></sup> Incorporation of an additional ligand that targets
+another cell surface factor, such as the prostate stem cell
+antigen,<sup><xref ref-type="bibr" rid="bib43">43</xref></sup> may synergistically
+enhance the LNP uptake. Finally, nanoparticle systems smaller than 50&#x02009;nm
+exhibit significantly improved delivery to tumor cells by virtue of their
+ability to achieve improved tumor penetration.<sup><xref ref-type="bibr" rid="bib44">44</xref></sup> Of relevance to this approach, the microfluidic
+mixing technique does offer the possibility of manufacturing LNP with sizes as
+small as 20&#x02009;nm in diameter,<sup><xref ref-type="bibr" rid="bib33">33</xref></sup>
+and efforts will be directed toward reductions in the size of the LNP-siRNA
+system.</p><p>The potential of targeting ligands is demonstrated by recent highly encouraging
+clinical data utilizing siRNAs directly conjugated to a
+<italic>N</italic>-acetylgalactosamine (GalNAc) targeting ligand which have demonstrated
+efficient systemic delivery allowing robust and durable mRNA knockdown of
+various targets in hepatocytes.<sup><xref ref-type="bibr" rid="bib45">45</xref></sup> The
+GalNAc ligand targets the highly expressed ASGPR receptor in
+hepatocytes&#x02014;which presents the important advantages of exhibiting high
+copy number and a quick turnover. In this aspect, the selection of efficient
+receptors for targeting is a key parameter for the success of targeted siRNA
+systems. In addition, recently developed biodegradable lipids enabling rapidly
+eliminated LNPs that display improved tolerability and safety profiles can be
+incorporated into potent and safe LNP-siRNA systems.<sup><xref ref-type="bibr" rid="bib46">46</xref></sup> It is therefore expected that this continuous
+progress in the field of siRNA medicines will lead to LNP-AR-siRNAs targeting
+PCas that have direct clinical utility.</p></sec><sec><title>Materials and Methods</title><p><italic>Materials.</italic> 1,2-Distearoyl-sn-glycero-3-phosphocholine (DSPC) was
+purchased from Avanti Lipids (Alabaster, AL), cholesterol (Chol) was purchased
+from Sigma (St. Louis, MO).
+1,1&#x02032;-Dilinoleyl-3,3,3&#x02032;,3&#x02032;-tetramethylindocarbocyanine
+perchlorate (DiI) was bought from Invitrogen (Burlington, ON, Canada). The
+ionizable cationic lipid DMAP-BLP and PEG-lipids
+(R)-2,3-bis(octadecyloxy)propyl-1-(methoxy poly(ethylene glycol)2000) carbamate
+(PEG-DMG) and (R)-2,3-bis(stearyloxy)propyl-1-(methoxy poly(ethylene glycol)2000
+carbamate (PEG-DSG) were synthesized at Alnylam Pharmaceuticals (Cambridge, MA).
+The PSMA inhibitor 2-(phosphonomethyl)-pentanedioic acid (2-PMPA) was purchased
+from Cedarlane (Burlington, ON, Canada).</p><p><italic>Cell culture, cell lines, and reagents.</italic> LNCaP and PC-3 human PCa cell
+lines were used in all <italic>in vitro</italic> experiments.<sup><xref ref-type="bibr" rid="bib38">38</xref>,<xref ref-type="bibr" rid="bib47">47</xref></sup> LNCaP and PC-3
+cells were obtained from ATCC and were not passaged beyond 6 months after
+receipt or resuscitation. LNCaP cells were maintained in RPMI 1640 (Life
+Technologies, Burlington, ON, Canada), supplemented with 10% heat-inactivated
+fetal bovine serum. PC-3 cells were maintained in DMEM (Life Technologies,
+Burlington, ON, Canada) supplemented with 5% heat-inactivated fetal bovine
+serum. Both cell lines were incubated at 37 &#x000b0;C with 5% CO<sub>2</sub>.</p><p><italic>siRNA sequences.</italic> The sequence of the human AR gene (GenBank accession
+no. NM_000044) was extracted from the NCBI Entrez nucleotide database. The
+AR21-siRNA was composed of two complementary RNA strands: sense strand (AR-S)
+5&#x02032;-cuGGGAAAGucAAGcccAudTsdT -3&#x02032; and antisense strand (AR-AS):
+5&#x02032;-AUGGGCUUGACUUUCCcAGdTsdT-3&#x02032;. The two strands of the AR21-siRNA
+are modified 21-nt oligoribonucleotides that contain phosphorothioate linkages
+(indicated as &#x0201c;s&#x0201d;) between the 3&#x02032;-deoxythymidine (dT)
+overhangs and that include multiple 2&#x02032;-OMe modifications (indicated by
+lower-case letters).</p><p><italic>Oligonucleotide synthesis.</italic> Oligonucleotides were synthesized using an
+ABI-394 DNA/RNA synthesizer. Solvents/reagents, solid-supports and
+phosphoramidites were all purchased from Glen Research or ChemGenes and used as
+received. Oligonucleotides were synthesized using modified synthesis cycles
+provided with the instrument. After solid phase synthesis, the oligonucleotides
+were deprotected and released from the support. The crude oligonucleotides were
+purified by anion-exchange high performance liquid chromatography (HPLC) to
+&#x0003e;85% (260&#x02009;nm) purity and then desalted by size exclusion
+chromatography. The isolated yields for the final oligonucleotides were
+calculated based on the respective ratios of measured to theoretical
+260&#x02009;nm optical density units (ODUs) and their identity was confirmed by
+LC/MS. Hybridization to generate double-stranded siRNA duplexes was performed by
+mixing equimolar amounts of purified complementary strands to a final
+concentration of 20 &#x000b5;mol/l in 1&#x000d7; PBS buffer pH 7.4, and by heating
+the solution over a water bath at 95 &#x000b0;C for 5 minutes and cooling it to room
+temperature over a period of approximately 12 hours.</p><p><italic>Chemical synthesis.</italic> Detailed chemical synthesis procedures and
+characterization data of all intermediates (according to <bold><xref ref-type="fig" rid="fig3">Figure 3</xref></bold>) is given as <bold>Supplementary Materials and
+Methods</bold> only.</p><p><italic>Preparation of tris-(t-Butyl) protected (Glu-urea-Lys)-PEG-DSG (12).</italic>
+Compound <bold>5</bold> (see <bold>Supplementary Materials and Methods</bold>,
+1.00&#x02009;g, 0.37 mmol) and compound <bold>11</bold> (see <bold>Supplementary Materials
+and Methods</bold>, 0.35&#x02009;g, 0.48 mmol) were dissolved in DMF
+(10&#x02009;ml) under argon atmosphere. HBTU (0.22&#x02009;g, 0.58 mmol) and DIEA
+(0.250&#x02009;ml, 1.46 mmol) were added to the mixture, and the mixture was
+stirred overnight. The solvents were removed under reduced pressure, and the
+residue was purified by silica gel chromatography (5&#x02013;20% MeOH in DCM) to
+yield compound <bold>12</bold> (0.53&#x02009;g, 43%) as a white solid. <sup>1</sup>H
+NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x003b4; 7.78 (t, <italic>J</italic> = 5.7
+Hz, 2H), 7.14-7.05 (m, 3H), 6.26 (m, 2H), 4.11-3.83 (m, 5H), 3.75&#x02013;3.63 (m,
+3H), 3.60&#x02013;3.30 (m, OC<italic>H</italic><sub>2</sub>- and O-C<italic>H</italic>-protons,
+PEG, O-alkyl and glycerol), 3.27&#x02013;3.12 (m, 5H), 3.07&#x02013;2.85 (m, 4H),
+2.30&#x02013;2.15 (m, 3H), 2.03 (t, <italic>J</italic> = 7.4, 2H), 1.59&#x02013;1.33 (m,
+23H), 1.30&#x02013;1.18 (m, 60H), 0.84 (t, <italic>J</italic> = 6.7 Hz, 6H). MS calc. Av.
+MW. ~ 3,343; MALDI Av. MW found: 3,342.</p><p><italic>Preparation of (Glu-urea-Lys)-PEG-DSG (13).</italic> Formic acid (20&#x02009;ml)
+and anisole (0.5&#x02009;ml) were added to compound <bold>12</bold> (0.50&#x02009;g,
+0.14 mmol), and the mixture was stirred at room temperature for 24 hours. The
+solvents were removed under reduced pressure, and the residue was coevaporated
+with toluene (2&#x02009;&#x000d7;&#x02009;50&#x02009;ml). The crude compound was
+purified by flash silica gel column chromatography using a gradient of
+10&#x02013;50% MeOH in DCM followed by MeOH to yield compound <bold>13</bold> as a white
+solid (230&#x02009;mg, 48%). <sup>1</sup>H NMR (400 MHz,
+DMSO-<italic>d</italic><sub>6</sub>): &#x003b4; 7.96 (bs, 2H), 7.80&#x02013;7.77 (m,
+3H), 7.22&#x02013;6.95 (m, 6H), 4.09&#x02013;3.80 (m, 6H), 3.68&#x02013;3.60 (m, 2H),
+3.59&#x02013;3.40 (m, OC<italic>H</italic><sub>2</sub>- and O-C<italic>H</italic>-protons, PEG),
+3.39&#x02013;3.08 (m, 33H), 3.05&#x02013;2.87 (m, 5H), 2.76&#x02013;2.57 (m, 4H),
+2.36&#x02013;2.14 (m, 3H), 2.03 (t, <italic>J</italic> = 7.5 Hz, 5H), 1.78 (brs, 2H),
+1.65&#x02013;1.60 (m, 2H), 1.55&#x02013;1.30 (m, 15H), 1.29&#x02013;1.13 (m, 61H),
+1.10&#x02013;1.00 (m, <italic>J</italic> = 6.5 Hz, 19H), 0.84 (t, <italic>J</italic> = 6.7 Hz,
+6H). MS calc. Av. MW. ~ 3,190; MALDI Av. MW found: ~3,193.</p><p><italic>Encapsulation of siRNA into LNP using microfluidic mixing.</italic> LNP
+formulations were constructed using a microfluidic staggered herringbone
+micromixer (SHM) provided by Precision Nanosystems (Vancouver, BC) as described
+previously.<sup><xref ref-type="bibr" rid="bib33">33</xref></sup> The siRNA
+solutions were prepared in 25 mmol/l acetate buffer at pH 4.0. For comparison
+studies between AR21-siRNA and AR25-siRNA, lipid stocks were co-dissolved in
+ethanol at molar ratio of 40% DMAP-BLP, 17.5% DSPC, 40% Chol, and 2.5% PEG-DMG.
+For PEG-lipid comparison studies containing 2.5 mol% total PEG-lipid, lipid
+stocks were codissolved in ethanol at appropriate molar ratios: 50 mol%
+DMAP-BLP, 10 mol% DSPC, 37.3 mol% Chol, 0/0.5/1 mol% (Glu-urea-Lys)-PEG-DSG,
+2.5/2/1.5 mol% PEG-DSG, and 0.2 mol% DiI. For cationic LNPs encapsulating
+AR21-siRNA containing 5 mol% total PEG-lipid used for <italic>in vivo</italic> studies,
+lipid stocks were codissolved in ethanol at the following molar ratios: 50 mol%
+DMAP-BLP, 10 mol% DSPC, 34.8 mol% Chol, 0/1 mol% (Glu-urea-Lys)-PEG-DSG, 5/4
+mol% PEG-DSG, and 0.2 mol% DiI. The siRNA to lipid ratio for all formulations
+was kept at 0.067 (wt/wt). The siRNA and lipid ethanol solutions are mixed at a
+1:3 ratio, respectively. Total formulation volume ranges from 4 to 40&#x02009;ml
+depending on experiment size.</p><p><italic>Characterization of LNP.</italic> The mean diameter of the vesicles was
+determined using a NICOMP370 particle sizer (Nicomp Particle Sizing, Santa
+Barbara, CA). Intensity-weighted size and distribution data was used. LNPs
+utilized for AR21-siRNA and AR25-siRNA comparisons were
+56.5&#x02009;&#x000b1;&#x02009;17.6&#x02009;nm and 55.9&#x02009;&#x000b1;&#x02009;19.61
+nm in size, respectively. The size of LNP containing a total of 2.5 mol%
+PEG-lipid, (Glu-urea-Lys)-LNP-AR21-siRNA (1 mol% (Glu-urea-Lys)-PEG) was
+84.5&#x02009;&#x000b1;&#x02009;32.5&#x02009;nm, (Glu-urea-Lys)-LNP-AR21-siRNA (0.5
+mol% (Glu-urea-Lys)-PEG) was 77.5&#x02009;&#x000b1;&#x02009;23.6&#x02009;nm, and the
+non-targeted LNP-AR21-siRNA (0 mol% (Glu-urea-Lys)-PEG) was
+73.6&#x02009;&#x000b1;&#x02009;31.6&#x02009;nm. For LNPs containing a total of 5.0
+mol% PEG-lipid: (Glu-urea-Lys)-LNP-AR21-siRNA (1 mol% (Glu-urea-Lys)-PEG-DSG)
+the size was 55.9&#x02009;&#x000b1;&#x02009;22.5&#x02009;nm, and the non-targeted
+LNP-AR21-siRNA (no targeting PEG-lipid) exhibited a size of
+45.3&#x02009;&#x000b1;&#x02009;16.5&#x02009;nm. Zeta potentials of LNPs were
+measured using the Malvern Nano ZS (Worcestershire, UK). Lipid concentrations
+were determined based on total cholesterol content determined using the
+Cholesterol E enzymatic assay from Wako Chemicals (Richmond, VA). Concentrations
+of siRNA were measured using Quant-iT RiboGreen RNA Reagent and Kit (Life
+Technologies) according to the manufacturer's protocol. Encapsulation
+efficiency was determined by analysis of siRNA concentrations after addition of
+1% Triton-X-100 (Sigma) to intact LNPs.</p><p><italic>Western blotting.</italic> LNCaP cells were plated in 12-well plates
+(2.0&#x02009;&#x000d7;&#x02009;10<sup>5</sup> cells per well). Cells were washed
+with PBS and lysed with RIPA buffer (1% NP-40, 0.25% deoxycholic acid)
+supplemented with protease inhibitors (Roche Diagnostics, Laval, Quebec,
+Canada). Aliquots of 10 &#x003bc;g of total protein, as quantified by Bradford Assay,
+were analyzed by immunoblotting. Antibodies to AR were purchased from Santa Cruz
+Biotechnology (AR-441) (Santa Cruz, CA). Antibodies to &#x003b2;-Actin were
+purchased from Abcam (Cambridge, MA). Antigen-antibody complexes were detected
+using Millipore Immobilon Western Chemiluminescent HRP Substrate (Billerica,
+MA).</p><p><italic>Confocal microscopy of tumor sections.</italic> Excised LNCaP tumors from groups
+of three mice each were maintained in 10% buffered formalin and then
+cryo-sectioned by Wax-IT Histology Services (Vancouver, BC). Tissue sections
+were fixed onto glass cover slips and examined under an Olympus FV1000 (Center
+Valley, PA) laser-scanning microscope. For each mouse xenograft, 5 tissue
+sections and 20 fields of view were examined. LNP fluorescence was quantified
+using Image J (v1.50b, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://imagej.nih.gov/">https://imagej.nih.gov/</ext-link>).</p><p><italic>Fluorescent microscopy.</italic> LNCaP cells were seeded at
+2.0&#x02009;&#x000d7;&#x02009;10<sup>4</sup> cells per well and PC-3 cells were
+seeded at 1.5&#x02009;&#x000d7;&#x02009;10<sup>4</sup> cells per well in a 96-well
+format. Cells were treated with 5 &#x003bc;g/ml (based on AR21-siRNA weight)
+(Glu-urea-Lys)-LNP-AR21-siRNA (1 mol% (Glu-urea-Lys)-PEG-DSG) or LNP-AR21-siRNA
+for 24 hours. 2-PMPA was added as a competitive reagent at 100-fold molar excess
+to (Glu-urea-Lys)-PEG-DSG. Cells were fixed in 3% PFA with Hoechst's stain
+and examined using a Cellomics ArrayScan VTI HCS Reader (Thermo Scientific,
+Pittsburgh, PA).</p><p><italic>Pharmacokinetics of PSMA-targeted and nontargeted LNP-AR-siRNAs.</italic> Female
+CD1 outbred mice (6 to 8 weeks old) were obtained from Charles River
+Laboratories (Wilmington, MA) and acclimated for one week prior to use. Mice
+were given 1&#x02009;mg/kg of either PSMA-targeted or nontargeted LNP-AR21-siRNA,
+containing trace amounts of [<sup>3</sup>H]-cholesteryl hexadecylether (CHE),
+via the lateral tail vein injection. At 0.5, 2, 8, and 24 hours postinjection,
+mice were euthanized. Blood was collected via intracardiac sampling in
+Vacutainer tubes containing EDTA (BD Biosciences, Canada) and was chemically
+digested at room temperature using Solvable (Perkin-Elmer, Wellesley, MA)
+followed by decolorization with hydrogen peroxide (30% w/w). The amount of LNP
+in blood was determined by liquid scintillation counting in Pico-Fluor 40
+(Perkin-Elmer). All procedures involving animals were approved by the Animal
+Care Committee at the University of British Columbia and performed in accordance
+with the guidelines established by the Canadian Council on Animal Care.</p><p><italic>Treatment of mice with PSMA-targeted and non-targeted LNP-AR21-siRNAs.</italic>
+Xenograft prostate tumors were established as described.<sup><xref ref-type="bibr" rid="bib30">30</xref></sup> Briefly, LNCaP cells
+(5&#x02009;&#x000d7;&#x02009;10<sup>6</sup>) in 0.1&#x02009;ml Matrigel (Becton
+Dickinson Labware, Mississauga, Ontario, Canada) were inoculated subcutaneously
+in two flank regions of 6- to 8-week-old male athymic nude mice (Harlan Sprague
+Dawley, Indianapolis, IN) under halothane anesthesia using a 27-gauge needle.
+When the tumors became palpable, volumes were measured, and blood was collected
+from the tail vein to assess serum PSA by ELISA (ClinPro International, Union
+City, CA). Once PSA values reached 50&#x02013;75&#x02009;ng/ml, animals were
+randomized into three groups and were treated with
+(Glu-urea-Lys)-LNP-AR21-siRNA, nontargeted LNP-AR21-siRNA, or aline (PBS) via
+the tail vein. Animals treated with PBS were given one injection on day 1.
+Animals given (Glu-urea-Lys)-LNP-AR21-siRNA and non-targeted LNP-AR21-siRNA were
+treated on days 1, 2, 3, 7, 9, and 11 with 5&#x02009;mg siRNA/kg of mouse body
+weight. Mice were sacrificed on day 14. Serum PSA levels and levels of mRNA
+encoding AR and PSA were determined, and immunohistochemical analyses of
+xenograft tumors were performed. All animal procedures were performed according
+to the guidelines of the Canadian Council of Animal Care and with appropriate
+institutional certification.</p><p><italic>qRT-PCR.</italic> Total RNA from mouse tissue was isolated using Trizol according
+to the manufacturer's protocol (Life Technologies, Burlington, ON,
+Canada). RNA extracts were reverse transcribed using random hexamers (Applied
+Biosystems, Foster City, CA) and MMLV reverse transcriptase (Invitrogen).
+Triplicates of the resulting cDNA were used as templates for quantitative
+real-time PCR on the Applied Biosystems 7900HT Fast Real-Time PCR System
+following the SYBR Green PCR Master Mix protocol as described
+previously.<sup><xref ref-type="bibr" rid="bib48">48</xref></sup> 18S rRNA was
+used as an endogenous control and relative quantitation was determined using the
+comparative Ct (2<sup>-&#x00394;&#x00394;Ct</sup>) method. Primer sequences for AR
+were: sense 5&#x02032;-GCAGGCAAGAGCACTGAAGATA-3&#x02032; and antisense
+5&#x02032;-CCTTTGTGTAACCTCCCTTGA-3&#x02032;. Primers for PSA were: sense
+5&#x02032;<bold><italic>-</italic></bold>TGTGCTTCAAGGTATCACGTCAT-3&#x02032; and antisense:
+5&#x02032;- TGTACAGGGAAGGCCTTTCG-3&#x02032;. Primers for 18S rRNA were: sense
+5&#x02032;-CGATGCTCTTAGCTGAGTGT-3&#x02032; and antisense
+5&#x02032;-GGTCCAAGAATTTCACCTCT-3&#x02032;.</p><p><italic>Immunohistochemistry of tumor tissues.</italic> Immunohistochemistry (IHC)
+staining was conducted using a Ventana autostainer model Discover XT (Ventana
+Medical System Oro Valley, AZ) with an enzyme-labeled biotin streptavidin system
+and solvent-resistant DAB Map kit. The antibody used for Ki67 was from Lab
+Vision Corporation, and was diluted 1:500 in 1X PBS. The TUNEL, or apoptosis,
+study was done using a TdT enzyme kit (Roche, Indianapolis, IN). IHC slides were
+scanned on a Leica Digital Imaging System. Images were viewed using Digital
+Image Hub, (SlidePath, Dublin, Ireland). The proliferation factor is defined as
+the average number of Ki67 positive cells per core, or per section. The
+apoptotic factor is the average number of apoptotic positive cells per core, or
+per section.</p><p><italic>Statistical analyses.</italic> All statistical analyses were performed using
+GraphPad. Initially, a one-way analysis of variance was used to statistically
+evaluate the differences between treatment groups. In the case of statistically
+significant results, the differences between treatment groups were assessed
+through the use of the Tukey-Kramer multiple comparisons test, unless otherwise
+stated. Probability (<italic>P</italic>) values less than 0.05 were considered
+significant.</p><p><xref ref-type="supplementary-material" rid="sup1"><bold>SUPPLEMENTARY MATERIAL</bold></xref>&#x0000a;
+<bold>Figure S1.</bold> Systemic administration of siRNA formulated in PSMA-targeted
+(Glu-urea-Lys)-LNP enhances AR protein knockdown in vivo&#x0000a;
+<bold>Figure S2.</bold> Effect of systemically administered LNP formulations on tumor growth.&#x0000a;
+<bold>Figure S3.</bold> LNP encapsulating scramble (SC)-siRNA does not result in AR
+knockdown in vitro.&#x0000a;
+<bold>Figure S4.</bold> siRNA against GAPDH does not result in AR knockdown in
+vitro&#x0000a; Materials and Methods</p></sec></body><back><ack><p>The authors would like to acknowledge the Canadian Institutes of Health Research
+grants (MOP-86587, FRN-111627, FRN-124295), Prostate Cancer Canada grant (D2013-5)
+and Alnylam Pharmaceuticals for supporting this work.</p></ack><ref-list><ref id="bib1"><mixed-citation publication-type="journal">Lee, JB, Zhang, K, Tam, YY, Tam, YK, Belliveau, NM, Sung, VY et al. (<year>2012</year>). <article-title>Lipid nanoparticle siRNA systems for silencing the androgen receptor in
+human prostate cancer in vivo</article-title>. <source>Int J Cancer</source>
+<volume>131</volume>: <fpage>E781</fpage>&#x02013;E790.<pub-id pub-id-type="pmid">22095615</pub-id></mixed-citation></ref><ref id="bib2"><mixed-citation publication-type="journal">Semple, SC, Akinc, A, Chen, J, Sandhu, AP, Mui, BL, Cho, CK et al. (<year>2010</year>). <article-title>Rational design of cationic lipids for siRNA delivery</article-title>. <source>Nat Biotechnol</source>
+<volume>28</volume>: <fpage>172</fpage>&#x02013;176.<pub-id pub-id-type="pmid">20081866</pub-id></mixed-citation></ref><ref id="bib3"><mixed-citation publication-type="journal">Akinc, A, Querbes, W, De, S, Qin, J, Frank-Kamenetsky, M, Jayaprakash, KN et al. (<year>2010</year>). <article-title>Targeted delivery of RNAi therapeutics with endogenous and exogenous
+ligand-based mechanisms</article-title>. <source>Mol Ther</source>
+<volume>18</volume>: <fpage>1357</fpage>&#x02013;1364.<pub-id pub-id-type="pmid">20461061</pub-id></mixed-citation></ref><ref id="bib4"><mixed-citation publication-type="journal">Jayaraman, M, Ansell, SM, Mui, BL, Tam, YK, Chen, J, Du, X et al. (<year>2012</year>). <article-title>Maximizing the potency of siRNA lipid nanoparticles for hepatic gene
+silencing in vivo</article-title>. <source>Angew Chem Int Ed Engl</source>
+<volume>51</volume>: <fpage>8529</fpage>&#x02013;8533.<pub-id pub-id-type="pmid">22782619</pub-id></mixed-citation></ref><ref id="bib5"><mixed-citation publication-type="journal">Longmuir, KJ, Robertson, RT, Haynes, SM, Baratta, JL and Waring, AJ (<year>2006</year>). <article-title>Effective targeting of liposomes to liver and hepatocytes <italic>in vivo</italic>
+by incorporation of a Plasmodium amino acid sequence</article-title>. <source>Pharm Res</source>
+<volume>23</volume>: <fpage>759</fpage>&#x02013;769.<pub-id pub-id-type="pmid">16550476</pub-id></mixed-citation></ref><ref id="bib6"><mixed-citation publication-type="journal">Cullis, PR, Chonn, A and Semple, SC (<year>1998</year>). <article-title>Interactions of liposomes and lipid-based carrier systems with blood
+proteins: Relation to clearance behaviour in vivo</article-title>. <source>Adv Drug Deliv Rev</source>
+<volume>32</volume>: <fpage>3</fpage>&#x02013;17.<pub-id pub-id-type="pmid">10837632</pub-id></mixed-citation></ref><ref id="bib7"><mixed-citation publication-type="journal">Mahley, RW and Huang, Y (<year>2007</year>). <article-title>Atherogenic remnant lipoproteins: role for proteoglycans in trapping,
+transferring, and internalizing</article-title>. <source>J Clin Invest</source>
+<volume>117</volume>: <fpage>94</fpage>&#x02013;98.<pub-id pub-id-type="pmid">17200713</pub-id></mixed-citation></ref><ref id="bib8"><mixed-citation publication-type="journal">Rungta, RL, Choi, HB, Lin, PJ, Ko, RW, Ashby, D, Nair, J et al. (<year>2013</year>). <article-title>Lipid nanoparticle delivery of siRNA to silence neuronal gene expression in
+the brain</article-title>. <source>Mol Ther Nucleic Acids</source>
+<volume>2</volume>: <fpage>e136</fpage>.<pub-id pub-id-type="pmid">24301867</pub-id></mixed-citation></ref><ref id="bib9"><mixed-citation publication-type="journal">Frank-Kamenetsky, M, Grefhorst, A, Anderson, NN, Racie, TS, Bramlage, B, Akinc, A et al. (<year>2008</year>). <article-title>Therapeutic RNAi targeting PCSK9 acutely lowers plasma cholesterol in
+rodents and LDL cholesterol in nonhuman primates</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>105</volume>: <fpage>11915</fpage>&#x02013;11920.<pub-id pub-id-type="pmid">18695239</pub-id></mixed-citation></ref><ref id="bib10"><mixed-citation publication-type="journal">Foster, DJ, Barros, S, Duncan, R, Shaikh, S, Cantley, W, Dell, A et al. (<year>2012</year>). <article-title>Comprehensive evaluation of canonical versus Dicer-substrate siRNA <italic>in
+vitro</italic> and in vivo</article-title>. <source>RNA</source>
+<volume>18</volume>: <fpage>557</fpage>&#x02013;568.<pub-id pub-id-type="pmid">22294662</pub-id></mixed-citation></ref><ref id="bib11"><mixed-citation publication-type="journal">Maeda, H, Wu, J, Sawa, T, Matsumura, Y and Hori, K (<year>2000</year>). <article-title>Tumor vascular permeability and the EPR effect in macromolecular
+therapeutics: a review</article-title>. <source>J Control Release</source>
+<volume>65</volume>: <fpage>271</fpage>&#x02013;284.<pub-id pub-id-type="pmid">10699287</pub-id></mixed-citation></ref><ref id="bib12"><mixed-citation publication-type="journal">Maeda, H (<year>2001</year>). <article-title>The enhanced permeability and retention (EPR) effect in tumor vasculature:
+the key role of tumor-selective macromolecular drug targeting</article-title>. <source>Adv Enzyme Regul</source>
+<volume>41</volume>: <fpage>189</fpage>&#x02013;207.<pub-id pub-id-type="pmid">11384745</pub-id></mixed-citation></ref><ref id="bib13"><mixed-citation publication-type="journal">Ambegia, E, Ansell, S, Cullis, P, Heyes, J, Palmer, L and MacLachlan, I (<year>2005</year>). <article-title>Stabilized plasmid-lipid particles containing PEG-diacylglycerols exhibit
+extended circulation lifetimes and tumor selective gene expression</article-title>. <source>Biochim Biophys Acta</source>
+<volume>1669</volume>: <fpage>155</fpage>&#x02013;163.<pub-id pub-id-type="pmid">15893518</pub-id></mixed-citation></ref><ref id="bib14"><mixed-citation publication-type="journal">Mui, BL, Tam, YK, Jayaraman, M, Ansell, SM, Du, X, Tam, YY et al. (<year>2013</year>). <article-title>Influence of polyethylene glycol lipid desorption rates on pharmacokinetics
+and pharmacodynamics of siRNA lipid nanoparticles</article-title>. <source>Mol Ther Nucleic Acids</source>
+<volume>2</volume>: <fpage>e139</fpage>.<pub-id pub-id-type="pmid">24345865</pub-id></mixed-citation></ref><ref id="bib15"><mixed-citation publication-type="journal">Banerjee, R, Tyagi, P, Li, S and Huang, L (<year>2004</year>). <article-title>Anisamide-targeted stealth liposomes: a potent carrier for targeting
+doxorubicin to human prostate cancer cells</article-title>. <source>Int J Cancer</source>
+<volume>112</volume>: <fpage>693</fpage>&#x02013;700.<pub-id pub-id-type="pmid">15382053</pub-id></mixed-citation></ref><ref id="bib16"><mixed-citation publication-type="journal">Chono, S, Li, SD, Conwell, CC and Huang, L (<year>2008</year>). <article-title>An efficient and low immunostimulatory nanoparticle formulation for systemic
+siRNA delivery to the tumor</article-title>. <source>J Control Release</source>
+<volume>131</volume>: <fpage>64</fpage>&#x02013;69.<pub-id pub-id-type="pmid">18674578</pub-id></mixed-citation></ref><ref id="bib17"><mixed-citation publication-type="journal">Li, SD, Chono, S and Huang, L (<year>2008</year>). <article-title>Efficient gene silencing in metastatic tumor by siRNA formulated in
+surface-modified nanoparticles</article-title>. <source>J Control Release</source>
+<volume>126</volume>: <fpage>77</fpage>&#x02013;84.<pub-id pub-id-type="pmid">18083264</pub-id></mixed-citation></ref><ref id="bib18"><mixed-citation publication-type="journal">Tam, YY, Chen, S, Zaifman, J, Tam, YK, Lin, PJ, Ansell, S et al. (<year>2013</year>). <article-title>Small molecule ligands for enhanced intracellular delivery of lipid
+nanoparticle formulations of siRNA</article-title>. <source>Nanomedicine</source>
+<volume>9</volume>: <fpage>665</fpage>&#x02013;674.<pub-id pub-id-type="pmid">23219877</pub-id></mixed-citation></ref><ref id="bib19"><mixed-citation publication-type="journal">Holmes, EH, Greene, TG, Tino, WT, Boynton, AL, Aldape, HC, Misrock, SL et al. (<year>1996</year>). <article-title>Analysis of glycosylation of prostate-specific membrane antigen derived from
+LNCaP cells, prostatic carcinoma tumors, and serum from prostate cancer
+patients</article-title>. <source>Prostate Suppl</source>
+<volume>7</volume>: <fpage>25</fpage>&#x02013;29.<pub-id pub-id-type="pmid">8950359</pub-id></mixed-citation></ref><ref id="bib20"><mixed-citation publication-type="journal">Liu, H, Rajasekaran, AK, Moy, P, Xia, Y, Kim, S, Navarro, V et al. (<year>1998</year>). <article-title>Constitutive and antibody-induced internalization of prostate-specific
+membrane antigen</article-title>. <source>Cancer Res</source>
+<volume>58</volume>: <fpage>4055</fpage>&#x02013;4060.<pub-id pub-id-type="pmid">9751609</pub-id></mixed-citation></ref><ref id="bib21"><mixed-citation publication-type="journal">Kularatne, SA, Wang, K, Santhapuram, HK and Low, PS (<year>2009</year>). <article-title>Prostate-specific membrane antigen targeted imaging and therapy of prostate
+cancer using a PSMA inhibitor as a homing ligand</article-title>. <source>Mol Pharm</source>
+<volume>6</volume>: <fpage>780</fpage>&#x02013;789.<pub-id pub-id-type="pmid">19361233</pub-id></mixed-citation></ref><ref id="bib22"><mixed-citation publication-type="journal">Kularatne, SA, Venkatesh, C, Santhapuram, HK, Wang, K, Vaitilingam, B, Henne, WA et al. (<year>2010</year>). <article-title>Synthesis and biological analysis of prostate-specific membrane
+antigen-targeted anticancer prodrugs</article-title>. <source>J Med Chem</source>
+<volume>53</volume>: <fpage>7767</fpage>&#x02013;7777.<pub-id pub-id-type="pmid">20936874</pub-id></mixed-citation></ref><ref id="bib23"><mixed-citation publication-type="journal">Thomas, M, Kularatne, SA, Qi, L, Kleindl, P, Leamon, CP, Hansen, MJ et al. (<year>2009</year>). <article-title>Ligand-targeted delivery of small interfering RNAs to malignant cells and
+tissues</article-title>. <source>Ann N Y Acad Sci</source>
+<volume>1175</volume>: <fpage>32</fpage>&#x02013;39.<pub-id pub-id-type="pmid">19796075</pub-id></mixed-citation></ref><ref id="bib24"><mixed-citation publication-type="journal">Banerjee, SR, Foss, CA, Castanares, M, Mease, RC, Byun, Y, Fox, JJ et al. (<year>2008</year>). <article-title>Synthesis and evaluation of technetium-99m- and rhenium-labeled inhibitors
+of the prostate-specific membrane antigen (PSMA)</article-title>. <source>J Med Chem</source>
+<volume>51</volume>: <fpage>4504</fpage>&#x02013;4517.<pub-id pub-id-type="pmid">18637669</pub-id></mixed-citation></ref><ref id="bib25"><mixed-citation publication-type="journal">Maresca, KP, Hillier, SM, Femia, FJ, Keith, D, Barone, C, Joyal, JL et al. (<year>2009</year>). <article-title>A series of halogenated heterodimeric inhibitors of prostate specific
+membrane antigen (PSMA) as radiolabeled probes for targeting prostate
+cancer</article-title>. <source>J Med Chem</source>
+<volume>52</volume>: <fpage>347</fpage>&#x02013;357.<pub-id pub-id-type="pmid">19111054</pub-id></mixed-citation></ref><ref id="bib26"><mixed-citation publication-type="journal">McEnaney, PJ, Parker, CG, Zhang, AX and Spiegel, DA (<year>2012</year>). <article-title>Antibody-recruiting molecules: an emerging paradigm for engaging immune
+function in treating human disease</article-title>. <source>ACS Chem Biol</source>
+<volume>7</volume>: <fpage>1139</fpage>&#x02013;1151.<pub-id pub-id-type="pmid">22758917</pub-id></mixed-citation></ref><ref id="bib27"><mixed-citation publication-type="journal">Murelli, RP, Zhang, AX, Michel, J, Jorgensen, WL and Spiegel, DA (<year>2009</year>). <article-title>Chemical control over immune recognition: a class of antibody-recruiting
+small molecules that target prostate cancer</article-title>. <source>J Am Chem Soc</source>
+<volume>131</volume>: <fpage>17090</fpage>&#x02013;17092.<pub-id pub-id-type="pmid">19888723</pub-id></mixed-citation></ref><ref id="bib28"><mixed-citation publication-type="journal">Zhang, AX, Murelli, RP, Barinka, C, Michel, J, Cocleaza, A, Jorgensen, WL et al. (<year>2010</year>). <article-title>A remote arene-binding site on prostate specific membrane antigen revealed
+by antibody-recruiting small molecules</article-title>. <source>J Am Chem Soc</source>
+<volume>132</volume>: <fpage>12711</fpage>&#x02013;12716.<pub-id pub-id-type="pmid">20726553</pub-id></mixed-citation></ref><ref id="bib29"><mixed-citation publication-type="journal">He, W, Kularatne, SA, Kalli, KR, Prendergast, FG, Amato, RJ, Klee, GG et al. (<year>2008</year>). <article-title>Quantitation of circulating tumor cells in blood samples from ovarian and
+prostate cancer patients using tumor-specific fluorescent ligands</article-title>. <source>Int J Cancer</source>
+<volume>123</volume>: <fpage>1968</fpage>&#x02013;1973.<pub-id pub-id-type="pmid">18661519</pub-id></mixed-citation></ref><ref id="bib30"><mixed-citation publication-type="journal">Cheng, H, Snoek, R, Ghaidi, F, Cox, ME and Rennie, PS (<year>2006</year>). <article-title>Short hairpin RNA knockdown of the androgen receptor attenuates
+ligand-independent activation and delays tumor progression</article-title>. <source>Cancer Res</source>
+<volume>66</volume>: <fpage>10613</fpage>&#x02013;10620.<pub-id pub-id-type="pmid">17079486</pub-id></mixed-citation></ref><ref id="bib31"><mixed-citation publication-type="journal">Haupenthal, J, Baehr, C, Zeuzem, S and Piiper, A (<year>2007</year>). <article-title>RNAse A-like enzymes in serum inhibit the anti-neoplastic activity of siRNA
+targeting polo-like kinase 1</article-title>. <source>Int J Cancer</source>
+<volume>121</volume>: <fpage>206</fpage>&#x02013;210.<pub-id pub-id-type="pmid">17351902</pub-id></mixed-citation></ref><ref id="bib32"><mixed-citation publication-type="journal">Behlke, MA (<year>2008</year>). <article-title>Chemical modification of siRNAs for <italic>in vivo</italic> use</article-title>. <source>Oligonucleotides</source>
+<volume>18</volume>: <fpage>305</fpage>&#x02013;319.<pub-id pub-id-type="pmid">19025401</pub-id></mixed-citation></ref><ref id="bib33"><mixed-citation publication-type="journal">Belliveau, NM, Huft, J, Lin, PJ, Chen, S, Leung, AK, Leaver, TJ et al. (<year>2012</year>). <article-title>Microfluidic synthesis of highly potent limit-size lipid nanoparticles for
+<italic>in vivo</italic> delivery of siRNA</article-title>. <source>Mol Ther Nucleic Acids</source>
+<volume>1</volume>: <fpage>e37</fpage>.<pub-id pub-id-type="pmid">23344179</pub-id></mixed-citation></ref><ref id="bib34"><mixed-citation publication-type="journal">Yoshioka, H (<year>1991</year>). <article-title>Surface modification of haemoglobin-containing liposomes with polyethylene
+glycol prevents liposome aggregation in blood plasma</article-title>. <source>Biomaterials</source>
+<volume>12</volume>: <fpage>861</fpage>&#x02013;864.<pub-id pub-id-type="pmid">1764558</pub-id></mixed-citation></ref><ref id="bib35"><mixed-citation publication-type="journal">Chen, S, Tam, YYC,Lin, PJC,Sung, MMH, Tam, YK, Cullis, PRC (<year>2016</year>). <article-title>Influence of particle size on the in vivo potency of lipid nanoparticle
+formulations of siRNA.</article-title><source>J Control Release</source><volume>235</volume>:<fpage>236</fpage>&#x02013;244.<pub-id pub-id-type="pmid">27238441</pub-id></mixed-citation></ref><ref id="bib36"><mixed-citation publication-type="journal">Madani, H, Thompson, AS and Threadgill, MD (<year>2002</year>). <article-title>An expedient synthesis of 7-O-functionalised
+pyrrolo[2,1-c][1,4]benzodiazepine-5,11-diones</article-title>. <source>Tetrahedron</source>
+<volume>58</volume>: <fpage>8107</fpage>&#x02013;8111.</mixed-citation></ref><ref id="bib37"><mixed-citation publication-type="journal">Sonogashira, K (<year>2002</year>) <article-title>Development of Pd&#x02013;Cu catalyzed cross-coupling of terminal acetylenes
+with sp2-carbon halides</article-title>. <source>J Organometallic Chem</source>
+<volume>653</volume>:<fpage>46</fpage>&#x02013;49.</mixed-citation></ref><ref id="bib38"><mixed-citation publication-type="journal">Kaighn, ME, Narayan, KS, Ohnuki, Y, Lechner, JF and Jones, LW (<year>1979</year>). <article-title>Establishment and characterization of a human prostatic carcinoma cell line
+(PC-3)</article-title>. <source>Invest Urol</source>
+<volume>17</volume>: <fpage>16</fpage>&#x02013;23.<pub-id pub-id-type="pmid">447482</pub-id></mixed-citation></ref><ref id="bib39"><mixed-citation publication-type="journal">Chonn, A, Semple, SC and Cullis, PR (<year>1992</year>). <article-title>Association of blood proteins with large unilamellar liposomes in vivo.
+Relation to circulation lifetimes</article-title>. <source>J Biol Chem</source>
+<volume>267</volume>: <fpage>18759</fpage>&#x02013;18765.<pub-id pub-id-type="pmid">1527006</pub-id></mixed-citation></ref><ref id="bib40"><mixed-citation publication-type="journal">Park, YS, Maruyama, K and Huang, L (<year>1992</year>). <article-title>Some negatively charged phospholipid derivatives prolong the liposome
+circulation in vivo</article-title>. <source>Biochim Biophys Acta</source>
+<volume>1108</volume>: <fpage>257</fpage>&#x02013;260.<pub-id pub-id-type="pmid">1637850</pub-id></mixed-citation></ref><ref id="bib41"><mixed-citation publication-type="journal">Scholzen, T and Gerdes, J (<year>2000</year>). <article-title>The Ki-67 protein: from the known and the unknown</article-title>. <source>J Cell Physiol</source>
+<volume>182</volume>: <fpage>311</fpage>&#x02013;322.<pub-id pub-id-type="pmid">10653597</pub-id></mixed-citation></ref><ref id="bib42"><mixed-citation publication-type="journal">Kawano, K and Maitani, Y (<year>2011</year>). <article-title>Effects of polyethylene glycol spacer length and ligand density on folate
+receptor targeting of liposomal Doxorubicin <italic>in vitro</italic></article-title>. <source>J Drug Deliv</source>
+<volume>2011</volume>: <fpage>160967</fpage>.<pub-id pub-id-type="pmid">21490746</pub-id></mixed-citation></ref><ref id="bib43"><mixed-citation publication-type="journal">Reiter, RE, Gu, Z, Watabe, T, Thomas, G, Szigeti, K, Davis, E et al. (<year>1998</year>). <article-title>Prostate stem cell antigen: a cell surface marker overexpressed in prostate
+cancer</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>95</volume>: <fpage>1735</fpage>&#x02013;1740.<pub-id pub-id-type="pmid">9465086</pub-id></mixed-citation></ref><ref id="bib44"><mixed-citation publication-type="journal">Cabral, H, Matsumoto, Y, Mizuno, K, Chen, Q, Murakami, M, Kimura, M et al. (<year>2011</year>). <article-title>Accumulation of sub-100&#x02009;nm polymeric micelles in poorly permeable
+tumours depends on size</article-title>. <source>Nat Nanotechnol</source>
+<volume>6</volume>: <fpage>815</fpage>&#x02013;823.<pub-id pub-id-type="pmid">22020122</pub-id></mixed-citation></ref><ref id="bib45"><mixed-citation publication-type="journal">Nair, JK,Willoughby, JL,Chan, A,Charisse, K,Alam, MR,Wang, Qet al. (<year>2014</year>). <article-title>Multivalent N-acetylgalactosamine-conjugated siRNA localizes in hepatocytes
+and elicits robust RNAi-mediated gene silencing.</article-title><source>J Am Chem Soc</source><volume>136</volume>:<fpage>16958</fpage>&#x02013;16961.<pub-id pub-id-type="pmid">25434769</pub-id></mixed-citation></ref><ref id="bib46"><mixed-citation publication-type="journal">Maier, MA, Jayaraman, M, Matsuda, S, Liu, J, Barros, S, Querbes, W et al. (<year>2013</year>). <article-title>Biodegradable lipids enabling rapidly eliminated lipid nanoparticles for
+systemic delivery of RNAi therapeutics</article-title>. <source>Mol Ther</source>
+<volume>21</volume>: <fpage>1570</fpage>&#x02013;1578.<pub-id pub-id-type="pmid">23799535</pub-id></mixed-citation></ref><ref id="bib47"><mixed-citation publication-type="journal">Horoszewicz, JS, Leong, SS, Kawinski, E, Karr, JP, Rosenthal, H, Chu, TM et al. (<year>1983</year>). <article-title>LNCaP model of human prostatic carcinoma</article-title>. <source>Cancer Res</source>
+<volume>43</volume>: <fpage>1809</fpage>&#x02013;1818.<pub-id pub-id-type="pmid">6831420</pub-id></mixed-citation></ref><ref id="bib48"><mixed-citation publication-type="journal">Snoek, R, Cheng, H, Margiotti, K, Wafa, LA, Wong, CA, Wong, EC et al. (<year>2009</year>). <article-title><italic>In vivo</italic> knockdown of the androgen receptor results in growth
+inhibition and regression of well-established, castration-resistant prostate
+tumors</article-title>. <source>Clin Cancer Res</source>
+<volume>15</volume>: <fpage>39</fpage>&#x02013;47.<pub-id pub-id-type="pmid">19118031</pub-id></mixed-citation></ref></ref-list><sec sec-type="supplementary-material" id="sup1"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="xob1"><label>Supplementary Information</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mtna201643x1.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></back><floats-group><fig id="fig1"><label>Figure 1</label><caption><p><bold>Lipid nanoparticle (LNP) encapsulating AR21-siRNA results in enhanced AR
+knockdown <italic>in vitro</italic>.</bold> AR21-siRNA was composed of two
+complementary RNA strands: sense strand (AR-S)
+5&#x02032;-cuGGGAAAGucAAGcccAudTsdT-3&#x02032; and antisense strand (AR-AS):
+5&#x02032;-AUGGGCUUGACUUUCCcAGdTsdT-3&#x02032;. LNCaP cells were incubated with
+0.5, 1.0 or 5.0 &#x003bc;g/ml of LNP encapsulated with either AR25-siRNA or
+AR21-siRNA for 48 hours. Equal portions of protein samples were analyzed by
+immunoblotting to AR and &#x003b2;-actin, the latter serving as a loading
+control.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mtna201643f1"/></fig><fig id="fig2"><label>Figure 2</label><caption><p><bold>Systemic administration of lipid nanoparticle (LNP) containing 5 mol%
+PEG-DSG results in greater accumulation in LNCaP tumors compared to LNP
+containing 2.5 mol% PEG-DSG.</bold> (<bold>a</bold>) Mice were injected via the
+tail vein with fluorescently labeled LNP containing 5 or 2.5 mol% PEG-DSG
+(red) and were sacrificed 4 or 24 hours following the final i.v. injection.
+LNCaP tumors were harvested, cryo-sectioned, and analyzed under a confocal
+microscope. Representative images are shown. Nuclei were stained with
+Hoescht (blue). (<bold>b</bold>) Quantitation of uptake of fluorescent label into
+LNCaP tumor tissues was performed using ImageJ (<italic>n</italic> = 5) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://rsb.info.nih.gov/ij/">http://rsb.info.nih.gov/ij/</ext-link>); <italic>*P</italic> &#x0003c; 0.05;
+<italic>**P</italic> &#x0003c; 0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mtna201643f2"/></fig><fig id="fig3"><label>Figure 3</label><caption><p><bold>Reagents and conditions for synthesis of (Glu-urea-Lys)-PEG-DSG:</bold> (i)
+(PPh<sub>3</sub>)<sub>2</sub>PdCl<sub>2</sub>, CuI,
+triethylamine/acetonitrile, 80 &#x000b0;C, 3&#x02009;h, 95%; (ii) a.
+<italic>N,N,N',N'</italic>-Tetramethyl-<italic>O-</italic>(1<italic>H</italic>-benzotriazol-1-yl)uronium
+hexafluorophosphate (HBTU), <italic>N</italic>,<italic>N</italic>-diisopropylethylamine
+(DIEA)/dichloromethane (DCM), rt, overnight 93% and b. H<sub>2</sub>, Pd-C/
+methanol, rt, overnight, 92%; (iii) a.
+<italic>N,N'</italic>-disuccinimidyl carbonate (DSC), triethylamine, DCM, 0
+&#x000b0;C to room temperature, overnight and b. methyl 6-aminocaproate
+hydrochloride, pyridine/DCM, 0 &#x000b0;C to rt, overnight, 88%; (iv) a.
+LiOH, methanol/water/THF, 0 &#x000b0;C to rt, overnight, 96% and b.
+<italic>N-</italic>hydroxysuccinimide,
+<italic>N</italic>-(3-dimethylaminopropyl)-<italic>N'</italic>-ethylcarbodiimide
+hydrochloride (EDAC), 4-(dimethylamino)pyridine DMAP)/DCM, rt, overnight; (v) Triethylamine (TEA)/DCM, rt, overnight,
+66%; (vi) formic acid/DCM (2:1), rt, overnight, 91%; (vii) HBTU, DIEA / <italic>N,N</italic>-dimethylformamide (DMF), rt, overnight, 43%; (viii)
+neat formic acid, 48%.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mtna201643f3"/></fig><fig id="fig4"><label>Figure 4</label><caption><p><bold>Lipid nanoparticle (LNP) formulations containing (Glu-urea-Lys)-PEG-DSG
+enhances cellular uptake and inhibition of AR expression in AR-positive
+LNCaP cells <italic>in vitro</italic></bold>. (<bold>a</bold>) LNCaP cells were incubated
+for 24 hours with fluorescently labeled AR-targeting LNP at an siRNA
+concentration 5 &#x003bc;g/ml. Cellular uptake was quantified using Cellomics
+ArrayScan and is expressed as mean fluorescent intensity per cell.
+Approximately 400 cells were measured in four individual wells (<italic>n =</italic>
+4). 2-PMPA was added to compete with AR-dependent uptake. Statistical
+significance was determined for (Glu-urea-Lys)-LNP in comparison to all the
+other groups; **<italic>P</italic> &#x0003c; 0.01. (<bold>b</bold>) PC-3 (AR-negative) PCa
+cells were incubated with 5 &#x003bc;g/ml of fluorescently labeled
+(Glu-urea-Lys)-LNP for 24 hours. 2-PMPA was added as a competitor. Cellular
+uptake was quantified using Cellomics ArrayScan and expressed as mean
+fluorescent intensity per cell. Approximately 400 cells were measured in
+four individual wells (<italic>n =</italic> 4). Statistical significance was
+determined between non-targeted LNP versus PSMA-targeted (Glu-urea-Lys)-LNP
+groups. **<italic>P</italic> &#x0003c; 0.01. (<bold>c</bold>) LNCaP cells were incubated with
+1, 5, 10, or 15 &#x003bc;g/ml siRNA formulated as indicated for 48 hours. Levels
+of AR protein were analyzed by immunoblotting, with &#x003b2;-actin as the
+loading control.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mtna201643f4"/></fig><fig id="fig5"><label>Figure 5</label><caption><p><bold>PSMA-targeted (Glu-urea-Lys)-LNP and non-targeted LNP exhibit similar
+pharmacokinetics.</bold> PSMA-targeted (Glu-urea-Lys)-LNP and nontargeted
+lipid nanoparticle (LNP) were synthesized with trace amounts of
+[<sup>3</sup>H] CHE. The LNP formulations contained
+DMAP-BLP/DSPC/cholesterol/(Glu-urea-Lys)-PEG-DSG/PEG-DSG molar ratios of
+50/10/35/1/4 or 50/10/35/0/5 or DMAP-BLP/DSPC/cholesterol/PEG-DSG at molar
+ratios of 50/10/37.5/2.5. Mice treated by tail vein injection with
+1&#x02009;mg/kg siRNA formulated in PSMA-targeted (Glu-urea-Lys)-LNP or
+non-targeted LNP. Plots show percentage of the total injected dose remaining
+as a function of time. Each data point represents the mean &#x000b1; SD
+(<italic>n =</italic> 4). Circulation halftime (<italic>t</italic><sub>1/2</sub>) for
+nontargeted 2.5% PEG-DSG LNP, nontargeted 5% PEG-DSG LNP and
+(Glu-urea-Lys)-LNP was ~0.5, 8.7, and 11.6 hours, respectively. Area under
+the curve (AUC) for nontargeted 2.5% PEG-DSG LNP, nontargeted 5% PEG-DSG LNP
+and (Glu-urea-Lys)-LNP was
+309.18&#x02009;&#x000b1;&#x02009;35.22%&#x000b7;hours,
+1,066.57&#x02009;&#x000b1;&#x02009;57.21%&#x000b7;hours, and
+1,095.90&#x02009;&#x000b1;&#x02009;45.65%&#x000b7;hours, respectively.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mtna201643f5"/></fig><fig id="fig6"><label>Figure 6</label><caption><p><bold>Systemic administration of siRNA formulated in PSMA-targeted
+(Glu-urea-Lys)-lipid nanoparticle (LNP) lowers serum PSA levels and
+enhances AR gene silencing.</bold> Mice were treated via tail vein
+injection with PBS as a control or with the 5&#x02009;mg/kg of siRNA
+formulated in PSMA-targeted (Glu-urea-Lys)-LNP or nontargeted LNP.
+(<bold>a</bold>) Percentages of serum PSA levels are relative to PSA levels one
+day prior to treatment. Serum PSA levels were measured on days 7 and 14.
+(<bold>b</bold>) Quantitative real-time PCR was used to assess AR mRNA levels
+from tumor tissue on day 14. (<bold>c</bold>) Quantitative real-time PCR was used
+to assess PSA mRNA levels from tumor tissue on day 14. Data points are the
+means &#x000b1; SE (<italic>n =</italic> 6&#x02013;7); **<italic>P &#x0003c;</italic> 0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mtna201643f6"/></fig><fig id="fig7"><label>Figure 7</label><caption><p><bold>Systemic administration of PSMA-targeted (Glu-urea-Lys)-lipid nanoparticle
+decreases cellular proliferation but does not induce apoptosis in tumor
+cells.</bold> Tissues from the mice described in <bold>Figure 6</bold> were
+analyzed. (<bold>a</bold>) Representative images of Ki67 (cell proliferation
+marker) stained samples. (<bold>b</bold>) Quantitation of Ki67 stained tumor
+sections plotted as means &#x000b1; SD (<italic>n =</italic> 6); **<italic>P</italic>
+&#x0003c; 0.01. (<bold>c</bold>) Representative images of TUNEL (cell apoptosis marker)
+stained samples, with red circles highlighting stained cells. (<bold>d</bold>)
+Quantitation of TUNEL stained tumor sections plotted as the means &#x000b1;
+SD (<italic>n</italic> = 6). No significant difference was observed for
+TUNEL-stained tumor sections.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mtna201643f7"/></fig></floats-group></article>

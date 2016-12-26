@@ -29,7 +29,19 @@ extractor <- function(vec) {
 map(abstract_vec, )
 
 
-
+# abstract_vec <- vector()
+# for (i in seq_along(corpus)) {
+#    abstract <- getNodeSet(corpus[[1]]$content$doc$children$article, "//abstract")
+#    abstract_vec <- append(abstract_vec, xmlValue(abstract[[1]]))
+# }
+# 
+# article_vec <- vector()
+# for (i in seq_along(corpus)) {
+#     article <- corpus[[i]]$content$doc$children$article
+#     article_vec <- append(article_vec, xmlValue(article))
+# }
+# # # # str_extract_all(abstract_vec,regexp)
+# # # all <- str_extract_all(section_vec,regexp)
 
 
 

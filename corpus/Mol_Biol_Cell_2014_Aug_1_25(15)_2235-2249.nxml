@@ -1,0 +1,4559 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+article-type="research-article">
+
+
+
+
+
+
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Mol Biol Cell</journal-id>
+<journal-id journal-id-type="iso-abbrev">Mol. Biol. Cell</journal-id>
+<journal-id journal-id-type="hwp">molbiolcell</journal-id>
+<journal-id journal-id-type="pmc">mbc</journal-id>
+<journal-id journal-id-type="publisher-id">Mol. Bio. Cell</journal-id>
+<journal-title-group>
+<journal-title>Molecular Biology of the Cell</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1059-1524</issn>
+<issn pub-type="epub">1939-4586</issn>
+<publisher>
+<publisher-name>The American Society for Cell Biology</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="pmid">24870034</article-id><article-id pub-id-type="pmc">4116298</article-id><?properties open_access?>
+<article-id pub-id-type="publisher-id">E13-04-0216</article-id>
+<article-id pub-id-type="doi">10.1091/mbc.E13-04-0216</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Articles</subject>
+<subj-group>
+<subject>Cell Biology of Disease</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Genome-wide analysis of <italic>Saccharomyces cerevisiae</italic> identifies cellular
+processes affecting intracellular aggregation of Alzheimer's amyloid-&#x003b2;42: importance of
+lipid homeostasis</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Nair</surname>
+<given-names>S.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"><sup>a</sup></xref>
+<xref ref-type="fn" rid="FN1">*</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Traini</surname>
+<given-names>M.</given-names>
+</name>
+<xref ref-type="aff" rid="aff2"><sup>b</sup></xref>
+<xref ref-type="fn" rid="FN1">*</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Dawes</surname>
+<given-names>I. W.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"><sup>a</sup></xref>
+<xref ref-type="aff" rid="aff3"><sup>c</sup></xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Perrone</surname>
+<given-names>G. G.</given-names>
+</name>
+<xref ref-type="aff" rid="aff4"><sup>d</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>1</sup></xref>
+</contrib>
+<aff id="aff1"><sup>a</sup>School of Biotechnology and Biomolecular Sciences, University of New
+South Wales, Sydney, NSW 2052, Australia</aff>
+<aff id="aff3"><sup>c</sup>Ramaciotti Centre for Gene Function Analysis, University of New South
+Wales, Sydney, NSW 2052, Australia</aff>
+<aff id="aff2"><sup>b</sup>Atherosclerosis Laboratory, ANZAC Research Institute, Concord Hospital,
+Concord, NSW 2139, Australia</aff>
+<aff id="aff4"><sup>d</sup>School of Science and Health, University of Western Sydney, Penrith, NSW
+1797, Australia</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="editor">
+<name>
+<surname>Boone</surname>
+<given-names>Charles</given-names>
+</name>
+<role>Monitoring Editor</role>
+</contrib>
+<aff>University of Toronto</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><sup>1</sup>Address correspondence to: Gabriel G. Perrone
+(<email>g.perrone@uws.edu.au</email>).</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>01</day>
+<month>8</month>
+<year>2014</year>
+</pub-date>
+<volume>25</volume>
+<issue>15</issue>
+<fpage>2235</fpage>
+<lpage>2249</lpage>
+<history><date date-type="received">
+<day>26</day>
+<month>4</month>
+<year>2013</year>
+</date><date date-type="rev-recd">
+<day>20</day>
+<month>5</month>
+<year>2014</year>
+</date><date date-type="accepted">
+<day>20</day>
+<month>5</month>
+<year>2014</year>
+</date></history>
+<permissions>
+<copyright-statement>&#x000a9; 2014 Nair, Traini, <italic>et&#x000a0;al.</italic> This article is
+distributed by The American Society for Cell Biology under license from the author(s). Two months
+after publication it is available to the public under an
+Attribution&#x02013;Noncommercial&#x02013;Share Alike 3.0 Unported Creative Commons License
+(<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-sa/3.0"
+>http://creativecommons.org/licenses/by-nc-sa/3.0</ext-link>).</copyright-statement>
+<copyright-year>2014</copyright-year>
+<license license-type="creative-commons">
+<license-p>&#x0201c;ASCB&#x000ae;,&#x0201d; &#x0201c;The American Society for Cell
+Biology&#x000ae;,&#x0201d; and &#x0201c;Molecular Biology of the Cell&#x000ae;&#x0201d; are
+registered trademarks of The American Society of Cell Biology.</license-p>
+</license>
+</permissions>
+<self-uri xlink:title="pdf" xlink:type="simple" xlink:href="2235.pdf"/>
+<abstract abstract-type="precis">
+<p>Aggregation of intracellular amyloid-&#x003b2; (A&#x003b2;) is an early event in Alzheimer's
+disease. Here A&#x003b2;42 fused to GFP was expressed in each mutant of a <italic>Saccharomyces
+cerevisiae</italic> genome-wide deletion library to identify cellular processes affecting
+intracellular A&#x003b2;42 aggregation by assessing fluorescence of the A&#x003b2;42-GFP fusion.</p>
+</abstract>
+<abstract>
+<p>Amyloid-&#x003b2; (A&#x003b2;)&#x02013;containing plaques are a major neuropathological feature
+of Alzheimer's disease (AD). The two major isoforms of A&#x003b2; peptide associated with AD are
+A&#x003b2;40 and A&#x003b2;42, of which the latter is highly prone to aggregation. Increased
+presence and aggregation of intracellular A&#x003b2;42 peptides is an early event in AD progression.
+Improved understanding of cellular processes affecting A&#x003b2;42 aggregation may have
+implications for development of therapeutic strategies. A&#x003b2;42 fused to green fluorescent
+protein (A&#x003b2;42-GFP) was expressed in &#x0223c;4600 mutants of a <italic>Saccharomyces
+cerevisiae</italic> genome-wide deletion library to identify proteins and cellular processes
+affecting intracellular A&#x003b2;42 aggregation by assessing the fluorescence of A&#x003b2;42-GFP.
+This screening identified 110 mutants exhibiting intense A&#x003b2;42-GFP&#x02013;associated
+fluorescence. Four major cellular processes were overrepresented in the data set, including
+phospholipid homeostasis. Disruption of phosphatidylcholine, phosphatidylserine, and/or
+phosphatidylethanolamine metabolism had a major effect on intracellular A&#x003b2;42 aggregation and
+localization. Confocal microscopy indicated that A&#x003b2;42-GFP localization in the phospholipid
+mutants was juxtaposed to the nucleus, most likely associated with the endoplasmic reticulum (ER)/ER
+membrane. These data provide a genome-wide indication of cellular processes that affect
+intracellular A&#x003b2;42-GFP aggregation and may have important implications for understanding
+cellular mechanisms affecting intracellular A&#x003b2;42 aggregation and AD disease progression.</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>INTRODUCTION</title>
+<p>Amyloid-&#x003b2; (A&#x003b2;) plaques are a neuropathological feature of Alzheimer's disease
+(AD). These extracellular plaques are primarily composed of A&#x003b2; peptide aggregates generated
+via amyloidogenic processing of the amyloid precursor protein (APP). According to the amyloid
+cascade hypothesis, the A&#x003b2; peptide may play a role in AD pathology through oligomerization
+of the peptide. The oligomers may be directly neurotoxic or may mediate toxicity by induction of
+stress and hyperphosphorylation of protein tau, leading to tau aggregation into neurofibrillary
+tangles, cell loss, vascular damage, and dementia (<xref rid="B30" ref-type="bibr">Glenner and Wong,
+1984</xref>; <xref rid="B70" ref-type="bibr">Masters <italic>et&#x000a0;al</italic>., 1985</xref>;
+<xref rid="B85" ref-type="bibr">Selkoe, 1991</xref>; <xref rid="B38" ref-type="bibr">Hardy and
+Higgins, 1992</xref>). Protein tau is a microtubule-associated protein that influences assembly and
+stabilization of microtubules. The tau protein is the main component of neurofibrillary threads and
+tangles (NFTs), and there is evidence supporting a key role of tau in the pathophysiology of AD. It
+remains to be elucidated whether tau is a bystander of amyloid toxicity or a primary mediator
+neurodegeneration in AD. Two major A&#x003b2;-peptide isoforms, A&#x003b2;40 and A&#x003b2;42, are
+generated by the amyloidogenic processing of APP, of which the latter is more hydrophobic, highly
+prone to aggregation and fibril formation, and more neurotoxic (<xref rid="B45" ref-type="bibr"
+>Jarrett <italic>et&#x000a0;al</italic>., 1993</xref>). A&#x003b2;42 is the predominant form of
+A&#x003b2; found in neurons (<xref rid="B31" ref-type="bibr">Gouras <italic>et&#x000a0;al</italic>.,
+2000</xref>, <xref rid="B32" ref-type="bibr">2005</xref>) and in the extracellular plaques of AD
+brains (<xref rid="B107" ref-type="bibr">Younkin, 1998</xref>).</p>
+<p>It is not clear whether extracellular aggregates (e.g., plaques) of A&#x003b2; lead to a
+protective, inert, or pathogenic mechanism. However, soluble oligomeric forms of A&#x003b2;, rather
+than monomeric or fibrillar forms, are the most neurotoxic species (<xref rid="B32" ref-type="bibr"
+>Gouras <italic>et&#x000a0;al</italic>., 2005</xref>; <xref rid="B62" ref-type="bibr">Lesne and
+Kotilinek, 2005</xref>; <xref rid="B61" ref-type="bibr">Lesne <italic>et&#x000a0;al</italic>.,
+2006</xref>), and an increase of soluble oligomeric forms of A&#x003b2;42 may be an early event in
+AD progression (<xref rid="B32" ref-type="bibr">Gouras <italic>et&#x000a0;al</italic>.,
+2005</xref>). The role of intracellular A&#x003b2; has received increased attention (<xref rid="B35"
+ref-type="bibr">Haass and Selkoe, 2007</xref>; <xref rid="B58" ref-type="bibr">LaFerla
+<italic>et&#x000a0;al</italic>., 2007</xref>). A&#x003b2;42 was found in multivesicular bodies
+(MVBs) of neuronal cells, where it was implicated in synaptic pathology (<xref rid="B93"
+ref-type="bibr">Takahashi <italic>et&#x000a0;al</italic>., 2002</xref>). The peptide localizes to
+the outer membranes of MVBs (<xref rid="B93" ref-type="bibr">Takahashi
+<italic>et&#x000a0;al</italic>., 2002</xref>; <xref rid="B59" ref-type="bibr">Langui
+<italic>et&#x000a0;al</italic>., 2004</xref>) and is most often located in the perinuclear region
+(<xref rid="B59" ref-type="bibr">Langui <italic>et&#x000a0;al</italic>., 2004</xref>). A&#x003b2;
+accumulation also directly inhibits the proteasome (<xref rid="B80" ref-type="bibr">Oh
+<italic>et&#x000a0;al</italic>., 2005</xref>; <xref rid="B2" ref-type="bibr">Almeida
+<italic>et&#x000a0;al</italic>., 2006</xref>), indicating that soluble A&#x003b2; may be responsible
+for induction of toxicity, which may increase with impaired proteasomal function. Gradual
+accumulation of A&#x003b2; in mitochondria (<xref rid="B69" ref-type="bibr">Manczak
+<italic>et&#x000a0;al</italic>., 2006</xref>) has also been associated with diminished activity of
+electron transport chain complexes III and IV and reduced rates of oxygen utilization (<xref
+rid="B10" ref-type="bibr">Caspersen <italic>et&#x000a0;al</italic>., 2005</xref>). Intracellular
+accumulation of A&#x003b2; precedes extracellular plaque formation, and these findings support the
+view that it may be an early event in the progression of AD (<xref rid="B32" ref-type="bibr">Gouras
+<italic>et&#x000a0;al</italic>., 2005</xref>). The mechanism(s) contributing to the intracellular
+aggregation and localization of the A&#x003b2;42 peptide in patients remains unclear. Because
+preventing A&#x003b2; aggregation and/or low-order oligomerization has been proposed as a potential
+therapeutic method (<xref rid="B32" ref-type="bibr">Gouras <italic>et&#x000a0;al</italic>.,
+2005</xref>), improved understanding of cellular processes involved in A&#x003b2;42 aggregation may
+help understand AD disease progression and lead to development of therapeutic strategies.</p>
+<p>The budding yeast <italic>Saccharomyces cerevisiae</italic> is an important model organism for
+understanding many aspects of eukaryotic molecular biology. <italic>S. cerevisiae</italic> has been
+exploited to study proteins implicated in neurodegenerative disorders including Huntington's disease
+(<xref rid="B103" ref-type="bibr">Willingham <italic>et&#x000a0;al</italic>., 2003</xref>; <xref
+rid="B29" ref-type="bibr">Giorgini <italic>et&#x000a0;al</italic>., 2005</xref>) and Parkinson's
+disease (<xref rid="B109" ref-type="bibr">Zhang <italic>et&#x000a0;al</italic>., 1994</xref>; <xref
+rid="B81" ref-type="bibr">Outeiro and Lindquist, 2003</xref>; <xref rid="B20" ref-type="bibr">Flower
+<italic>et&#x000a0;al</italic>., 2005</xref>). Yeast model systems have been exploited to study
+toxicity, aggregation, and localization of A&#x003b2; or as facile systems for identification of
+compounds influencing A&#x003b2; oligomerization (<xref rid="B109" ref-type="bibr">Zhang
+<italic>et&#x000a0;al</italic>., 1994</xref>, <xref rid="B108" ref-type="bibr">1997</xref>; <xref
+rid="B56" ref-type="bibr">Komano <italic>et&#x000a0;al</italic>., 1998</xref>; <xref rid="B9"
+ref-type="bibr">Caine <italic>et&#x000a0;al</italic>., 2007</xref>; <xref rid="B66" ref-type="bibr"
+>Macreadie <italic>et&#x000a0;al</italic>., 2008</xref>; <xref rid="B104" ref-type="bibr">Winderickx
+<italic>et&#x000a0;al</italic>., 2008</xref>; <xref rid="B96" ref-type="bibr">Treusch
+<italic>et&#x000a0;al</italic>., 2011</xref>). As indicated, protein tau has also been strongly
+correlated with several neuropathies, including AD. Studies of wild-type human tau in yeast have
+shown that the model system recapitulates several key pathological features of tau, including tau
+hyperphosphorylation, attainment of pathological confirmations of tau, and tau aggregation (<xref
+rid="B99" ref-type="bibr">Vandebroek <italic>et&#x000a0;al</italic>., 2005</xref>, <xref rid="B98"
+ref-type="bibr">2006</xref>). Disruption of yeast Pho85p or Mds1p, which are orthologues of human
+glycogen synthase kinase-3B and cdk5, influences formation of pathological phosphoepitopes of tau in
+yeast and their binding affinity for microtubules (<xref rid="B98" ref-type="bibr">Vandebroek
+<italic>et&#x000a0;al</italic>., 2006</xref>). Furthermore, deletion of <italic>PHO85</italic>
+enhances phosphorylation of the S409 residue in wild-type tau but also in tau variants associated
+with frontotemporal dementia with parkinsonism (<xref rid="B100" ref-type="bibr">Vanhelmont
+<italic>et&#x000a0;al</italic>., 2010</xref>).</p>
+<p>Green fluorescent protein (GFP)-fusion protein folding has been exploited to study the kinetics
+of A&#x003b2; aggregation in <italic>Escherichia coli.</italic> An aggregation reporter assay based
+on fluorescence of a fusion between A&#x003b2;42 and GFP has been developed (<xref rid="B102"
+ref-type="bibr">Waldo <italic>et&#x000a0;al</italic>., 1999</xref>). Aggregation of the GFP-fusion
+protein before the folding of GFP quenches its fluorescence. Expression of wild-type A&#x003b2;42
+fused to GFP led to formation of insoluble aggregates in which GFP was inactive (<xref rid="B106"
+ref-type="bibr">Wurth <italic>et&#x000a0;al</italic>., 2002</xref>). Replacement of A&#x003b2;42 in
+the fusion protein with the less-aggregation-prone peptide A&#x003b2;40 led to increased
+GFP-associated fluorescence. This approach was exploited to identify variants of A&#x003b2;42 that
+affect aggregation of A&#x003b2; (<xref rid="B106" ref-type="bibr">Wurth
+<italic>et&#x000a0;al</italic>., 2002</xref>; <xref rid="B53" ref-type="bibr">Kim and Hecht,
+2005</xref>). Fluorescence intensity of A&#x003b2;-GFP fusions was inversely correlated with the
+aggregation propensity of the A&#x003b2; moiety, demonstrating the efficacy of using A&#x003b2;-GFP
+fusion-based approaches to identify factors affecting A&#x003b2; aggregation. Yeast cells expressing
+A&#x003b2; exhibited lower growth yield and a heat shock response, indicating that A&#x003b2;
+fusions cause stress in cells (<xref rid="B9" ref-type="bibr">Caine <italic>et&#x000a0;al</italic>.,
+2007</xref>). Yeast can therefore serve as a model system to screen for modifiers of intracellular
+A&#x003b2; aggregation, which has relevance in understanding the role of A&#x003b2; in the death of
+neuronal cells. Here we exploit an aggregation reporter assay by expressing A&#x003b2;42 fused to
+GFP (A&#x003b2;42-GFP) in each mutant of the <italic>S. cerevisiae</italic> genome-wide deletion
+library of nonessential genes (<xref rid="B105" ref-type="bibr">Winzeler
+<italic>et&#x000a0;al</italic>., 1999</xref>) to identify the cellular processes and metabolites
+that affect intracellular A&#x003b2;42 aggregation.</p>
+</sec>
+<sec sec-type="results">
+<title>RESULTS</title>
+<sec>
+<title>The A&#x003b2;42-GFP fusion protein expressed in wild-type <italic>S</italic>.
+<italic>cerevisiae</italic> is not fluorescent, and the less amyloidogenic A&#x003b2;42-GFP variants
+exhibit increased fluorescence</title>
+<p>In <italic>E. coli</italic>, the fluorescence intensity exhibited by A&#x003b2;-GFP fusions is
+inversely correlated with the aggregation propensity of the A&#x003b2; moiety (<xref rid="B106"
+ref-type="bibr">Wurth <italic>et&#x000a0;al</italic>., 2002</xref>; <xref rid="B53" ref-type="bibr"
+>Kim and Hecht, 2005</xref>). Mutation of A&#x003b2; residues 41 and 42 (I41E/A42P) generated a
+variant (A&#x003b2;EP-GFP) that was less aggregation prone and exhibited higher fluorescence than
+A&#x003b2;42-GFP or A&#x003b2;40-GFP (<xref rid="B106" ref-type="bibr">Wurth
+<italic>et&#x000a0;al</italic>., 2002</xref>). Before commencing genome-wide screening in <italic>S.
+cerevisiae</italic>, it was important to determine whether the correlations demonstrated in
+<italic>E</italic>. <italic>coli</italic> (<xref rid="B106" ref-type="bibr">Wurth
+<italic>et&#x000a0;al</italic>., 2002</xref>; <xref rid="B53" ref-type="bibr">Kim and Hecht,
+2005</xref>) between fluorescence and aggregation propensity of A&#x003b2;-GFP fusions could be
+recapitulated in <italic>S. cerevisiae</italic> cells.</p>
+<p>Wild-type A&#x003b2;42, A&#x003b2;40, or A&#x003b2;EP (A&#x003b2;-I41E/A42P) sequences fused to
+the <italic>N</italic>-terminus of GFP were expressed in the cytosol of wild-type <italic>S.
+cerevisiae</italic> cells. Microscopic analysis (<xref ref-type="fig" rid="F1">Figure 1A</xref>)
+indicated that the proportion of fluorescent cells and relative fluorescence intensity per cell
+decreased in the order A&#x003b2;EP-GFP &#x0003e; A&#x003b2;40-GFP &#x0003e; A&#x003b2;42-GFP, which
+inversely correlates with the aggregation propensity of the A&#x003b2; moiety of the fusion protein.
+In comparison to GFP expression, which yielded fluorescence in &#x0223c;85% of wild-type cells,
+expression of A&#x003b2;EP-GFP, A&#x003b2;40-GFP, and A&#x003b2;42-GFP led to fluorescence in
+&#x0223c;60, 50, and 5% of cells, respectively (<xref ref-type="fig" rid="F1">Figure 1C</xref>).
+Expression of A&#x003b2;EP-GFP led to diffuse fluorescence distributed throughout the cytosol,
+whereas expression of A&#x003b2;42-GFP was associated with trace levels of cytosolic fluorescence
+and the presence of one to three fluorescent puncta per cell. Relative to A&#x003b2;42-GFP,
+expression of A&#x003b2;40-GFP led to an increase in the cytosolic fluorescence intensity and one to
+three puncta per cell.</p>
+<fig id="F1" position="float">
+<label>FIGURE 1</label>
+<caption>
+<p>Fluorescence and corresponding light microscope images of wild-type cells expressing a GFP
+control vector, A&#x003b2;42-GFP, A&#x003b2;40-GFP, or A&#x003b2;EP-GFP. (A) Wild-type cells
+expressing GFP, A&#x003b2;42-GFP, A&#x003b2;40-GFP, or A&#x003b2;EP-GFP were induced in SC-galactose
+medium, and fluorescence was analyzed in exponential phase (OD<sub>600</sub> of 1.5). Bar, 5
+&#x003bc;m. (B) Western blot analysis (using 6E10 antibody) and quantification of relative band
+intensity of soluble (supernatant) and insoluble (pellet) cell extracts from wild-type cells
+expressing A&#x003b2;42-GFP, A&#x003b2;40-GFP, and A&#x003b2;EP-GFP grown to exponential phase
+(OD<sub>600</sub> of 1.5). A&#x003b2;-GFP bands, &#x0223c;31 kDa. (C) Proportion of fluorescent
+wild-type cells expressing A&#x003b2;42-GFP, A&#x003b2;40-GFP, A&#x003b2;EP-GFP, or GFP (correlating
+with A). Nine hundred cells were counted per sample, and data shown are averages of three
+independent experiments. *<italic>p</italic> &#x0003c; 0.01.</p>
+</caption>
+<graphic xlink:href="2235fig1"/>
+</fig>
+<p>To assess whether reduced fluorescence of A&#x003b2;42-GFP relative to A&#x003b2;40-GFP and
+A&#x003b2;EP-GFP was due to decreased levels of soluble (nonaggregated) A&#x003b2;-GFP, cells
+expressing each of the foregoing A&#x003b2;-GFP fusion constructs were grown to exponential phase in
+SC-galactose (inducing) medium and lysed, and soluble and insoluble proteins were fractionated by
+ultracentrifugation. A single band of approximately 31-kDa molecular mass reacting with an
+anti-A&#x003b2; antibody was detected in the insoluble pellet fraction for all strains (<xref
+ref-type="fig" rid="F1">Figure 1B</xref>), corresponding to the predicted size of the A&#x003b2;-GFP
+fusion protein. A band of identical molecular mass was also observed in the soluble supernatant
+fraction of cells expressing the A&#x003b2;40-GFP and A&#x003b2;EP-GFP fractions. In contrast, no
+band could be detected in the supernatant of cells expressing A&#x003b2;42-GFP. This result
+indicates that the very low levels of fluorescence in A&#x003b2;42-GFP cells were not due to lack of
+expression or complete proteolysis of the fusion protein. In addition, fusion protein levels in the
+soluble supernatant fraction were positively correlated with fluorescence, validating use of
+A&#x003b2;-GFP fluorescence as measure of the propensity of the fusion protein to form insoluble
+aggregates.</p>
+<p>It should also be noted that a significant difference in the level of A&#x003b2;42-GFP relative
+to A&#x003b2;40-GFP and A&#x003b2;EP-GFP was observed in the insoluble fraction. Because all the
+A&#x003b2;-GFP fusions used were expressed from otherwise identical plasmids/promoters, reduced
+levels of A&#x003b2;42-GFP in cells likely stemmed from increased degradation of the insoluble
+aggregates of A&#x003b2;42-GFP in cells relative to A&#x003b2;40-GFP and A&#x003b2;EP-GFP. This
+hypothesis is consistent with other findings in yeast using A&#x003b2; fused to fluorescent
+reporters (<xref rid="B36" ref-type="bibr">Hamada <italic>et&#x000a0;al</italic>., 2008</xref>;
+<xref rid="B77" ref-type="bibr">Morell <italic>et&#x000a0;al</italic>., 2011</xref>; <xref
+rid="B101" ref-type="bibr">Villar-Pique and Ventura, 2013</xref>). The length of the linker sequence
+between an aggregation-prone domain and GFP influences the degree to which aggregation or misfolding
+inhibits the appearance of fluorescence. Fusion proteins containing longer linker sequences or where
+the aggregation-prone region of a multidomain protein is distal to GFP may display robust
+fluorescence despite forming aggregates (<xref rid="B36" ref-type="bibr">Hamada
+<italic>et&#x000a0;al.</italic>, 2008</xref>). Indeed, <xref rid="B16" ref-type="bibr">D'Angelo
+<italic>et&#x000a0;al.</italic> (2013)</xref> introduced an expanded glycine-alanine linker into
+their A&#x003b2;-GFP expression construct specifically to ensure that A&#x003b2;-GFP fluorescence
+could be observed in the endoplasmic reticulum, after failing to detect a GFP signal from a shorter
+linker form. Because our aim was to create a screening platform for which fluorescence was only
+observed under conditions in which A&#x003b2; solubility is increased, we used a very short (four
+amino acids) linker region between the C-terminus of A&#x003b2; and the N-terminus of GFP.</p>
+<p>Expression of each of the respective A&#x003b2;-GFP fusions (and GFP alone) was not associated
+with any discernible change in growth rate of wild-type cells (unpublished data). These findings are
+consistent with previous findings in which amyloid was also expressed cytosolically. In yeast,
+cytosolic expression of wild-type A&#x003b2;42-GFP, as well as of a comprehensive set of A&#x003b2;
+peptide variants (fused to GFP), was not associated with any observable cytotoxicity (<xref
+rid="B77" ref-type="bibr">Morell <italic>et&#x000a0;al</italic>., 2011</xref>; <xref rid="B101"
+ref-type="bibr">Villar-Pique and Ventura, 2013</xref>). <xref rid="B9" ref-type="bibr">Caine
+<italic>et&#x000a0;al</italic>. (2007)</xref> reported a minor reduction (5%) in growth of yeast
+cells (at &#x0223c;10 h) expressing cytosolically localized A&#x003b2;42-GFP. In contrast,
+substantial toxicity was reported when A&#x003b2; was expressed in the endoplasmic reticulum (<xref
+rid="B96" ref-type="bibr">Treusch <italic>et&#x000a0;al</italic>., 2011</xref>; <xref rid="B16"
+ref-type="bibr">D'Angelo <italic>et&#x000a0;al.</italic>, 2013</xref>).</p>
+</sec>
+<sec>
+<title>A&#x003b2;42 seeds formation of punctate aggregates of A&#x003b2;40</title>
+<p>A&#x003b2; toxicity has been shown to correlate with the presence of fibrils or &#x003b2;-sheet
+structures (<xref rid="B43" ref-type="bibr">Howlett <italic>et&#x000a0;al</italic>., 1995</xref>;
+<xref rid="B90" ref-type="bibr">Simmons <italic>et&#x000a0;al</italic>., 1994</xref>; <xref
+rid="B84" ref-type="bibr">Seilheimer <italic>et&#x000a0;al</italic>., 1997</xref>). However, gaps
+remain in understanding the mechanisms by which A&#x003b2; aggregation mediates neuronal death.
+A&#x003b2; aggregation proceeds by a multistep, nucleation-dependent process (<xref rid="B46"
+ref-type="bibr">Jarrett and Lansbury, 1993</xref>). Formation of nucleation seeds is rate limiting,
+and in the absence of preformed seed fibrils, there is a significant lag period for the formation of
+A&#x003b2; fibrils, followed by a rapid fibril elongation phase once seed fibrils have been
+generated. The lag time for fibril formation can be dramatically shortened by adding preformed
+fibril seeds to A&#x003b2; monomer (<xref rid="B46" ref-type="bibr">Jarrett and Lansbury,
+1993</xref>). The rate of A&#x003b2; fibril formation is controlled by both fibril seed and monomer
+concentrations (<xref rid="B78" ref-type="bibr">Naiki and Nakakuki, 1996</xref>). To examine whether
+the more-aggregation-prone AB42-GFP affected fluorescence produced by the less-aggregation-prone
+AB40-GFP form, we undertook parallel expression in wild-type cells of A&#x003b2;42 plus
+A&#x003b2;40, A&#x003b2;42 plus A&#x003b2;EP, or A&#x003b2;40 plus A&#x003b2;EP.</p>
+<p>Coinduction of A&#x003b2;42-GFP and A&#x003b2;40-GFP gave rise to more fluorescent cells
+(&#x0223c;22%) than did expression of the A&#x003b2;42-GFP alone (5%) but significantly fewer than
+cells expressing A&#x003b2;40-GFP alone (&#x0223c;40%; <xref ref-type="fig" rid="F2">Figure
+2</xref>). Cells expressing both A&#x003b2;42-GFP and A&#x003b2;40-GFP exhibited trace cytosolic
+fluorescence, with intense large puncta, and in some cells there were elongated structures (<xref
+ref-type="fig" rid="F2">Figure 2</xref>). Coinduction of A&#x003b2;42-GFP and A&#x003b2;EP-GFP in
+wild-type cells also gave rise to more fluorescent cells (&#x0223c;28%; exhibiting cytosolic
+fluorescence with small, intense puncta) compared with those expressing A&#x003b2;42-GFP alone but
+significantly fewer than cells expressing A&#x003b2;EP-GFP alone (&#x0223c;70%). Coinduction of
+A&#x003b2;40-GFP and A&#x003b2;EP-GFP in wild-type cells gave rise to intense cytosolic fluorescent
+cells (&#x0223c;60%) comparable to wild-type cells expressing A&#x003b2;EP alone, and 30% of the
+fluorescent cells contained small puncta (<xref ref-type="fig" rid="F2">Figure 2</xref>). The
+increased presence of puncta and lower levels of cytosolic fluorescence in wild-type cells
+coexpressing either A&#x003b2;42-GFP and A&#x003b2;40-GFP or A&#x003b2;42-GFP and A&#x003b2;EP-GFP
+indicated that the more-aggregation-prone A&#x003b2;42-GFP can act as a seed for aggregation.
+Preformed A&#x003b2;42-GFP aggregates formed in the cytosol may therefore accelerate nucleation and
+act as seeds for further formation of intracellular aggregates and fibrils.</p>
+<fig id="F2" position="float">
+<label>FIGURE 2</label>
+<caption>
+<p>(A) Fluorescence microscope images of wild-type cells coexpressing A&#x003b2;42-GFP and
+A&#x003b2;40-GFP; A&#x003b2;42-GFP and A&#x003b2;EP-GFP; or A&#x003b2;40-GFP and A&#x003b2;EP-GFP.
+Wild-type cells expressing these constructs were induced in SC-galactose medium, and fluorescence
+was analyzed at OD<sub>600</sub> of 1.5. Bar, 5 &#x003bc;m. (B) Proportion of fluorescent wild-type
+cells expressing GFP, A&#x003b2;42-GFP, A&#x003b2;40-GFP, or A&#x003b2;EP-GFP. Nine hundred cells
+were counted per sample, and data shown are averages of three independent experiments.
+*<italic>p</italic> &#x0003c; 0.01.</p>
+</caption>
+<graphic xlink:href="2235fig2"/>
+</fig>
+<p>Together these data highlight the inverse correlation between the relative aggregation propensity
+of the A&#x003b2; moiety fused to GFP and the level of fluorescence intensity of the A&#x003b2;-GFP
+fusion protein in yeast cells.</p>
+</sec>
+<sec>
+<title>Cellular processes affecting A&#x003b2;42-GFP&#x02013;associated fluorescence</title>
+<p>To identify processes affecting intracellular A&#x003b2;42-GFP aggregation, individual homozygous
+diploid strains of the genome-wide <italic>S. cerevisiae</italic> deletion library (<xref rid="B105"
+ref-type="bibr">Winzeler <italic>et&#x000a0;al</italic>., 1999</xref>) were transformed with the
+A&#x003b2;42-GFP construct and screened using fluorescence microscopy to identify mutants exhibiting
+increased A&#x003b2;42-GFP&#x02013;associated fluorescence and/or altered localization relative to
+wild-type cells. Expression of the A&#x003b2;42-GFP fusion in each strain was induced by growth in
+SC galactose medium (&#x02013;Ura), and A&#x003b2;42-GFP&#x02013;associated fluorescence was
+analyzed 12&#x02013;18 h postinduction. Rescreening, in duplicate, of mutants that exhibited altered
+fluorescence during the primary screen led to identification of 344 mutants that exhibited
+fluorescence reproducibly different from that of the wild type. These mutants fell into two broad
+sets according to the intensity of fluorescence and/or percentage of fluorescent cells. The first
+set of 110 mutants contained those exhibiting strong fluorescence in &#x02265;15% of cells (<xref
+ref-type="table" rid="T1">Table 1</xref>). The other 234 mutants exhibited moderate to weak
+fluorescence in 5&#x02013;10% of cells (Supplemental Table S3). Of note, 50 of the 110 <italic>S.
+cerevisiae</italic> genes in <xref ref-type="table" rid="T1">Table 1</xref> have orthologues in
+humans.</p>
+<table-wrap id="T1" position="float">
+<label>TABLE 1:</label>
+<caption>
+<p><italic>S. cerevisiae</italic> genes whose deletion led to a strong increase in
+A&#x003b2;42-GFP&#x02013;associated fluorescence, together with the respective localization of
+fluorescence.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<thead valign="bottom">
+<tr>
+<th align="left" rowspan="1" colspan="1">Open reading frame/gene name</th>
+<th align="left" rowspan="1" colspan="1">A&#x003b2;42-GFP localization pattern</th>
+<th align="left" rowspan="1" colspan="1">Respiratory deficiency</th>
+<th align="left" rowspan="1" colspan="1">Human orthologue</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" colspan="4" rowspan="1">Chromatin remodeling/histone exchange</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>CHD1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">CHD2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>HIR1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">HIRA</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>HTA2</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">H2AFX</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SWC5</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">CFDP1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SWR1</italic></td>
+<td align="left" rowspan="1" colspan="1">Multiple puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>VPS71</italic></td>
+<td align="left" rowspan="1" colspan="1">Multiple small puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>VPS72</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with single large punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>YDL041W</italic></td>
+<td align="left" rowspan="1" colspan="1">Multiple small puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" colspan="4" rowspan="1">Lipid metabolism/transport</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>CHO2</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with one or two small puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>DET1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>INO2</italic></td>
+<td align="left" rowspan="1" colspan="1">ER-associated</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>INO4</italic></td>
+<td align="left" rowspan="1" colspan="1">Punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>IPK1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with single large punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>OPI3</italic></td>
+<td align="left" rowspan="1" colspan="1">ER-associated</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">PEMT</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>PDX3</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with punctate and nuclear</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">PNPO</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>PSD1</italic></td>
+<td align="left" rowspan="1" colspan="1">ER-associated</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">PISD</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SCS2</italic></td>
+<td align="left" rowspan="1" colspan="1">Single large punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">VAPA</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>UME6</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>YER119C-A</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" colspan="4" rowspan="1">Mitochondrial functions</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>ACO1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with one or two small puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">ACO2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>ACO</italic>2</td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>AIM4</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>ATP11</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with one or two puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">ATPAF1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>CBP3</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">UQCC</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>CIT1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with one or two small puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>CIT3</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with one or two small puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>COX16</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>COX20</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>CYM1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">PITRM1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>FUM1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">FH</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>HAP2</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">NFYA</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>HAP3</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">NFYB</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>IDH1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with small puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">IDH3B</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>IDH2</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with small puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">IDH3A</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>IDP1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with small puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">IDH1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>KGD1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">OGDH</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>KGD2</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">DLST</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>LPD1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">DLD</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>LSC1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">SUCLG1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>LSC2</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>MDH1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">MDH2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>MIC14</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>MRPL35</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">MRPL35</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>MRPL7</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with small puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>PET112</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">PET112L</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>PET117</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>PYC1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with small puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">PC</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>PYC2</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">PC</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>RIM1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>RRG8</italic></td>
+<td align="left" rowspan="1" colspan="1">Large punctate and nuclear-diffused</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>RSM18</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>RSM7</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SDH1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">SDHA</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SDH2</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">SDHB</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SDH4</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">SDHD</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>STF2</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with single large punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>TUF1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">TUFM</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>YDR230W</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" colspan="4" rowspan="1">Gene expression/regulation</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>CTK1</italic></td>
+<td align="left" rowspan="1" colspan="1">One or two small puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>DEG1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single large punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">PUS3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>ELC1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>GAT1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>GDT1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">TMEM165</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>HFI1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>LSM7</italic></td>
+<td align="left" rowspan="1" colspan="1">Multiple small puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">LSM7</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>MED1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with one or two small puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">MED1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>MOT2</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>NCL1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">NSUN2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SNT309</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with one or two small puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SRB8</italic></td>
+<td align="left" rowspan="1" colspan="1">One or two small puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">MED12L</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SSN2</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with single large punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">MED13L</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SSN3</italic></td>
+<td align="left" rowspan="1" colspan="1">Multiple small puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">CDK8</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SYC1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>TIF4631</italic></td>
+<td align="left" rowspan="1" colspan="1">Multiple small puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">EIF4G1</td>
+</tr>
+<tr>
+<td align="left" colspan="4" rowspan="1">Mitotic cell cycle</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>CTS1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>DCC1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">DSCC1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>POG1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SWI4</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" colspan="4" rowspan="1">Methionine metabolism</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>MET16</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>MET8</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>MXR1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">MSRA</td>
+</tr>
+<tr>
+<td align="left" colspan="4" rowspan="1">Purine metabolism</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>ADE12</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">ADSSL1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>ADK1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">AK2</td>
+</tr>
+<tr>
+<td align="left" colspan="4" rowspan="1">Spindle pole body</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>BFA1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>BIM1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">MAPRE1</td>
+</tr>
+<tr>
+<td align="left" colspan="4" rowspan="1">Ubiquitin/proteasome</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SAN1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SHP1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">NSFL1C</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>UBR1</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosol with large punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">UBR1</td>
+</tr>
+<tr>
+<td align="left" colspan="4" rowspan="1">Bud-site selection</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>BUD23</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with punctate</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">WBSCR22</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>BUD31</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1">BUD31</td>
+</tr>
+<tr>
+<td align="left" colspan="4" rowspan="1">MAP kinase activity</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>PBS2</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1">MAP2K4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SLG1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SOK1</italic></td>
+<td align="left" rowspan="1" colspan="1">Multiple small puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" colspan="4" rowspan="1">Others/unknown</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>APJ1</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>ASM4</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with large punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>EMI2</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with small puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>GTT3</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>ICE2</italic></td>
+<td align="left" rowspan="1" colspan="1">ER-associated</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>ICY2</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>PAU11</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>PHM6</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>RAD61</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>RIB1</italic></td>
+<td align="left" rowspan="1" colspan="1">Multiple puncta</td>
+<td align="left" rowspan="1" colspan="1">Yes</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>RKM4</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>SNX41</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic with one or two small puncta</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>YDL242W</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>YDR015C</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>YEL008W</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>YIM2</italic></td>
+<td align="left" rowspan="1" colspan="1">Cytosolic</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>YOR364W</italic></td>
+<td align="left" rowspan="1" colspan="1">Single small Punctate</td>
+<td align="left" rowspan="1" colspan="1">No</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<p>Because many <italic>S. cerevisiae</italic> genes have human orthologues, identification of these
+may help to identify cellular processes in humans that play a role in A&#x003b2;42 aggregation. Of
+the 110 <italic>S. cerevisiae</italic> genes in <xref ref-type="table" rid="T1">Table 1</xref>, 50
+have human orthologues identified using the National Center for Biotechnology Information database,
+HomoloGene. These genes may provide a point for more targeted studies in mammalian AD model
+systems.</p>
+<p>Five distinct A&#x003b2;42-GFP localization patterns were observed among the 110 mutants
+identified by the genome-wide screen (<xref ref-type="fig" rid="F3">Figure 3</xref>): single
+punctate (29%), multiple puncta (9%), cytosolic-diffuse (22%), distinct arc-shaped (5%), and a
+combination of punctate and cytosolic-diffuse fluorescence (35%). The percentages are based on the
+number of mutants in each group. An example of each of these localization patterns is given in <xref
+ref-type="fig" rid="F3">Figure 3</xref>.</p>
+<fig id="F3" position="float">
+<label>FIGURE 3</label>
+<caption>
+<p>Fluorescence microscope images of representative mutants exhibiting various A&#x003b2;42-GFP
+localization patterns. Strains expressing A&#x003b2;42EGFP were induced in SC-galactose medium, and
+A&#x003b2;42-GFP&#x02013;associated fluorescence was analyzed between 12 and 18 h postinduction
+(OD<sub>600</sub> of &#x0223c;1.5). The A&#x003b2;42-GFP&#x02013;associated localization patterns
+were classified as (A) fluorescent punctate, (B) multiple fluorescent puncta, (C) cytosolic-diffuse
+fluorescence, (D) arc-shaped perinuclear fluorescence, and (E) combination of puncta and cytosolic
+fluorescence. Arrows indicate the specific type of localization in each of the mutants. Bar, 5
+&#x003bc;m. (F) Graphic representation of cellular processes identified affecting
+A&#x003b2;42-GFP&#x02013;associated fluorescence in <italic>S</italic>. <italic>cerevisiae</italic>.
+Percentages reflect the number of mutants identified in a particular cellular process relative to
+the total number of mutants identified by the genome-wide screen.</p>
+</caption>
+<graphic xlink:href="2235fig3"/>
+</fig>
+<p>Functional categories overrepresented in the group of 110 genes indicated the main cellular
+processes likely to affect intracellular A&#x003b2;42 aggregation. Manual inspection of the list
+identified processes including phospholipid metabolism, mitochondrial function, and chromatin
+remodeling. In addition, histone exchange (<italic>p</italic> = 2.12 &#x000d7;
+10<sup>&#x02212;5</sup>), DNA-dependent transcription (<italic>p</italic> = 0.0009), chromatin
+remodeling (<italic>p</italic> = 0.009) and modification (<italic>p</italic> = 0.001), and
+tricarboxylic acid (TCA) cycle (<italic>p</italic> &#x0003e; 1 &#x000d7; 10<sup>&#x02212;14</sup>)
+functions were significantly overrepresented using SGD FunCat GO Term Finder. Analysis using Munich
+Information Centre for Protein Sequences (MIPS) FunCatDB yielded a very similar set of functional
+categories but also identified phosphatidylcholine (PC) biosynthesis/phospholipid metabolism
+(<italic>p</italic> = 0.001), regulation of lipid, fatty acid, and isoprenoid metabolism
+(<italic>p</italic> = 0.008), sulfate assimilation (<italic>p</italic> = 0.007), and transcriptional
+control (<italic>p</italic> = 0.0005) to be overrepresented (<xref ref-type="fig" rid="F3">Figure
+3</xref>).</p>
+<p>Of the 110 mutants identified in the genome-wide screen, 35% (39 mutants from 110) were annotated
+in the <italic>Saccharomyces</italic> Genome Database as exhibiting disrupted mitochondrial
+respiratory function. Analysis of process ontology identified acetyl-CoA catabolism and enzymes of
+the TCA cycle, including isocitrate dehydrogenase (Idp1p), &#x003b1;-ketoglutarate dehydrogenase
+(Kgd2p), succinate dehydrogenase (Sdh4p), aconitase (Aco1p), and fumarase (Fum1p) to be
+significantly overrepresented (<italic>p</italic> = 7.71 &#x000d7; 10<sup>&#x02212;22</sup>).
+Fluorescent A&#x003b2;42-GFP in TCA cycle mutants was cytosolic-diffuse, or cytosolic-diffuse with
+single to multiple small puncta (<xref ref-type="fig" rid="F4">Figure 4</xref>), which did not
+appear to occur in a distinct structure in the cell. Mitochondrial mutants that had strongly
+affected A&#x003b2;42-GFP&#x02013;associated fluorescence were mainly defective in metabolism of
+pyruvate to oxaloacetate and disruption of the TCA cycle. It was previously demonstrated that 341
+nuclear genes affect respiratory growth capacity and/or mitochondrial morphology, including numerous
+genes encoding subunits of the mitochondrial electron transport chain complexes and factors required
+for their assembly, enzymes of the TCA cycle, mitochondrial ribosome function and maintenance, and
+inheritance of the mitochondrial genome (<xref rid="B15" ref-type="bibr">Dimmer
+<italic>et&#x000a0;al</italic>., 2002</xref>). In the event that some mutants may have been missed
+in the initial screen, a comprehensive rescreening of representative mutants affected in
+mitochondrial functions was undertaken and A&#x003b2;42-GFP&#x02013;associated fluorescence
+reassessed in each strain. These analyses not only validated the 39 mitochondrial mutants identified
+in the initial screen as having strongly affected A&#x003b2;42-GFP&#x02013;associated fluorescence,
+but they also confirmed that loss of many other genes involved in mitochondrial functions, including
+respiratory energy production, mitochondrial ribosome function, and mitochondrial genome
+maintenance, did not affect A&#x003b2;42-GFP fluorescence in the same manner. Of those &#x0223c;30
+non-TCA cycle mutants that were affected in A&#x003b2;42-GFP fluorescence, the effect was
+comparatively weak in terms of fluorescence intensity and the proportion of affected cells in a
+given population (Supplemental Table S3).</p>
+<fig id="F4" position="float">
+<label>FIGURE 4</label>
+<caption>
+<p>Fluorescence microscope images of mutants expressing A&#x003b2;42-GFP induced in galactose
+medium, and analysis of A&#x003b2;42-GFP&#x02013;associated fluorescence (OD<sub>600</sub> of
+&#x0223c;1.5). (A) <italic>&#x00394;aco1</italic>, (B) <italic>&#x00394;fum1</italic>, (C)
+<italic>&#x00394;idp1</italic>, (D) <italic>&#x00394;kgd2</italic>, and (E)
+<italic>&#x00394;sdh4</italic> predominantly exhibit cytosolic-diffuse
+A&#x003b2;42-GFP&#x02013;associated fluorescence, with some mutants exhibiting fluorescent puncta.
+Phospholipid mutants (F) <italic>&#x00394;opi3</italic>, (G) <italic>&#x00394;psd1</italic>, (H)
+<italic>&#x00394;cho2</italic>, and (I) <italic>&#x00394;ino2</italic>. A&#x003b2;42-GFP-associated
+fluorescence in wild-type cells overexpressing (J) <italic>INM1</italic> cytosolic diffuse, (K)
+<italic>INM2</italic> cytosolic diffuse, or (L) <italic>CDS1</italic> exhibiting perinuclear
+A&#x003b2;42-GFP localization. Arrows point to a distinct localization pattern. Bar, 5
+&#x003bc;m</p>
+</caption>
+<graphic xlink:href="2235fig4"/>
+</fig>
+<p>The mitochondrial genome (mtDNA) of <italic>S. cerevisiae</italic> encodes eight proteins that
+are essential for oxidative phosphorylation (<xref rid="B97" ref-type="bibr">Tzagoloff and
+Dieckmann, 1990</xref>), and deletion of mtDNA leads to respiratory incompetence due to disruption
+of the mitochondrial electron transport chain. <italic>S. cerevisiae</italic> is a facultative
+aerobe, and respiratory-incompetent cells can grow on carbon sources such as glucose or galactose.
+To further examine whether the disruption of respiratory function per se affected A&#x003b2;42-GFP
+fluorescence, we grew rho-zero (rho<sup>0</sup>) cells lacking mtDNA derived from wild-type (BY4743)
+<italic>S. cerevisiae</italic> in SC galactose (inducing) medium and analyzed the effect on
+A&#x003b2;42-GFP. Respiratory-incompetent rho<sup>0</sup> cells yielded similar trace levels of
+A&#x003b2;42-GFP fluorescence (&#x0223c;5%), comparable to wild-type grande cells, indicating that
+loss of respiratory function per se does not affect A&#x003b2;42-GFP&#x02013;associated
+fluorescence.</p>
+<p>Many mutants affected in mitochondrial function, including those affected in operation of the TCA
+cycle, exhibit a reduced growth rate (<xref rid="B26" ref-type="bibr">Giaever
+<italic>et&#x000a0;al</italic>., 2002</xref>; <xref rid="B72" ref-type="bibr">McCammon
+<italic>et&#x000a0;al</italic>., 2003</xref>), and this may have indirectly influenced
+A&#x003b2;42-GFP fluorescence in the present screen. However, this explanation is unlikely, since
+there was complete lack of correlation between the genes identified in the present study and
+&#x0223c;720 yeast genes whose deletion was previously shown to cause slow growth (<xref rid="B26"
+ref-type="bibr">Giaever <italic>et&#x000a0;al</italic>., 2002</xref>; <xref rid="B40"
+ref-type="bibr">Hillenmeyer <italic>et&#x000a0;al</italic>., 2008</xref>), and, more broadly, the
+&#x0223c;340 genes identified previously that are involved in mitochondrial morphology and/or
+respiration. Mitochondrial dysfunction in rho<sup>0</sup> cells has been shown to promote increased
+Gal4-dependent transcription (<xref rid="B47" ref-type="bibr">Jelicic
+<italic>et&#x000a0;al</italic>., 2005</xref>). Loss of mitochondrial function was not a primary
+cause of increased A&#x003b2;42-GFP fluorescence in the mitochondrial mutants, since rho<sup>0</sup>
+cells exhibited the same A&#x003b2;42-GFP fluorescence as the wild-type parent. These data support
+the hypothesis that loss of distinct mitochondrial functions, including those involved in TCA cycle
+function, metabolism of pyruvate to oxaloacetate, and cytochrome <italic>c</italic> oxidase
+activity, leads to increased A&#x003b2;42-GFP&#x02013;associated fluorescence and thus influences
+A&#x003b2; aggregation.</p>
+<p>Disruption of genes involved in the TCA cycle leads to altered expression of &#x0223c;400 genes,
+including decreased expression of genes involved in glucose uptake (<italic>HXT7, HXT6</italic>),
+glycolysis (<italic>PFK26, FBP26</italic>), and glycogen/trehalose production (<italic>GDB1, GPH1,
+GSY1, TPS1, TSL1</italic>), and, conversely, induction of genes involved in inositol or
+phosphatidylcholine biosynthesis biosynthesis (<italic>INO1</italic>, <italic>OPI3</italic>; <xref
+rid="B72" ref-type="bibr">McCammon <italic>et&#x000a0;al</italic>., 2003</xref>). Induction of
+<italic>INO1</italic> and <italic>OPI3</italic> does not occur in rho<sup>0</sup> cells (<xref
+rid="B19" ref-type="bibr">Epstein <italic>et&#x000a0;al</italic>., 2001</xref>; <xref rid="B95"
+ref-type="bibr">Traven et a1., 2001</xref>). This raised the possibility that increased inositol
+synthesis may lead to increased A&#x003b2;42-GFP fluorescence. To examine this hypothesis more
+directly, we assessed the effect on A&#x003b2;42-GFP fluorescence in wild-type BG1805 cells grown to
+exponential phase (SC galactose &#x02013;URA&#x02013;HIS) of overexpressing genes encoding Ino1p
+(inositol-3-phosphate synthetase) or Inm1p or Inm2p (inositol monophosphatase), which perform
+subsequent steps in inositol biosynthesis. Strikingly, overexpression of either
+<italic>INM1</italic> or <italic>INM2</italic> led to intense diffuse fluorescence in &#x0223c;18%
+of cells compared with the empty vector control and cells overexpressing <italic>INO1</italic>, in
+which only trace fluorescence was observed (<xref ref-type="fig" rid="F4">Figure 4</xref>). Although
+these data do not establish a direct causal link between increased A&#x003b2;42-GFP fluorescence in
+mutants disrupted in TCA function and altered inositol synthesis, it is worth noting that both
+situations led to the appearance of intense diffuse A&#x003b2;42-GFP fluorescence in cells. The
+broader implications of these data are addressed further in the <italic>Discussion</italic>.</p>
+</sec>
+<sec>
+<title>Phospholipid homeostasis plays an important role in intracellular aggregation of
+A&#x003b2;42-GFP</title>
+<p>Of the A&#x003b2;42-GFP localization patterns identified, the arc-shaped fluorescence
+localization in mutants affected in phospholipid homeostasis was distinctive, and these mutants were
+selected for further investigation. Five deletion mutants expressing A&#x003b2;42-GFP exhibited
+structured arc-shaped A&#x003b2;42-GFP fluorescence (<xref ref-type="fig" rid="F4">Figure 4</xref>).
+Of the five genes involved, three encode consecutive steps in the conversion of phosphatidylserine
+to phosphatidylcholine (phosphatidylserine decarboxylase, <italic>PSD1</italic>; and
+phosphatidylethanolamine methyltransferases, <italic>CHO2</italic> and <italic>OPI3</italic>) and
+two (<italic>INO2</italic> and <italic>INO4</italic>) encode a heterodimeric transcriptional
+regulator of phospholipid and inositol biosynthesis (<xref rid="B3" ref-type="bibr">Ambroziak and
+Henry, 1994</xref>). From <xref ref-type="fig" rid="F5">Figure 5</xref>, A&#x003b2;42-GFP or
+A&#x003b2;40-GFP were localized in a perinuclear location in the &#x00394;<italic>opi3</italic>
+mutant. These data indicate that the perinuclear localization of A&#x003b2;42-GFP and
+A&#x003b2;40-GFP did not depend on the last two residues of the A&#x003b2; moiety in the former.
+High-resolution confocal microscopy indicated that in &#x00394;<italic>opi3</italic> cells the
+perinuclear fluorescence consisted of numerous intense puncta localized around the nucleus (<xref
+ref-type="fig" rid="F5">Figure 5</xref>). The elongated cell morphology observed with the
+&#x00394;<italic>opi3</italic> mutant was not due to induction of A&#x003b2;GFP fusion proteins,
+since it was also observed in otherwise genetically identical cells expressing the empty vector
+control (pUG35GAL1; see Supplemental Figure S1).</p>
+<fig id="F5" position="float">
+<label>FIGURE 5</label>
+<caption>
+<p>A&#x003b2;-GFP localization in the &#x00394;<italic>opi3</italic> mutant. (A)
+<italic>&#x00394;opi3</italic> cells expressing A&#x003b2;42-GFP or A&#x003b2;40-GFP (green) were
+grown in galactose medium, and fluorescence was analyzed. Cells were costained with DAPI (blue) to
+visualize the nucleus, indicating the perinuclear localization of A&#x003b2;42-GFP or
+A&#x003b2;40-GFP in &#x00394;<italic>opi3</italic> cells. (B) Confocal microscopic image of a
+<italic>&#x00394;opi3</italic> cell expressing A&#x003b2;42-GFP (green) stained with DAPI (blue).
+Bar, 5 &#x003bc;m. (C) Western blot analysis, using the 6E10 antibody, of subcellular fractions of
+the ER and mitochondria from wild-type and <italic>&#x00394;opi3</italic> cells expressing
+A&#x003b2;42-GFP. A&#x003b2;42-GFP band, &#x0223c;31 kDa. Antibodies against Por1p and Wbp1p were
+used as controls to validate lack of cross-contamination between mitochondria and ER fractions,
+respectively. Dotted lines delineate individual lanes on gels.</p>
+</caption>
+<graphic xlink:href="2235fig5"/>
+</fig>
+<p>To investigate more precisely the localization of the fluorescent A&#x003b2;42-GFP in the
+&#x00394;<italic>opi3</italic> cells, wild-type and &#x00394;<italic>opi3</italic> cells expressing
+the A&#x003b2;42-GFP fusion construct were grown to exponential phase, and subcellular fractionation
+of endoplasmic reticulum (ER) and mitochondria was performed. A&#x003b2;42-GFP was detected via
+Western blot using the 6E10 antibody. In wild-type cells, a &#x0223c;31-kDa A&#x003b2;42-GFP band
+was mainly observed in the mitochondrial fraction, with a very faint band also visible in the ER
+fraction (<xref ref-type="fig" rid="F5">Figure 5</xref>). In contrast,
+&#x00394;<italic>opi3</italic> cells expressing A&#x003b2;42-GFP exhibited intense &#x0223c;31-kDa
+bands corresponding to A&#x003b2;42-GFP in both the ER and mitochondrial fractions. The
+A&#x003b2;42-GFP identified in the mitochondrial fraction by cell fractionation and immunoblotting
+was therefore nonfluorescent aggregated A&#x003b2;42-GFP, since A&#x003b2;42-GFP&#x02013;associated
+fluorescence was not observed in the mitochondria in whole cells via microscopic analysis. Owing to
+the appearance of an intense band of A&#x003b2;42-GFP in the mitochondrial fraction in both the wild
+type and the &#x00394;<italic>opi3</italic> mutant, the possibility that aggregated A&#x003b2;42-GFP
+may have simply cosedimented with the mitochondrial fraction cannot be ruled out. Taken together
+with the data from Western blotting, which would detect both fluorescent and aggregated
+nonfluorescent A&#x003b2;42-GFP, these data support the proposal that fluorescent A&#x003b2;42-GFP
+in &#x00394;<italic>opi3</italic> cells may be localized to the ER/ER membrane. Because
+nonaggregated/soluble A&#x003b2;-GFP correlated with fluorescence intensity (<xref ref-type="fig"
+rid="F1">Figure 1</xref>), these data also support the proposal that it was the soluble form of
+A&#x003b2;42-GFP that had interacted with the ER/ER membrane. These data strongly implicate
+phospholipid metabolism/homeostasis as an effector of A&#x003b2;42 aggregation. Given the role of
+phospholipids as structural components of cell membranes, disruption of phospholipid
+homeostasis&#x02014;for example, as in &#x00394;<italic>opi3</italic> cells, influences the
+interaction of &#x0201c;soluble&#x0201d; A&#x003b2;42 (and probably A&#x003b2;40) with the ER
+membrane, influencing A&#x003b2; aggregation. These data are of particular interest, given the
+localization of many steps of phospholipid synthesis to the ER.</p>
+<p>An alternative route of PC synthesis, via the Kennedy salvage pathway, depends on the
+availability of precursor molecules, including ethanolamine (EA), monomethylethanolamine,
+dimethylethanolamine (DMEA), or choline (<xref rid="B91" ref-type="bibr">Summers
+<italic>et&#x000a0;al</italic>., 1988</xref>; <xref rid="B73" ref-type="bibr">McGraw and Henry,
+1989</xref>). Because the growth medium used in mutant screening did not contain any of these
+substrates, it is likely that the membranes of &#x00394;<italic>psd1</italic>,
+&#x00394;<italic>opi3</italic> mutants were depleted in PC and/or additional phospholipids and that
+this was associated with altered A&#x003b2;42-GFP&#x02013;associated fluorescence. To test this,
+&#x00394;<italic>opi3</italic> cells expressing A&#x003b2;42-GFP or GFP alone were cultured in media
+supplemented with 1 mM EA, DMEA, or choline. Media supplementation with 1 mM DMEA or choline (<xref
+ref-type="fig" rid="F6">Figure 6</xref>) resulted in reversal to a wild-type phenotype (<xref
+ref-type="fig" rid="F6">Figures 6</xref> and <xref ref-type="fig" rid="F1">1</xref>) for
+&#x00394;<italic>opi3</italic> cells, with a comparable level of fluorescence to the wild-type
+strain. In contrast, treatment of &#x00394;<italic>opi3</italic> cells with EA did not lead to
+altered fluorescence relative to untreated cells. This is consistent with the capacity of Opi3p to
+methylate either phosphatidyldimethylethanolamine or phosphatidylmonomethylethanolamine but not
+phosphatidylethanolamine, leading to PC formation. Treatment of cells expressing GFP alone in a
+comparable manner did not lead to any difference in fluorescence. The perinuclear localization of
+A&#x003b2;42-GFP fluorescence in &#x00394;<italic>opi3</italic> cells therefore appears to be
+related to their capacity to maintain PC homeostasis.</p>
+<fig id="F6" position="float">
+<label>FIGURE 6</label>
+<caption>
+<p>Fluorescence microscopic images of <italic>&#x00394;opi3</italic> cells expressing GFP or
+A&#x003b2;42-GFP grown in galactose (induction) medium either lacking or supplemented with 1 mM
+ethanolamine (EA), dimethylethanolamine (DMEA), or choline. Cells were analyzed for fluorescence in
+exponential phase (OD<sub>600</sub> of &#x0223c;1.5). Bar, 5 &#x003bc;m.</p>
+</caption>
+<graphic xlink:href="2235fig6"/>
+</fig>
+</sec>
+<sec>
+<title>Overexpression of <italic>CDS1</italic>, encoding cytidine diphosphate&#x02013;diacylglycerol
+synthase, alters A&#x003b2;42-GFP&#x02013;associated fluorescence</title>
+<p>To obtain further insight into the link between altered phospholipid homeostasis and
+A&#x003b2;42-GFP fluorescence, we assessed the effect of overexpressing genes involved in
+phospholipid metabolism on A&#x003b2;42-GFP. Wild-type cells were transformed with the plasmids
+carrying one of each of numerous genes involved in lipid metabolism (listed in Supplemental Table
+S4) and the cells examined to identify those exhibiting increased
+A&#x003b2;42-GFP&#x02013;associated fluorescence and/or altered fluorescence morphology. Cells with
+the plasmids that encode proteins involved in lipid synthesis/regulation were cotransformed with the
+pA&#x003b2;42-GFP construct in corresponding deletion mutant strains, as well as in wild-type cells.
+Expression of the A&#x003b2;42-GFP fusion protein and the lipid-related gene in each strain was
+induced by growth in galactose medium, and A&#x003b2;42-GFP&#x02013;associated fluorescence was
+analyzed 12&#x02013;18 h postinduction.</p>
+<p>Cells overexpressing <italic>CDS1</italic> exhibited ordered localization of intensely
+fluorescent puncta of A&#x003b2;42-GFP in a perinuclear arrangement analogous to that seen in the
+&#x00394;<italic>psd1</italic>, &#x00394;<italic>cho2</italic>, and &#x00394;<italic>opi3</italic>
+mutants (<xref ref-type="fig" rid="F4">Figure 4</xref>). <italic>CDS1</italic> encodes CDP-DAG
+synthase, which catalyzes CDP-DAG&#x02013;dependent synthesis of phospholipids from phosphatidic
+acid (<xref rid="B42" ref-type="bibr">Homann <italic>et&#x000a0;al</italic>., 1985</xref>). These
+data further support that A&#x003b2;42-GFP aggregation is strongly influenced by altered
+phospholipid homeostasis in <italic>S. cerevisiae</italic> cells.</p>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>DISCUSSION</title>
+<p>The finding that fluorescence of an A&#x003b2;-GFP fusion protein is inversely proportional to
+its propensity to aggregate in <italic>E. coli</italic> (<xref rid="B53" ref-type="bibr">Kim and
+Hecht, 2005</xref>, <xref rid="B54" ref-type="bibr">2008</xref>) provides an elegant and adaptable
+approach for exploring the intracellular properties of A&#x003b2;. The present study demonstrates
+that when expressed in the cytosol of the yeast <italic>S. cerevisiae</italic>, the inverse
+relationship between A&#x003b2;-GFP fluorescence and aggregation potential is preserved. This system
+forms the foundation of a genetically tractable eukaryotic platform for identifying processes that
+affect intracellular A&#x003b2; aggregation, an important feature in the pathology of Alzheimer's
+disease. We transformed an A&#x003b2;42-GFP expression plasmid into the entire <italic>S.
+cerevisiae</italic> genome deletion mutant collection and examined individual mutants for changes in
+A&#x003b2;42-GFP fluorescence. Conversely, we also overexpressed a targeted panel of genes in
+wild-type cells expressing A&#x003b2;42-GFP and examined the effect on fluorescence.</p>
+<p>This approach identified 110 deletion mutants exhibiting strong
+A&#x003b2;42-GFP&#x02013;associated fluorescence and 234 deletion mutants that exhibited weak
+fluorescence. After clustering mutants into broad functional categories, three emerged as being
+significantly overrepresented: mitochondrial function, phospholipid metabolism, and
+transcriptional/translational regulation. Overexpression of the genes <italic>CDS1</italic>,
+<italic>INM1</italic>, and <italic>INM2</italic> significantly increased fluorescence in
+A&#x003b2;42-GFP&#x02013;expressing wild-type cells, additionally implicating inositol biosynthesis
+as a fourth functional class.</p>
+<p>These functional categories parallel some of those affected in Alzheimer's disease patients, and
+several genes identified in our screen have human homologues that have been found to be directly
+related to A&#x003b2; and Alzheimer's pathology. Mutants affected in mitochondrial function and
+tricarboxylic acid cycle function exhibited the highest changes in fluorescence identified in the
+screen (both intensity and proportion of cells), mirroring the long association of mitochondrial
+dysfunction with Alzheimer's pathology (<xref rid="B14" ref-type="bibr">de Leon
+<italic>et&#x000a0;al</italic>., 1983</xref>; <xref rid="B4" ref-type="bibr">Atamna and Frey,
+2007</xref>). Human homologues of the yeast TCA cycle screen hits &#x003b1;-ketoglutarate
+dehydrogenase (<italic>KGD2</italic>) and isocitrate dehydrogenase (<italic>IDP1</italic>) show
+reduced activity in AD patient brains, with the extent of reduction correlating closely with
+decreased mental performance (<xref rid="B28" ref-type="bibr">Gibson
+<italic>et&#x000a0;al</italic>., 2000</xref>, <xref rid="B27" ref-type="bibr">2005</xref>; <xref
+rid="B57" ref-type="bibr">Ko <italic>et&#x000a0;al</italic>., 2001</xref>; <xref rid="B8"
+ref-type="bibr">Bubber <italic>et&#x000a0;al</italic>., 2005</xref>; <xref rid="B11" ref-type="bibr"
+>Chaturvedi and Beal, 2013</xref>). Decreased activity of &#x003b1;-ketoglutarate dehydrogenase
+leads to sensitivity to oxidative damage, which is strongly associated with AD (<xref rid="B88"
+ref-type="bibr">Shi <italic>et&#x000a0;al</italic>., 2011</xref>). Given that rho<sup>0</sup>
+respiratory-deficient cells and a range of other mitochondrial mutants displayed wild-type
+A&#x003b2;42-GFP fluorescence, altered A&#x003b2; aggregation appears to be specifically linked to
+TCA cycle and oxaloacetate-to-pyruvate defects.</p>
+<p>One potential explanation for this may relate to inositol metabolism. In yeast, disruption of TCA
+function increases expression of inositol-3-phosphate synthase (encoded by <italic>INO1</italic>), a
+key enzyme in inositol synthesis (<xref rid="B72" ref-type="bibr">McCammon
+<italic>et&#x000a0;al</italic>., 2003</xref>). We demonstrated that overexpression of either of the
+<italic>myo</italic>-inositol biosynthetic genes <italic>INM1</italic> or <italic>INM2</italic> led
+to the appearance of similar intense, diffuse A&#x003b2;42-GFP fluorescence as observed in the TCA
+cycle mutants, suggesting a link between inositol metabolism, the TCA cycle, and A&#x003b2;
+aggregation. In human brain, <italic>myo</italic>-inositol is the most abundant stereoisomer (<xref
+rid="B39" ref-type="bibr">Haris <italic>et&#x000a0;al</italic>., 2011</xref>) and forms small stable
+micelles with the A&#x003b2; peptide (<xref rid="B75" ref-type="bibr">McLaurin
+<italic>et&#x000a0;al</italic>., 1998</xref>). Amyloid fibril formation is inhibited by
+<italic>myo</italic>-inositol (<xref rid="B24" ref-type="bibr">Gellermann
+<italic>et&#x000a0;al</italic>., 2007</xref>), and complexation of A&#x003b2; with inositol protects
+neuronal cultures from A&#x003b2; toxicity (<xref rid="B76" ref-type="bibr">McLaurin
+<italic>et&#x000a0;al</italic>., 2000</xref>). Similarly, the <italic>scyllo</italic>-inositol
+stereoisomer inhibits amyloid formation (<xref rid="B63" ref-type="bibr">Li
+<italic>et&#x000a0;al</italic>., 2012</xref>; <xref rid="B71" ref-type="bibr">Ma
+<italic>et&#x000a0;al</italic>., 2012</xref>), and treatment of animal AD models with
+<italic>scyllo</italic>-inositol reduces plaque formation and improves memory performance and
+hippocampal synaptic plasticity (<xref rid="B74" ref-type="bibr">McLaurin
+<italic>et&#x000a0;al</italic>., 2006</xref>; <xref rid="B5" ref-type="bibr">Aytan
+<italic>et&#x000a0;al</italic>., 2013</xref>). Of note, the activity of the human
+<italic>myo</italic>-inositol monophosphatase homologue of the yeast
+<italic>INM1</italic>/<italic>INM2</italic> genes identified in this study is raised in the brains
+of AD patients, possibly reflecting a compensatory change to altered phospholipid metabolism (<xref
+rid="B87" ref-type="bibr">Shimohama <italic>et&#x000a0;al</italic>., 1998</xref>). Furthermore,
+<italic>scyllo</italic>-inositol was previously identified as an inhibitor of A&#x003b2;
+oligomerization in yeast (<xref rid="B82" ref-type="bibr">Park <italic>et&#x000a0;al</italic>.,
+2011</xref>). Our results, together with those previously reported, suggest that inositol metabolism
+modulates the aggregation of the A&#x003b2; peptide and offer a potential link to the increased
+A&#x003b2;42-GFP fluorescence observed in TCA cycle mutants. Increased inositol levels resulting in
+formation of soluble inositol/A&#x003b2;42-GFP micelles and inhibition of A&#x003b2;42-GFP
+oligomerization offers a potential mechanistic explanation for the significant fluorescence observed
+in <italic>INM1</italic>/<italic>INM2</italic>-overexpressing cells.</p>
+<p>In addition to alteration of inositol production, TCA cycle dysfunction would also affect
+NAD<sup>+</sup>/NADH homeostasis. NAD<sup>+</sup> availability may modulate sirtuin-2 activity,
+leading to altered A&#x003b2; deposition, tubulin deacetylation, and potentiation of tau
+hyperphosphorylation (<xref rid="B89" ref-type="bibr">Silva <italic>et&#x000a0;al</italic>.,
+2011</xref>). Given the role of sirtuins in chromatin remodeling, it is interesting to note that our
+screen identified numerous mutants affected in similar functions, particularly those affecting the
+Swr1 chromatin remodeling complex, suggesting the existence of a potential link between A&#x003b2;
+aggregation, TCA metabolite levels, and chromatin dynamics.</p>
+<p>Several mutants affecting phospholipid synthesis exhibited increased A&#x003b2;42-GFP
+fluorescence in our screen. There is strong evidence of perturbed phospholipid metabolism in AD
+patients (<xref rid="B44" ref-type="bibr">Hung <italic>et&#x000a0;al</italic>., 2008</xref>; <xref
+rid="B22" ref-type="bibr">Frisardi <italic>et&#x000a0;al</italic>., 2011</xref>; <xref rid="B34"
+ref-type="bibr">Grimm <italic>et&#x000a0;al</italic>., 2011</xref>). Phosphatidylcholine levels are
+reduced in cortical membranes (<xref rid="B79" ref-type="bibr">Nitsch
+<italic>et&#x000a0;al</italic>., 1992</xref>) and erythrocytes (<xref rid="B86" ref-type="bibr"
+>Selley, 2007</xref>) of AD patients, and studies of the global brain and plasma lipidomes in mouse
+AD models revealed changes in several sterol, sphingolipid, and phospholipid species, each occurring
+at specific stages of AD progression (<xref rid="B92" ref-type="bibr">Tajima
+<italic>et&#x000a0;al.</italic>, 2013</xref>). Deletion mutants identified in our screen related to
+phospholipid metabolism included enzymes involved in the de novo synthesis of phosphatidylcholine
+from phosphatidylserine and phosphatidylethanolamine (PE; <italic>PSD1</italic>,
+<italic>CHO2</italic> and <italic>OPI3</italic>; <xref rid="B55" ref-type="bibr">Kodaki and
+Yamashita, 1987</xref>; <xref rid="B91" ref-type="bibr">Summers <italic>et&#x000a0;al</italic>.,
+1988</xref>; <xref rid="B73" ref-type="bibr">McGraw and Henry, 1989</xref>) and both members of a
+heterodimeric transcription complex positively regulating the transcription of a large family of
+phospholipid biosynthetic genes (including <italic>OPI3</italic>; <xref rid="B65" ref-type="bibr"
+>Loewy and Henry, 1984</xref>; <xref rid="B41" ref-type="bibr">Hirsch and Henry, 1986</xref>; <xref
+rid="B6" ref-type="bibr">Bailis <italic>et&#x000a0;al</italic>., 1987</xref>; <xref rid="B48"
+ref-type="bibr">Jesch <italic>et&#x000a0;al</italic>., 2005</xref>).</p>
+<p>Defects in these PC biosynthetic pathways lead to accumulation of PC precursors, such as PE and
+phosphatidylmonomethylethanolamine and altered membrane composition (<xref rid="B52" ref-type="bibr"
+>Kennedy and Weiss, 1956</xref>). Supplementation with choline or dimethylethanolamine restores
+normal synthesis of PC via the Kennedy salvage pathway (<xref rid="B52" ref-type="bibr">Kennedy and
+Weiss, 1956</xref>; <xref rid="B73" ref-type="bibr">McGraw and Henry, 1989</xref>) and, in this
+study, significantly reduced A&#x003b2;42-GFP fluorescence in &#x00394;<italic>opi3</italic> cells.
+Of interest, mutations in <italic>PEMT</italic>, the human homologue of yeast <italic>OPI3</italic>,
+are associated with increased risk of developing AD (<xref rid="B7" ref-type="bibr">Bi
+<italic>et&#x000a0;al.</italic>, 2011</xref>). <italic>SCS2</italic> encodes a key ER regulator of
+inositol and phospholipid metabolism (<xref rid="B33" ref-type="bibr">Greenberg
+<italic>et&#x000a0;al</italic>., 1982</xref>; <xref rid="B49" ref-type="bibr">Kagiwada
+<italic>et&#x000a0;al</italic>., 1998</xref>; <xref rid="B23" ref-type="bibr">Gavin
+<italic>et&#x000a0;al</italic>., 2002</xref>; <xref rid="B64" ref-type="bibr">Loewen
+<italic>et&#x000a0;al</italic>., 2003</xref>), with &#x00394;<italic>scs2</italic> mutants
+accumulating 10% more PC than wild-type cells (<xref rid="B50" ref-type="bibr">Kagiwada and Zen,
+2003</xref>). Thus, the intense A&#x003b2;42-GFP fluorescence in &#x00394;<italic>scs2</italic>
+mutants indicates that PC depletion alone is unlikely to be the underlying cause of altered
+A&#x003b2;42-GFP fluorescence in &#x00394;<italic>opi3</italic> and &#x00394;<italic>cho2</italic>
+cells. We demonstrated that overexpression of CDP-diacylglycerol synthase (<italic>CDS1</italic>),
+responsible for synthesis of the global phospholipid precursor CDP-diacylglycerol, also resulted in
+increased A&#x003b2;42-GFP fluorescence. Together these results indicate overall perturbation of
+normal phospholipid homeostasis and membrane composition rather than changes in a single lipid
+species as being an important regulator of A&#x003b2; aggregation.</p>
+<p>A&#x003b2;40/42 peptides may be absorbed onto phospholipid membranes (<xref rid="B94"
+ref-type="bibr">Terzi <italic>et&#x000a0;al</italic>., 1997</xref>; <xref rid="B51" ref-type="bibr"
+>Kanfer <italic>et&#x000a0;al</italic>., 1999</xref>; <xref rid="B17" ref-type="bibr">Ege and Lee,
+2004</xref>; <xref rid="B18" ref-type="bibr">Ege <italic>et&#x000a0;al</italic>., 2005</xref>), and
+there is strong evidence that lipid composition modulates the association, dissociation, and
+aggregation of A&#x003b2; on membranes (<xref rid="B67" ref-type="bibr">Maltseva and Brezesinski,
+2004</xref>; <xref rid="B68" ref-type="bibr">Maltseva <italic>et&#x000a0;al</italic>., 2005</xref>;
+<xref rid="B12" ref-type="bibr">Chi <italic>et&#x000a0;al</italic>, 2008</xref>; <xref rid="B37"
+ref-type="bibr">Hane <italic>et&#x000a0;al.</italic>, 2011</xref>; <xref rid="B60" ref-type="bibr"
+>Lemkul and Bevan, 2011</xref>). The influence of membrane composition on A&#x003b2; dynamics
+suggests a mechanism for the changes in A&#x003b2;42-GFP fluorescence observed in
+<italic>&#x00394;ino2</italic>, <italic>&#x00394;ino4</italic>, <italic>&#x00394;psd1</italic>,
+<italic>&#x00394;opi3</italic>, and <italic>&#x00394;cho2</italic> mutants and
+<italic>CDS1</italic>-overexpressing cells. In these strains, disrupted lipid homeostasis alters
+normal membrane composition, including incorporation of intermediates of phospholipid biosynthetic
+pathways. A&#x003b2;42-GFP interaction with these membranes may be altered, favoring reduced
+aggregation of A&#x003b2; and increased fluorescence. The distinctive perinuclear ER
+membrane&#x02013;like localization of A&#x003b2;42-GFP fluorescence in these strains indicates that
+such compositional changes are localized to specific organelles or subcellular regions. A detailed
+subcellular lipidomic analysis of organelle-specific membranes may provide data to further test this
+hypothesis, allowing in vitro measurement of A&#x003b2; aggregation on synthetic membranes, with
+compositions matched to those of the mutants.</p>
+<p>This study identifies specific genes and broader functional classes that influence the
+aggregation of an A&#x003b2;42-GFP fusion protein in the cytosol of yeast, complementing recent
+screens focusing on intracellular A&#x003b2; toxicity (<xref rid="B96" ref-type="bibr">Treusch
+<italic>et&#x000a0;al</italic>., 2011</xref>; <xref rid="B16" ref-type="bibr">D'Angelo
+<italic>et&#x000a0;al.</italic>, 2013</xref>. We found that deletion of <italic>PBS2</italic>,
+encoding a mitogen-activated protein (MAP) kinase of the high osmolarity glycerol (HOG) pathway,
+resulted in the appearance of a single intense, punctate fluorescent A&#x003b2;42-GFP structure in
+cells, and <xref rid="B96" ref-type="bibr">Treusch <italic>et&#x000a0;al</italic>. (2011)</xref>
+determined that overexpression of <italic>PBS2</italic> enhanced toxicity of A&#x003b2; expressed in
+the yeast endoplasmic reticulum and that expression of the human <italic>PBS2</italic> homologue,
+MAP2K4, in a <italic>Caenorhabditis elegans</italic> neuronal model resulted in enhanced cell death.
+These complementary results together suggest that altered intracellular A&#x003b2; aggregation may
+contribute to A&#x003b2;-induced cell toxicity in which signaling in the HOG pathway is compromised.
+The high concordance of functional classes identified in our screen with those affected in animal AD
+models and AD patients, particularly related to the TCA cycle, inositol metabolism, and phospholipid
+homeostasis, hints at the involvement of novel modulators of intracellular A&#x003b2; aggregation in
+the development of the disease in humans.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>MATERIALS AND METHODS</title>
+<sec>
+<title>Strains and culture conditions</title>
+<p><italic>S. cerevisiae</italic> homozygous diploid deletants for all nonessential genes were
+obtained from the European <italic>Saccharomyces cerevisiae</italic> Archive for Functional Analysis
+(<xref rid="B105" ref-type="bibr">Winzeler <italic>et&#x000a0;al</italic>., 1999</xref>). These
+deletants were produced in the BY4743 diploid strain background
+(<italic>MAT</italic><bold>a</bold><italic>/MAT&#x003b1; his3&#x00394;1/his3&#x00394;1
+leu2&#x00394;0/leu2&#x00394;0 met15&#x00394;0/MET15 LYS2/lys2&#x00394;0
+ura3&#x00394;0/ura3&#x00394;0</italic>), which was used as the wild-type reference strain. Standard
+yeast growth media and techniques were used throughout this study. Yeast strains were grown in YEPD
+medium (2% [wt/vol] glucose, 2% [wt/vol] peptone, 1% yeast extract) or synthetic defined complete
+medium (SC; 2% [wt/vol] glucose, 0.17% yeast nitrogen base without amino acids [Becton Dickinson,
+Franklin Lakes, NJ], 5% [wt/vol] ammonium sulfate [Sigma, St. Louis, MO]) supplemented with
+appropriate amino acids and bases as indicated in Supplemental Table S1. Expression of genes under
+the control of the <italic>GAL1</italic> promoter was induced by growth in induction medium
+(SC-galactose; SC medium with 2% [wt/vol] galactose instead of glucose). Where required,
+filter-sterilized phospholipid precursors were added to SC or induction media at 1 mM final
+concentration. Respiratory-incompetent (rho<sup>0</sup>) cells, lacking mitochondrial DNA, were
+generated by ethidium bromide treatment of the wild-type strain (<xref rid="B21" ref-type="bibr">Fox
+<italic>et&#x000a0;al</italic>., 1991</xref>), identified by their inability to grow on YEPG medium
+and confirmed by a lack of mitochondrial DNA, visualized using 4,6-diamidino-2-phenylindole
+dihydrochloride (DAPI [Sigma]). At least five independent rho<sup>0</sup> cells generated were
+examined for each experiment. Unless otherwise stated, all other reagents were purchased from
+Sigma.</p>
+</sec>
+<sec>
+<title>Plasmid construction</title>
+<p>A derivative of the pUG35GFP fusion vector (<ext-link ext-link-type="uri"
+xlink:href="http://mips.gsf.de/proj/yeast/info/tools/hege"
+>http://mips.gsf.de/proj/yeast/info/tools/hegemann/gfp.html</ext-link>) containing the
+<italic>GAL1</italic> promoter was created by excising the <italic>MET25</italic> promoter from
+pUG35 by digestion with <italic>Sac</italic>I and <italic>Xba</italic>I. The <italic>GAL1</italic>
+promoter was amplified from a pESC-URA template (Stratagene), using primers ESC-URA-F and ESC-URA-R
+(Supplemental Table S2) containing <italic>Sac</italic>I and <italic>Xba</italic>I restriction
+sites, respectively. The fragment containing <italic>GAL1</italic> was ligated into pUG35 to produce
+pUG35GAL1. To generate A&#x003b2;-GFP fusion constructs for the deletion library screen,
+A&#x003b2;42 coding sequence was amplified using pAS1N.A&#x003b2;GFP plasmid DNA (<xref rid="B9"
+ref-type="bibr">Caine <italic>et&#x000a0;al</italic>., 2007</xref>) as a template. The
+<italic>C</italic>-terminus of A&#x003b2;42 was fused to the N-terminus of GFP (including a
+four&#x02013;amino acid linker) by amplifying the A&#x003b2;42 coding sequence, using primers
+ABETA-F and ABETA-R containing <italic>Bam</italic>HI and <italic>Sal</italic>I sites, respectively.
+After digestion with these enzymes, the A&#x003b2;42 fragment was ligated into pUG35GAL1 to produce
+plasmid pA&#x003b2;42-GFP. Similarly, GFP fusions of the C-terminally truncated A&#x003b2;40-GFP and
+a mutant form of A&#x003b2;42 (with amino acid substitutions I41E and A42P) were created by
+amplification using ABETA-F with ABETA-40-R and ABETA-EP-R primers, respectively, to yield
+pA&#x003b2;42-GFP and pA&#x003b2;EP-GFP. To generate A&#x003b2;-GFP fusion constructs for the
+overexpression screen, the respective PCR fragments were used for the BP reaction of the Gateway
+system (Invitrogen, San Diego, CA) with the destination vector pDonr221. The resulting plasmids,
+pDonr221-A&#x003b2;42-GFP/pDonr221-A&#x003b2;40-GFP/pDonr221-A&#x003b2;EP-GFP/pDonr221-EGFP, were
+used for the LR reaction using the destination vector pAG415GAL-ccdB and pAG416GAL-ccdB (<xref
+rid="B1" ref-type="bibr">Alberti <italic>et&#x000a0;al</italic>., 2007</xref>). Plasmids were
+maintained and amplified in <italic>E. coli</italic> DH5-&#x003b1; cells. For gene overexpression
+experiments, high-copy galactose-inducible plasmids of the Yeast ORF Collection containing
+<italic>S. cerevisiae</italic> open reading frames in the BG1805 plasmid background were used (<xref
+rid="B25" ref-type="bibr">Gelperin <italic>et&#x000a0;al</italic>., 2005</xref>; Thermo
+Scientific).</p>
+</sec>
+<sec>
+<title>Protein extraction, SDS&#x02013;PAGE, and Western blot analysis</title>
+<p>Yeast cultures (50 ml) were grown to OD<sub>600</sub> of 1.5 in induction medium (SC-galactose)
+lacking uracil at 30&#x000b0;C. Cells were harvested, washed with water, and lysed by shaking with
+glass beads in ice-cold lysis buffer (0.1 mM Tris-HCl, pH 8.0) supplemented with protease inhibitors
+(Complete; Roche). Intact cells and large debris were removed by centrifugation at 2000 rpm for 5
+min at 4&#x000b0;C. Supernatant from this step was subject to ultracentrifugation at 100,000
+&#x000d7; <italic>g</italic> for 1 h at 4&#x000b0;C to yield a supernatant fraction containing
+soluble proteins and an insoluble pellet. The pellet was solubilized by agitation in 2% SDS at
+100&#x000b0;C. Total protein concentration for both supernatant and pellet fractions was determined
+by BCA Protein Assay (Pierce Biotechnology, Rockford, IL), which was used to normalize protein
+loading onto 4&#x02013;12% gradient SDS&#x02013;PAGE gels (20 &#x003bc;g/lane for supernatant
+fractions, 5 &#x003bc;g/lane for pellet fractions). Proteins were electroblotted onto nitrocellulose
+membranes for Western blotting and probed with mouse anti-A&#x003b2; (6E10; Covance, Sydney,
+Australia) antibodies overnight at 1:1000 dilution. Immunodetection was performed using horseradish
+peroxidase&#x02013;conjugated anti-mouse secondary antibodies (Jackson ImmunoResearch, West Grove,
+PA), chemiluminescence reagents (Bio-Rad, Sydney, Australia), and ChemiDoc MP charge-coupled device
+imaging system (Bio-Rad). Analysis and quantitation of Western blot images was performed using
+ImageJ, version 1.38 (National Institutes of Health, Bethesda, MD).</p>
+</sec>
+<sec>
+<title>High-throughput transformation of the <italic>S</italic>. <italic>cerevisiae</italic> genome
+knockout collection</title>
+<p>Microtiter plates containing strains from the <italic>S</italic>. <italic>cerevisiae</italic>
+genome-wide deletion collection were replicated into 96-well plates containing 160 &#x003bc;l of
+YEPD medium/well and incubated at 30&#x000b0;C with shaking for 1 d. Cells were pelleted and
+resuspended in 20 &#x003bc;l of sterile MilliQ water before the addition of 160 &#x003bc;l of
+transformation mix/well (40% [wt/vol] PEG-3350, 100 mM lithium acetate, 1 mM EDTA, 10 mM Tris-HCl,
+pH 7.5, 20 ng/ml single-stranded herring sperm DNA, and 5 &#x003bc;g/well pA&#x003b2;42-GFP plasmid
+DNA). Plates were incubated at 30&#x000b0;C overnight, followed by heat shock at 42&#x000b0;C for 30
+min. Cells were pelleted, resuspended in 150 &#x003bc;l of SC medium (lacking uracil for selection
+of the pA&#x003b2;42-GFP plasmid), and incubated at 30&#x000b0;C with shaking for 2 d. Further
+selection was performed by replicating cells into fresh 96-well plates (containing 150
+&#x003bc;l/well of uracil-free SC media) and growing for 1 d. Strains were stored for later analysis
+by resuspension in 10% (vol/vol) glycerol and freezing at &#x02212;80&#x000b0;C.</p>
+</sec>
+<sec>
+<title>Epifluorescence and confocal microscopy, and the visualization of organelles</title>
+<p>Fluorescence microscopy was performed using a Leica DM5500B microscope under 100&#x000d7;
+objective. Nuclear and mitochondrial DNA were visualized by staining cells with DAPI. Images were
+obtained and processed using the Leica Application Suite. Image overlays were performed using
+ImageJ, version 1.38 software. Confocal fluorescence microscopy was performed using an Olympus
+FV-1000 confocal microscope under 100&#x000d7; objective. GFP and DAPI images were visualized using
+488- and 405-nm lasers, respectively. Three-dimensional confocal data analysis and image processing
+were performed using the Imaris 7.2 software package (Bitplane). The appearance of rod-like regions
+along the <italic>z</italic>-axis of A&#x003b2;42-GFP in the confocal image may be an artifact of
+limitation in imaging resolution along this <italic>z</italic>-axis.</p>
+</sec>
+<sec>
+<title>Screening and analyzing knockout mutants for A&#x003b2;42-GFP fluorescence</title>
+<p>Strains transformed with pA&#x003b2;42-GFP were replicated and grown for 48 h with shaking at
+30&#x000b0;C in microtiter plates containing 150 &#x000b5;l/well of induction medium. Strains were
+replicated in microtiter plates and grown for a further 24 h before A&#x003b2;42-GFP fluorescence
+was evaluated using fluorescence microscopy. A minimum of 900 cells per strain were examined for
+presence of A&#x003b2;42-GFP fluorescence. Mutant strains exhibiting altered fluorescence were
+subcultured in induction media and reexamined.</p>
+<p>Positive strains were analyzed for overrepresentation of functional groups with Gene Ontology
+(GO) and MIPS databases using GO Biological Process, GO Molecular Function, and GO Cellular
+Component in the analysis. <italic>S. cerevisiae</italic> genes were mapped to human homologues
+using the HomoloGene database (<ext-link ext-link-type="uri"
+xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=homologene"
+>www.ncbi.nlm.nih.gov/sites/entrez?db=homologene</ext-link>). All other analyses of <italic>S.
+cerevisiae</italic> genes and associated annotations were performed using the
+<italic>Saccharomyces</italic> Genome Database and associated tools (<ext-link ext-link-type="uri"
+xlink:href="http://www.yeastgenome.org">www.yeastgenome.org</ext-link>).</p>
+</sec>
+<sec>
+<title>Subcellular fractionation</title>
+<p>Subcellular fractions of <italic>S</italic>. <italic>cerevisiae</italic> cells were prepared as
+previously described by <xref rid="B83" ref-type="bibr">Rosenberger <italic>et&#x000a0;al</italic>.
+(2009)</xref> and the cross-contamination of the ER and mitochondrial fractions verified by Western
+blot analysis using antibodies against Wbp1p and Por1p, respectively. Cells expressing
+A&#x003b2;42-GFP were grown to exponential phase (OD<sub>600</sub> of 1.5) in galactose medium,
+harvested, washed in distilled water, and converted to spheroplasts (<xref rid="B13" ref-type="bibr"
+>Daum <italic>et&#x000a0;al</italic>., 1982</xref>). Preparation of spheroplasts was performed using
+2 mg Zymolyase 20T/g cell wet weight and incubating for 1.5 h at 30&#x000b0;C shaking (600 rpm).
+Spheroplasts were homogenized on ice using a Dounce homogenizer with a tight-fitting pestle and
+centrifuged to remove unbroken cells and nuclei. For preparation of crude mitochondrial fraction,
+cell lysates were centrifuged at 30,000 &#x000d7; <italic>g</italic> (30 min, 4&#x000b0;C). To
+enrich for mitochondria, the resulting pellet was thrice resuspended in breakage buffer,
+rehomogenized, and centrifuged. For preparation of crude ER microsomal fraction, the remaining
+supernatant was centrifuged at 45,000 &#x000d7; <italic>g</italic> (45 min; 4&#x000b0;C). To enrich
+for ER, the resulting pellet was resuspended in breakage buffer, rehomogenized, and centrifuged. To
+validate lack of cross-contamination of subcellular fractions, proteins from ER and mitochondrial
+fractions were precipitated with 50% trichloroacetic acid for 1 h on ice, and Western blot analysis
+was subsequently performed as described.</p>
+</sec>
+<sec>
+<title>Statistical analysis</title>
+<p>Statistical analysis was performed using the unpaired Student's <italic>t</italic> test, using
+Prism 5 for Windows, version 5.02 (GraphPad Software). Data are presented as mean &#x000b1; SD.
+Significant differences are indicated by a <italic>p</italic> value for data in the text and
+figures.</p>
+</sec>
+</sec>
+<sec sec-type="supplementary-material">
+<title>Supplementary Material</title>
+<supplementary-material id="PMC_1" content-type="local-data">
+<caption>
+<title>Supplemental Materials</title>
+</caption>
+<media mimetype="text" mime-subtype="html" xlink:href="supp_25_15_2235__index.html"/>
+<media xlink:role="associated-file" mimetype="application" mime-subtype="pdf"
+xlink:href="supp_E13-04-0216v1_CombinedSupMats.pdf"/>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="other">
+<p>This article was published online ahead of print in MBoC in Press (<ext-link ext-link-type="uri"
+xlink:href="http://www.molbiolcell.org/cgi/doi/10.1091/mbc.E13-04-0216"
+>http://www.molbiolcell.org/cgi/doi/10.1091/mbc.E13-04-0216</ext-link>) on May 28, 2014.</p>
+</fn>
+<fn fn-type="other" id="FN1">
+<p>*These authors contributed equally to this work.</p>
+</fn>
+</fn-group>
+<ack>
+<p>We thank Ian Macreadie for providing plasmid pAS1N.A&#x003b2;GFP; Phil Hogg for assistance with
+flow cytometry; Katharina Mack, Geoff Kornfeld, Joyce Chiu, and Shixiong Tan for technical advice;
+and Guenter Daum and Vid Vojko Flis for helpful discussion and techniques for subcellular
+fractionation. This research was supported by grants from the Australian Research Council (I.W.D.),
+Cancer Institute New South Wales (I.W.D., G.G.P.), and a University of New South Wales International
+Postgraduate Research Scholarship (S.N.).</p>
+</ack>
+<glossary>
+<title>Abbreviations used:</title>
+<def-list>
+<def-item>
+<term id="G1">A&#x003b2;</term>
+<def>
+<p>amyloid-&#x003b2;</p>
+</def>
+</def-item>
+<def-item>
+<term id="G2">AD</term>
+<def>
+<p>Alzheimer's disease</p>
+</def>
+</def-item>
+<def-item>
+<term id="G3">PC</term>
+<def>
+<p>phosphatidylcholine</p>
+</def>
+</def-item>
+<def-item>
+<term id="G4">PE</term>
+<def>
+<p>phosphatidylethanolamine</p>
+</def>
+</def-item>
+<def-item>
+<term id="G5">TCA</term>
+<def>
+<p>tricarboxylic acid</p>
+</def>
+</def-item>
+</def-list>
+</glossary>
+<ref-list>
+<title>REFERENCES</title>
+<ref id="B1">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Alberti</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Gitler</surname>
+<given-names>AD</given-names>
+</name><name>
+<surname>Lindquist</surname>
+<given-names>S</given-names>
+</name></person-group>
+<article-title>A suite of Gateway cloning vectors for high-throughput genetic analysis in
+<italic>Saccharomyces cerevisiae</italic></article-title>
+<source>Yeast</source>
+<year>2007</year>
+<volume>24</volume>
+<fpage>913</fpage>
+<lpage>919</lpage>
+<pub-id pub-id-type="pmid">17583893</pub-id>
+</element-citation>
+</ref>
+<ref id="B2">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Almeida</surname>
+<given-names>CG</given-names>
+</name><name>
+<surname>Takahashi</surname>
+<given-names>RH</given-names>
+</name><name>
+<surname>Gouras</surname>
+<given-names>GK</given-names>
+</name></person-group>
+<article-title>Beta-amyloid accumulation impairs multivesicular body sorting by inhibiting the
+ubiquitin-proteasome system</article-title>
+<source>J Neurosci</source>
+<year>2006</year>
+<volume>26</volume>
+<fpage>4277</fpage>
+<lpage>4288</lpage>
+<pub-id pub-id-type="pmid">16624948</pub-id>
+</element-citation>
+</ref>
+<ref id="B3">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Ambroziak</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Henry</surname>
+<given-names>SA</given-names>
+</name></person-group>
+<article-title><italic>INO2</italic> and <italic>INO4</italic> gene products, positive regulators of
+phospholipid biosynthesis in <italic>Saccharomyces cerevisiae</italic>, form a complex that binds to
+the <italic>INO1</italic> promoter</article-title>
+<source>J Biol Chem</source>
+<year>1994</year>
+<volume>269</volume>
+<fpage>15344</fpage>
+<lpage>15349</lpage>
+<pub-id pub-id-type="pmid">8195172</pub-id>
+</element-citation>
+</ref>
+<ref id="B4">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Atamna</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Frey</surname>
+<given-names>WH</given-names>
+</name></person-group>
+<article-title>Mechanisms of mitochondrial dysfunction and energy deficiency in Alzheimer's
+disease</article-title>
+<source>Mitochondrion</source>
+<year>2007</year>
+<volume>7</volume>
+<fpage>297</fpage>
+<lpage>310</lpage>
+<pub-id pub-id-type="pmid">17625988</pub-id>
+</element-citation>
+</ref>
+<ref id="B5">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Aytan</surname>
+<given-names>N</given-names>
+</name><name>
+<surname>Choi</surname>
+<given-names>JK</given-names>
+</name><name>
+<surname>Carreras</surname>
+<given-names>I</given-names>
+</name><name>
+<surname>Kowall</surname>
+<given-names>NW</given-names>
+</name><name>
+<surname>Jenkins</surname>
+<given-names>BG</given-names>
+</name><name>
+<surname>Dedeoglu</surname>
+<given-names>A</given-names>
+</name></person-group>
+<article-title>Combination therapy in a transgenic model of Alzheimer's disease</article-title>
+<source>Exp Neurol</source>
+<year>2013</year>
+<volume>250C</volume>
+<fpage>228</fpage>
+<lpage>238</lpage>
+<pub-id pub-id-type="pmid">24120437</pub-id>
+</element-citation>
+</ref>
+<ref id="B6">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Bailis</surname>
+<given-names>AM</given-names>
+</name><name>
+<surname>Poole</surname>
+<given-names>MA</given-names>
+</name><name>
+<surname>Carman</surname>
+<given-names>GM</given-names>
+</name><name>
+<surname>Henry</surname>
+<given-names>SA</given-names>
+</name></person-group>
+<article-title>The membrane-associated enzyme phosphatidylserine synthase is regulated at the level
+of mRNA abundance</article-title>
+<source>Mol Cell Biol</source>
+<year>1987</year>
+<volume>7</volume>
+<fpage>167</fpage>
+<lpage>176</lpage>
+<pub-id pub-id-type="pmid">3031455</pub-id>
+</element-citation>
+</ref>
+<ref id="B7">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Bi</surname>
+<given-names>X-H</given-names>
+</name><name>
+<surname>Zhao</surname>
+<given-names>H-L</given-names>
+</name><name>
+<surname>Zhang</surname>
+<given-names>Z-X</given-names>
+</name><name>
+<surname>Zhang</surname>
+<given-names>J-W</given-names>
+</name></person-group>
+<article-title>PEMT G523A (V175M) is associated with sporadic Alzheimer's disease in a Chinese
+population</article-title>
+<source>J Mol Neurosci</source>
+<year>2011</year>
+<volume>46</volume>
+<fpage>505</fpage>
+<lpage>508</lpage>
+<pub-id pub-id-type="pmid">21881829</pub-id>
+</element-citation>
+</ref>
+<ref id="B8">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Bubber</surname>
+<given-names>P</given-names>
+</name><name>
+<surname>Haroutunian</surname>
+<given-names>V</given-names>
+</name><name>
+<surname>Fisch</surname>
+<given-names>G</given-names>
+</name><name>
+<surname>Blass</surname>
+<given-names>JP</given-names>
+</name><name>
+<surname>Gibson</surname>
+<given-names>GE</given-names>
+</name></person-group>
+<article-title>Mitochondrial abnormalities in Alzheimer brain: mechanistic
+implications</article-title>
+<source>Ann Neurol</source>
+<year>2005</year>
+<volume>57</volume>
+<fpage>695</fpage>
+<lpage>703</lpage>
+<pub-id pub-id-type="pmid">15852400</pub-id>
+</element-citation>
+</ref>
+<ref id="B9">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Caine</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Sankovich</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Antony</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Waddington</surname>
+<given-names>L</given-names>
+</name><name>
+<surname>Macreadie</surname>
+<given-names>P</given-names>
+</name><name>
+<surname>Varghese</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Macreadie</surname>
+<given-names>I</given-names>
+</name></person-group>
+<article-title>Alzheimer's Abeta fused to green fluorescent protein induces growth stress and a heat
+shock response</article-title>
+<source>FEMS Yeast Res</source>
+<year>2007</year>
+<volume>7</volume>
+<fpage>1230</fpage>
+<lpage>1236</lpage>
+<pub-id pub-id-type="pmid">17662055</pub-id>
+</element-citation>
+</ref>
+<ref id="B10">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Caspersen</surname>
+<given-names>C</given-names>
+</name><name>
+<surname>Wang</surname>
+<given-names>N</given-names>
+</name><name>
+<surname>Yao</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Sosunov</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</name><name>
+<surname>Lustbader</surname>
+<given-names>JW</given-names>
+</name><name>
+<surname>Xu</surname>
+<given-names>HW</given-names>
+</name><name>
+<surname>Stern</surname>
+<given-names>D</given-names>
+</name><name>
+<surname>McKhann</surname>
+<given-names>G</given-names>
+</name><name>
+<surname>Yan</surname>
+<given-names>SD</given-names>
+</name></person-group>
+<article-title>Mitochondrial Abeta: a potential focal point for neuronal metabolic dysfunction in
+Alzheimer's disease</article-title>
+<source>FASEB J</source>
+<year>2005</year>
+<volume>19</volume>
+<fpage>2040</fpage>
+<lpage>2041</lpage>
+<pub-id pub-id-type="pmid">16210396</pub-id>
+</element-citation>
+</ref>
+<ref id="B11">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Chaturvedi</surname>
+<given-names>RK</given-names>
+</name><name>
+<surname>Beal</surname>
+<given-names>MF</given-names>
+</name></person-group>
+<article-title>Mitochondria targeted therapeutic approaches in Parkinson's and Huntington's
+diseases</article-title>
+<source>Mol Cell Neurosci</source>
+<year>2013</year>
+<volume>55</volume>
+<fpage>101</fpage>
+<lpage>114</lpage>
+<pub-id pub-id-type="pmid">23220289</pub-id>
+</element-citation>
+</ref>
+<ref id="B12">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Chi</surname>
+<given-names>EY</given-names>
+</name><name>
+<surname>Ege</surname>
+<given-names>C</given-names>
+</name><name>
+<surname>Winans</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Majewski</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Wu</surname>
+<given-names>G</given-names>
+</name><name>
+<surname>Kjaer</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Lee</surname>
+<given-names>KYC</given-names>
+</name></person-group>
+<article-title>Lipid membrane templates the ordering and induces the fibrillogenesis of Alzheimer's
+disease amyloid-&#x003b2; peptide</article-title>
+<source>Proteins</source>
+<year>2008</year>
+<volume>72</volume>
+<fpage>1</fpage>
+<lpage>24</lpage>
+<pub-id pub-id-type="pmid">18186465</pub-id>
+</element-citation>
+</ref>
+<ref id="B13">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Daum</surname>
+<given-names>G</given-names>
+</name><name>
+<surname>Bohni</surname>
+<given-names>PC</given-names>
+</name><name>
+<surname>Schatz</surname>
+<given-names>G</given-names>
+</name></person-group>
+<article-title>Import of proteins into mitochondria. Cytochrome b2 and cytochrome c peroxidase are
+located in the intermembrane space of yeast mitochondria</article-title>
+<source>J Biol Chem</source>
+<year>1982</year>
+<volume>257</volume>
+<fpage>13028</fpage>
+<lpage>13033</lpage>
+<pub-id pub-id-type="pmid">6290489</pub-id>
+</element-citation>
+</ref>
+<ref id="B16">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>D'Angelo</surname>
+<given-names>F</given-names>
+</name><name>
+<surname>Vignaud</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Di Martino</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Salin</surname>
+<given-names>B</given-names>
+</name><name>
+<surname>Devin</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Cullin</surname>
+<given-names>C</given-names>
+</name><name>
+<surname>Marchal</surname>
+<given-names>C</given-names>
+</name></person-group>
+<article-title>A yeast model for amyloid-beta aggregation exemplifies the role of membrane
+trafficking and PICALM in cytotoxicity</article-title>
+<source>Dis Model Mech</source>
+<year>2013</year>
+<volume>6</volume>
+<fpage>206</fpage>
+<lpage>216</lpage>
+<pub-id pub-id-type="pmid">22888099</pub-id>
+</element-citation>
+</ref>
+<ref id="B14">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>de Leon</surname>
+<given-names>MJ</given-names>
+</name><etal/></person-group>
+<article-title>Positron emission tomographic studies of aging and Alzheimer disease</article-title>
+<source>Am J Neuroradiol</source>
+<year>1983</year>
+<volume>4</volume>
+<fpage>568</fpage>
+<lpage>571</lpage>
+<pub-id pub-id-type="pmid">6410799</pub-id>
+</element-citation>
+</ref>
+<ref id="B15">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Dimmer</surname>
+<given-names>KS</given-names>
+</name><name>
+<surname>Fritz</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Fuchs</surname>
+<given-names>F</given-names>
+</name><name>
+<surname>Messerschmitt</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Weinbach</surname>
+<given-names>N</given-names>
+</name><name>
+<surname>Neupert</surname>
+<given-names>W</given-names>
+</name><name>
+<surname>Westermann</surname>
+<given-names>B</given-names>
+</name></person-group>
+<article-title>Genetic basis of mitochondrial function and morphology in <italic>Saccharomyces
+cerevisiae</italic></article-title>
+<source>Mol Biol Cell</source>
+<year>2002</year>
+<volume>13</volume>
+<fpage>847</fpage>
+<lpage>853</lpage>
+<pub-id pub-id-type="pmid">11907266</pub-id>
+</element-citation>
+</ref>
+<ref id="B17">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Ege</surname>
+<given-names>C</given-names>
+</name><name>
+<surname>Lee</surname>
+<given-names>KY</given-names>
+</name></person-group>
+<article-title>Insertion of Alzheimer's A beta 40 peptide into lipid monolayers</article-title>
+<source>Biophys J</source>
+<year>2004</year>
+<volume>87</volume>
+<fpage>1732</fpage>
+<lpage>1740</lpage>
+<pub-id pub-id-type="pmid">15345552</pub-id>
+</element-citation>
+</ref>
+<ref id="B18">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Ege</surname>
+<given-names>C</given-names>
+</name><name>
+<surname>Majewski</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Wu</surname>
+<given-names>G</given-names>
+</name><name>
+<surname>Kjaer</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Lee</surname>
+<given-names>KY</given-names>
+</name></person-group>
+<article-title>Templating effect of lipid membranes on Alzheimer's amyloid beta
+peptide</article-title>
+<source>Chemphyschem</source>
+<year>2005</year>
+<volume>6</volume>
+<fpage>226</fpage>
+<lpage>229</lpage>
+<pub-id pub-id-type="pmid">15751341</pub-id>
+</element-citation>
+</ref>
+<ref id="B19">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Epstein</surname>
+<given-names>CB</given-names>
+</name><name>
+<surname>Waddle</surname>
+<given-names>JA</given-names>
+</name><name>
+<surname>Hale</surname>
+<given-names>WT</given-names>
+</name><name>
+<surname>Dave</surname>
+<given-names>V</given-names>
+</name><name>
+<surname>Thornton</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Macatee</surname>
+<given-names>TL</given-names>
+</name><name>
+<surname>Garner</surname>
+<given-names>HR</given-names>
+</name><name>
+<surname>Butow</surname>
+<given-names>RA</given-names>
+</name></person-group>
+<article-title>Genome-wide responses to mitochondrial dysfunction</article-title>
+<source>Mol Biol Cell</source>
+<year>2001</year>
+<volume>12</volume>
+<fpage>297</fpage>
+<lpage>308</lpage>
+<pub-id pub-id-type="pmid">11179416</pub-id>
+</element-citation>
+</ref>
+<ref id="B20">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Flower</surname>
+<given-names>TR</given-names>
+</name><name>
+<surname>Chesnokova</surname>
+<given-names>LS</given-names>
+</name><name>
+<surname>Froelich</surname>
+<given-names>CA</given-names>
+</name><name>
+<surname>Dixon</surname>
+<given-names>C</given-names>
+</name><name>
+<surname>Witt</surname>
+<given-names>SN</given-names>
+</name></person-group>
+<article-title>Heat shock prevents alpha-synuclein-induced apoptosis in a yeast model of Parkinson's
+disease</article-title>
+<source>J Mol Biol</source>
+<year>2005</year>
+<volume>351</volume>
+<fpage>1081</fpage>
+<lpage>1100</lpage>
+<pub-id pub-id-type="pmid">16051265</pub-id>
+</element-citation>
+</ref>
+<ref id="B21">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Fox</surname>
+<given-names>TD</given-names>
+</name><name>
+<surname>Folley</surname>
+<given-names>LS</given-names>
+</name><name>
+<surname>Mulero</surname>
+<given-names>JJ</given-names>
+</name><name>
+<surname>McMullin</surname>
+<given-names>TW</given-names>
+</name><name>
+<surname>Thorsness</surname>
+<given-names>PE</given-names>
+</name><name>
+<surname>Hedin</surname>
+<given-names>LO</given-names>
+</name><name>
+<surname>Costanzo</surname>
+<given-names>MC</given-names>
+</name></person-group>
+<article-title>Analysis and manipulation of yeast mitochondrial genes</article-title>
+<source>Methods Enzymol</source>
+<year>1991</year>
+<volume>194</volume>
+<fpage>149</fpage>
+<lpage>165</lpage>
+<pub-id pub-id-type="pmid">1706458</pub-id>
+</element-citation>
+</ref>
+<ref id="B22">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Frisardi</surname>
+<given-names>V</given-names>
+</name><name>
+<surname>Panza</surname>
+<given-names>F</given-names>
+</name><name>
+<surname>Seripa</surname>
+<given-names>D</given-names>
+</name><name>
+<surname>Farooqui</surname>
+<given-names>T</given-names>
+</name><name>
+<surname>Farooqui</surname>
+<given-names>AA</given-names>
+</name></person-group>
+<article-title>Glycerophospholipids and glycerophospholipid-derived lipid mediators: a complex
+meshwork in Alzheimer's disease pathology</article-title>
+<source>Prog Lipid Res</source>
+<year>2011</year>
+<volume>50</volume>
+<fpage>313</fpage>
+<lpage>330</lpage>
+<pub-id pub-id-type="pmid">21703303</pub-id>
+</element-citation>
+</ref>
+<ref id="B23">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Gavin</surname>
+<given-names>AC</given-names>
+</name><etal/></person-group>
+<article-title>Functional organization of the yeast proteome by systematic analysis of protein
+complexes</article-title>
+<source>Nature</source>
+<year>2002</year>
+<volume>415</volume>
+<fpage>141</fpage>
+<lpage>147</lpage>
+<pub-id pub-id-type="pmid">11805826</pub-id>
+</element-citation>
+</ref>
+<ref id="B24">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Gellermann</surname>
+<given-names>GP</given-names>
+</name><name>
+<surname>Ullrich</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Unger</surname>
+<given-names>C</given-names>
+</name><name>
+<surname>Fandrich</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Sauter</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Diekmann</surname>
+<given-names>S</given-names>
+</name></person-group>
+<article-title>Identification of molecular compounds critical to Alzheimer's-like plaque
+formation</article-title>
+<source>J Neurosci Res</source>
+<year>2007</year>
+<volume>85</volume>
+<fpage>2037</fpage>
+<lpage>2044</lpage>
+<pub-id pub-id-type="pmid">17492785</pub-id>
+</element-citation>
+</ref>
+<ref id="B25">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Gelperin</surname>
+<given-names>DM</given-names>
+</name><etal/></person-group>
+<article-title>Biochemical and genetic analysis of the yeast proteome with a movable ORF
+collection</article-title>
+<source>Genes Dev</source>
+<year>2005</year>
+<volume>19</volume>
+<fpage>2816</fpage>
+<lpage>2826</lpage>
+<pub-id pub-id-type="pmid">16322557</pub-id>
+</element-citation>
+</ref>
+<ref id="B26">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Giaever</surname>
+<given-names>G</given-names>
+</name><etal/></person-group>
+<article-title>Functional profiling of the <italic>Saccharomyces cerevisiae</italic>
+genome</article-title>
+<source>Nature</source>
+<year>2002</year>
+<volume>418</volume>
+<fpage>387</fpage>
+<lpage>391</lpage>
+<pub-id pub-id-type="pmid">12140549</pub-id>
+</element-citation>
+</ref>
+<ref id="B27">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Gibson</surname>
+<given-names>GE</given-names>
+</name><name>
+<surname>Blass</surname>
+<given-names>JP</given-names>
+</name><name>
+<surname>Beal</surname>
+<given-names>MF</given-names>
+</name><name>
+<surname>Bunik</surname>
+<given-names>V</given-names>
+</name></person-group>
+<article-title>The alpha-ketoglutarate-dehydrogenase complex: a mediator between mitochondria and
+oxidative stress in neurodegeneration</article-title>
+<source>Mol Neurobiol</source>
+<year>2005</year>
+<volume>31</volume>
+<fpage>43</fpage>
+<lpage>63</lpage>
+<pub-id pub-id-type="pmid">15953811</pub-id>
+</element-citation>
+</ref>
+<ref id="B28">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Gibson</surname>
+<given-names>GE</given-names>
+</name><name>
+<surname>Park</surname>
+<given-names>LC</given-names>
+</name><name>
+<surname>Sheu</surname>
+<given-names>KF</given-names>
+</name><name>
+<surname>Blass</surname>
+<given-names>JP</given-names>
+</name><name>
+<surname>Calingasan</surname>
+<given-names>NY</given-names>
+</name></person-group>
+<article-title>The alpha-ketoglutarate dehydrogenase complex in neurodegeneration</article-title>
+<source>Neurochem Int</source>
+<year>2000</year>
+<volume>36</volume>
+<fpage>97</fpage>
+<lpage>112</lpage>
+<pub-id pub-id-type="pmid">10676873</pub-id>
+</element-citation>
+</ref>
+<ref id="B29">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Giorgini</surname>
+<given-names>F</given-names>
+</name><name>
+<surname>Guidetti</surname>
+<given-names>P</given-names>
+</name><name>
+<surname>Nguyen</surname>
+<given-names>Q</given-names>
+</name><name>
+<surname>Bennett</surname>
+<given-names>SC</given-names>
+</name><name>
+<surname>Muchowski</surname>
+<given-names>PJ</given-names>
+</name></person-group>
+<article-title>A genomic screen in yeast implicates kynurenine 3-monooxygenase as a therapeutic
+target for Huntington disease</article-title>
+<source>Nat Genet</source>
+<year>2005</year>
+<volume>37</volume>
+<fpage>526</fpage>
+<lpage>531</lpage>
+<pub-id pub-id-type="pmid">15806102</pub-id>
+</element-citation>
+</ref>
+<ref id="B30">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Glenner</surname>
+<given-names>GG</given-names>
+</name><name>
+<surname>Wong</surname>
+<given-names>CW</given-names>
+</name></person-group>
+<article-title>Alzheimer's disease: initial report of the purification and characterization of a
+novel cerebrovascular amyloid protein</article-title>
+<source>Biochem Biophys Res Commun</source>
+<year>1984</year>
+<volume>120</volume>
+<fpage>885</fpage>
+<lpage>890</lpage>
+<pub-id pub-id-type="pmid">6375662</pub-id>
+</element-citation>
+</ref>
+<ref id="B31">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Gouras</surname>
+<given-names>GK</given-names>
+</name><etal/></person-group>
+<article-title>Intraneuronal Abeta42 accumulation in human brain</article-title>
+<source>Am J Pathol</source>
+<year>2000</year>
+<volume>156</volume>
+<fpage>15</fpage>
+<lpage>20</lpage>
+<pub-id pub-id-type="pmid">10623648</pub-id>
+</element-citation>
+</ref>
+<ref id="B32">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Gouras</surname>
+<given-names>GK</given-names>
+</name><name>
+<surname>Almeida</surname>
+<given-names>CG</given-names>
+</name><name>
+<surname>Takahashi</surname>
+<given-names>RH</given-names>
+</name></person-group>
+<article-title>Intraneuronal Abeta accumulation and origin of plaques in Alzheimer's
+disease</article-title>
+<source>Neurobiol Aging</source>
+<year>2005</year>
+<volume>26</volume>
+<fpage>1235</fpage>
+<lpage>1244</lpage>
+<pub-id pub-id-type="pmid">16023263</pub-id>
+</element-citation>
+</ref>
+<ref id="B33">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Greenberg</surname>
+<given-names>ML</given-names>
+</name><name>
+<surname>Reiner</surname>
+<given-names>B</given-names>
+</name><name>
+<surname>Henry</surname>
+<given-names>SA</given-names>
+</name></person-group>
+<article-title>Regulatory mutations of inositol biosynthesis in yeast: isolation of
+inositol-excreting mutants</article-title>
+<source>Genetics</source>
+<year>1982</year>
+<volume>100</volume>
+<fpage>19</fpage>
+<lpage>33</lpage>
+<pub-id pub-id-type="pmid">7047296</pub-id>
+</element-citation>
+</ref>
+<ref id="B34">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Grimm</surname>
+<given-names>MO</given-names>
+</name><name>
+<surname>Grosgen</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Riemenschneider</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Tanila</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Grimm</surname>
+<given-names>HS</given-names>
+</name><name>
+<surname>Hartmann</surname>
+<given-names>T</given-names>
+</name></person-group>
+<article-title>From brain to food: analysis of phosphatidylcholins, lyso-phosphatidylcholins and
+phosphatidylcholin-plasmalogens derivates in Alzheimer's disease human post mortem brains and mice
+model via mass spectrometry</article-title>
+<source>J Chromatogr</source>
+<year>2011</year>
+<volume>1218</volume>
+<fpage>7713</fpage>
+<lpage>7722</lpage>
+</element-citation>
+</ref>
+<ref id="B35">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Haass</surname>
+<given-names>C</given-names>
+</name><name>
+<surname>Selkoe</surname>
+<given-names>DJ</given-names>
+</name></person-group>
+<article-title>Soluble protein oligomers in neurodegeneration: lessons from the Alzheimer's amyloid
+beta-peptide</article-title>
+<source>Nat Rev Mol Cell Biol</source>
+<year>2007</year>
+<volume>8</volume>
+<fpage>101</fpage>
+<lpage>112</lpage>
+<pub-id pub-id-type="pmid">17245412</pub-id>
+</element-citation>
+</ref>
+<ref id="B36">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Hamada</surname>
+<given-names>D</given-names>
+</name><name>
+<surname>Tsumoto</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Sawara</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Tanaka</surname>
+<given-names>N</given-names>
+</name><name>
+<surname>Nakahira</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Shiraki</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Yanagihara</surname>
+<given-names>I</given-names>
+</name></person-group>
+<article-title>Effect of an amyloidogenic sequence attached to yellow fluorescent
+protein</article-title>
+<source>Proteins</source>
+<year>2008</year>
+<volume>72</volume>
+<fpage>811</fpage>
+<lpage>821</lpage>
+<pub-id pub-id-type="pmid">18260107</pub-id>
+</element-citation>
+</ref>
+<ref id="B37">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Hane</surname>
+<given-names>F</given-names>
+</name><name>
+<surname>Drolle</surname>
+<given-names>E</given-names>
+</name><name>
+<surname>Gaikwad</surname>
+<given-names>R</given-names>
+</name><name>
+<surname>Faught</surname>
+<given-names>E</given-names>
+</name><name>
+<surname>Leonenko</surname>
+<given-names>Z</given-names>
+</name></person-group>
+<article-title>Amyloid-&#x003b2; aggregation on model lipid membranes: an atomic force microscopy
+study</article-title>
+<source>J Alzheimers Dis</source>
+<year>2011</year>
+<volume>26</volume>
+<fpage>485</fpage>
+<lpage>494</lpage>
+<pub-id pub-id-type="pmid">21694459</pub-id>
+</element-citation>
+</ref>
+<ref id="B38">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Hardy</surname>
+<given-names>JA</given-names>
+</name><name>
+<surname>Higgins</surname>
+<given-names>GA</given-names>
+</name></person-group>
+<article-title>Alzheimer's disease: the amyloid cascade hypothesis</article-title>
+<source>Science</source>
+<year>1992</year>
+<volume>256</volume>
+<fpage>184</fpage>
+<lpage>185</lpage>
+<pub-id pub-id-type="pmid">1566067</pub-id>
+</element-citation>
+</ref>
+<ref id="B39">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Haris</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Cai</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Singh</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Hariharan</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Reddy</surname>
+<given-names>R</given-names>
+</name></person-group>
+<article-title>In vivo mapping of brain myo-inositol</article-title>
+<source>Neuroimage</source>
+<year>2011</year>
+<volume>54</volume>
+<fpage>2079</fpage>
+<lpage>2085</lpage>
+<pub-id pub-id-type="pmid">20951217</pub-id>
+</element-citation>
+</ref>
+<ref id="B40">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Hillenmeyer</surname>
+<given-names>ME</given-names>
+</name><etal/></person-group>
+<article-title>The chemical genomic portrait of yeast: uncovering a phenotype for all
+genes</article-title>
+<source>Science</source>
+<year>2008</year>
+<volume>320</volume>
+<fpage>362</fpage>
+<lpage>365</lpage>
+<pub-id pub-id-type="pmid">18420932</pub-id>
+</element-citation>
+</ref>
+<ref id="B41">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Hirsch</surname>
+<given-names>JP</given-names>
+</name><name>
+<surname>Henry</surname>
+<given-names>SA</given-names>
+</name></person-group>
+<article-title>Expression of the <italic>Saccharomyces cerevisiae</italic> inositol-1-phosphate
+synthase (<italic>INO1</italic>) gene is regulated by factors that affect phospholipid
+synthesis</article-title>
+<source>Mol Cell Biol</source>
+<year>1986</year>
+<volume>6</volume>
+<fpage>3320</fpage>
+<lpage>3328</lpage>
+<pub-id pub-id-type="pmid">3025587</pub-id>
+</element-citation>
+</ref>
+<ref id="B42">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Homann</surname>
+<given-names>MJ</given-names>
+</name><name>
+<surname>Henry</surname>
+<given-names>SA</given-names>
+</name><name>
+<surname>Carman</surname>
+<given-names>GM</given-names>
+</name></person-group>
+<article-title>Regulation of CDP-diacyl&#x000ad;glycerol synthase activity in <italic>Saccharomyces
+cerevisiae</italic></article-title>
+<source>J Bacteriol</source>
+<year>1985</year>
+<volume>163</volume>
+<fpage>1265</fpage>
+<lpage>1266</lpage>
+<pub-id pub-id-type="pmid">2993242</pub-id>
+</element-citation>
+</ref>
+<ref id="B43">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Howlett</surname>
+<given-names>DR</given-names>
+</name><name>
+<surname>Jennings</surname>
+<given-names>KH</given-names>
+</name><name>
+<surname>Lee</surname>
+<given-names>DC</given-names>
+</name><name>
+<surname>Clark</surname>
+<given-names>MS</given-names>
+</name><name>
+<surname>Brown</surname>
+<given-names>F</given-names>
+</name><name>
+<surname>Wetzel</surname>
+<given-names>R</given-names>
+</name><name>
+<surname>Wood</surname>
+<given-names>SJ</given-names>
+</name><name>
+<surname>Camilleri</surname>
+<given-names>P</given-names>
+</name><name>
+<surname>Roberts</surname>
+<given-names>GW</given-names>
+</name></person-group>
+<article-title>Aggregation state and neurotoxic properties of Alzheimer beta-amyloid
+peptide</article-title>
+<source>Neurodegeneration</source>
+<year>1995</year>
+<volume>4</volume>
+<fpage>23</fpage>
+<lpage>32</lpage>
+<pub-id pub-id-type="pmid">7600183</pub-id>
+</element-citation>
+</ref>
+<ref id="B44">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Hung</surname>
+<given-names>LW</given-names>
+</name><name>
+<surname>Ciccotosto</surname>
+<given-names>GD</given-names>
+</name><name>
+<surname>Giannakis</surname>
+<given-names>E</given-names>
+</name><name>
+<surname>Tew</surname>
+<given-names>DJ</given-names>
+</name><name>
+<surname>Perez</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Masters</surname>
+<given-names>CL</given-names>
+</name><name>
+<surname>Cappai</surname>
+<given-names>R</given-names>
+</name><name>
+<surname>Wade</surname>
+<given-names>JD</given-names>
+</name><name>
+<surname>Barnham</surname>
+<given-names>KJ</given-names>
+</name></person-group>
+<article-title>Amyloid-beta peptide (Abeta) neurotoxicity is modulated by the rate of peptide
+aggregation: Abeta dimers and trimers correlate with neurotoxicity</article-title>
+<source>J Neurosci</source>
+<year>2008</year>
+<volume>28</volume>
+<fpage>11950</fpage>
+<lpage>11958</lpage>
+<pub-id pub-id-type="pmid">19005060</pub-id>
+</element-citation>
+</ref>
+<ref id="B45">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Jarrett</surname>
+<given-names>JT</given-names>
+</name><name>
+<surname>Berger</surname>
+<given-names>EP</given-names>
+</name><name>
+<surname>Lansbury</surname>
+<given-names>PT</given-names>
+<suffix>Jr</suffix>
+</name></person-group>
+<article-title>The carboxy terminus of the beta amyloid protein is critical for the seeding of
+amyloid formation: implications for the pathogenesis of Alzheimer's disease</article-title>
+<source>Biochemistry</source>
+<year>1993</year>
+<volume>32</volume>
+<fpage>4693</fpage>
+<lpage>4697</lpage>
+<pub-id pub-id-type="pmid">8490014</pub-id>
+</element-citation>
+</ref>
+<ref id="B46">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Jarrett</surname>
+<given-names>JT</given-names>
+</name><name>
+<surname>Lansbury</surname>
+<given-names>PT</given-names>
+<suffix>Jr</suffix>
+</name></person-group>
+<article-title>Seeding &#x0201c;one-dimensional crystallization&#x0201d; of amyloid: a pathogenic
+mechanism in Alzheimer's disease and scrapie?</article-title>
+<source>Cell</source>
+<year>1993</year>
+<volume>73</volume>
+<fpage>1055</fpage>
+<lpage>1058</lpage>
+<pub-id pub-id-type="pmid">8513491</pub-id>
+</element-citation>
+</ref>
+<ref id="B47">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Jelicic</surname>
+<given-names>B</given-names>
+</name><name>
+<surname>Traven</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Filic</surname>
+<given-names>V</given-names>
+</name><name>
+<surname>Sopta</surname>
+<given-names>M</given-names>
+</name></person-group>
+<article-title>Mitochondrial dysfunction enhances Gal4-dependent transcription</article-title>
+<source>FEMS Microbiol Lett</source>
+<year>2005</year>
+<volume>253</volume>
+<fpage>207</fpage>
+<lpage>213</lpage>
+<pub-id pub-id-type="pmid">16239078</pub-id>
+</element-citation>
+</ref>
+<ref id="B48">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Jesch</surname>
+<given-names>SA</given-names>
+</name><name>
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</name><name>
+<surname>Wells</surname>
+<given-names>MT</given-names>
+</name><name>
+<surname>Henry</surname>
+<given-names>SA</given-names>
+</name></person-group>
+<article-title>Genome-wide analysis reveals inositol, not choline, as the major effector of
+Ino2p-Ino4p and unfolded protein response target gene expression in yeast</article-title>
+<source>J Biol Chem</source>
+<year>2005</year>
+<volume>280</volume>
+<fpage>9106</fpage>
+<lpage>9118</lpage>
+<pub-id pub-id-type="pmid">15611057</pub-id>
+</element-citation>
+</ref>
+<ref id="B49">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Kagiwada</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Hosaka</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Murata</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Nikawa</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Takatsuki</surname>
+<given-names>A</given-names>
+</name></person-group>
+<article-title>The <italic>Saccharomyces cerevisiae SCS2</italic> gene product, a homolog of a
+synaptobrevin-associated protein, is an integral membrane protein of the endoplasmic reticulum and
+is required for inositol metabolism</article-title>
+<source>J Bacteriol</source>
+<year>1998</year>
+<volume>180</volume>
+<fpage>1700</fpage>
+<lpage>1708</lpage>
+<pub-id pub-id-type="pmid">9537365</pub-id>
+</element-citation>
+</ref>
+<ref id="B50">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Kagiwada</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Zen</surname>
+<given-names>R</given-names>
+</name></person-group>
+<article-title>Role of the yeast VAP homolog, Scs2p, in <italic>INO1</italic> expression and
+phospholipid metabolism</article-title>
+<source>J Biochem</source>
+<year>2003</year>
+<volume>133</volume>
+<fpage>515</fpage>
+<lpage>522</lpage>
+<pub-id pub-id-type="pmid">12761300</pub-id>
+</element-citation>
+</ref>
+<ref id="B51">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Kanfer</surname>
+<given-names>JN</given-names>
+</name><name>
+<surname>Sorrentino</surname>
+<given-names>G</given-names>
+</name><name>
+<surname>Sitar</surname>
+<given-names>DS</given-names>
+</name></person-group>
+<article-title>Amyloid beta peptide membrane perturbation is the basis for its biological
+effects</article-title>
+<source>Neurochem Res</source>
+<year>1999</year>
+<volume>24</volume>
+<fpage>1621</fpage>
+<lpage>1630</lpage>
+<pub-id pub-id-type="pmid">10591414</pub-id>
+</element-citation>
+</ref>
+<ref id="B52">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Kennedy</surname>
+<given-names>EP</given-names>
+</name><name>
+<surname>Weiss</surname>
+<given-names>SB</given-names>
+</name></person-group>
+<article-title>The function of cytidine coenzymes in the biosynthesis of
+phospholipids</article-title>
+<source>J Biol Chem</source>
+<year>1956</year>
+<volume>222</volume>
+<fpage>193</fpage>
+<lpage>214</lpage>
+<pub-id pub-id-type="pmid">13366993</pub-id>
+</element-citation>
+</ref>
+<ref id="B53">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Kim</surname>
+<given-names>W</given-names>
+</name><name>
+<surname>Hecht</surname>
+<given-names>MH</given-names>
+</name></person-group>
+<article-title>Sequence determinants of enhanced amyloidogenicity of Alzheimer A&#x003b2;42 peptide
+relative to A&#x003b2;40</article-title>
+<source>J Biol Chem</source>
+<year>2005</year>
+<volume>280</volume>
+<fpage>35069</fpage>
+<lpage>35076</lpage>
+<pub-id pub-id-type="pmid">16079141</pub-id>
+</element-citation>
+</ref>
+<ref id="B54">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Kim</surname>
+<given-names>W</given-names>
+</name><name>
+<surname>Hecht</surname>
+<given-names>MH</given-names>
+</name></person-group>
+<article-title>Mutations enhance the aggregation propensity of the Alzheimer's Abeta
+peptide</article-title>
+<source>J Mol Biol</source>
+<year>2008</year>
+<volume>377</volume>
+<fpage>565</fpage>
+<lpage>574</lpage>
+<pub-id pub-id-type="pmid">18258258</pub-id>
+</element-citation>
+</ref>
+<ref id="B57">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Ko</surname>
+<given-names>LW</given-names>
+</name><name>
+<surname>Sheu</surname>
+<given-names>KF</given-names>
+</name><name>
+<surname>Thaler</surname>
+<given-names>HT</given-names>
+</name><name>
+<surname>Markesbery</surname>
+<given-names>WR</given-names>
+</name><name>
+<surname>Blass</surname>
+<given-names>JP</given-names>
+</name></person-group>
+<article-title>Selective loss of KGDHC-enriched neurons in Alzheimer temporal cortex: does
+mitochondrial variation contribute to selective vulnerability?</article-title>
+<source>J Mol Neurosci</source>
+<year>2001</year>
+<volume>17</volume>
+<fpage>361</fpage>
+<lpage>369</lpage>
+<pub-id pub-id-type="pmid">11859932</pub-id>
+</element-citation>
+</ref>
+<ref id="B55">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Kodaki</surname>
+<given-names>T</given-names>
+</name><name>
+<surname>Yamashita</surname>
+<given-names>S</given-names>
+</name></person-group>
+<article-title>Yeast phosphatidylethanolamine methylation pathway. Cloning and characterization of
+two distinct methyltransferase genes</article-title>
+<source>J Biol Chem</source>
+<year>1987</year>
+<volume>262</volume>
+<fpage>15428</fpage>
+<lpage>15435</lpage>
+<pub-id pub-id-type="pmid">2445736</pub-id>
+</element-citation>
+</ref>
+<ref id="B56">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Komano</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Seeger</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Gandy</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Wang</surname>
+<given-names>GT</given-names>
+</name><name>
+<surname>Krafft</surname>
+<given-names>GA</given-names>
+</name><name>
+<surname>Fuller</surname>
+<given-names>RS</given-names>
+</name></person-group>
+<article-title>Involvement of cell surface glycosyl-phosphatidylinositol-linked aspartyl proteases
+in alpha-secretase-type cleavage and ectodomain solubilization of human Alzheimer beta-amyloid
+precursor protein in yeast</article-title>
+<source>J Biol Chem</source>
+<year>1998</year>
+<volume>273</volume>
+<fpage>31648</fpage>
+<lpage>31651</lpage>
+<pub-id pub-id-type="pmid">9822624</pub-id>
+</element-citation>
+</ref>
+<ref id="B58">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>LaFerla</surname>
+<given-names>FM</given-names>
+</name><name>
+<surname>Green</surname>
+<given-names>KN</given-names>
+</name><name>
+<surname>Oddo</surname>
+<given-names>S</given-names>
+</name></person-group>
+<article-title>Intracellular amyloid-beta in Alzheimer's disease</article-title>
+<source>Nat Rev Neurosci</source>
+<year>2007</year>
+<volume>8</volume>
+<fpage>499</fpage>
+<lpage>509</lpage>
+<pub-id pub-id-type="pmid">17551515</pub-id>
+</element-citation>
+</ref>
+<ref id="B59">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Langui</surname>
+<given-names>D</given-names>
+</name><name>
+<surname>Girardot</surname>
+<given-names>N</given-names>
+</name><name>
+<surname>El Hachimi</surname>
+<given-names>KH</given-names>
+</name><name>
+<surname>Allinquant</surname>
+<given-names>B</given-names>
+</name><name>
+<surname>Blanchard</surname>
+<given-names>V</given-names>
+</name><name>
+<surname>Pradier</surname>
+<given-names>L</given-names>
+</name><name>
+<surname>Duyckaerts</surname>
+<given-names>C</given-names>
+</name></person-group>
+<article-title>Subcellular topography of neuronal Abeta peptide in APPxPS1 transgenic
+mice</article-title>
+<source>Am J Pathol</source>
+<year>2004</year>
+<volume>165</volume>
+<fpage>1465</fpage>
+<lpage>1477</lpage>
+<pub-id pub-id-type="pmid">15509518</pub-id>
+</element-citation>
+</ref>
+<ref id="B60">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Lemkul</surname>
+<given-names>JA</given-names>
+</name><name>
+<surname>Bevan</surname>
+<given-names>DR</given-names>
+</name></person-group>
+<article-title>Lipid composition influences the release of Alzheimer's amyloid &#x003b2;-peptide
+from membranes</article-title>
+<source>Protein Sci</source>
+<year>2011</year>
+<volume>20</volume>
+<fpage>1530</fpage>
+<lpage>1545</lpage>
+<pub-id pub-id-type="pmid">21692120</pub-id>
+</element-citation>
+</ref>
+<ref id="B61">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Lesne</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Koh</surname>
+<given-names>MT</given-names>
+</name><name>
+<surname>Kotilinek</surname>
+<given-names>L</given-names>
+</name><name>
+<surname>Kayed</surname>
+<given-names>R</given-names>
+</name><name>
+<surname>Glabe</surname>
+<given-names>CG</given-names>
+</name><name>
+<surname>Yang</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Gallagher</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Ashe</surname>
+<given-names>KH</given-names>
+</name></person-group>
+<article-title>A specific amyloid-beta protein assembly in the brain impairs memory</article-title>
+<source>Nature</source>
+<year>2006</year>
+<volume>440</volume>
+<fpage>352</fpage>
+<lpage>357</lpage>
+<pub-id pub-id-type="pmid">16541076</pub-id>
+</element-citation>
+</ref>
+<ref id="B62">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Lesne</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Kotilinek</surname>
+<given-names>L</given-names>
+</name></person-group>
+<article-title>Amyloid plaques and amyloid-beta oligomers: an ongoing debate</article-title>
+<source>J Neurosci</source>
+<year>2005</year>
+<volume>25</volume>
+<fpage>9319</fpage>
+<lpage>9320</lpage>
+<pub-id pub-id-type="pmid">16221839</pub-id>
+</element-citation>
+</ref>
+<ref id="B63">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Li</surname>
+<given-names>G</given-names>
+</name><name>
+<surname>Rauscher</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Baud</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Pomes</surname>
+<given-names>R</given-names>
+</name></person-group>
+<article-title>Binding of inositol stereoisomers to model amyloidogenic peptides</article-title>
+<source>J Phys Chem B</source>
+<year>2012</year>
+<volume>116</volume>
+<fpage>1111</fpage>
+<lpage>1119</lpage>
+<pub-id pub-id-type="pmid">22091989</pub-id>
+</element-citation>
+</ref>
+<ref id="B64">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Loewen</surname>
+<given-names>CJ</given-names>
+</name><name>
+<surname>Roy</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Levine</surname>
+<given-names>TP</given-names>
+</name></person-group>
+<article-title>A conserved ER targeting motif in three families of lipid binding proteins and in
+Opi1p binds VAP</article-title>
+<source>EMBO J</source>
+<year>2003</year>
+<volume>22</volume>
+<fpage>2025</fpage>
+<lpage>2035</lpage>
+<pub-id pub-id-type="pmid">12727870</pub-id>
+</element-citation>
+</ref>
+<ref id="B65">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Loewy</surname>
+<given-names>BS</given-names>
+</name><name>
+<surname>Henry</surname>
+<given-names>SA</given-names>
+</name></person-group>
+<article-title>The <italic>INO2</italic> and <italic>INO4</italic> loci of <italic>Saccharomyces
+cerevisiae</italic> are pleiotropic regulatory genes</article-title>
+<source>Mol Cell Biol</source>
+<year>1984</year>
+<volume>4</volume>
+<fpage>2479</fpage>
+<lpage>2485</lpage>
+<pub-id pub-id-type="pmid">6392853</pub-id>
+</element-citation>
+</ref>
+<ref id="B71">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Ma</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Thomason</surname>
+<given-names>LA</given-names>
+</name><name>
+<surname>McLaurin</surname>
+<given-names>J</given-names>
+</name></person-group>
+<article-title>scyllo-Inositol, preclinical, and clinical data for Alzheimer's
+disease</article-title>
+<source>Adv Pharmacol</source>
+<year>2012</year>
+<volume>64</volume>
+<fpage>177</fpage>
+<lpage>212</lpage>
+<pub-id pub-id-type="pmid">22840748</pub-id>
+</element-citation>
+</ref>
+<ref id="B66">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Macreadie</surname>
+<given-names>I</given-names>
+</name><name>
+<surname>Lotfi-Miri</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Mohotti</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Shapira</surname>
+<given-names>D</given-names>
+</name><name>
+<surname>Bennett</surname>
+<given-names>L</given-names>
+</name><name>
+<surname>Varghese</surname>
+<given-names>J</given-names>
+</name></person-group>
+<article-title>Validation of folate in a convenient yeast assay suited for identification of
+inhibitors of Alzheimer's amyloid-beta aggregation</article-title>
+<source>J Alzheimers Dis</source>
+<year>2008</year>
+<volume>15</volume>
+<fpage>391</fpage>
+<lpage>396</lpage>
+<pub-id pub-id-type="pmid">18997292</pub-id>
+</element-citation>
+</ref>
+<ref id="B67">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Maltseva</surname>
+<given-names>E</given-names>
+</name><name>
+<surname>Brezesinski</surname>
+<given-names>G</given-names>
+</name></person-group>
+<article-title>Adsorption of amyloid beta (1-40) peptide to phosphatidylethanolamine
+monolayers</article-title>
+<source>Chemphyschem</source>
+<year>2004</year>
+<volume>5</volume>
+<fpage>1185</fpage>
+<lpage>1190</lpage>
+<pub-id pub-id-type="pmid">15446741</pub-id>
+</element-citation>
+</ref>
+<ref id="B68">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Maltseva</surname>
+<given-names>E</given-names>
+</name><name>
+<surname>Kerth</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Blume</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Mohwald</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Brezesinski</surname>
+<given-names>G</given-names>
+</name></person-group>
+<article-title>Adsorption of amyloid beta (1-40) peptide at phospholipid monolayers</article-title>
+<source>Chembiochem</source>
+<year>2005</year>
+<volume>6</volume>
+<fpage>1817</fpage>
+<lpage>1824</lpage>
+<pub-id pub-id-type="pmid">16175542</pub-id>
+</element-citation>
+</ref>
+<ref id="B69">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Manczak</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Anekonda</surname>
+<given-names>TS</given-names>
+</name><name>
+<surname>Henson</surname>
+<given-names>E</given-names>
+</name><name>
+<surname>Park</surname>
+<given-names>BS</given-names>
+</name><name>
+<surname>Quinn</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Reddy</surname>
+<given-names>PH</given-names>
+</name></person-group>
+<article-title>Mitochondria are a direct site of A beta accumulation in Alzheimer's disease neurons:
+implications for free radical generation and oxidative damage in disease progression</article-title>
+<source>Hum Mol Genet</source>
+<year>2006</year>
+<volume>15</volume>
+<fpage>1437</fpage>
+<lpage>1449</lpage>
+<pub-id pub-id-type="pmid">16551656</pub-id>
+</element-citation>
+</ref>
+<ref id="B70">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Masters</surname>
+<given-names>CL</given-names>
+</name><name>
+<surname>Simms</surname>
+<given-names>G</given-names>
+</name><name>
+<surname>Weinman</surname>
+<given-names>NA</given-names>
+</name><name>
+<surname>Multhaup</surname>
+<given-names>G</given-names>
+</name><name>
+<surname>McDonald</surname>
+<given-names>BL</given-names>
+</name><name>
+<surname>Beyreuther</surname>
+<given-names>K</given-names>
+</name></person-group>
+<article-title>Amyloid plaque core protein in Alzheimer disease and Down syndrome</article-title>
+<source>Proc Natl Acad Sci USA</source>
+<year>1985</year>
+<volume>82</volume>
+<fpage>4245</fpage>
+<lpage>4249</lpage>
+<pub-id pub-id-type="pmid">3159021</pub-id>
+</element-citation>
+</ref>
+<ref id="B72">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>McCammon</surname>
+<given-names>MT</given-names>
+</name><name>
+<surname>Epstein</surname>
+<given-names>CB</given-names>
+</name><name>
+<surname>Przybyla-Zawislak</surname>
+<given-names>B</given-names>
+</name><name>
+<surname>McAlister-Henn</surname>
+<given-names>L</given-names>
+</name><name>
+<surname>Butow</surname>
+<given-names>RA</given-names>
+</name></person-group>
+<article-title>Global transcription analysis of Krebs tricarboxylic acid cycle mutants reveals an
+alternating pattern of gene expression and effects on hypoxic and oxidative genes</article-title>
+<source>Mol Biol Cell</source>
+<year>2003</year>
+<volume>14</volume>
+<fpage>958</fpage>
+<lpage>972</lpage>
+<pub-id pub-id-type="pmid">12631716</pub-id>
+</element-citation>
+</ref>
+<ref id="B73">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>McGraw</surname>
+<given-names>P</given-names>
+</name><name>
+<surname>Henry</surname>
+<given-names>SA</given-names>
+</name></person-group>
+<article-title>Mutations in the <italic>Saccharomyces cerevisiae OPI3</italic> gene: effects on
+phospholipid methylation, growth and cross-pathway regulation of inositol synthesis</article-title>
+<source>Genetics</source>
+<year>1989</year>
+<volume>122</volume>
+<fpage>317</fpage>
+<lpage>330</lpage>
+<pub-id pub-id-type="pmid">2670666</pub-id>
+</element-citation>
+</ref>
+<ref id="B75">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>McLaurin</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Franklin</surname>
+<given-names>T</given-names>
+</name><name>
+<surname>Chakrabartty</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Fraser</surname>
+<given-names>PE</given-names>
+</name></person-group>
+<article-title>Phosphatidylinositol and inositol involvement in Alzheimer amyloid-beta fibril growth
+and arrest</article-title>
+<source>J Mol Biol</source>
+<year>1998</year>
+<volume>278</volume>
+<fpage>183</fpage>
+<lpage>194</lpage>
+<pub-id pub-id-type="pmid">9571042</pub-id>
+</element-citation>
+</ref>
+<ref id="B76">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>McLaurin</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Golomb</surname>
+<given-names>R</given-names>
+</name><name>
+<surname>Jurewicz</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Antel</surname>
+<given-names>JP</given-names>
+</name><name>
+<surname>Fraser</surname>
+<given-names>PE</given-names>
+</name></person-group>
+<article-title>Inositol stereoisomers stabilize an oligomeric aggregate of Alzheimer amyloid beta
+peptide and inhibit abeta-induced toxicity</article-title>
+<source>J Biol Chem</source>
+<year>2000</year>
+<volume>275</volume>
+<fpage>18495</fpage>
+<lpage>18502</lpage>
+<pub-id pub-id-type="pmid">10764800</pub-id>
+</element-citation>
+</ref>
+<ref id="B74">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>McLaurin</surname>
+<given-names>J</given-names>
+</name><etal/></person-group>
+<article-title>Cyclohexanehexol inhibitors of Abeta aggregation prevent and reverse Alzheimer
+phenotype in a mouse model</article-title>
+<source>Nat Med</source>
+<year>2006</year>
+<volume>12</volume>
+<fpage>801</fpage>
+<lpage>808</lpage>
+<pub-id pub-id-type="pmid">16767098</pub-id>
+</element-citation>
+</ref>
+<ref id="B77">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Morell</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>de Groot</surname>
+<given-names>NS</given-names>
+</name><name>
+<surname>Vendrell</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Aviles</surname>
+<given-names>FX</given-names>
+</name><name>
+<surname>Ventura</surname>
+<given-names>S</given-names>
+</name></person-group>
+<article-title>Linking amyloid protein aggregation and yeast survival</article-title>
+<source>Mol Biosyst</source>
+<year>2011</year>
+<volume>7</volume>
+<fpage>1121</fpage>
+<lpage>1128</lpage>
+<pub-id pub-id-type="pmid">21240401</pub-id>
+</element-citation>
+</ref>
+<ref id="B78">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Naiki</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Nakakuki</surname>
+<given-names>K</given-names>
+</name></person-group>
+<article-title>First-order kinetic model of Alzheimer's beta-amyloid fibril extension in
+vitro</article-title>
+<source>Lab Invest</source>
+<year>1996</year>
+<volume>74</volume>
+<fpage>374</fpage>
+<lpage>383</lpage>
+<pub-id pub-id-type="pmid">8780157</pub-id>
+</element-citation>
+</ref>
+<ref id="B79">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Nitsch</surname>
+<given-names>RM</given-names>
+</name><name>
+<surname>Blusztajn</surname>
+<given-names>JK</given-names>
+</name><name>
+<surname>Pittas</surname>
+<given-names>AG</given-names>
+</name><name>
+<surname>Slack</surname>
+<given-names>BE</given-names>
+</name><name>
+<surname>Growdon</surname>
+<given-names>JH</given-names>
+</name><name>
+<surname>Wurtman</surname>
+<given-names>RJ</given-names>
+</name></person-group>
+<article-title>Evidence for a membrane defect in Alzheimer disease brain</article-title>
+<source>Proc Natl Acad Sci USA</source>
+<year>1992</year>
+<volume>89</volume>
+<fpage>1671</fpage>
+<lpage>1675</lpage>
+<pub-id pub-id-type="pmid">1311847</pub-id>
+</element-citation>
+</ref>
+<ref id="B80">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Oh</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Hong</surname>
+<given-names>HS</given-names>
+</name><name>
+<surname>Hwang</surname>
+<given-names>E</given-names>
+</name><name>
+<surname>Sim</surname>
+<given-names>HJ</given-names>
+</name><name>
+<surname>Lee</surname>
+<given-names>W</given-names>
+</name><name>
+<surname>Shin</surname>
+<given-names>SJ</given-names>
+</name><name>
+<surname>Mook-Jung</surname>
+<given-names>I</given-names>
+</name></person-group>
+<article-title>Amyloid peptide attenuates the proteasome activity in neuronal cells</article-title>
+<source>Mech Ageing Dev</source>
+<year>2005</year>
+<volume>126</volume>
+<fpage>1292</fpage>
+<lpage>1299</lpage>
+<pub-id pub-id-type="pmid">16153690</pub-id>
+</element-citation>
+</ref>
+<ref id="B81">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Outeiro</surname>
+<given-names>TF</given-names>
+</name><name>
+<surname>Lindquist</surname>
+<given-names>S</given-names>
+</name></person-group>
+<article-title>Yeast cells provide insight into alpha-synuclein biology and
+pathobiology</article-title>
+<source>Science</source>
+<year>2003</year>
+<volume>302</volume>
+<fpage>1772</fpage>
+<lpage>1775</lpage>
+<pub-id pub-id-type="pmid">14657500</pub-id>
+</element-citation>
+</ref>
+<ref id="B82">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Park</surname>
+<given-names>SK</given-names>
+</name><name>
+<surname>Pegan</surname>
+<given-names>SD</given-names>
+</name><name>
+<surname>Mesecar</surname>
+<given-names>AD</given-names>
+</name><name>
+<surname>Jungbauer</surname>
+<given-names>LM</given-names>
+</name><name>
+<surname>LaDu</surname>
+<given-names>MJ</given-names>
+</name><name>
+<surname>Liebman</surname>
+<given-names>SW</given-names>
+</name></person-group>
+<article-title>Development and validation of a yeast high-throughput screen for inhibitors of
+Abeta(4)(2) oligomerization</article-title>
+<source>Dis Model Mech</source>
+<year>2011</year>
+<volume>4</volume>
+<fpage>822</fpage>
+<lpage>831</lpage>
+<pub-id pub-id-type="pmid">21810907</pub-id>
+</element-citation>
+</ref>
+<ref id="B83">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Rosenberger</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Connerth</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Zellnig</surname>
+<given-names>G</given-names>
+</name><name>
+<surname>Daum</surname>
+<given-names>G</given-names>
+</name></person-group>
+<article-title>Phosphatidylethanolamine synthesized by three different pathways is supplied to
+peroxisomes of the yeast <italic>Saccharomyces cerevisiae</italic></article-title>
+<source>Biochim Biophys Acta</source>
+<year>2009</year>
+<volume>1791</volume>
+<fpage>379</fpage>
+<lpage>387</lpage>
+<pub-id pub-id-type="pmid">19830909</pub-id>
+</element-citation>
+</ref>
+<ref id="B84">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Seilheimer</surname>
+<given-names>B</given-names>
+</name><name>
+<surname>Bohrmann</surname>
+<given-names>B</given-names>
+</name><name>
+<surname>Bondolfi</surname>
+<given-names>L</given-names>
+</name><name>
+<surname>Muller</surname>
+<given-names>F</given-names>
+</name><name>
+<surname>Stuber</surname>
+<given-names>D</given-names>
+</name><name>
+<surname>Dobeli</surname>
+<given-names>H</given-names>
+</name></person-group>
+<article-title>The toxicity of the Alzheimer's beta-amyloid peptide correlates with a distinct fiber
+morphology</article-title>
+<source>J Struct Biol</source>
+<year>1997</year>
+<volume>119</volume>
+<fpage>59</fpage>
+<lpage>71</lpage>
+<pub-id pub-id-type="pmid">9216088</pub-id>
+</element-citation>
+</ref>
+<ref id="B85">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Selkoe</surname>
+<given-names>DJ</given-names>
+</name></person-group>
+<article-title>Amyloid protein and Alzheimer's disease</article-title>
+<source>Sci Am</source>
+<year>1991</year>
+<volume>265</volume>
+<fpage>78</fpage>
+<comment>68&#x02013;71, 74&#x02013;66</comment>
+<pub-id pub-id-type="pmid">1862333</pub-id>
+</element-citation>
+</ref>
+<ref id="B86">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Selley</surname>
+<given-names>ML</given-names>
+</name></person-group>
+<article-title>A metabolic link between <italic>S</italic>-adenosylhomocysteine and polyunsaturated
+fatty acid metabolism in Alzheimer's disease</article-title>
+<source>Neurobiol Aging</source>
+<year>2007</year>
+<volume>28</volume>
+<fpage>1834</fpage>
+<lpage>1839</lpage>
+<pub-id pub-id-type="pmid">16996649</pub-id>
+</element-citation>
+</ref>
+<ref id="B88">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Shi</surname>
+<given-names>Q</given-names>
+</name><name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Yu</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</name><name>
+<surname>Ye</surname>
+<given-names>Y</given-names>
+</name><name>
+<surname>Estevez</surname>
+<given-names>AG</given-names>
+</name><name>
+<surname>Deng</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Gibson</surname>
+<given-names>GE</given-names>
+</name></person-group>
+<article-title>Inactivation and reactivation of the mitochondrial alpha-ketoglutarate dehydrogenase
+complex</article-title>
+<source>J Biol Chem</source>
+<year>2011</year>
+<volume>286</volume>
+<fpage>17640</fpage>
+<lpage>17648</lpage>
+<pub-id pub-id-type="pmid">21454586</pub-id>
+</element-citation>
+</ref>
+<ref id="B87">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Shimohama</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Tanino</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Sumida</surname>
+<given-names>Y</given-names>
+</name><name>
+<surname>Tsuda</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Fujimoto</surname>
+<given-names>S</given-names>
+</name></person-group>
+<article-title>Alteration of myo-inositol monophosphatase in Alzheimer's disease
+brains</article-title>
+<source>Neurosci Lett</source>
+<year>1998</year>
+<volume>245</volume>
+<fpage>159</fpage>
+<lpage>162</lpage>
+<pub-id pub-id-type="pmid">9605480</pub-id>
+</element-citation>
+</ref>
+<ref id="B89">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Silva</surname>
+<given-names>DF</given-names>
+</name><name>
+<surname>Esteves</surname>
+<given-names>AR</given-names>
+</name><name>
+<surname>Oliveira</surname>
+<given-names>CR</given-names>
+</name><name>
+<surname>Cardoso</surname>
+<given-names>SM</given-names>
+</name></person-group>
+<article-title>Mitochondria: the common upstream driver of amyloid-beta and tau pathology in
+Alzheimer's disease</article-title>
+<source>Curr Alzheimer Res</source>
+<year>2011</year>
+<volume>8</volume>
+<fpage>563</fpage>
+<lpage>572</lpage>
+<pub-id pub-id-type="pmid">21244356</pub-id>
+</element-citation>
+</ref>
+<ref id="B90">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Simmons</surname>
+<given-names>LK</given-names>
+</name><etal/></person-group>
+<article-title>Secondary structure of amyloid beta peptide correlates with neurotoxic activity in
+vitro</article-title>
+<source>Mol Pharmacol</source>
+<year>1994</year>
+<volume>45</volume>
+<fpage>373</fpage>
+<lpage>379</lpage>
+<pub-id pub-id-type="pmid">8145724</pub-id>
+</element-citation>
+</ref>
+<ref id="B91">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Summers</surname>
+<given-names>EF</given-names>
+</name><name>
+<surname>Letts</surname>
+<given-names>VA</given-names>
+</name><name>
+<surname>McGraw</surname>
+<given-names>P</given-names>
+</name><name>
+<surname>Henry</surname>
+<given-names>SA</given-names>
+</name></person-group>
+<article-title><italic>Saccharomyces cerevisiae cho2</italic> mutants are deficient in phospholipid
+methylation and cross-pathway regulation of inositol synthesis</article-title>
+<source>Genetics</source>
+<year>1988</year>
+<volume>120</volume>
+<fpage>909</fpage>
+<lpage>922</lpage>
+<pub-id pub-id-type="pmid">3066687</pub-id>
+</element-citation>
+</ref>
+<ref id="B92">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Tajima</surname>
+<given-names>Y</given-names>
+</name><etal/></person-group>
+<article-title>Lipidomic analysis of brain tissues and plasma in a mouse model expressing mutated
+human amyloid precursor protein/tau for Alzheimer's disease</article-title>
+<source>Lipids Health Dis</source>
+<year>2013</year>
+<volume>12</volume>
+<fpage>68</fpage>
+<pub-id pub-id-type="pmid">23659495</pub-id>
+</element-citation>
+</ref>
+<ref id="B93">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Takahashi</surname>
+<given-names>RH</given-names>
+</name><name>
+<surname>Milner</surname>
+<given-names>TA</given-names>
+</name><name>
+<surname>Li</surname>
+<given-names>F</given-names>
+</name><name>
+<surname>Nam</surname>
+<given-names>EE</given-names>
+</name><name>
+<surname>Edgar</surname>
+<given-names>MA</given-names>
+</name><name>
+<surname>Yamaguchi</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Beal</surname>
+<given-names>MF</given-names>
+</name><name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Greengard</surname>
+<given-names>P</given-names>
+</name><name>
+<surname>Gouras</surname>
+<given-names>GK</given-names>
+</name></person-group>
+<article-title>Intraneuronal Alzheimer abeta42 accumulates in multivesicular bodies and is
+associated with synaptic pathology</article-title>
+<source>Am J Pathol</source>
+<year>2002</year>
+<volume>161</volume>
+<fpage>1869</fpage>
+<lpage>1879</lpage>
+<pub-id pub-id-type="pmid">12414533</pub-id>
+</element-citation>
+</ref>
+<ref id="B94">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Terzi</surname>
+<given-names>E</given-names>
+</name><name>
+<surname>Holzemann</surname>
+<given-names>G</given-names>
+</name><name>
+<surname>Seelig</surname>
+<given-names>J</given-names>
+</name></person-group>
+<article-title>Interaction of Alzheimer beta-amyloid peptide(1-40) with lipid
+membranes</article-title>
+<source>Biochemistry</source>
+<year>1997</year>
+<volume>36</volume>
+<fpage>14845</fpage>
+<lpage>14852</lpage>
+<pub-id pub-id-type="pmid">9398206</pub-id>
+</element-citation>
+</ref>
+<ref id="B95">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Traven</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Wong</surname>
+<given-names>JM</given-names>
+</name><name>
+<surname>Xu</surname>
+<given-names>D</given-names>
+</name><name>
+<surname>Sopta</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Ingles</surname>
+<given-names>CJ</given-names>
+</name></person-group>
+<article-title>Interorganellar communication. Altered nuclear gene expression profiles in a yeast
+mitochondrial DNA mutant</article-title>
+<source>J Biol Chem</source>
+<year>2001</year>
+<volume>276</volume>
+<fpage>4020</fpage>
+<lpage>4027</lpage>
+<pub-id pub-id-type="pmid">11054416</pub-id>
+</element-citation>
+</ref>
+<ref id="B96">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Treusch</surname>
+<given-names>S</given-names>
+</name><etal/></person-group>
+<article-title>Functional links between Abeta toxicity, endocytic trafficking, and Alzheimer's
+disease risk factors in yeast</article-title>
+<source>Science</source>
+<year>2011</year>
+<volume>334</volume>
+<fpage>1241</fpage>
+<lpage>1245</lpage>
+<pub-id pub-id-type="pmid">22033521</pub-id>
+</element-citation>
+</ref>
+<ref id="B97">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Tzagoloff</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Dieckmann</surname>
+<given-names>CL</given-names>
+</name></person-group>
+<article-title><italic>PET</italic> genes of <italic>Saccharomyces
+cerevisiae</italic></article-title>
+<source>Microbiol Rev</source>
+<year>1990</year>
+<volume>54</volume>
+<fpage>211</fpage>
+<lpage>225</lpage>
+<pub-id pub-id-type="pmid">2215420</pub-id>
+</element-citation>
+</ref>
+<ref id="B98">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Vandebroek</surname>
+<given-names>T</given-names>
+</name><name>
+<surname>Terwel</surname>
+<given-names>D</given-names>
+</name><name>
+<surname>Vanhelmont</surname>
+<given-names>T</given-names>
+</name><name>
+<surname>Gysemans</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Van Haesendonck</surname>
+<given-names>C</given-names>
+</name><name>
+<surname>Engelborghs</surname>
+<given-names>Y</given-names>
+</name><name>
+<surname>Winderickx</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Van Leuven</surname>
+<given-names>F</given-names>
+</name></person-group>
+<article-title>Microtubule binding and clustering of human Tau-4R and Tau-P301L proteins isolated
+from yeast deficient in orthologues of glycogen synthase kinase-3beta or cdk5</article-title>
+<source>J Biol Chem</source>
+<year>2006</year>
+<volume>281</volume>
+<fpage>25388</fpage>
+<lpage>25397</lpage>
+<pub-id pub-id-type="pmid">16818492</pub-id>
+</element-citation>
+</ref>
+<ref id="B99">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Vandebroek</surname>
+<given-names>T</given-names>
+</name><name>
+<surname>Vanhelmont</surname>
+<given-names>T</given-names>
+</name><name>
+<surname>Terwel</surname>
+<given-names>D</given-names>
+</name><name>
+<surname>Borghgraef</surname>
+<given-names>P</given-names>
+</name><name>
+<surname>Lemaire</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Snauwaert</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Wera</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Van Leuven</surname>
+<given-names>F</given-names>
+</name><name>
+<surname>Winderickx</surname>
+<given-names>J</given-names>
+</name></person-group>
+<article-title>Identification and isolation of a hyperphosphorylated, conformationally changed
+intermediate of human protein tau expressed in yeast</article-title>
+<source>Biochemistry</source>
+<year>2005</year>
+<volume>44</volume>
+<fpage>11466</fpage>
+<lpage>11475</lpage>
+<pub-id pub-id-type="pmid">16114883</pub-id>
+</element-citation>
+</ref>
+<ref id="B100">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Vanhelmont</surname>
+<given-names>T</given-names>
+</name><name>
+<surname>Vandebroek</surname>
+<given-names>T</given-names>
+</name><name>
+<surname>De Vos</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Terwel</surname>
+<given-names>D</given-names>
+</name><name>
+<surname>Lemaire</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Anandhakumar</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Franssens</surname>
+<given-names>V</given-names>
+</name><name>
+<surname>Swinnen</surname>
+<given-names>E</given-names>
+</name><name>
+<surname>Van Leuven</surname>
+<given-names>F</given-names>
+</name><name>
+<surname>Winderickx</surname>
+<given-names>J</given-names>
+</name></person-group>
+<article-title>Serine-409 phosphorylation and oxidative damage define aggregation of human protein
+tau in yeast</article-title>
+<source>FEMS Yeast Res</source>
+<year>2010</year>
+<volume>10</volume>
+<fpage>992</fpage>
+<lpage>1005</lpage>
+<pub-id pub-id-type="pmid">20662935</pub-id>
+</element-citation>
+</ref>
+<ref id="B101">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Villar-Pique</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Ventura</surname>
+<given-names>S</given-names>
+</name></person-group>
+<article-title>Protein aggregation propensity is a crucial determinant of intracellular inclusion
+formation and quality control degradation</article-title>
+<source>Biochim Biophys Acta</source>
+<year>2013</year>
+<volume>1833</volume>
+<fpage>2714</fpage>
+<lpage>2724</lpage>
+<pub-id pub-id-type="pmid">23856334</pub-id>
+</element-citation>
+</ref>
+<ref id="B102">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Waldo</surname>
+<given-names>GS</given-names>
+</name><name>
+<surname>Standish</surname>
+<given-names>BM</given-names>
+</name><name>
+<surname>Berendzen</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Terwilliger</surname>
+<given-names>TC</given-names>
+</name></person-group>
+<article-title>Rapid protein-folding assay using green fluorescent protein</article-title>
+<source>Nat Biotechnol</source>
+<year>1999</year>
+<volume>17</volume>
+<fpage>691</fpage>
+<lpage>695</lpage>
+<pub-id pub-id-type="pmid">10404163</pub-id>
+</element-citation>
+</ref>
+<ref id="B103">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Willingham</surname>
+<given-names>S</given-names>
+</name><name>
+<surname>Outeiro</surname>
+<given-names>TF</given-names>
+</name><name>
+<surname>DeVit</surname>
+<given-names>MJ</given-names>
+</name><name>
+<surname>Lindquist</surname>
+<given-names>SL</given-names>
+</name><name>
+<surname>Muchowski</surname>
+<given-names>PJ</given-names>
+</name></person-group>
+<article-title>Yeast genes that enhance the toxicity of a mutant huntingtin fragment or
+alpha-synuclein</article-title>
+<source>Science</source>
+<year>2003</year>
+<volume>302</volume>
+<fpage>1769</fpage>
+<lpage>1772</lpage>
+<pub-id pub-id-type="pmid">14657499</pub-id>
+</element-citation>
+</ref>
+<ref id="B104">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Winderickx</surname>
+<given-names>J</given-names>
+</name><name>
+<surname>Delay</surname>
+<given-names>C</given-names>
+</name><name>
+<surname>De Vos</surname>
+<given-names>A</given-names>
+</name><name>
+<surname>Klinger</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Pellens</surname>
+<given-names>K</given-names>
+</name><name>
+<surname>Vanhelmont</surname>
+<given-names>T</given-names>
+</name><name>
+<surname>Van Leuven</surname>
+<given-names>F</given-names>
+</name><name>
+<surname>Zabrocki</surname>
+<given-names>P</given-names>
+</name></person-group>
+<article-title>Protein folding diseases and neurodegeneration: lessons learned from
+yeast</article-title>
+<source>Biochim Biophys Acta</source>
+<year>2008</year>
+<volume>1783</volume>
+<fpage>1381</fpage>
+<lpage>1395</lpage>
+<pub-id pub-id-type="pmid">18298958</pub-id>
+</element-citation>
+</ref>
+<ref id="B105">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Winzeler</surname>
+<given-names>EA</given-names>
+</name><etal/></person-group>
+<article-title>Functional characterization of the <italic>S. cerevisiae</italic> genome by gene
+deletion and parallel analysis</article-title>
+<source>Science</source>
+<year>1999</year>
+<volume>285</volume>
+<fpage>901</fpage>
+<lpage>906</lpage>
+<pub-id pub-id-type="pmid">10436161</pub-id>
+</element-citation>
+</ref>
+<ref id="B106">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Wurth</surname>
+<given-names>C</given-names>
+</name><name>
+<surname>Guimard</surname>
+<given-names>NK</given-names>
+</name><name>
+<surname>Hecht</surname>
+<given-names>MH</given-names>
+</name></person-group>
+<article-title>Mutations that reduce aggregation of the Alzheimer's Abeta42 peptide: an unbiased
+search for the sequence determinants of Abeta amyloidogenesis</article-title>
+<source>J Mol Biol</source>
+<year>2002</year>
+<volume>319</volume>
+<fpage>1279</fpage>
+<lpage>1290</lpage>
+<pub-id pub-id-type="pmid">12079364</pub-id>
+</element-citation>
+</ref>
+<ref id="B107">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Younkin</surname>
+<given-names>SG</given-names>
+</name></person-group>
+<article-title>The role of Abeta 42 in Alzheimer's disease</article-title>
+<source>J Physiol</source>
+<year>1998</year>
+<volume>92</volume>
+<fpage>289</fpage>
+<lpage>292</lpage>
+</element-citation>
+</ref>
+<ref id="B108">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</name><name>
+<surname>Espinoza</surname>
+<given-names>D</given-names>
+</name><name>
+<surname>Hines</surname>
+<given-names>V</given-names>
+</name><name>
+<surname>Innis</surname>
+<given-names>M</given-names>
+</name><name>
+<surname>Mehta</surname>
+<given-names>P</given-names>
+</name><name>
+<surname>Miller</surname>
+<given-names>DL</given-names>
+</name></person-group>
+<article-title>Characterization of beta-amyloid peptide precursor processing by the yeast Yap3 and
+Mkc7 proteases</article-title>
+<source>Biochim Biophys Acta</source>
+<year>1997</year>
+<volume>1359</volume>
+<fpage>110</fpage>
+<lpage>122</lpage>
+<pub-id pub-id-type="pmid">9409808</pub-id>
+</element-citation>
+</ref>
+<ref id="B109">
+<element-citation publication-type="journal">
+<person-group person-group-type="author"><name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Komano</surname>
+<given-names>H</given-names>
+</name><name>
+<surname>Fuller</surname>
+<given-names>RS</given-names>
+</name><name>
+<surname>Gandy</surname>
+<given-names>SE</given-names>
+</name><name>
+<surname>Frail</surname>
+<given-names>DE</given-names>
+</name></person-group>
+<article-title>Proteolytic processing and secretion of human beta-amyloid precursor protein in
+yeast. Evidence for a yeast secretase activity</article-title>
+<source>J Biol Chem</source>
+<year>1994</year>
+<volume>269</volume>
+<fpage>27799</fpage>
+<lpage>27802</lpage>
+<pub-id pub-id-type="pmid">7961704</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

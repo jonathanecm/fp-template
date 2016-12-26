@@ -1,0 +1,94 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="letter"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Am J Trop Med Hyg</journal-id><journal-id journal-id-type="iso-abbrev">Am. J. Trop. Med. Hyg</journal-id><journal-id journal-id-type="publisher-id">tpmd</journal-id><journal-title-group><journal-title>The American Journal of Tropical Medicine and Hygiene</journal-title></journal-title-group><issn pub-type="ppub">0002-9637</issn><issn pub-type="epub">1476-1645</issn><publisher><publisher-name>The American Society of Tropical Medicine and Hygiene</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25473067</article-id><article-id pub-id-type="pmc">4257661</article-id><article-id pub-id-type="doi">10.4269/ajtmh.14-0507</article-id><article-categories><subj-group subj-group-type="heading"><subject>Letters to the Editor</subject></subj-group></article-categories><title-group><article-title>Note on the Origin of the Madagascar Strain of <italic>Plasmodium vivax</italic></article-title><alt-title alt-title-type="left-running-head">LOVER</alt-title><alt-title alt-title-type="right-running-head">LETTER TO THE EDITOR</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Lover</surname><given-names>Andrew A.</given-names></name></contrib></contrib-group><aff id="AFF1">Infectious Diseases Programme, Saw Swee Hock School of Public Health, National University of Singapore, Singapore, E-mail: <email>andrew.a.lover@gmail.com</email> or <email>ephaal@nus.edu.sg</email></aff><pub-date pub-type="ppub"><day>03</day><month>12</month><year>2014</year></pub-date><pub-date pub-type="pmc-release"><day>03</day><month>12</month><year>2014</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the
+							<pub-date pub-type="ppub"/>. --><volume>91</volume><issue>6</issue><fpage>1283</fpage><lpage>1283</lpage><permissions><copyright-statement>&#x000a9;The American Society of Tropical Medicine and Hygiene</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access"><license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions></article-meta></front><body><p>Dear Sir:</p><p>Recent studies have established the potential for strains of <italic>Plasmodium vivax</italic> in Madagascar to infect Duffy-negative populations,<xref rid="R1" ref-type="bibr">1</xref> and polymerase chain reaction (PCR)-based screening suggests a previously unrecognized burden of this parasite in sub-Saharan Africa.<xref rid="R2" ref-type="bibr">2</xref></p><p>There is a dearth of data concerning any <italic>P. vivax</italic> parasites from Africa; however, one of the most widely studied strains used during the malariotherapy era was the Madagascar strain, used at the Horton Hospital research site in the UK from 1923 to ca. 1970. This isolate has been the subject of extensive studies,<xref rid="R3" ref-type="bibr">3</xref>,<xref rid="R4" ref-type="bibr">4</xref> but there has been considerable debate about the geographic origin of this strain, and two recent papers specifically suggest the origin may well be elsewhere.<xref rid="R5" ref-type="bibr">5</xref>,<xref rid="R6" ref-type="bibr">6</xref></p><p>However, further detail is provided in the work of Percy G. Shute, the clinician and malariologist who personally interviewed and treated the index patient for this strain. In his comprehensive report (which is not readily available) related to this clinical isolate, he states:<disp-quote><p>&#x0201c;The precise locality in Madagascar where the Indian seaman contracted the infection is impossible to determine. Ten days after his ship had left Madagascar, on the passage to England, he developed fever, but malaria was not diagnosed until he arrived at Tilbury (Port of London). He was then found to be suffering from a quotidian fever with temperatures rising to 40&#x000b0;&#x02013;41&#x000b0;C. He gave no previous history of malaria and this attack was unlikely to have been a relapse for the reason that his paroxysms occured [sic] daily, as in a primary attack; whereas the fever in relapses is tertian from the start. For these reasons, it is most probable that the designation &#x000ab;Madagascar strain&#x000bb; is geographically correct.&#x0201d;<xref rid="R7" ref-type="bibr">7</xref></p></disp-quote></p><p>These suggested differences in fever periodicity between primary infections and relapses are strongly supported by other clinicians in a range of settings,<xref rid="R8" ref-type="bibr">8</xref>,<xref rid="R9" ref-type="bibr">9</xref> and this clinical behavior is likely a result of the slow establishment of well-synchronized parasite subpopulations within primary infections,<xref rid="R10" ref-type="bibr">10</xref> in contrast to the emergence of clonal hypnozoites during relapses.<xref rid="R11" ref-type="bibr">11</xref></p><p>These observations strongly suggest that the wealth of irreplaceable clinical and epidemiological data collected during malariotherapy treatments with the Madagascar strain have important and critical use, and should be combined with modern phylogenetic and molecular studies<xref rid="R12" ref-type="bibr">12</xref>,<xref rid="R13" ref-type="bibr">13</xref> to inform a research agenda into the epidemiology of African <italic>P. vivax</italic>.</p></body><back><ack><title>ACKNOWLEDGMENTS</title></ack><ref-list><ref id="R1"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>M&#x000e9;nard</surname><given-names>D</given-names></name><name><surname>Barnadas</surname><given-names>C</given-names></name><name><surname>Bouchier</surname><given-names>C</given-names></name><name><surname>Henry-Halldin</surname><given-names>C</given-names></name><name><surname>Gray</surname><given-names>LR</given-names></name><name><surname>Ratsimbasoa</surname><given-names>A</given-names></name><name><surname>Thonier</surname><given-names>V</given-names></name><name><surname>Carod</surname><given-names>J-F</given-names></name><name><surname>Domarle</surname><given-names>O</given-names></name><name><surname>Colin</surname><given-names>Y</given-names></name><name><surname>Bertrand</surname><given-names>O</given-names></name><name><surname>Picot</surname><given-names>J</given-names></name><name><surname>King</surname><given-names>CL</given-names></name><name><surname>Grimberg</surname><given-names>BT</given-names></name><name><surname>Mercereau-Puijalon</surname><given-names>O</given-names></name><name><surname>Zimmerman</surname><given-names>PA</given-names></name></person-group>
+<year>2010</year>
+<article-title><italic>Plasmodium vivax</italic> clinical malaria is commonly observed in Duffy-negative Malagasy people</article-title>
+<source>Proc Natl Acad Sci USA</source>
+<volume>107</volume>
+<fpage>5967</fpage>
+<lpage>5971</lpage><pub-id pub-id-type="pmid">20231434</pub-id></element-citation></ref><ref id="R2"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fru-Cho</surname><given-names>J</given-names></name><name><surname>Bumah</surname><given-names>VV</given-names></name><name><surname>Safeukui</surname><given-names>I</given-names></name><name><surname>Nkuo-Akenji</surname><given-names>T</given-names></name><name><surname>Titanji</surname><given-names>VP</given-names></name><name><surname>Haldar</surname><given-names>K</given-names></name></person-group>
+<year>2014</year>
+<article-title>Molecular typing reveals substantial <italic>Plasmodium vivax</italic> infection in asymptomatic adults in a rural area of Cameroon</article-title>
+<source>Malar J</source>
+<volume>13</volume>
+<fpage>e170</fpage></element-citation></ref><ref id="R3"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>James</surname><given-names>SP</given-names></name><name><surname>Nichol</surname><given-names>WD</given-names></name><name><surname>Shute</surname><given-names>PG</given-names></name></person-group>
+<year>1936</year>
+<article-title>Clinical and parasitological observations on induced malaria</article-title>
+<source>Proc R Soc Med</source>
+<volume>29</volume>
+<fpage>879</fpage>
+<lpage>894</lpage><pub-id pub-id-type="pmid">19990731</pub-id></element-citation></ref><ref id="R4"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Glynn</surname><given-names>J</given-names></name><name><surname>Bradley</surname><given-names>D</given-names></name></person-group>
+<year>1995</year>
+<article-title>Inoculum size, incubation period and severity of malaria. Analysis of data from malaria therapy records</article-title>
+<source>Parasitol-Camb</source>
+<volume>110</volume>
+<fpage>7</fpage>
+<lpage>19</lpage></element-citation></ref><ref id="R5"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baird</surname><given-names>JK</given-names></name></person-group>
+<year>2013</year>
+<article-title>Evidence and implications of mortality associated with acute <italic>Plasmodium vivax</italic> malaria</article-title>
+<source>Clin Microbiol Rev</source>
+<volume>26</volume>
+<fpage>36</fpage>
+<lpage>57</lpage><pub-id pub-id-type="pmid">23297258</pub-id></element-citation></ref><ref id="R6"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Battle</surname><given-names>KE</given-names></name><name><surname>Karhunen</surname><given-names>MS</given-names></name><name><surname>Bhatt</surname><given-names>S</given-names></name><name><surname>Gething</surname><given-names>PW</given-names></name><name><surname>Howes</surname><given-names>RE</given-names></name><name><surname>Golding</surname><given-names>N</given-names></name><name><surname>Boeckel</surname><given-names>TP</given-names></name><name><surname>Messina</surname><given-names>JP</given-names></name><name><surname>Shanks</surname><given-names>GD</given-names></name><name><surname>Smith</surname><given-names>DL</given-names></name><name><surname>Baird</surname><given-names>JK</given-names></name><name><surname>Hay</surname><given-names>SI</given-names></name></person-group>
+<year>2014</year>
+<article-title>Geographical variation in <italic>Plasmodium vivax</italic> relapse</article-title>
+<source>Malar J</source>
+<volume>13</volume>
+<fpage>e144</fpage></element-citation></ref><ref id="R7"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shute</surname><given-names>PG</given-names></name><name><surname>Garnham</surname><given-names>PCC</given-names></name><name><surname>Maryon</surname><given-names>M</given-names></name></person-group>
+<year>1978</year>
+<article-title>The Madagascar strain of <italic>Plasmodium vivax</italic></article-title>
+<source>Arch Inst Pasteur Madagascar</source>
+<volume>47</volume>
+<fpage>173</fpage>
+<lpage>183</lpage><pub-id pub-id-type="pmid">7016054</pub-id></element-citation></ref><ref id="R8"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Covell</surname><given-names>G</given-names></name><name><surname>Nicol</surname><given-names>WD</given-names></name></person-group>
+<year>1951</year>
+<article-title>Clinical, chemotherapeutic and immunological studies on induced malaria</article-title>
+<source>Br Med Bull</source>
+<volume>8</volume>
+<fpage>51</fpage>
+<lpage>55</lpage><pub-id pub-id-type="pmid">14944815</pub-id></element-citation></ref><ref id="R9"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adak</surname><given-names>T</given-names></name><name><surname>Valecha</surname><given-names>N</given-names></name><name><surname>Sharma</surname><given-names>VP</given-names></name></person-group>
+<year>2001</year>
+<article-title><italic>Plasmodium vivax</italic> polymorphism in a clinical drug trial</article-title>
+<source>Clin Diagn Lab Immunol</source>
+<volume>8</volume>
+<fpage>891</fpage>
+<lpage>894</lpage><pub-id pub-id-type="pmid">11527798</pub-id></element-citation></ref><ref id="R10"><label>10.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Sinden</surname><given-names>RE</given-names></name><name><surname>Gilles</surname><given-names>HM</given-names></name></person-group>
+<year>2002</year>
+<article-title>The malaria parasites</article-title>
+<person-group person-group-type="editor"><name><surname>Warrell</surname><given-names>DA</given-names></name><name><surname>Gilles</surname><given-names>HM</given-names></name></person-group>
+<source>Essential Malariology</source><edition>Fourth edition</edition>
+<publisher-loc>London, UK</publisher-loc>
+<publisher-name>Hodder Arnold Publishers</publisher-name>
+<fpage>8</fpage>
+<lpage>34</lpage></element-citation></ref><ref id="R11"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>N</given-names></name><name><surname>Auliff</surname><given-names>A</given-names></name><name><surname>Rieckmann</surname><given-names>K</given-names></name><name><surname>Gatton</surname><given-names>M</given-names></name><name><surname>Cheng</surname><given-names>Q</given-names></name></person-group>
+<year>2007</year>
+<article-title>Relapses of <italic>Plasmodium vivax</italic> infection result from clonal hypnozoites activated at predetermined intervals</article-title>
+<source>J Infect Dis</source>
+<volume>195</volume>
+<fpage>934</fpage>
+<lpage>941</lpage><pub-id pub-id-type="pmid">17330782</pub-id></element-citation></ref><ref id="R12"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Neafsey</surname><given-names>DE</given-names></name><name><surname>Galinsky</surname><given-names>K</given-names></name><name><surname>Jiang</surname><given-names>RH</given-names></name><name><surname>Young</surname><given-names>L</given-names></name><name><surname>Sykes</surname><given-names>SM</given-names></name><name><surname>Saif</surname><given-names>S</given-names></name><name><surname>Gujja</surname><given-names>S</given-names></name><name><surname>Goldberg</surname><given-names>JM</given-names></name><name><surname>Young</surname><given-names>S</given-names></name><name><surname>Zeng</surname><given-names>Q</given-names></name></person-group>
+<year>2012</year>
+<article-title>The malaria parasite <italic>Plasmodium vivax</italic> exhibits greater genetic diversity than <italic>Plasmodium falciparum</italic></article-title>
+<source>Nat Genet</source>
+<volume>44</volume>
+<fpage>1046</fpage>
+<lpage>1050</lpage><pub-id pub-id-type="pmid">22863733</pub-id></element-citation></ref><ref id="R13"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Collins</surname><given-names>WE</given-names></name><name><surname>Wirtz</surname><given-names>RA</given-names></name><name><surname>Rathore</surname><given-names>D</given-names></name><name><surname>Lal</surname><given-names>A</given-names></name><name><surname>McCutchan</surname><given-names>TF</given-names></name></person-group>
+<year>2001</year>
+<article-title>Geographic subdivision of the range of the malaria parasite <italic>Plasmodium vivax</italic></article-title>
+<source>Emerg Infect Dis</source>
+<volume>7</volume>
+<fpage>35</fpage>
+<lpage>42</lpage><pub-id pub-id-type="pmid">11266292</pub-id></element-citation></ref></ref-list></back></article>

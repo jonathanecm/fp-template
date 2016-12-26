@@ -1,0 +1,768 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Traffic</journal-id><journal-id journal-id-type="iso-abbrev">Traffic</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1600-0854</journal-id><journal-id journal-id-type="publisher-id">TRA</journal-id><journal-title-group><journal-title>Traffic (Copenhagen, Denmark)</journal-title></journal-title-group><issn pub-type="ppub">1398-9219</issn><issn pub-type="epub">1600-0854</issn><publisher><publisher-name>John Wiley &#x00026; Sons A/S</publisher-name><publisher-loc>Former Munksgaard</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27219333</article-id><article-id pub-id-type="pmc">5025721</article-id><article-id pub-id-type="doi">10.1111/tra.12416</article-id><article-id pub-id-type="publisher-id">TRA12416</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Alphavirus Restriction by <styled-content style="fixed-case">IFITM</styled-content> Proteins</article-title><alt-title alt-title-type="right-running-head"><styled-content style="fixed-case">IFITMs</styled-content> Inhibit Cellular Infection by Alphaviruses</alt-title><alt-title alt-title-type="left-running-head">Weston et al.</alt-title></title-group><contrib-group><contrib id="tra12416-cr-0001" contrib-type="author"><name><surname>Weston</surname><given-names>Stuart</given-names></name><xref ref-type="aff" rid="tra12416-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tra12416-cr-0002" contrib-type="author"><name><surname>Czieso</surname><given-names>Stephanie</given-names></name><xref ref-type="aff" rid="tra12416-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tra12416-cr-0003" contrib-type="author"><name><surname>White</surname><given-names>Ian J.</given-names></name><xref ref-type="aff" rid="tra12416-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tra12416-cr-0004" contrib-type="author"><name><surname>Smith</surname><given-names>Sarah E.</given-names></name><xref ref-type="aff" rid="tra12416-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="tra12416-cr-0005" contrib-type="author"><name><surname>Wash</surname><given-names>Rachael S.</given-names></name><xref ref-type="aff" rid="tra12416-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="tra12416-cr-0006" contrib-type="author"><name><surname>Diaz&#x02010;Soria</surname><given-names>Carmen</given-names></name><xref ref-type="aff" rid="tra12416-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="tra12416-cr-0007" contrib-type="author"><name><surname>Kellam</surname><given-names>Paul</given-names></name><xref ref-type="aff" rid="tra12416-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="tra12416-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="tra12416-cr-0008" contrib-type="author" corresp="yes"><name><surname>Marsh</surname><given-names>Mark</given-names></name><xref ref-type="aff" rid="tra12416-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="tra12416-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">MRC Laboratory for Molecular Cell Biology</named-content><institution>University College London</institution><named-content content-type="street">Gower Street</named-content><named-content content-type="city">London</named-content><named-content content-type="post-code">WC1E 6BT</named-content><country country="GB">UK</country></aff><aff id="tra12416-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Wellcome Trust Sanger Institute</named-content><institution>Wellcome Trust Genome Campus</institution><named-content content-type="city">Hinxton</named-content><named-content content-type="post-code">CB10 1SA</named-content><country country="GB">UK</country></aff><aff id="tra12416-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Division of Infection and Immunity</named-content><institution>University College London</institution><named-content content-type="street">Gower Street</named-content><named-content content-type="city">London</named-content><named-content content-type="post-code">WC1E 6BT</named-content><country country="GB">UK</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>Corresponding author: Mark Marsh, <email>m.marsh@ucl.ac.uk</email></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>6</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2016</year></pub-date><volume>17</volume><issue>9</issue><issue-id pub-id-type="doi">10.1111/tra.2016.17.issue-9</issue-id><fpage>997</fpage><lpage>1013</lpage><history><date date-type="received"><day>16</day><month>2</month><year>2016</year></date><date date-type="rev-recd"><day>09</day><month>5</month><year>2016</year></date><date date-type="accepted"><day>09</day><month>5</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>Traffic</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:TRA-17-997.pdf"/><abstract id="tra12416-abs-0001"><p id="tra12416-para-0006">Interferon inducible transmembrane proteins (<styled-content style="fixed-case">IFITMs</styled-content>) are broad&#x02010;spectrum antiviral factors. In cell culture the entry of many enveloped viruses, including orthomyxo&#x02010;, flavi&#x02010;, and filoviruses, is inhibited by <styled-content style="fixed-case">IFITMs</styled-content>, though the mechanism(s) involved remain unclear and may vary between viruses. We demonstrate that Sindbis and Semliki Forest virus (<styled-content style="fixed-case">SFV</styled-content>), which both use endocytosis and acid&#x02010;induced membrane fusion in early endosomes to infect cells, are restricted by the early endosomal <styled-content style="fixed-case">IFITM3</styled-content>. The late endosomal <styled-content style="fixed-case">IFITM2</styled-content> is less restrictive and the plasma membrane <styled-content style="fixed-case">IFITM1</styled-content> does not inhibit normal infection by either virus. <styled-content style="fixed-case">IFITM3</styled-content> inhibits release of the <styled-content style="fixed-case">SFV</styled-content> capsid into the cytosol, without inhibiting binding, internalization, trafficking to endosomes or low <styled-content style="fixed-case">pH</styled-content>&#x02010;induced conformational changes in the envelope glycoprotein. Infection by <styled-content style="fixed-case">SFV</styled-content> fusion at the cell surface was inhibited by <styled-content style="fixed-case">IFITM1</styled-content>, but was equally inhibited by <styled-content style="fixed-case">IFITM3</styled-content>. Furthermore, an <styled-content style="fixed-case">IFITM3</styled-content> mutant (<styled-content style="fixed-case">Y20A</styled-content>) that is localized to the plasma membrane inhibited infection by cell surface fusion more potently than <styled-content style="fixed-case">IFITM1</styled-content>. Together, these results indicate that <styled-content style="fixed-case">IFITMs</styled-content>, in particular <styled-content style="fixed-case">IFITM3</styled-content>, can restrict alphavirus infection by inhibiting viral fusion with cellular membranes. That <styled-content style="fixed-case">IFITM3</styled-content> can restrict <styled-content style="fixed-case">SFV</styled-content> infection by fusion at the cell surface equivalently to <styled-content style="fixed-case">IFITM1</styled-content> suggests that <styled-content style="fixed-case">IFITM3</styled-content> has greater antiviral potency against <styled-content style="fixed-case">SFV</styled-content>.</p><p>
+<inline-graphic xlink:href="TRA-17-997-g005.jpg" xlink:title="image"/>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="tra12416-kwd-0001">alphavirus</kwd><kwd id="tra12416-kwd-0002"><styled-content style="fixed-case">IFITM</styled-content></kwd><kwd id="tra12416-kwd-0003">interferon inducible transmembrane protein</kwd><kwd id="tra12416-kwd-0004">restriction factor</kwd><kwd id="tra12416-kwd-0005">Semliki Forest virus</kwd><kwd id="tra12416-kwd-0006"><styled-content style="fixed-case">SFV</styled-content></kwd><kwd id="tra12416-kwd-0007">virus entry</kwd><kwd id="tra12416-kwd-0008">virus&#x02013;host interaction</kwd></kwd-group><funding-group><award-group><funding-source>UK Medical Research Council</funding-source><award-id>MC_U122665002</award-id></award-group></funding-group><funding-group><award-group><funding-source>Wellcome Trust</funding-source><award-id>098051</award-id></award-group></funding-group><funding-group><award-group><funding-source>Medical Research Council</funding-source><award-id>G1000413</award-id></award-group></funding-group><counts><page-count count="17"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>tra12416</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.4 mode:remove_FC converted:16.09.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p id="tra12416-para-0008">Human interferon inducible transmembrane proteins (IFITMs) are a family of five, 15&#x02013;17 kDa membrane&#x02010;associated proteins, of which three (IFITM1, 2 and 3) appear to function as broad&#x02010;spectrum inhibitors of viral replication. Although detailed studies are lacking for most viruses, work on influenza A virus (IAV) has suggested that IFITM3, in particular, inhibits viral entry by interfering with endosomal, low pH&#x02010;induced fusion <xref rid="tra12416-bib-0001" ref-type="ref">1</xref>, <xref rid="tra12416-bib-0002" ref-type="ref">2</xref>, <xref rid="tra12416-bib-0003" ref-type="ref">3</xref>, <xref rid="tra12416-bib-0004" ref-type="ref">4</xref>. However, the precise molecular mechanism(s) for this inhibition remains unclear, and for some viruses alternative modes of action have been proposed <xref rid="tra12416-bib-0005" ref-type="ref">5</xref>, <xref rid="tra12416-bib-0006" ref-type="ref">6</xref>, <xref rid="tra12416-bib-0007" ref-type="ref">7</xref>.</p><p id="tra12416-para-0009">Alphaviruses, especially Semliki Forest virus (SFV) and Sindbis virus (SINV), have been used extensively to study viral entry into cells <xref rid="tra12416-bib-0008" ref-type="ref">8</xref>, <xref rid="tra12416-bib-0009" ref-type="ref">9</xref>, <xref rid="tra12416-bib-0010" ref-type="ref">10</xref>, <xref rid="tra12416-bib-0011" ref-type="ref">11</xref>. These small (&#x0223c;75 nm diameter), positive sense, single&#x02010;stranded RNA viruses were amongst the first to be shown to use clathrin&#x02010;mediated endocytosis and endosomal low pH&#x02010;dependent fusion to enter cells <xref rid="tra12416-bib-0008" ref-type="ref">8</xref>, <xref rid="tra12416-bib-0010" ref-type="ref">10</xref>. Despite the wealth of knowledge about their entry, IFITM&#x02010;mediated inhibition of alphavirus infection has not been analyzed in any great detail, although an overexpression screen has suggested IFITMs inhibit Chikungunya virus infection but had less affect on Venezuelan equine encephalitis virus <xref rid="tra12416-bib-0012" ref-type="ref">12</xref>. It has also been suggested that low pH&#x02010;induced fusion of SFV envelope glycoprotein expressing cells (fusion from within) can be inhibited by IFITM1 and IFITM3 <xref rid="tra12416-bib-0003" ref-type="ref">3</xref>. Nevertheless, there is a view that alphavirus infection is not restricted by IFITMs <xref rid="tra12416-bib-0013" ref-type="ref">13</xref>, <xref rid="tra12416-bib-0014" ref-type="ref">14</xref>. Given the similarities, in terms of structure and mode of entry, between alphaviruses and flaviviruses, which are restricted by IFITMs <xref rid="tra12416-bib-0015" ref-type="ref">15</xref>, <xref rid="tra12416-bib-0016" ref-type="ref">16</xref>, <xref rid="tra12416-bib-0017" ref-type="ref">17</xref>, <xref rid="tra12416-bib-0018" ref-type="ref">18</xref>, we investigated whether SFV and SINV can also be restricted.</p><p id="tra12416-para-0010">We show that normal infection by both SFV and SINV is restricted by IFITM3 and, to a lesser extent, by IFITM2, but not by IFITM1. The expression of IFITM3 does not affect SFV binding, internalization or entry into early endosomes, which also contain IFITM3. Moreover, the SFV E1 glycoprotein undergoes a characteristic low pH&#x02010;induced conformational change with similar kinetics in both IFITM3&#x02010;expressing and non&#x02010;expressing cells. However, release of the viral capsid protein into the cytosol is inhibited in IFITM3&#x02010;expressing cells.</p><p id="tra12416-para-0011">SFV infection induced by low&#x02010;pH fusion with the cell surface was inhibited by the plasma membrane localized IFITM1, but was equally restricted by IFITM3, even though this protein is predominantly localized to intracellular compartment and is present at only low levels on the cell surface. Furthermore, a mutant of IFITM3, which is localized to the plasma membrane (Y20A), inhibited infection by plasma membrane fusion more potently than IFITM1, but did not inhibit the endosomal route of infection.</p><p id="tra12416-para-0012">Together our results show that (i) alphaviruses are restricted by IFITMs, (ii) for SFV at least, IFITM3&#x02010;mediated restriction appears to affect viral fusion and cytosolic delivery of the viral capsid, and (iii) that IFITM1 and IFITM3 have different potencies for inhibition of SFV infection.</p><sec id="tra12416-sec-0002"><title>Results</title><sec id="tra12416-sec-0003"><title>IFITMs can restrict alphavirus infection</title><p id="tra12416-para-0013">To investigate whether IFITMs can restrict infection by alphaviruses, we used A549 cells stably expressing human C&#x02010;terminally HA&#x02010;tagged IFITM1, 2 or 3 <xref rid="tra12416-bib-0019" ref-type="ref">19</xref>, <xref rid="tra12416-bib-0020" ref-type="ref">20</xref>. Cells were infected with SFV or SINV at MOIs ranging from 0.1 to 1000 pfu/cell for 5.5&#x02013;6 h, prior to immunolabelling for newly synthesized viral envelope glycoproteins (E1/E2) as a marker of infection. IFITM3&#x02010;HA inhibited infection by both viruses (Figure <xref rid="tra12416-fig-0001" ref-type="fig">1</xref>). At 1 pfu/cell, IFITM3&#x02010;HA expression inhibited SFV infection by &#x0223c;95%. Though requiring a higher MOI to see equivalent levels of infection, replication of SINV was also inhibited by IFITM3&#x02010;HA. For both viruses, IFITM3&#x02010;HA restriction was less efficient at higher MOIs (&#x0223c;20% inhibition at 100 pfu/cell and &#x0003c;10% at 1000 pfu/cell for SFV, and &#x0223c;10% inhibition at 100 pfu/cell for SINV). IFITM2&#x02010;HA also inhibited SFV infection (&#x0223c;50% at 1 pfu/cell) but had little activity against SINV. IFITM1&#x02010;HA had no activity against either virus.</p><fig fig-type="Figure" xml:lang="en" id="tra12416-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<bold>Alphavirus infection is inhibited by IFITM proteins</bold>. A549 cells stably expressing HA&#x02010;tagged IFITM1, 2 or 3 were infected with SFV (A) or SINV (B) at the indicated MOI (pfu/cell) for 5.5&#x02013;6 h prior to fixation. Cells were then stained for the respective viral envelope proteins and the proportion of infected cells counted using an Opera microscope system. Although SINV infection of A549 cells was not as efficient as SFV, IFITM3&#x02010;HA expression inhibited infection by both viruses. IFITM2&#x02010;HA expression had some effect on SFV infection at lower MOI, but minimal effect on SINV infection. IFITM1&#x02010;HA had no effect on either virus. These data are from a representative experiment (<styled-content style="italic-in-any-context">n</styled-content> = 2&#x02013;3) performed with triplicate wells in a 96 well plate. Each bar shows the mean infection percentage for the three wells and the standard deviation.</p></caption><graphic id="nlm-graphic-3" xlink:href="TRA-17-997-g004"><alt-text>TRA-12416-FIG-0001-c</alt-text></graphic></fig><p id="tra12416-para-0014">These data indicate that IFITM3&#x02010;HA, and to a lesser extent IFITM2&#x02010;HA, can restrict infection of A549 cells by two different alphaviruses, and that the restriction can be saturated with higher levels of input virus.</p></sec><sec id="tra12416-sec-0004"><title>IFITM3 endosomal localization and expression levels impact antiviral activity</title><p id="tra12416-para-0015">The A549 IFITM&#x02010;HA cells used in Figure <xref rid="tra12416-fig-0001" ref-type="fig">1</xref> were produced through single cell cloning of lentivirally transduced cells. To further test IFITM3&#x02010;mediated inhibition, we used two additional sets of A549 stable cells produced using puromycin selection. One set (P1) was produced to stably express C&#x02010;terminally HA&#x02010;tagged IFITM1, 2 or 3, or an empty vector control. The other set (P2) included cells expressing IFITM3&#x02010;HA, IFITM3&#x02010;HA with a Y20A mutation and a GFP control. The Y20A mutation disrupts a Yxx&#x003d5; type endocytosis signal in the IFITM3 N&#x02010;terminal domain (NTD), causing accumulation of the protein at the plasma membrane (<xref rid="tra12416-bib-0021" ref-type="ref">21</xref>, Figures S1 and <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>B). IFITM3&#x02010;Y20A&#x02010;HA allowed us to investigate the importance of endosomal localization for antiviral activity (see Figures S1 and <xref rid="tra12416-fig-0003" ref-type="fig">3</xref> for wild type IFITM3&#x02010;HA localization). These three sets of cells are denoted as: OS &#x02013; the original set produced by single cell cloning (Figure <xref rid="tra12416-fig-0001" ref-type="fig">1</xref>), and P1 and P2 for the puromycin selected cells.</p><p id="tra12416-para-0016">IFITM expression levels in all cells were analyzed by western blot (Figure <xref rid="tra12416-fig-0002" ref-type="fig">2</xref>A). Antibodies against the NTDs of IFITM1 or IFITM3 were used, as previously described <xref rid="tra12416-bib-0020" ref-type="ref">20</xref>. The OS cells had the highest IFITM expression. P1 and P2 cells had expression levels similar to each other. OS&#x02010; and P1&#x02010;IFITM2&#x02010;HA had low expression, or poor detection (detected by cross&#x02010;reaction from the anti&#x02010;IFITM3&#x02010;NTD antibodies), possibly as a consequence of localization in more hydrolytic, late endosomal compartments (see Figure <xref rid="tra12416-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="tra12416-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<bold>IFITM3 expression levels affect SFV restriction</bold>. Two sets of A549 cells stably expressing IFITM&#x02010;HAs (P1 and P2: See <styled-content style="italic-in-any-context">Materials and Methods</styled-content>) were analyzed for IFITM expression levels and SFV restriction. A) Western blotting was used to analyze the IFITM expression of all three sets of cells (OS = the original single cell clones used in Figure <xref rid="tra12416-fig-0001" ref-type="fig">1</xref>). A, 1, 2 and 3 denote A549, IFITM1, IFITM2 and IFITM3, respectively. Antibodies against the IFITM1&#x02010;NTD (which cross&#x02010;react with IFITM3) or IFITM3&#x02010;NTD (which cross&#x02010;react with IFITM2) were used to analyze IFITM expression. Tubulin was used as a loading control. Fluorescence intensity (int.) of the IFITM and tubulin bands was quantified using LiCOR Odyssey software. IFITM band intensities were normalized to tubulin loading and arbitrarily set relative to the highest band intensity on each blot (OS&#x02010;IFITM3&#x02010;HA in both cases). B) The P1 and P2 sets were infected with SFV across a range of MOIs and analyzed for infection by immunofluorescence, as in Figure <xref rid="tra12416-fig-0001" ref-type="fig">1</xref>. In line with lower IFITM expression, P1&#x02010; and P2&#x02010;IFITM3&#x02010;HA show reduced levels of SFV restriction compared to OS&#x02010;IFITM3&#x02010;HA (Figure <xref rid="tra12416-fig-0001" ref-type="fig">1</xref>). These data are from a representative experiment (<styled-content style="italic-in-any-context">n</styled-content> = 2) performed with triplicate wells in a 96 well plate. Each bar shows the mean infection percentage for the three wells and the standard deviation.</p></caption><graphic id="nlm-graphic-5" xlink:href="TRA-17-997-g001"><alt-text>TRA-12416-FIG-0002-c</alt-text></graphic></fig><fig fig-type="Figure" xml:lang="en" id="tra12416-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<bold>IFITM2 and IFITM3 are found in endosomal compartments</bold>. OS&#x02010;IFITM2&#x02010;HA and IFITM3&#x02010;HA cells were fixed, permeabilized and stained using an anti&#x02010;IFITM3&#x02010;NTD antibody, and markers of early and late endosomes and lysosomes. A) Example images of cells co&#x02010;stained for IFITM and transferrin receptor (TfR) and visualized with AF488 (IFITM &#x02013; green) and AF647 (TfR &#x02013; magenta) by confocal microscopy. Confocal sections are displayed. B) Example images of cells co&#x02010;stained for IFITM (AF488) and LAMP1 (AF647) and imaged as in (A). Nuclei were detected with Hoechst staining. Scale bars represent 15 &#x000b5;m. C and D) Colocalizations of IFITMs with early endosome markers, TfR and EEA1, or late endosome/lysosome markers, CD63 and LAMP1, were quantified. Data are from three independent experiments using between 18 and 21 fields of view collected using a 63&#x000d7; objective lens. Quantification of overlapping pixels and significance testing is described in <styled-content style="italic-in-any-context">Materials and Methods</styled-content>. IFITM3&#x02010;HA shows more overlap with TfR and EEA1 than IFITM2&#x02010;HA. Conversely, IFITM2&#x02010;HA shows greater overlap with CD63 and LAMP1 than IFITM3&#x02010;HA. There are pixels that contain just IFITM protein or just cellular marker, suggesting the IFITMs are not limited to single compartments. Bars show the mean pixel area and error bars are the standard deviation. ****p &#x0003c; 0.0001.</p></caption><graphic id="nlm-graphic-7" xlink:href="TRA-17-997-g008"><alt-text>TRA-12416-FIG-0003-c</alt-text></graphic></fig><p id="tra12416-para-0017">P1&#x02010; and P2&#x02010;IFITM3&#x02010;HA expressing cells inhibited SFV in the range of 0.1 to 10 pfu/cell (Figure <xref rid="tra12416-fig-0002" ref-type="fig">2</xref>B), but restriction was reduced compared to that seen in OS&#x02010;IFITM3&#x02010;HA cells (compare Figures <xref rid="tra12416-fig-0002" ref-type="fig">2</xref>B with <xref rid="tra12416-fig-0001" ref-type="fig">1</xref>A). At 1 pfu/cell, OS&#x02010;IFITM3&#x02010;HA showed &#x0223c;95% inhibition while P1&#x02010; and P2&#x02010;IFITM3&#x02010;HA cells showed &#x0223c;70% inhibition. The reduced levels of restriction correlate with the lower IFITM3&#x02010;HA expression. P1&#x02010;IFITM2&#x02010;HA cells showed some inhibition of SFV infection, though this was lower than OS&#x02010;IFITM2&#x02010;HA and all IFITM3&#x02010;HA cells. As with OS&#x02010;IFITM1&#x02010;HA, P1&#x02010;IFITM1&#x02010;HA did not restrict SFV infection. IFITM3&#x02010;Y20A&#x02010;HA, which localizes to the plasma membrane similarly to IFITM1&#x02010;HA (Figure S1 and <xref rid="tra12416-bib-0020" ref-type="ref">20</xref>), also did not inhibit SFV infection, suggesting that the endosomal localization of IFITM3 is essential for its anti&#x02010;SFV activity.</p><p id="tra12416-para-0018">Previously, we noted that OS&#x02010;IFITM3&#x02010;HA restriction was less efficient at high viral input (Figure <xref rid="tra12416-fig-0001" ref-type="fig">1</xref>). This effect was also observed for the P1&#x02010; and P2&#x02010;IFITM3&#x02010;HA cells. Thus, IFITM3&#x02010;mediated restriction can be saturated either by increasing the amount of virus or lowering the level of IFITM3&#x02010;HA expression.</p><p id="tra12416-para-0019">Unless otherwise indicated, all subsequent work was performed with OS&#x02010;IFITM&#x02010;HA cells.</p></sec><sec id="tra12416-sec-0005"><title>IFITM3 preferentially localizes to early endosomes and IFITM2 to late endosomes</title><p id="tra12416-para-0020">The majority of viruses restricted by IFITM3 are believed to fuse with late endosomes where some studies have suggested IFITM3 is localized <xref rid="tra12416-bib-0022" ref-type="ref">22</xref>, <xref rid="tra12416-bib-0023" ref-type="ref">23</xref>. SFV by contrast, has been shown to fuse in early endosomes at pH &#x02264; 6.2 <xref rid="tra12416-bib-0008" ref-type="ref">8</xref>, <xref rid="tra12416-bib-0011" ref-type="ref">11</xref>. Since IFITM3&#x02010;HA more potently restricted SFV and SINV than IFITM2&#x02010;HA, and the endosomal localization of the protein is necessary for its antiviral activity, we investigated IFITM2&#x02010;HA and IFITM3&#x02010;HA localization. Cells were co&#x02010;immuno&#x02010;labeled for the IFITM proteins and markers of early and recycling endosomes [Early Endosomal Antigen 1 (EEA1) and transferrin receptor (TfR), respectively] or late endosomes and lysosomes [CD63 and lysosomal associated protein 1 (LAMP1)]. IFITM3&#x02010;HA showed more colocalization with TfR and EEA1 than IFITM2&#x02010;HA, while IFITM2&#x02010;HA showed more overlap with CD63 and LAMP1 than IFITM3&#x02010;HA (Figure <xref rid="tra12416-fig-0003" ref-type="fig">3</xref>). Image analysis showed that a significant amount of both IFITM2&#x02010;HA and IFITM3&#x02010;HA did not colocalize with each of the single endosome/lysosome markers (Figure <xref rid="tra12416-fig-0003" ref-type="fig">3</xref>C, D). Given that early endosomes are heterogeneous and neither EEA1 nor TfR mark the entire early endosome population, and IFITM2&#x02010;HA and IFITM3&#x02010;HA have somewhat overlapping distributions, we conclude that in fixed A549 cells IFITM3&#x02010;HA is associated more with early endocytic organelles and IFITM2&#x02010;HA more with later endocytic compartments. The higher levels of early endosomal localization of IFITM3&#x02010;HA may explain why this protein more effectively inhibited SFV and SINV infection than IFITM2&#x02010;HA, and the plasma membrane&#x02010;associated IFITM1&#x02010;HA and IFITM3&#x02010;Y20A&#x02010;HA proteins.</p></sec><sec id="tra12416-sec-0006"><title>IFITM3 expression does not block SFV binding or endocytosis</title><p id="tra12416-para-0021">Having determined that IFITM3&#x02010;HA can inhibit alphavirus infection, and localizes to early endosomes, we hypothesized that the inhibition of viral protein production (the read out for Figures <xref rid="tra12416-fig-0001" ref-type="fig">1</xref> and <xref rid="tra12416-fig-0002" ref-type="fig">2</xref>B) was due to inhibition of viral entry into cells. In order to infect a cell and replicate, alphaviruses need to deliver their RNA&#x02010;containing capsid into the cytosol. Initially the virus must bind to the cell surface, prior to internalization by clathrin&#x02010;mediated endocytosis (CME). Once in the endosomal system, the low pH environment triggers conformational changes in the envelope glycoproteins (E1/E2) to drive fusion of the viral and endosomal membranes and capsid release to the cytosol <xref rid="tra12416-bib-0024" ref-type="ref">24</xref>. We tested each of these aspects of the SFV entry pathway to determine the stage at which IFITM3 restricts infection.</p><p id="tra12416-para-0022">Initially, we investigated whether IFITM&#x02010;HA expression affected virus binding to the cell surface. Equal amounts of virus were added to IFITM&#x02010;HA expressing A549 cells for 1 h at 4 &#x000b0;C, and the amount of bound virus determined by western blotting whole cell lysates for E1/E2. Similar amounts of bound virus were detected in IFITM negative A549 cells and cells expressing each of the three IFITM&#x02010;HA proteins (Figure <xref rid="tra12416-fig-0004" ref-type="fig">4</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="tra12416-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<bold>SFV binding to and internalization into IFITM expressing cells</bold> A) SFV (200 pfu/cell) was added to A549 cells or OS&#x02010;IFITM expressing cells (A, M1, M2, M3) at 4&#x000b0;C. After 1 h, the cells were washed and analyzed by western blotting for the viral envelope proteins. Tubulin was used as a loading control. The results indicate similar levels of binding to all four cell lines. B) SFV (200 pfu/cell) was allowed to bind to cells at 4&#x000b0;C for 1 h. Endocytic uptake of virus was promoted by warming to 37&#x000b0;C for 0, 5, 15 or 30 min. Cells were then treated with subtilisin at 4&#x000b0;C to remove surface&#x02010;bound virus, leaving only internalized virus associated with the cells. In each blot, controls of samples not treated with subtilisin were loaded to indicate the total cell&#x02010;associated virus. C) Quantification of E1 and E2 subtilisin resistant band intensity. 3&#x02013;4 independent experiments were performed. Band intensities of E1 (bottom) and E2 (top) were determined and adjusted based on tubulin band intensity for each sample. A measure of total cell&#x02010;associated virus was determined by averaging band intensity for all untreated time points. The intensity of E1 or E2 at each treated time point was then set as a proportion of this total. Band intensities were averaged across experiments and plotted to display the percentage of subtilisin resistant E1 or E2 at each time point.</p></caption><graphic id="nlm-graphic-9" xlink:href="TRA-17-997-g003"><alt-text>TRA-12416-FIG-0004-c</alt-text></graphic></fig><p id="tra12416-para-0023">Next, to investigate whether IFITM3&#x02010;HA affected SFV endocytosis, we measured virus uptake using a protease resistance assay <xref rid="tra12416-bib-0009" ref-type="ref">9</xref>. SFV was bound to the surface of cells as previously, and the cells then warmed to 37 &#x000b0;C for 5, 15 or 30 min to promote endocytosis. After each time point, the cells were placed on ice and treated with subtilisin <xref rid="tra12416-bib-0025" ref-type="ref">25</xref>. Samples were lysed and analyzed for E1/E2 by western blot. To quantify uptake, the band intensities of E1 (bottom) and E2 (top) were measured across multiple experiments. Although subtilisin failed to remove &#x0223c;22% of the surface virus, there was a clear increase in subtilisin resistant virus on warming the A549 cells to 37 &#x000b0;C (Figure <xref rid="tra12416-fig-0004" ref-type="fig">4</xref>B). This peaked at 15 min when &#x0003e; 75% of the virus was internalized (Figure <xref rid="tra12416-fig-0004" ref-type="fig">4</xref>C). Very similar uptake was seen on IFITM3&#x02010;HA cells. We conclude that IFITM3&#x02010;HA expression does not affect either binding, or internalization of SFV into A549 cells.</p></sec><sec id="tra12416-sec-0007"><title>Internalized SFV colocalizes with IFITM3</title><p id="tra12416-para-0024">Since we observed that IFITM3&#x02010;HA is associated with early endosomes (Figure <xref rid="tra12416-fig-0003" ref-type="fig">3</xref>), we investigated whether internalized SFV entered IFITM3&#x02010;HA positive endosomes. As above, virus was bound and internalized into cells, which were then fixed and immuno&#x02010;labeled for E1/E2 and IFITM3&#x02010;HA and analyzed by confocal microscopy (Figure <xref rid="tra12416-fig-0005" ref-type="fig">5</xref>). As a control, these experiments were repeated in A549 cells that were stained for EEA1 instead of IFITM3&#x02010;HA (Figure S2). When kept at 4 &#x000b0;C (<italic>t</italic> = 0) or warmed for 5 min, virus particles were seen as faint puncta primarily around the cell edges, and there was little overlap with IFITM3&#x02010;HA or EEA1. After 10 min at 37 &#x000b0;C, and at later time points, SFV staining appeared as larger, increasingly bright, punctae. The increase in EEA1 puncta intensity seen in Figure S2 was also seen in mock&#x02010;infected cells (data not shown), suggesting this may be due to cooling and warming cells. A time&#x02010;dependent increase in the overlap between E1/E2 and IFITM3&#x02010;HA (Figure <xref rid="tra12416-fig-0005" ref-type="fig">5</xref>B) or EEA1 (Figure S3B) was detected over multiple experiments. These data suggest that endocytosed SFV was delivered to IFITM3&#x02010;HA positive endosomes.</p><fig fig-type="Figure" xml:lang="en" id="tra12416-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>
+<bold>Internalized SFV colocalizes with IFITM3</bold>. A) SFV (50 pfu/cell) was bound to cells at 4&#x000b0;C for 1 h. After washing, the cells were warmed to 37&#x000b0;C for the indicated times, then fixed and labeled for SFV E1/E2 and OS&#x02010;IFITM3&#x02010;HA (via the HA&#x02010;tag) and visualized with AF488 (green, E1/E2) and AF647 (magenta, HA). Confocal sections are displayed. E1/E2 labelling can be seen as small puncta mainly around the cell periphery at 0 and 5 min, with little overlap of SFV E1/E2 and IFITM3&#x02010;HA. At later time points (10 min and onwards) larger and brighter puncta become visible closer to the nucleus, and overlap of SFV E1/E2 and IFITM3&#x02010;HA is seen, which increases with time. Many IFITM3&#x02010;HA positive, SFV negative puncta, can be seen suggesting that not all IFITM3&#x02010;HA containing endosomes receive virus. By contrast, many SFV positive puncta co&#x02010;label for IFITM3&#x02010;HA at 20 and 30 min. Nuclei were detected with Hoechst staining. Scale bar represents 15 &#x000b5;m. B) The overlap between green (SFV E1/E2) and magenta (HA) pixels was quantified (see <styled-content style="italic-in-any-context">Materials and Methods</styled-content>). A total of three independent experiments were performed, and six images taken at 63&#x000d7; magnification for each. The average ratio of the relative area of overlapping pixels (green and magenta) to green pixels from each experiment is plotted, with the standard deviation used for the error bars.</p></caption><graphic id="nlm-graphic-11" xlink:href="TRA-17-997-g009"><alt-text>TRA-12416-FIG-0005-c</alt-text></graphic></fig><p id="tra12416-para-0025">These observations were further confirmed by electron microscopy (EM), which revealed that SFV particles were internalized by CME (Figure S3). Subsequently, SFV particles were detected in multivesicular bodies that could be co&#x02010;labeled for SFV and IFITM3&#x02010;HA (Figure S4), further demonstrating that virus particles were delivered into IFITM3&#x02010;HA containing endosomes.</p><p id="tra12416-para-0026">To confirm that we were investigating time points relevant to infection, the kinetics of SFV capsid release in A549 cells were determined. SFV penetration of endosomes is low pH&#x02010;dependent. Thus, ionophores such as monensin, that rapidly dissipate cellular low pH gradients, can be used in time of addition experiments to determine when incoming virus has passed through the pH sensitive stage of entry <xref rid="tra12416-bib-0026" ref-type="ref">26</xref>. Virus particles were bound to A549 cells prior to warming to promote uptake, as previously. Monensin was added at times between 0 and 30 min. When added at 0 min, monensin nearly completely abolished infection (Figure S5). However, when added at later times, an increasing percentage of cells became infected. By 30 min, monensin addition had almost no inhibitory effect (Figure S5), suggesting the majority of infectious virus had penetrated the cells. Therefore, analysing SFV internalization within the first 30 min of warming is relevant to infection.</p></sec><sec id="tra12416-sec-0008"><title>SFV is exposed to acidic pH in IFITM3 expressing cells</title><p id="tra12416-para-0027">We next investigated whether the viral glycoproteins received the appropriate low pH trigger to become fusogenic in IFITM3&#x02010;HA expressing cells. The acid&#x02010;induced conformational changes in the E1/E2 complex generate a homotrimeric (HT) form of E1 that is resistant to trypsin digestion <xref rid="tra12416-bib-0027" ref-type="ref">27</xref>. Again, SFV was bound to cells and allowed to internalize for 0, 5, 15 or 30 min at 37 &#x000b0;C. As a positive control, virus particles bound to cells at 4 &#x000b0;C were treated with pH 5.5 medium for 3 min at 37 &#x000b0;C to activate the fusion protein directly at the cell surface. As a negative control, cells were pre&#x02010;treated with bafilomycin A1 (Baf A; a vacuolar ATPase inhibitor) for 15 min at 37 &#x000b0;C, prior to binding and internalization of virus particles in the presence of Baf A. After appropriate treatments, cells were lysed and the lysates treated with trypsin, or not, and the viral E1/E2 proteins analyzed by western blot. Samples were not heated prior to SDS&#x02010;PAGE as this can dissociate the E1 HT. With 0 min of internalization, the monomeric forms of E1 and E2 were seen with the expected molecular weights (MW) of &#x0223c;50 kDa (Figure <xref rid="tra12416-fig-0006" ref-type="fig">6</xref>, lane 1). After trypsin treatment of samples kept at 4&#x000b0;C, the E1/E2 bands were undetectable (lane 2). Transient low pH treatment of surface&#x02010;bound virus induced the formation of a high MW band that was resistant to digestion with trypsin (lanes 3 and 4), corresponding to the E1 HT. This trypsin&#x02010;resistant, high MW band was seen, with increasing intensity, when virus was allowed to internalize into A549 cells for 5, 15 or 30 min (lanes 7&#x02013;12), but not when virus was internalized into Baf A treated cells (lanes 5 and 6). When SFV was internalized into IFITM3&#x02010;HA expressing cells the trypsin&#x02010;resistant, high MW band appeared with kinetics similar to those seen in IFITM&#x02010;negative A549 cells (lanes 13&#x02013;18). We therefore conclude that IFITM3&#x02010;HA does not interfere with acidification of endosomes, virus trafficking to these compartments, or the conformational changes necessary for the viral glycoprotein to become fusogenic.</p><fig fig-type="Figure" xml:lang="en" id="tra12416-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>
+<bold>SFV is exposed to acidic pH in IFITM3 expressing cells</bold>. SFV (200 pfu/cell) was bound to A549 (lanes 1&#x02013;12) or OS&#x02010;IFITM3&#x02010;HA expressing cells (lanes 13&#x02013;18) at 4&#x000b0;C for 1 h. The cells were then washed and either kept at 4&#x000b0;C (lanes 1&#x02013;4) or warmed to 37&#x000b0;C to allow virus uptake (lanes 5&#x02013;18), as indicated. In lanes 3&#x02013;4, cells with bound virus were briefly (3 min) treated with pH 5.5 medium at 37&#x000b0;C, or in lanes 5&#x02013;6, were warmed to 37&#x000b0;C for 30 min in medium containing bafilomycin A1 (Baf A). Subsequently, all cells were placed on ice, lysed with 1% Triton X&#x02010;100 and half of the lysate treated with trypsin at 37&#x000b0;C as indicated. All samples were then analyzed by non&#x02010;reducing SDS&#x02010;PAGE and western blotting for SFV E1/E2 and tubulin as a loading control. Following a pH 5.5 pulse (lanes 3&#x02013;4), or incubation at 37&#x000b0;C (lanes 7&#x02013;18), a high MW band corresponding to the acid&#x02010;induced, trypsin&#x02010;resistant, E1 homotrimer (HT) was seen. This band was absent at 0 min (lanes 1&#x02013;2) and in Baf A&#x02010;treated samples (lanes 5&#x02013;6), indicating it is the low pH&#x02010;induced form of E1.</p></caption><graphic id="nlm-graphic-13" xlink:href="TRA-17-997-g010"><alt-text>TRA-12416-FIG-0006-b</alt-text></graphic></fig></sec><sec id="tra12416-sec-0009"><title>IFITM3 expression inhibits release of SFV capsid to the cytosol</title><p id="tra12416-para-0028">The final step in the SFV entry pathway is release of the capsid into the cytosol. To determine whether IFITM3 affects this step, SFV particles were bound and internalized into cells, which were then analyzed by immunofluorescence staining for the SFV capsid protein. Between 0 and 20 min, in both A549 and IFITM3&#x02010;HA cells, punctae of virus were seen at the cell surface and subsequently within endosomes (Figure <xref rid="tra12416-fig-0007" ref-type="fig">7</xref>A), as observed by E1/E2 labelling (Figures <xref rid="tra12416-fig-0005" ref-type="fig">5</xref> and S3). In general the labelling was weak, even after treatment with Triton, presumably because the capsid protein is poorly accessible when packed within virions. At 40 min in A549 cells, diffuse cytosolic fluorescence was seen, which was further increased at 60 min. This cytosolic fluorescence was not seen following SFV uptake into monensin&#x02010;treated A549 cells, or in IFITM3&#x02010;HA cells, suggesting the diffuse fluorescence is from viral capsid protein released into the cytosol. To develop a more quantitative analysis of this capsid release, images were analyzed over multiple experiments to determine the mean cytosolic fluorescence intensity in each cell. This quantification indicated that over time there is an increase in the cytosolic capsid protein&#x02010;associated fluorescence in A549 cells, that is not seen in monensin&#x02010;treated A549 or IFITM3&#x02010;HA cells (Figure <xref rid="tra12416-fig-0007" ref-type="fig">7</xref>B). In addition, in these latter cells the punctae of SFV staining appeared brighter at later times, suggesting that non&#x02010;fused virus particles accumulated within endosomes (Figure <xref rid="tra12416-fig-0007" ref-type="fig">7</xref>A). Together these observations indicate that IFITM3&#x02010;HA expression inhibits release of SFV capsid into the cytosol.</p><fig fig-type="Figure" xml:lang="en" id="tra12416-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>
+<bold>IFITM3 expression inhibits SFV capsid release</bold>. A) SFV (200 pfu/cell) was bound to cells for 1 h at 4&#x000b0;C prior to incubation at 37&#x000b0;C for the indicated times. At each time point the cells were fixed and permeabilized with 0.1% Triton&#x02010;X100 and labeled with serum against the SFV capsid, which was detected with AF594. Confocal sections are displayed. Following internalization, virus particles were detected in cells, indicated by the typical punctate association of virus with endosomes. By 40 min after warm&#x02010;up diffuse cytosolic fluorescence was seen in A549 cells, indicating release of the viral capsid protein to the cytosol. In A549 cells treated with 10 &#x000b5;<sc>m</sc> monensin, and in OS&#x02010;IFITM3&#x02010;HA expressing cells, the staining remains associated with puncta and the cytosolic staining was not observed even at 60 min after warm&#x02010;up. Nuclei were detected with Hoechst staining. Scale bar represents 15 &#x000b5;m. B) Quantification of cytosolic fluorescence and significance testing is described in <styled-content style="italic-in-any-context">Materials and Methods</styled-content>. The data are from three independent infections with 3&#x02013;7 images taken at each condition, with a total of at least 60 cells analyzed per cell line, per condition. Data presented is the average fluorescence intensity, normalized to the background intensity at 0 min of warming. *p &#x0003c; 0.05, **p &#x0003c; 0.01.</p></caption><graphic id="nlm-graphic-15" xlink:href="TRA-17-997-g007"><alt-text>TRA-12416-FIG-0007-c</alt-text></graphic></fig></sec><sec id="tra12416-sec-0010"><title>IFITM1 and IFITM3 can inhibit SFV infection by fusion at the plasma membrane</title><p id="tra12416-para-0029">Our data indicate that IFITM3 is primarily localized to early endosomes and can block SFV capsid release into the cytosol. We therefore investigated whether IFITM3&#x02010;mediated restriction could be bypassed by fusion of SFV at the cell surface, and whether plasma membrane localized IFITM1 <xref rid="tra12416-bib-0020" ref-type="ref">20</xref> or IFITM3&#x02010;Y20A (Figure S1) could restrict entry at this site. Cells were pre&#x02010;treated with Baf A for 15 min at 37&#x000b0;C to inhibit SFV entry via the endocytic route, prior to binding virus to the surface at 4&#x000b0;C for 1 h. The cells were then treated with pH 5.5 medium for 3 min at 37&#x000b0;C to induce fusion at the plasma membrane, prior to returning to pH 6.8 medium containing Baf A for 5.5&#x02013;6 h at 37&#x000b0;C to allow production of E1/E2 proteins as a read out for infection. As controls, cells with bound virus were given a 3 min pH 6.8 pulse and treated with DMSO or Baf A.</p><p id="tra12416-para-0030">Through the normal endocytic route (pH 6.8 DMSO), between &#x0223c;65% and &#x0223c;80% of A549 cells (OS, P1 and P2), were infected with SFV (5 pfu/cell), and infection was inhibited by &#x0003e;90% with Baf A treatment (pH 6.8 Baf A; Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>A). When cells were pre&#x02010;incubated with Baf A and transiently treated with low pH medium, &#x0223c;20&#x02013;50% of cells were infected (pH 5.5 Baf A; Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>A). The Baf A pre&#x02010;treatment step did not affect the result, since pre&#x02010;treatment with DMSO media, followed by Baf A media for the infection period (pH 5.5 DMSO/Baf A) showed similar results. This bypass of Baf A inhibition with pH 5.5 treatment is the level of infection by direct fusion at the plasma membrane. It appeared that the three A549 cells had different permissiveness to infection by plasma membrane fusion. The parental OS&#x02010;A549 cells were the least permissive to plasma membrane fusion; the P1&#x02010;A549 cells (stably transfected with an empty puromycin resistance vector) were the most permissive, while the P2&#x02010;A549 cells (stably transfected with a GFP construct) were in the middle. We speculate that the different manipulations of these cells may be responsible for the variability.</p><fig fig-type="Figure" xml:lang="en" id="tra12416-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>
+<bold>IFITM1 and IFITM3 can inhibit SFV infection by fusion at the cell surface</bold>. A) OS&#x02010;, P1&#x02010; and P2&#x02010;IFITM&#x02010;HA cells were infected by SFV through plasma membrane fusion. Cells were pre&#x02010;treated with either DMSO or bafilomycin A1 (Baf A) prior to addition of SFV (5 pfu/cell) for surface binding at 4&#x000b0;C for 1 h (in the presence of DMSO or Baf A). Surface&#x02010;bound virions were then allowed to enter cells by endocytosis (pH 6.8) or fused directly at the cell surface (pH 5.5). pH 6.8 media containing DMSO or Baf A (matched to the pre&#x02010;treatment) was then added to the cells, which were incubated for 5.5&#x02013;6 h at 37&#x000b0;C to allow infection. As a control for the Baf A pre&#x02010;treatment, cells were instead pre&#x02010;treated with DMSO, then incubated with Baf A containing media for the infection period (pH 5.5 D/B). Cells were fixed and infection determined by immunofluorescence microscopy. Baf A inhibited infection through the endocytic route (black bars compared to white bars). Low pH treatment resulted in bypass of Baf A inhibition, indicative of cell surface fusion (green and magenta bars). The bars indicate the mean infection percentages from three independent experiments (each containing triplicates for each sample) with standard deviation shown as the error bars. Statistical significance was determined using normalized infection values, comparing pH 5.5 DMSO/Baf A (green) or pH 5.5 Baf A (magenta) of A549 samples with IFITM samples, as detailed in the <styled-content style="italic-in-any-context">Materials and Methods</styled-content> section. *p &#x0003c; 0.05, **p &#x0003c; 0.01, ***p &#x0003c; 0.001, ****p &#x0003c; 0.0001. B) OS&#x02010;, P1&#x02010; and P2&#x02010;IFITM&#x02010;HA cells were labeled with anti&#x02010;HA antibodies either intact (I) or following permeabilization (P), detected with AF647, and analyzed by flow cytometry to determine the relative levels of cell surface IFITM protein. As controls, cells were either incubated with no antibody or secondary antibody only. The mean fluorescence intensity (MFI), relative to the no antibody control for each cell line is displayed. Plots are representative of 3&#x02013;4 independent experiments.</p></caption><graphic id="nlm-graphic-17" xlink:href="TRA-17-997-g006"><alt-text>TRA-12416-FIG-0008-c</alt-text></graphic></fig><p id="tra12416-para-0031">Virus entering through the endocytic route infected OS&#x02010; and P1&#x02010;IFITM1&#x02010;HA cells, similarly to A549 controls, and Baf A inhibited this. When virus bound to the surface of both OS&#x02010; and P1&#x02010;IFITM1&#x02010;HA cells was transiently treated with pH 5.5 medium, the infection percentage was consistently lower than that seen in similarly treated A549 cells (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>A). In the OS set, the fact that A549 control cells were not easily infected by plasma membrane fusion meant that inhibition by IFITM1&#x02010;HA was modest. However, in the P1 set, the difference between infection by plasma membrane fusion of A549 and IFITM1&#x02010;HA cells was much greater, arguing that IFITM1&#x02010;HA can inhibit plasma membrane fusion to some extent.</p><p id="tra12416-para-0032">Plasma membrane localized P2&#x02010;IFITM3&#x02010;Y20A&#x02010;HA did not restrict SFV infection through the endocytic route (Figures <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>A and <xref rid="tra12416-fig-0002" ref-type="fig">2</xref>B). However, when surface&#x02010;bound virus was low pH treated, P2&#x02010;IFITM3&#x02010;Y20A&#x02010;HA inhibited infection by &#x0223c;95% (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>A). This inhibition is greater than that seen for either OS&#x02010; or P1&#x02010;IFITM1&#x02010;HA (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>A), even though P2&#x02010;IFITM3&#x02010;Y20A&#x02010;HA expression levels were lower than those of IFITM1&#x02010;HA (Figure <xref rid="tra12416-fig-0002" ref-type="fig">2</xref>A).</p><p id="tra12416-para-0033">Endocytic infection was low in all IFITM3&#x02010;HA cells, with OS&#x02010;IFITM3&#x02010;HA being the most restrictive (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>A as in Figures <xref rid="tra12416-fig-0001" ref-type="fig">1</xref> and <xref rid="tra12416-fig-0002" ref-type="fig">2</xref>B). Baf A reduced this low level infection to &#x0003c; 1%. Surprisingly, there was no increase in infection of these cells following pH 5.5 treatment of cell surface&#x02010;bound virus, and the infection was consistently lower than that seen in all A549 cells (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>A). Indeed, OS&#x02010;IFITM3&#x02010;HA had the lowest infection percentages, even lower than either OS&#x02010; or P1&#x02010;IFITM1&#x02010;HA. IFITM3&#x02010;HA also inhibited SFV infection via plasma membrane fusion in the P1&#x02010; and P2&#x02010; cells to a similar extent to that seen with IFITM1&#x02010;HA.</p><p id="tra12416-para-0034">It was interesting to see such potent inhibition of cell surface fusion by IFITM3&#x02010;HA since immunofluorescence microscopy indicated that the majority of IFITM3&#x02010;HA is located in endosomal compartments (Figure <xref rid="tra12416-fig-0003" ref-type="fig">3</xref>) rather than at the cell surface. To confirm these observations, cells were stained either intact, or following permeabilization, and analyzed by flow cytometry to determine levels of each IFITM protein at the cell surface. Antibodies against the C&#x02010;terminal HA&#x02010;tag were used as we, and others, have shown the IFITM proteins to have a type&#x02010;II transmembrane topology with the C&#x02010;terminal domain facing the extracellular space <xref rid="tra12416-bib-0020" ref-type="ref">20</xref>, <xref rid="tra12416-bib-0028" ref-type="ref">28</xref>, <xref rid="tra12416-bib-0029" ref-type="ref">29</xref>. The mean fluorescence intensity (MFI) of labeled OS&#x02010;IFITM1&#x02010;HA, P1&#x02010;IFITM1&#x02010;HA and P2&#x02010;IFITM3&#x02010;Y20A&#x02010;HA was essentially equivalent between intact and permeabilized cells, suggesting the HA&#x02010;tag is accessible at the cell surface (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>B). Conversely, for all three IFITM3&#x02010;HA cases, significant labelling was only detected when cells were permeabilized, suggesting the majority of IFITM3&#x02010;HA is in intracellular pools (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>B). The MFI of intact IFITM3&#x02010;HA cells was slightly above background levels, suggesting some surface IFITM3&#x02010;HA (as we have previously observed <xref rid="tra12416-bib-0020" ref-type="ref">20</xref>),</p><p id="tra12416-para-0035">Overall, despite low levels of cell surface expression (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>B), IFITM3&#x02010;HA inhibited SFV infection by fusion at the plasma membrane to a similar or greater extent than IFITM1&#x02010;HA (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>A). Presumably IFITM3&#x02010;HA that transiently transits the cell surface <italic>en route</italic> to endosomes is responsible for this inhibition <xref rid="tra12416-bib-0020" ref-type="ref">20</xref>, <xref rid="tra12416-bib-0021" ref-type="ref">21</xref>, <xref rid="tra12416-bib-0030" ref-type="ref">30</xref>. From this, we conclude that IFITM3&#x02010;HA is a more potent inhibitor of SFV fusion than IFITM1&#x02010;HA.</p></sec></sec><sec id="tra12416-sec-0011"><title>Discussion</title><p id="tra12416-para-0036">IFITM proteins restrict the replication of a wide range of enveloped viruses, and at least one non&#x02010;enveloped virus <xref rid="tra12416-bib-0022" ref-type="ref">22</xref>, <xref rid="tra12416-bib-0023" ref-type="ref">23</xref>. However, to date there is little evidence that IFITMs restrict alphavirus infection. Here we show that IFITM3, and to a lesser extent IFITM2, can inhibit the replication of two alphaviruses in A549 cells. Using SFV, we show that virus binding, endocytosis, delivery to endosomes and exposure to acidic pH are unaffected by IFITM3 expression. The viral envelope proteins undergo an acid&#x02010;dependent conformational change with similar kinetics in IFITM3 expressing and non&#x02010;expressing cells. However, the viral capsid protein does not appear in the cytosol of IFITM3 expressing cells. These results indicate that IFITM3 restricts SFV infection by inhibiting endosomal fusion and/or uncoating of the viral capsid.</p><p id="tra12416-para-0037">To date the broad antiviral activity of IFITMs has been largely seen through the use of retrovirus&#x02010;based pseudotype reporter systems <xref rid="tra12416-bib-0022" ref-type="ref">22</xref>. However, for influenza A virus (IAV) the inhibitory activity of IFITM3 has been better characterized and appears to occur following virus endocytosis and delivery to endosomes, but prior to detection of the viral RNA in the nucleus <xref rid="tra12416-bib-0001" ref-type="ref">1</xref>. Nevertheless, the precise mechanism(s) of IFITM3&#x02010;mediated restriction remains unclear. Based on lipid mixing assays, Desai <italic>et al.</italic> suggest that IFITM3 inhibits IAV genome release from endosomes after the formation of hemifusion intermediates <xref rid="tra12416-bib-0004" ref-type="ref">4</xref>. While Li et al. suggest that IFITM proteins inhibit the initial lipid mixing events leading to hemifusion, based on cell&#x02013;cell fusion experiments with IAV and the retrovirus JSRV <xref rid="tra12416-bib-0003" ref-type="ref">3</xref>. Our experiments with SFV indicate that virus delivery to acidic endosomes and the initial steps in the fusion reaction, including low pH&#x02010;induced conformational changes in the viral envelope protein are unaffected by IFITM3. Nevertheless, delivery of the capsid to the cytosol is blocked, suggesting that IFITM3 inhibits membrane fusion or, possibly, uncoating after fusion has occurred.</p><p id="tra12416-para-0038">It is interesting to note that IFITM1 did not inhibit endocytic entry of either alphavirus since many other viruses show at least some sensitivity to this protein <xref rid="tra12416-bib-0022" ref-type="ref">22</xref>. Furthermore, dengue virus, a type II fusion protein expressing virus, similar to alphaviruses, is restricted by IFITM1, 2 and 3 <xref rid="tra12416-bib-0017" ref-type="ref">17</xref>. We speculate endocytic uptake and fusion with early endosomes allows SFV to escape inhibition from the plasma membrane localized IFITM1, in this system. However, why the endocytic route of alphavirus entry is not inhibited by IFITM1, while other endocytosed, low pH&#x02010;dependent viruses (such as dengue) are inhibited, remains unclear.</p><p id="tra12416-para-0039">Previously the effect of IFITM protein expression on SFV E1/E2&#x02010;mediated fusion from within (cell&#x02013;cell fusion facilitated by E1/E2 expressed on the cell surface and exposure of cells to low pH medium) was reported <xref rid="tra12416-bib-0003" ref-type="ref">3</xref>. In that study IFITM1 and IFITM3 were found to inhibit syncytium formation. In agreement, we also see that both IFITM1 and IFITM3 can inhibit infection by SFV, when virus is fused at the cell surface. Immunofluorescence (Figure <xref rid="tra12416-fig-0003" ref-type="fig">3</xref> and <xref rid="tra12416-bib-0020" ref-type="ref">20</xref>), EM (data not shown) and flow cytometry (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>B) show lower levels of IFITM3 at the cell surface than IFITM1. It is therefore interesting that IFITM3 seems to be able to inhibit infection by cell surface fusion to an equivalent or greater extent than IFITM1 (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>A). Furthermore, when IFITM3 is relocated to the plasma membrane (IFITM3&#x02010;Y20A) greater inhibition of infection was seen compared to IFITM1 (Figure <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>A). We conclude that IFITM3 has greater potency for inhibiting SFV fusion than IFITM1. Understanding this difference may provide insights to the mechanism(s) underlying the ability of IFITMs to restrict viral replication.</p><p id="tra12416-para-0040">Finally, we observed that the antiviral action of IFITM3 can be saturated by increasing the amount of virus, and is also influenced by the level of IFITM protein expression (Figures <xref rid="tra12416-fig-0001" ref-type="fig">1</xref> and <xref rid="tra12416-fig-0002" ref-type="fig">2</xref>). Type I interferon treatment of A549 cells results in similar levels of IFITM expression as seen in the P1 and P2 cell sets (data not shown). This ability to saturate IFITM3 restriction could be explained if there is a level of direct interaction between IFITM3 and SFV fusion sites. Whether IFITM3 is recruited to sites of membrane fusion, or is localized to specific membrane domains conducive for fusion, remains to be established.</p><p id="tra12416-para-0041">With the wealth of experimental data on SFV membrane fusion, using alphaviruses as a model may aid our understanding of the molecular mechanism(s) underlying IFITM&#x02010;mediated inhibition of viral infection. Elucidating these mechanisms may help to generate novel therapeutic strategies that could be applied against a broad range of both human and animal pathogens, and to further our understanding of membrane fusion, a phenomenon that underpins many more biological functions than viral entry.</p></sec><sec id="tra12416-sec-0012"><title>Materials and Methods</title><sec id="tra12416-sec-0013"><title>Cell lines and viruses</title><p id="tra12416-para-0042">The previously described <xref rid="tra12416-bib-0019" ref-type="ref">19</xref>, <xref rid="tra12416-bib-0020" ref-type="ref">20</xref> original set (designated OS) of A549 cells stably expressing C&#x02010;terminal HA&#x02010;tagged human IFITM1, 2 or 3, were cultured in Ham's F&#x02010;12 GlutaMAX media (all cell culture reagents were from Life Technologies, unless otherwise stated), supplemented with 10% (v/v) foetal calf serum [FCS (PAA)] and 1% (v/v) Penicillin/Streptomycin (Pen/Strep, 10 000 units/mL, 10 000 &#x000b5;g/mL), as previously described <xref rid="tra12416-bib-0020" ref-type="ref">20</xref>. The puromycin 1 (P1) set of cells, which consists of A549 cells stably expressing an empty puromycin resistance vector or C&#x02010;terminal HA&#x02010;tagged IFITM1, 2 or 3, and the puromycin 2 (P2) set of cells, which consists of A549 cells stably expressing GFP or C&#x02010;terminal HA&#x02010;tagged IFITM3 or IFITM3&#x02010;Y20A, were cultured in the same conditions. BHK&#x02010;21 cells were cultured in Glasgow&#x02010;MEM supplemented with 5% FCS, 1% Pen/Strep and 10% (v/v) tryptose phosphate broth (Sigma).</p><p id="tra12416-para-0043">SFV stocks were prepared as described <xref rid="tra12416-bib-0008" ref-type="ref">8</xref>. Briefly, BHK&#x02010;21 cells were infected with SFV at an MOI of 0.05 pfu/cell and cultured for 22 h (h). Supernatants were collected and cleared of cellular debris by low speed centrifugation and the virus concentrated by ultracentrifugation (100,000 &#x000d7; g for 2.5 h at 4 &#x000b0;C). Virus pellets were resuspended in TN buffer (100 m<sc>m</sc> NaCl, 50 m<sc>m</sc> Tris pH 7.6) and stored at &#x02212;80&#x000b0;C. Virus infectivity was determined on BHK&#x02010;21 cells by serial dilution plaque assay.</p><p id="tra12416-para-0044">Sindbis virus (SINV) AR339 (a kind gift from Dr. Penny Powell, University of East Anglia, Norwich, UK) stocks were prepared as for SFV.</p></sec><sec id="tra12416-sec-0014"><title>Antibodies</title><p id="tra12416-para-0045">Rabbit sera against the SFV envelope glycoprotein (E1/E2) and the capsid protein were previously described <xref rid="tra12416-bib-0031" ref-type="ref">31</xref>. Rabbit anti&#x02010;SINV sera was provided by Dr. Penny Powell (University of East Anglia, Norwich, UK). Rat anti&#x02010;HA (clone 3 F10, Roche), mouse anti&#x02010;HA (clone HA.11 16B12, Covance), rabbit anti&#x02010;IFITM1&#x02010;N&#x02010;terminal&#x02010;domain (NTD), rabbit anti&#x02010;IFITM3&#x02010;NTD, mouse anti&#x02010;tubulin, goat anti&#x02010;rabbit AlexaFluor (AF)488, goat anti&#x02010;rat AF647, goat anti&#x02010;rabbit IRDye 680 and goat anti&#x02010;mouse IRDye 800 were all previously described <xref rid="tra12416-bib-0020" ref-type="ref">20</xref>. Mouse anti&#x02010;transferrin receptor (TfR, 1 mg/mL, clone MEM&#x02010;189, Abcam), mouse anti&#x02010;EEA1 (250 &#x000b5;g/mL, BD Biosciences), mouse anti&#x02010;CD63 <xref rid="tra12416-bib-0032" ref-type="ref">32</xref>, goat anti&#x02010;rabbit AF594 and goat anti&#x02010;mouse AF647 (both 2 mg/mL, Life Technologies). All antibodies were diluted as described below.</p></sec><sec id="tra12416-sec-0015"><title>Viral infections</title><p id="tra12416-para-0046">To infect A549 cells, virus was diluted to the required MOI in F&#x02010;12 infection media [F&#x02010;12 media supplemented with 0.2% (w/v) bovine serum albumin (BSA) and 10 m<sc>m</sc> HEPES (both Sigma), pH 6.8], and incubated with cells for 5.5&#x02013;6 h at 37 &#x000b0;C. Infected cells were detected by immunofluorescence staining, as described below, using antibodies against the viral envelope glycoproteins. An Opera confocal microscope (Perkin&#x02010;Elmer) was used to image cells and the number of infected cells counted using the <sc>columbus</sc> software (Perkin&#x02010;Elmer).</p></sec><sec id="tra12416-sec-0016"><title>Virus binding to the cell surface</title><p id="tra12416-para-0047">SFV particles were bound to the cell surface to promote synchronous internalization in the indicated experiments. Virus was diluted in 4 &#x000b0;C binding media [BM: RPMI medium without bicarbonate (Sigma), supplemented with 0.2% BSA, 10 m<sc>m</sc> HEPES and 10 m<sc>m</sc> MES (Sigma) at pH 6.8] and added to cells at the indicated MOIs for 1 h with gentle shaking. The cells were then rinsed twice with cold BM to remove unbound virus, prior to any further treatment, as detailed below.</p></sec><sec id="tra12416-sec-0017"><title>SFV internalization</title><p id="tra12416-para-0048">SFV internalization into cells was analyzed by immunofluorescence and EM (described below) or biochemically. For light microscopy analysis, SFV was bound to cells at an MOI of 50 or 200 pfu/cell prior to treatment with pre&#x02010;warmed pH 6.8 BM and incubation at 37&#x000b0;C for the indicated times. Cells were then fixed, permeabilized and stained for E1/E2 or the capsid protein.</p><p id="tra12416-para-0049">For the biochemical investigation of internalization, SFV (200 pfu/cell) was bound to cells at 4&#x000b0;C. The cells were then washed and warmed for the indicated times, or left on ice. Surface&#x02010;bound virus was removed by treatment with subtilisin [2 mg/mL in PBS (Sigma)] for 1 h at 4&#x000b0;C with gentle shaking. Subtilisin was inactivated by addition of 1 m<sc>m</sc> PMSF in PBS with 30 mg/mL BSA. Cells were collected and washed with PBS containing 0.2% (w/v) BSA to remove detached virus. Internalized virus was then measured by western blot analysis of SFV E1/E2 in whole cell lysates. Subsequently, the band intensities were quantified: A measure of total cell&#x02010;associated virus was determined by averaging the E1 or E2 band intensities at each time point, without subtilisin treatment. The E1 or E2 intensity at each subtilisin treated time point was then set as a proportion of this averaged total, thus giving a percentage of subtilisin resistant (internal) E1 or E2. All intensity values were adjusted based on the tubulin loading control. These values were calculated and averaged over 3&#x02013;4 experiments.</p></sec><sec id="tra12416-sec-0018"><title>SFV endosomal penetration</title><p id="tra12416-para-0050">To determine the kinetics of endosomal penetration in A549 cells, 5 pfu/cell SFV was added and allowed to bind. Subsequently, F&#x02010;12 infection media, pre&#x02010;warmed to 37&#x000b0;C, containing DMSO or 10 &#x000b5;<sc>m</sc> monensin, was added to cells (<italic>t</italic> = 0). At indicated time points between 3 and 30 min, DMSO media was replaced with F&#x02010;12 infection media containing 10 &#x000b5;<sc>m</sc> monensin. Cells were then incubated at 37&#x000b0;C for 5.5&#x02013;6 h, after which they were fixed and analyzed for infection by immunofluorescence microscopy for the E1/E2 proteins.</p></sec><sec id="tra12416-sec-0019"><title>Immunofluorescence staining and microscopy and flow cytometry</title><p id="tra12416-para-0051">Immunofluorescence staining and microscopy was performed as previously described <xref rid="tra12416-bib-0020" ref-type="ref">20</xref> with the exception that 0.1% Triton&#x02010;X100 (Tx100, Sigma) was used for permeabilization in experiments to detect the SFV capsid protein.</p><p id="tra12416-para-0052">For flow cytometry, cells were detached from plates using 5 m<sc>m</sc> EDTA and fixed in suspension with 3% formaldehyde for 15 min at room temperature. Formaldehyde was quenched with 50 m<sc>m</sc> NH<sub>4</sub>Cl in 0.2% BSA diluted in PBS (PBS/BSA) for 15 min at room temperature. Samples were then permeabilized with 0.05% saponin in PBS/BSA [permeabilization buffer (PB)] or incubated with PBS/BSA alone for 30 min at room temperature, prior to labelling with rat anti&#x02010;HA antibody for 1 h at room temperature (either in PB or PBS/BSA as appropriate). Cells were washed 3&#x000d7; with the appropriate solution and labeled with goat anti&#x02010;rat AF647 for 45 min at room temperature. As controls, samples were incubated with no antibodies, or incubated with only AF647. Cells were washed 3&#x000d7; with PBS and subject to flow cytometry (LSR&#x02010;II; BD Bioscience). Cells were gated on forward and side scatter and analyzed for fluorescence intensity. Data were processed using <sc>flowjo</sc> (v10.1r5) software (Tree Star).</p><p id="tra12416-para-0053">Antibodies were used at the following pre&#x02010;determined dilutions form stocks (listed above): anti&#x02010;HA 1:100, anti&#x02010;IFITM1&#x02010;NTD 1:200, anti&#x02010;IFITM3&#x02010;NTD 1:200, anti&#x02010;SFV E1/E2 1:500, anti&#x02010;SFV capsid 1:500, anti&#x02010;SINV E1/E2 1:500, anti&#x02010;TfR 1:200, anti&#x02010;EEA1 1:200, anti&#x02010;CD63 1:10 000 and anti&#x02010;LAMP1 1:500. All secondary antibodies were used at 1:500.</p></sec><sec id="tra12416-sec-0020"><title>Image analysis</title><p id="tra12416-para-0054">Image analysis of colocalization between IFITM&#x02010;HA and cellular markers was performed using <sc>imagej</sc> software as previously described <xref rid="tra12416-bib-0020" ref-type="ref">20</xref>. For the analysis of SFV E1/E2 colocalization with EEA1 or IFITM3&#x02010;HA this procedure was slightly altered. Confocal sections were acquired and the multi&#x02010;channel images of E1/E2 (green) co&#x02010;stained with HA or EEA1 (magenta) were split into the component channels. These images were processed with an &#x02018;AND&#x02019; function to generate a new image containing only pixels that are both green AND magenta (&#x02018;overlapping pixels&#x02019;). A threshold was set to remove background fluorescence, and the area of the remaining pixels was quantified. These &#x02018;overlapping pixels&#x02019; were removed from the E1/E2 image, a threshold set, and the area of the remaining &#x02018;green pixels&#x02019; was quantified. Relative pixel areas were then used to calculate the ratio between &#x02018;overlapping pixels&#x02019; and &#x02018;green pixels&#x02019; to determine the level of overlap between E1/E2 and the cellular proteins.</p><p id="tra12416-para-0055">To quantify the SFV capsid cytosolic fluorescence, confocal sections were collected as displayed in Figure <xref rid="tra12416-fig-0007" ref-type="fig">7</xref>A and analyzed using <sc>imagej</sc> software as follows: The channels containing the nuclei and capsid staining were separated. Nuclei were segmented and any signal in the capsid channel that fell within the nuclei area was assumed to be non&#x02010;specific and removed from the image. A threshold was then applied to these capsid images to only detect virus puncta, which were similarly removed, and the remaining signal was deemed to be cytosolic. Individual cells were then segmented and the mean fluorescence in each cell calculated.</p><p id="tra12416-para-0056">Significance testing was performed using unpaired student's <italic>T</italic>&#x02010;tests and <sc>graphpad prism</sc> software to compare the mean values of overlapping pixels for colocalization or the difference between mean capsid cytosolic fluorescence.</p></sec><sec id="tra12416-sec-0021"><title>Electron microscopy</title><p id="tra12416-para-0057">Epon section EM: 1000 pfu/cell SFV was added to cells grown on coverslips and allowed to bind as above. Cells were subsequently washed and warmed to allow internalization for the indicated times. The coverslips were fixed in EM&#x02010;grade 2% paraformaldehyde/2% glutaraldehyde (TAAB Laboratories Equipment, Ltd.) in 0.1 <sc>m</sc> sodium cacodylate, secondarily fixed for 1 h in 1% osmium tetraoxide/1.5% potassium ferricyanide at 4&#x000b0;C and then treated with 1% tannic acid in 0.1 <sc>m</sc> sodium cacodylate for 45 min at room temperature. Samples were then dehydrated in sequentially increasing concentration of ethanol solutions, and embedded in Epon resin. Coverslips were inverted onto prepolymerized Epon stubs and polymerized by baking at 60&#x000b0;C overnight. The 70 nm thin sections were cut with a Diatome 45&#x000b0; diamond knife using an ultramicrotome (UC7; Leica). Sections were collected on 1 &#x000d7; 2 mm formvar&#x02010;coated slot grids and stained with Reynolds lead citrate.</p><p id="tra12416-para-0058">Immunolabelling EM: 5000 pfu/cell SFV was added to cells and allowed to bind and internalize as above. As previously described <xref rid="tra12416-bib-0020" ref-type="ref">20</xref>, cells were fixed with EM&#x02010;grade 4% (w/v) paraformaldehyde in 0.1 <sc>m</sc> phosphate buffer pH 7.4, infused with 2.3 <sc>m</sc> sucrose, supported in 12% (w/v) gelatin and frozen in liquid nitrogen. Ultrathin (70 nm) cryosections were cut at &#x02212;120&#x000b0;C and picked up in 1:1 2.3 <sc>m</sc> sucrose: 2% methylcellulose. Sections were labeled with primary antibody (mouse anti&#x02010;HA 1:400), followed by rabbit anti&#x02010;mouse intermediate antibody (1:180, DAKO) and protein A&#x02010;gold. For double labelling experiments, sections were treated with 1% glutaraldehyde in PBS after the first protein A&#x02010;gold incubation and quenched in 15 m<sc>m</sc> glycine before repeating the single labelling procedure with the second primary antibody (anti&#x02010;E1/E2) and a different sized protein A&#x02010;gold, as described <xref rid="tra12416-bib-0033" ref-type="ref">33</xref>. Finally, sections were contrast stained in 1:9 solution of 4% uranyl acetate: 2% methylcellulose solution pH 4.0. All samples were imaged using a transmission electron microscope (Tecnai T12; FEI) equipped with a charge&#x02010;coupled device camera (SIS Morada; Olympus).</p><p id="tra12416-para-0059">Antibodies were used at the following pre&#x02010;determined dilutions from stocks (listed above): SFV E1/E2 1:50, mouse anti&#x02010;HA 1:400.</p></sec><sec id="tra12416-sec-0022"><title>SFV plasma membrane fusion</title><p id="tra12416-para-0060">Cells, in a 96 well plate format, were pre&#x02010;incubated with either DMSO or 100 nM bafilomycin A1 (Baf A) in BM for 15 min at 37&#x000b0;C. Cells were then placed on ice and washed with cold BM containing DMSO or Baf A prior to addition of 5 pfu/cell SFV to bind to the cell surface (in the presence of Baf A or DMSO). The cells were washed to remove unbound virus and treated with 37&#x000b0;C BM (containing DMSO or Baf A) adjusted to pH 5.5 for 3 min (or pH 6.8 as control), to trigger viral fusion at the cell surface. Cells were subsequently incubated for 5.5&#x02013;6 h in F&#x02010;12 infection media containing DMSO or Baf A. Control samples, pH 6.8 DMSO, were treated with F12 infection media containing DMSO, allowing viral entry through the normal endosomal route. Cells pre&#x02010;treated with Baf A and pH 6.8 media were incubated with infection media containing Baf A, allowing endocytosis but inhibiting low pH&#x02010;induced viral fusion in endosomes. Cells pre&#x02010;treated with Baf A and given a pH 5.5 pulse were incubated with infection media containing Baf A to trigger fusion at the plasma membrane, while inhibiting acidification of endosomes, such that the low pH trigger was only received at the plasma membrane. Cells pre&#x02010;treated with DMSO and given a pH 5.5 pulse were incubated with infection media containing Baf A, to again block endosomal acidification and as a control for Baf A pre&#x02010;treatment. Infected cells were detected by immunofluorescence, as described above, using antibodies against E1/E2. Three random epifluorescence images, at 20&#x000d7; magnification, were taken for each well and analyzed for infection percentage using <sc>imagej</sc> software. Briefly, nuclei were segmented to detect the total number of cells per field. The segmented nuclei were super&#x02010;imposed on the fluorescence channel marking infected cells (E1/E2 stained cells) and a ring of 10 pixels was expanded around each super&#x02010;imposed nuclei. The E1/E2 fluorescence intensity within this ring was used to score cells as infected or uninfected. The percentage of infected cells was determined for each image and used to determine the percentage of infected cells per well. All infections were carried out in triplicate wells, and the mean infection percentage calculated. In order to test statistical significance of inhibition all infection percentages were set relative to the A549 pH 6.8 DMSO condition within each cell line set (such that OS&#x02010;IFITMs were only compared to OS&#x02010;A549, for example), thus giving a measure of the relative infection percentage induced by the pH 5.5 treatments. The difference in relative infection percentages was then analyzed across experiments using unpaired student's <italic>T</italic>&#x02010;tests in <sc>graphpad prism</sc> software to compare the difference in relative infection percentage from pH 5.5 treatments in A549 controls against IFITM expressing cells.</p></sec><sec id="tra12416-sec-0023"><title>SFV E1 trypsin insensitivity</title><p id="tra12416-para-0061">Cells were initially pre&#x02010;incubated with either DMSO or 100 nM Baf A in BM as described for SFV plasma membrane fusion. Virus was added at an MOI of 200 pfu/cell. Where indicated, cells with bound virus were warmed to 37&#x000b0;C to allow virus uptake (with Baf A as labeled), briefly (3 min) treated with pH 5.5 BM, or left on ice. Cells were lysed in 60 &#x003bc;L 1% Tx100 in PBS for 15 min on ice, and the nuclei removed by centrifugation. 40 &#x003bc;L of cell lysate were divided in two. One sample was mixed with 20 &#x003bc;L trypsin [800 &#x000b5;g/mL in 1% Tx100 (Sigma)] and incubated for 10 min at 37 &#x000b0;C, the other with 20 &#x003bc;L 1% Tx100. Both samples were then mixed with 20 &#x003bc;L of soybean trypsin inhibitor [2 mg/mL (Sigma)]. Finally, 6&#x000d7; non&#x02010;reducing Laemmli sample buffer (LSB) was added and an equal volume of each sample was separated by SDS&#x02010;PAGE and western blotted for SFV E1/E2, as described below. Samples were not heated prior to SDS&#x02010;PAGE to maintain the E1 homotrimer.</p></sec><sec id="tra12416-sec-0024"><title>Western blotting</title><p id="tra12416-para-0062">Unless otherwise indicated, cell lysates were produced by incubating cells with Tx100 lysis buffer [1% (v/v) Tx100, 150 m<sc>m</sc> NaCl, 50 m<sc>m</sc> Tris&#x02013;HCl at pH 8.0] containing 1&#x000d7; complete protease inhibitor cocktail (Roche) for 15 min on ice. Nuclei were removed by centrifugation and the protein concentrations determined using the bicinochoninic acid method (Thermo Scientific). Equal amounts of protein for each sample were mixed with 3&#x000d7; LSB containing 100 m<sc>m</sc> dithiothreitol (unless otherwise indicated). Samples were separated on 10% or 15% SDS&#x02010;PAGE gels, transferred to PVDF membranes (Immobilon&#x02010;FL, Millipore), and blocked with 5% (w/v) milk powder (Marvel) in Tris&#x02010;buffered saline (pH 7.4) with 0.05% Tween&#x02010;20 (TBST) for 1 h at room temperature. The membranes were incubated with primary antibodies overnight at 4 &#x000b0;C, washed with TBST and probed with appropriate secondary antibodies conjugated to Li&#x02010;COR IRDye fluorophores at room temperature before imaging on a Li&#x02010;COR Odyssey system. Quantification of band fluorescence intensity was performed using the <sc>odyssey</sc> software.</p><p id="tra12416-para-0063">Antibodies were used at the following pre&#x02010;determined dilutions from stocks (listed above): anti&#x02010;SFV E1/E2 1:1000, anti&#x02010;IFITM1&#x02010;NTD 1:1000, anti&#x02010;IFITM3&#x02010;NTD 1:500, anti&#x02010;VDAC 1:300, anti&#x02010;tubulin 1:1000. Both Li&#x02010;COR secondary antibodies were used at 1:10 000.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="tra12416-supitem-0001"><caption><p>Editorial Process</p></caption><media xlink:href="TRA-17-997-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="tra12416-supitem-0002"><caption><p id="tra12416-para-0001">
+<bold>Figure S1: IFITM3 Y20A localizes to the plasma membrane.</bold> P2&#x02010;IFITM3&#x02010;HA (wild type; WT) and P2&#x02010;IFITM3&#x02010;Y20A&#x02010;HA cells were fixed, permeabilized and labeled with anti&#x02010;IFITM1&#x02010;NTD antibodies (which cross&#x02010;react with IFITM3) followed by AF488 (green). The images were captured using an epifluorescence microscope. WT IFITM3 was seen in intracellular compartments (also see Figure <xref rid="tra12416-fig-0003" ref-type="fig">3</xref>), where as IFITM3&#x02010;Y20A&#x02010;HA was seen at the plasma membrane. Nuclei were detected with Hoechst staining. Scale bar represents 15 &#x000b5;m. Figure S1 &#x02013; Associated with Figures <xref rid="tra12416-fig-0002" ref-type="fig">2</xref> and <xref rid="tra12416-fig-0008" ref-type="fig">8</xref>. The figure displays the localization of the IFITM3&#x02010;Y20A mutant, compared to wild type. This localization has been published by others, and is included here as a demonstration of the plasma membrane localization of the mutant in this system.</p><p id="tra12416-para-0002">
+<bold>Figure S2: Internalized SFV colocalizes with EEA1.</bold> A) SFV (50 pfu/cell) was bound to A549 cells for 1 h at 4&#x000b0;C prior to warming for the indicated periods to promote endocytic uptake. Cells were then fixed and labeled for SFV E1/E2 and EEA1, and visualized with AF488 (green, E1/E2) and AF647 (magenta, EEA1). Single confocal sections are displayed. As seen in Figure <xref rid="tra12416-fig-0005" ref-type="fig">5</xref>, E1/E2 labelling at 0 and 5 min was seen as small puncta. At later time points following endocytosis, larger and brighter puncta were seen. EEA1 and E1/E2 were seen to overlap from 10 min, indicating trafficking of SFV to early endosomes. The apparent increase in EEA1 intensity with time was also seen in mock&#x02010;infected samples (data not shown), and may be due to cooling and warming the cells. Nuclei were detected with Hoechst staining. Scale bar represents 15 &#x000b5;m. B) The overlap between green (SFV E1/E2) and magenta (EEA1) pixels was quantified over multiple experiments (see <styled-content style="italic-in-any-context">Materials and Methods</styled-content>). A total of three independent experiments were performed, and six images taken at 63&#x000d7; magnification. The average ratio of the relative area of overlapping pixels (green and magenta) to green pixels from each experiment is plotted, with the standard deviation used for the error bars. Figure S2 &#x02013; Associated with Figure <xref rid="tra12416-fig-0005" ref-type="fig">5</xref>. This figure is equivalent to the data in Figure <xref rid="tra12416-fig-0005" ref-type="fig">5</xref>, but is performed in the control A549 cells, stained for EEA1 and SFV, rather than staining for IFITM3&#x02010;HA as in Figure <xref rid="tra12416-fig-0005" ref-type="fig">5</xref>.</p><p id="tra12416-para-0003">
+<bold>Figure S3: EM imaging of SFV uptake.</bold> SFV (1000 pfu/cell) was bound to A549, or OS&#x02010;IFITM3&#x02010;HA expressing cells for 1 h at 4&#x000b0;C prior to warming for the indicated periods to promote endocytic uptake. Samples were fixed and processed for Epon section EM, as detailed in <styled-content style="italic-in-any-context">Materials and Methods</styled-content>. Virus particles were seen at the plasma membrane at 0 min, then in coated vesicles after 5 min at 37&#x000b0;C. By 20 and 30 min, virus particles appear in endosomal structures, but it was hard to distinguish viral particles from other intraluminal vesicles. Figure S3 &#x02013; Associated with Figure <xref rid="tra12416-fig-0005" ref-type="fig">5</xref>. This figure displays Epon EM micrographs for SFV internalization to complement the IF data of Figure <xref rid="tra12416-fig-0005" ref-type="fig">5</xref>.</p><p id="tra12416-para-0004">
+<bold>Figure S4: Immuno&#x02010;gold labelling of cryosections and EM imaging of SFV uptake.</bold> SFV (5000 pfu/cell) was bound to cells and allowed to internalize, prior to processing for cryosectioning and immunogold labelling. A) Sections were labeled with antibodies against SFV E1/E2. Viral particles were detected at the cell surface at 0 min. By 30 min viral particles were found within multivesicular bodies in both A549 and OS&#x02010;IFITM3&#x02010;HA expressing cells. B) Sections were labeled for SFV E1/E2 and the HA&#x02010;tag. The primary antibodies were detected with 10 nm colloidal gold (SFV) or 15 nm colloidal gold (HA) conjugated secondary antibodies. There was minimal HA background detected in the A549 cells, whereas most HA labelling in the IFITM3&#x02010;HA cells was associated with multivesicular bodies, where SFV particles were detected following 30 min at 37&#x000b0;C. Scale bars represent 200 nm. Figure S4 &#x02013; Associated with Figure <xref rid="tra12416-fig-0005" ref-type="fig">5</xref>. This figure displays immuno&#x02010;gold labeled cryosections and EM micrographs for SFV internalization to complement the IF data of Figure <xref rid="tra12416-fig-0005" ref-type="fig">5</xref>
+</p><p id="tra12416-para-0005">
+<bold>Figure S5: Kinetics of SFV penetration into A549 cells.</bold> SFV (5 pfu/cell) was bound to A549 cells for 1 h at 4&#x000b0;C prior to warming to 37&#x000b0;C with media containing DMSO or 10 &#x000b5;<sc>m</sc> monensin to allow endocytic uptake. At time points between 3 and 30 min, DMSO containing media was replaced with media containing monensin. After 5.5&#x02013;6 h infection, the cells were fixed and analyzed for infection by immunofluorescence microscopy. The data show the percentage of infected cells compared to DMSO controls. Although monensin added at early time points effectively inhibited infection, addition at 30 min had almost no effect. The data displayed are mean infection percentage from three independent infections (each containing duplicates of each sample) with standard deviation between experiments as error bars. Figure S5 &#x02013; Associated with Figures <xref rid="tra12416-fig-0004" ref-type="fig">4</xref> and <xref rid="tra12416-fig-0005" ref-type="fig">5</xref>, <xref rid="tra12416-fig-0006" ref-type="fig">6</xref> and <xref rid="tra12416-fig-0007" ref-type="fig">7</xref>. This figure details the results for the monensin time of addition experiment to determine the time course for SFV passing the pH&#x02010;dependent step of entry.</p></caption><media xlink:href="TRA-17-997-s002.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="tra12416-sec-0025"><title>Acknowledgments</title><p id="tra12416-para-0064">We thank Dr. Penny Powell, University of East Anglia, Norwich, UK, for providing SINV and anti&#x02010;SINV antibodies. Christin Luft for Opera imaging and analysis. Michela Mazzon and Scott Lawrence for discussions and critical comments on the manuscript. S. W., S. C., I. J. W. and M. M. are supported by UK Medical Research Council core funding to the MRC&#x02010;UCL LMCB University Unit (Grant MC_U122665002). S. S., R. W., C. D. and P. K. are supported by a Wellcome Trust grant (098051) and funding from the Medical Research Council (G1000413).</p><p>The Editorial Process File is available in the online version of this article.</p></ack><ref-list content-type="cited-references" id="tra12416-bibl-0001"><title>References</title><ref id="tra12416-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="tra12416-cit-0001">
+<string-name>
+<surname>Feeley</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Sims</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>John</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Pertel</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>L&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Gaiha</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Donis</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name>
+<surname>Elledge</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Brass</surname>
+<given-names>AL</given-names>
+</string-name>. <article-title>IFITM3 inhibits influenza A virus infection by preventing cytosolic entry</article-title>. <source>PLoS Pathog</source>
+<year>2011</year>;<volume>7</volume>:<fpage>e1002337</fpage>.<pub-id pub-id-type="pmid">22046135</pub-id></mixed-citation></ref><ref id="tra12416-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="tra12416-cit-0002">
+<string-name>
+<surname>Amini&#x02010;Bavil&#x02010;Olyaee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Farzan</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The antiviral effector IFITM3 disrupts intracellular cholesterol homeostasis to block viral entry</article-title>. <source>Cell Host Microbe</source>
+<year>2013</year>;<volume>13</volume>:<fpage>452</fpage>&#x02013;<lpage>464</lpage>.<pub-id pub-id-type="pmid">23601107</pub-id></mixed-citation></ref><ref id="tra12416-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="tra12416-cit-0003">
+<string-name>
+<surname>Li</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Markosyan</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>Y&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Golfetto</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Bungart</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Gratton</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>FS</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>S&#x02010;L</given-names>
+</string-name>. <article-title>IFITM proteins restrict viral membrane hemifusion</article-title>. <source>PLoS Pathog</source>
+<year>2013</year>;<volume>9</volume>:<fpage>e1003124</fpage>.<pub-id pub-id-type="pmid">23358889</pub-id></mixed-citation></ref><ref id="tra12416-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="tra12416-cit-0004">
+<string-name>
+<surname>Desai</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Marin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Savidis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Brass</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Melikyan</surname>
+<given-names>GB</given-names>
+</string-name>. <article-title>IFITM3 restricts influenza A virus entry by blocking the formation of fusion pores following virus&#x02010;endosome hemifusion</article-title>. <source>PLoS Pathog</source>
+<year>2014</year>;<volume>10</volume>:<fpage>e1004048</fpage>.<pub-id pub-id-type="pmid">24699674</pub-id></mixed-citation></ref><ref id="tra12416-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="tra12416-cit-0005">
+<string-name>
+<surname>Compton</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Bruel</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Porrot</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mallet</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sachse</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Euvrard</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Casartelli</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>IFITM proteins incorporated into HIV&#x02010;1 virions impair viral fusion and spread</article-title>. <source>Cell Host Microbe</source>
+<year>2014</year>;<volume>16</volume>:<fpage>736</fpage>&#x02013;<lpage>747</lpage>.<pub-id pub-id-type="pmid">25464829</pub-id></mixed-citation></ref><ref id="tra12416-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="tra12416-cit-0006">
+<string-name>
+<surname>Tartour</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Appourchaux</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gaillard</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>X&#x02010;N</given-names>
+</string-name>, <string-name>
+<surname>Durand</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Turpin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Beaumont</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Roch</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mahieux</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Brand</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Roingeard</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cimarelli</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>IFITM proteins are incorporated onto HIV&#x02010;1 virion particles and negatively imprint their infectivity</article-title>. <source>Retrovirology</source>
+<year>2014</year>;<volume>11</volume>:<fpage>103</fpage>.<pub-id pub-id-type="pmid">25422070</pub-id></mixed-citation></ref><ref id="tra12416-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="tra12416-cit-0007">
+<string-name>
+<surname>Yu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wilkins</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wilkins</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Swartz</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Esposito</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>IFITM proteins restrict HIV&#x02010;1 infection by antagonizing the envelope glycoprotein</article-title>. <source>Cell Rep</source>
+<year>2015</year>;<volume>13</volume>:<fpage>145</fpage>&#x02013;<lpage>156</lpage>.<pub-id pub-id-type="pmid">26387945</pub-id></mixed-citation></ref><ref id="tra12416-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="tra12416-cit-0008">
+<string-name>
+<surname>Helenius</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kartenbeck</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Simons</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fries</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>On the entry of Semliki forest virus into BHK&#x02010;21 cells</article-title>. <source>J Cell Biol</source>
+<year>1980</year>;<volume>84</volume>:<fpage>404</fpage>&#x02013;<lpage>420</lpage>.<pub-id pub-id-type="pmid">6991511</pub-id></mixed-citation></ref><ref id="tra12416-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="tra12416-cit-0009">
+<string-name>
+<surname>Marsh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Helenius</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Adsorptive endocytosis of Semliki Forest virus</article-title>. <source>J Mol Biol</source>
+<year>1980</year>;<volume>142</volume>:<fpage>439</fpage>&#x02013;<lpage>454</lpage>.<pub-id pub-id-type="pmid">7463480</pub-id></mixed-citation></ref><ref id="tra12416-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="tra12416-cit-0010">
+<string-name>
+<surname>White</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Helenius</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>pH&#x02010;dependent fusion between the Semliki Forest virus membrane and liposomes</article-title>. <source>Proc Natl Acad Sci USA</source>
+<year>1980</year>;<volume>77</volume>:<fpage>3273</fpage>&#x02013;<lpage>3277</lpage>.<pub-id pub-id-type="pmid">6997876</pub-id></mixed-citation></ref><ref id="tra12416-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="tra12416-cit-0011">
+<string-name>
+<surname>Marsh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bolzau</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Helenius</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Penetration of Semliki Forest virus from acidic prelysosomal vacuoles</article-title>. <source>Cell</source>
+<year>1983</year>;<volume>32</volume>:<fpage>931</fpage>&#x02013;<lpage>940</lpage>.<pub-id pub-id-type="pmid">6831562</pub-id></mixed-citation></ref><ref id="tra12416-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="tra12416-cit-0012">
+<string-name>
+<surname>Schoggins</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Panis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>Bieniasz</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Rice</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>A diverse range of gene products are effectors of the type I interferon antiviral response</article-title>. <source>Nature</source>
+<year>2011</year>;<volume>472</volume>:<fpage>481</fpage>&#x02013;<lpage>485</lpage>.<pub-id pub-id-type="pmid">21478870</pub-id></mixed-citation></ref><ref id="tra12416-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="tra12416-cit-0013">
+<string-name>
+<surname>Bailey</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>I&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Farzan</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>IFITM&#x02010;family proteins: the cell's first line of antiviral defense</article-title>. <source>Annu Rev Virol</source>
+<year>2014</year>;<volume>1</volume>:<fpage>261</fpage>&#x02013;<lpage>283</lpage>.<pub-id pub-id-type="pmid">25599080</pub-id></mixed-citation></ref><ref id="tra12416-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="tra12416-cit-0014">
+<string-name>
+<surname>Diamond</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Farzan</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The broad&#x02010;spectrum antiviral functions of IFIT and IFITM proteins</article-title>. <source>Nat Rev Immunol</source>
+<year>2013</year>;<volume>13</volume>:<fpage>46</fpage>&#x02013;<lpage>57</lpage>.<pub-id pub-id-type="pmid">23237964</pub-id></mixed-citation></ref><ref id="tra12416-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="tra12416-cit-0015">
+<string-name>
+<surname>Brass</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>I&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Benita</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>John</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Krishnan</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Feeley</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Weyer</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>van der Weyden</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fikrig</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Xavier</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Farzan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Elledge</surname>
+<given-names>SJ</given-names>
+</string-name>. <article-title>The IFITM proteins mediate cellular resistance to influenza A H1N1 virus, West Nile virus, and dengue virus</article-title>. <source>Cell</source>
+<year>2009</year>;<volume>139</volume>:<fpage>1243</fpage>&#x02013;<lpage>1254</lpage>.<pub-id pub-id-type="pmid">20064371</pub-id></mixed-citation></ref><ref id="tra12416-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="tra12416-cit-0016">
+<string-name>
+<surname>Jiang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Weidner</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Qing</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>X&#x02010;B</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Birk</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>P&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Block</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>J&#x02010;T</given-names>
+</string-name>. <article-title>Identification of five interferon&#x02010;induced cellular proteins that inhibit west Nile virus and dengue virus infections</article-title>. <source>J Virol</source>
+<year>2010</year>;<volume>84</volume>:<fpage>8332</fpage>&#x02013;<lpage>8341</lpage>.<pub-id pub-id-type="pmid">20534863</pub-id></mixed-citation></ref><ref id="tra12416-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="tra12416-cit-0017">
+<string-name>
+<surname>Chan</surname>
+<given-names>YK</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>I&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Farzan</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>IFITM proteins restrict antibody&#x02010;dependent enhancement of dengue virus infection</article-title>. <source>PLoS One</source>
+<year>2012</year>;<volume>7</volume>:<fpage>e34508</fpage>.<pub-id pub-id-type="pmid">22479637</pub-id></mixed-citation></ref><ref id="tra12416-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="tra12416-cit-0018">
+<string-name>
+<surname>John</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Perreira</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Feeley</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Aker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Savidis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Elia</surname>
+<given-names>AEH</given-names>
+</string-name>, <string-name>
+<surname>Everitt</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Vora</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pertel</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Elledge</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Kellam</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Brass</surname>
+<given-names>AL</given-names>
+</string-name>. <article-title>The CD225 domain of IFITM3 is required for both IFITM Protein association and inhibition of influenza A virus and dengue virus replication</article-title>. <source>J Virol</source>
+<year>2013</year>;<volume>87</volume>:<fpage>7837</fpage>&#x02013;<lpage>7852</lpage>.<pub-id pub-id-type="pmid">23658454</pub-id></mixed-citation></ref><ref id="tra12416-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="tra12416-cit-0019">
+<string-name>
+<surname>Smith</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Wash</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Ferrara</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Temperton</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kellam</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Fife</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Chicken IFITM3 restricts Influenza viruses and Lyssaviruses in vitro</article-title>. <source>J Virol</source>
+<year>2013</year>;<volume>87</volume>:<fpage>12957</fpage>&#x02013;<lpage>12966</lpage>.<pub-id pub-id-type="pmid">24067955</pub-id></mixed-citation></ref><ref id="tra12416-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="tra12416-cit-0020">
+<string-name>
+<surname>Weston</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Czieso</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Kellam</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Marsh</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>A membrane topology model for human interferon inducible transmembrane protein 1</article-title>. <source>PLoS One</source>
+<year>2014</year>;<volume>9</volume>:<fpage>e104341</fpage>.<pub-id pub-id-type="pmid">25105503</pub-id></mixed-citation></ref><ref id="tra12416-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="tra12416-cit-0021">
+<string-name>
+<surname>Jia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Miao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>Y&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>S&#x02010;L</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Geng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Qiao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Identification of an endocytic signal essential for the antiviral action of IFITM3</article-title>. <source>Cell Microbiol</source>
+<year>2014</year>;<volume>16</volume>:<fpage>1080</fpage>&#x02013;<lpage>1093</lpage>.<pub-id pub-id-type="pmid">24521078</pub-id></mixed-citation></ref><ref id="tra12416-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="tra12416-cit-0022">
+<string-name>
+<surname>Smith</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Weston</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kellam</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Marsh</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>IFITM proteins &#x02010; cellular inhibitors of viral entry</article-title>. <source>Curr Opin Virol</source>
+<year>2014</year>;<volume>4</volume>:<fpage>71</fpage>&#x02013;<lpage>77</lpage>.<pub-id pub-id-type="pmid">24480526</pub-id></mixed-citation></ref><ref id="tra12416-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="tra12416-cit-0023">
+<string-name>
+<surname>Perreira</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Feeley</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Brass</surname>
+<given-names>AL</given-names>
+</string-name>. <article-title>IFITMs restrict the replication of multiple pathogenic viruses</article-title>. <source>J Mol Biol</source>
+<year>2013</year>;<volume>425</volume>:<fpage>4937</fpage>&#x02013;<lpage>4955</lpage>.<pub-id pub-id-type="pmid">24076421</pub-id></mixed-citation></ref><ref id="tra12416-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="tra12416-cit-0024">
+<string-name>
+<surname>Kielian</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chanel&#x02010;Vos</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Alphavirus entry and membrane fusion</article-title>. <source>Viruses</source>
+<year>2010</year>;<volume>2</volume>:<fpage>796</fpage>&#x02013;<lpage>825</lpage>.<pub-id pub-id-type="pmid">21546978</pub-id></mixed-citation></ref><ref id="tra12416-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="tra12416-cit-0025">
+<string-name>
+<surname>Schmid</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kielian</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Helenius</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mellman</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Acidification of endosome subpopulations in wild&#x02010;type Chinese hamster ovary cells and temperature&#x02010;sensitive acidification&#x02010;defective mutants</article-title>. <source>J Cell Biol</source>
+<year>1989</year>;<volume>108</volume>:<fpage>1291</fpage>&#x02013;<lpage>1300</lpage>.<pub-id pub-id-type="pmid">2925786</pub-id></mixed-citation></ref><ref id="tra12416-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="tra12416-cit-0026">
+<string-name>
+<surname>Marsh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wellsteed</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kern</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Harms</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Helenius</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Monensin inhibits Semliki Forest virus penetration into culture cells</article-title>. <source>Proc Natl Acad Sci USA</source>
+<year>1982</year>;<volume>79</volume>:<fpage>5297</fpage>&#x02013;<lpage>5301</lpage>.<pub-id pub-id-type="pmid">6957864</pub-id></mixed-citation></ref><ref id="tra12416-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="tra12416-cit-0027">
+<string-name>
+<surname>Helenius</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kielian</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wellsteed</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mellman</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Rudnick</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Effects of monovalent cations on Semliki Forest virus entry into BHK&#x02010;21 cells</article-title>. <source>J Biol Chem</source>
+<year>1985</year>;<volume>260</volume>:<fpage>5691</fpage>&#x02013;<lpage>5697</lpage>.<pub-id pub-id-type="pmid">3988769</pub-id></mixed-citation></ref><ref id="tra12416-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="tra12416-cit-0028">
+<string-name>
+<surname>Bailey</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Kondur</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>I&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Farzan</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Interferon&#x02010;induced transmembrane protein 3 is a Type II transmembrane protein</article-title>. <source>J Biol Chem</source>
+<year>2013</year>;<volume>288</volume>:<fpage>32184</fpage>&#x02013;<lpage>32193</lpage>.<pub-id pub-id-type="pmid">24067232</pub-id></mixed-citation></ref><ref id="tra12416-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="tra12416-cit-0029">
+<string-name>
+<surname>Ling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Combined approaches of EPR and NMR illustrate only one transmembrane helix in the human IFITM3</article-title>. <source>Sci Rep</source>
+<year>2016</year>;<volume>6</volume>:<fpage>24029</fpage>.<pub-id pub-id-type="pmid">27046158</pub-id></mixed-citation></ref><ref id="tra12416-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="tra12416-cit-0030">
+<string-name>
+<surname>Jia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rong</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>S&#x02010;L</given-names>
+</string-name>, <string-name>
+<surname>Geng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Qiao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>The N&#x02010;terminal region of IFITM3 modulates its antiviral activity by regulating IFITM3 cellular localization</article-title>. <source>J Virol</source>
+<year>2012</year>;<volume>86</volume>:<fpage>13697</fpage>&#x02013;<lpage>13707</lpage>.<pub-id pub-id-type="pmid">23055554</pub-id></mixed-citation></ref><ref id="tra12416-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="tra12416-cit-0031">
+<string-name>
+<surname>Marsh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bron</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>SFV infection in CHO cells: cell&#x02010;type specific restrictions to productive virus entry at the cell surface</article-title>. <source>J Cell Sci</source>
+<year>1997</year>;<volume>110</volume>:<fpage>95</fpage>&#x02013;<lpage>103</lpage>.<pub-id pub-id-type="pmid">9010788</pub-id></mixed-citation></ref><ref id="tra12416-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="tra12416-cit-0032">
+<string-name>
+<surname>Fraile&#x02010;Ramos</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kledal</surname>
+<given-names>TN</given-names>
+</string-name>, <string-name>
+<surname>Pelchen&#x02010;Matthews</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bowers</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Marsh</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The human cytomegalovirus US28 protein is located in endocytic vesicles and undergoes constitutive endocytosis and recycling</article-title>. <source>Mol Biol Cell</source>
+<year>2001</year>;<volume>12</volume>:<fpage>1737</fpage>&#x02013;<lpage>1749</lpage>.<pub-id pub-id-type="pmid">11408581</pub-id></mixed-citation></ref><ref id="tra12416-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="tra12416-cit-0033">
+<string-name>
+<surname>Slot</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Geuze</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Gigengack</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lienhard</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>James</surname>
+<given-names>DE</given-names>
+</string-name>. <article-title>Immuno&#x02010;localization of the insulin regulatable glucose transporter in brown adipose tissue of the rat</article-title>. <source>J Cell Biol</source>
+<year>1991</year>;<volume>113</volume>:<fpage>123</fpage>&#x02013;<lpage>135</lpage>.<pub-id pub-id-type="pmid">2007617</pub-id></mixed-citation></ref></ref-list></back></article>

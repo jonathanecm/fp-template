@@ -1,0 +1,326 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Insect Sci</journal-id><journal-id journal-id-type="iso-abbrev">J. Insect Sci</journal-id><journal-id journal-id-type="publisher-id">insc</journal-id><journal-title-group><journal-title>Journal of Insect Science</journal-title></journal-title-group><issn pub-type="epub">1536-2442</issn><publisher><publisher-name>University of Wisconsin Library</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22239717</article-id><article-id pub-id-type="pmc">3391907</article-id><article-id pub-id-type="doi">10.1673/031.011.12601</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Novaluron Causes Reduced Egg Hatch After Treating Adult Codling Moths, <italic>Cydia pomenella</italic>: Support for Transovarial Transfer</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Soo-Hoon S.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="corresp" rid="corr1"><sup>a*</sup></xref></contrib><contrib contrib-type="author"><name><surname>Wise</surname><given-names>John C.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="corr2"><sup>b</sup></xref></contrib><contrib contrib-type="author"><name><surname>G&#x000f6;k&#x000e7;e</surname><given-names>Avhan</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="corresp" rid="corr3"><sup>c</sup></xref></contrib><contrib contrib-type="author"><name><surname>Whalon</surname><given-names>Mark E.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="corr4"><sup>d</sup></xref></contrib><aff id="aff1"><label><sup>1</sup></label>Department of Entomology, Michigan State University, East Lansing, Ml 48824</aff><aff id="aff2"><label><sup>2</sup></label>Department of Plant Protection, Gaziosmanpasa University, Tasliciftlik/Tokat, Turkey</aff><aff id="aff3"><label><sup>3</sup></label>Department of Entomology, University of Arkansas, 310 Agriculture, Fayetteville, AR 72701</aff></contrib-group><author-notes><corresp id="corr1"><label><sup>a*</sup></label><email>sskim@uark.edu</email></corresp><corresp id="corr2"><label><sup>b</sup></label><email>wisejohn@msu.edu</email></corresp><corresp id="corr3"><label><sup>c</sup></label><email>gokce@msu.edu</email></corresp><corresp id="corr4"><label><sup>d</sup></label><email>whalon@msu.edu</email></corresp><corresp id="corr5"><label><sup>*</sup></label>Corresponding author</corresp></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>22</day><month>9</month><year>2011</year></pub-date><volume>11</volume><elocation-id>126</elocation-id><history><date date-type="received"><day>22</day><month>11</month><year>2010</year></date><date date-type="accepted"><day>8</day><month>8</month><year>2011</year></date></history><permissions><copyright-statement>&#x000a9; 2011</copyright-statement><copyright-year>2011</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>The codling moth, <italic>Cydia pomonella</italic> (L.) (Lepidoptera: Tortricidae), is a primary pest of apples throughout the United States. Reliance on broad spectrum organophosphates has been declining with the slated cancellation and has shifted towards narrow spectrum insecticides. Novaluron, a chitin synthesis inhibitor, has primarily been used for its ovicidal and larvacidal activities. However, recent studies have demonstrated a transovarial effect after exposure to adults. The effects of novaluron were studied to determine if reduced egg hatch occurs after exposure of different sexes to this compound. Effects of this compound through horizontal transfer were also compared with a topical application to <italic>C. pomonella</italic> eggs. Results from independent exposure of different sexes to novaluron were different than the control for all three exposure types; male only, female only, and both treated. The horizontal transfer experiment yielded no significant difference while the topical application of novaluron on eggs showed significantly lower egg hatch. Although novaluron has no direct toxicity to adults, the results of this study demonstrate that the delayed lethal activity of this compound reduces hatching of eggs laid by treated adults. Along with the direct ovicidal and larvicidal properties of novaluron, the delayed lethal activity provides an important contribution to the overall control seen in the field.</p></abstract><kwd-group><title>Keywords</title><kwd>chitin synthesis inhibitor</kwd><kwd>horizontal transfer</kwd><kwd>transovarial transfer</kwd></kwd-group><counts><page-count count="10"/></counts></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>The codling moth, <italic>Cydia pomonella</italic> (L.) (Lepidoptera: Tortricidae), is one of the most significant pests of temperate pome fruits worldwide (<xref ref-type="bibr" rid="bibr18">Hoyt et al. 1983</xref>; <xref ref-type="bibr" rid="bibr04">Barnes 1991</xref>; <xref ref-type="bibr" rid="bibr16">Howitt 1993</xref>). Historically, <italic>C. pomonella</italic> management tactics have ranged from broad-spectrum insecticides to pheromone-mediated mating disruption (<xref ref-type="bibr" rid="bibr03">Barnes and Moffitt 1963</xref>; <xref ref-type="bibr" rid="bibr07">Croft and Hoyt 1983</xref>; <xref ref-type="bibr" rid="bibr15">Howell and Maitlen 1983</xref>; <xref ref-type="bibr" rid="bibr31">Riedl et al. 1985</xref>; <xref ref-type="bibr" rid="bibr06">Brunner et al. 2005</xref>; <xref ref-type="bibr" rid="bibr42">Wise et al. 2009</xref>; <xref ref-type="bibr" rid="bibr43">Witzgall et al. 2008</xref>). However, due to regulatory changes in the United States under the Food Quality Protection Act (FQPA) of 1996 (Public Law 104&#x02013;170), registration of many organophosphate and carbamate insecticides have been mitigated, canceled or otherwise altered. With the US EPA (United States Environmental Protection Agency)-mandated phase-out of azinphosmethyl (<xref ref-type="bibr" rid="bibr37">US EPA 2006</xref>) slated for 2012, many new insecticide chemicals have been introduced into USA tree fruit production programs to replace this management tool. However, the FQPA has not been the only incentive to alter older insecticide use patterns in orchards; resistance has also driven the search for replacements in the use against <italic>C. pomonella</italic> and other leafroller species (<xref ref-type="bibr" rid="bibr38">Varela et al. 1993</xref>; <xref ref-type="bibr" rid="bibr21">Knight et al. 1994</xref>; <xref ref-type="bibr" rid="bibr10">Dunley and Welter 2000</xref>; <xref ref-type="bibr" rid="bibr30">Reuveny and Cohen 2004</xref>; <xref ref-type="bibr" rid="bibr25">Mota-Sanchez et al. 2008</xref>; <xref ref-type="bibr" rid="bibr39">Whalon et al. 2008</xref>).</p><p>In response to the FQPA, the EPA has established classifications for two new groups: 1) reduced risk and 2) organophosphate-replacements (<xref ref-type="bibr" rid="bibr36">US EPA 1997</xref>). The EPA defines reduced risk insecticides as those that exhibit lower environmental impact and reduced toxicity to humans, mammals and other wildlife, while reducing the risk of groundwater contamination and presumably resistance (<xref ref-type="bibr" rid="bibr37">US EPA 2006</xref>). Of these newer reduced risk and organophosphate-alternative chemicals, the insect growth regulators have demonstrated promise within integrated pest management programs by providing more sustainable attributes, which were outlined by a report issued in 2004 by the United States Department of Agriculture (USDA)/Cooperative State Research, Education, and Extension Service (<xref ref-type="bibr" rid="bibr35">USDA 2004</xref>). Insect growth regulators can be readily implemented into integrated pest management programs due to their reduced potential for environmental and ecological impacts, and thus have played a substantial role in integrated pest management of pome fruits in the United States over the last decade. These compounds are represented by several classes of chemicals that alter the growth and development of the targeted pest.</p><p>Benzoylurea insecticides are chitin synthesis inhibitors that are insect growth regulators (Insecticide Resistance Action Committee, Group 15), (IRAC 2010). These compounds interfere with cuticle formation (<xref ref-type="bibr" rid="bibr26">Mulder and Gijswijt 1973</xref>, <xref ref-type="bibr" rid="bibr20">Ishaaya and Casida 1974</xref>; <xref ref-type="bibr" rid="bibr29">Post et al. 1974</xref>), although the exact step in which inhibition occurs remains unclear. Several studies have demonstrated that inhibition of chitin may take place at the polymerization stage of chitin biosynthesis (<xref ref-type="bibr" rid="bibr14">Hajjar and Casida 1978</xref>) or in chitin precursor transport (<xref ref-type="bibr" rid="bibr27">Nakagawa and Matsumura 1994</xref>). Among the variety of benzoylurea compounds, diflubenzuron was one of the first marketed and has been well studied as a chitin synthesis inhibitor. This insecticide has strong larvicidal and ovicidal activity on the target pest, but also demonstrates sublethal activity on <italic>C. pomonella</italic> (<xref ref-type="bibr" rid="bibr17">Hoying and Riedl 1980</xref>; <xref ref-type="bibr" rid="bibr11">Elliot and Anderson 1982</xref>). The term sublethal generally refers to cases in which there are no lethal effects on the life-stage that is in direct contact with the pesticide, but population effects are seen in the subsequent generation as a result of reduced fecundity or egg/larval viability (<xref ref-type="bibr" rid="bibr42">Wise and Whalon 2009</xref>). Depending on the mechanism responsible, these effects may be more accurately called delayed lethal effects.</p><p>A new benzoylurea compound, novaluron, was recently developed for use in apple production. Like diflubenzuron, the direct lethal effects of novaluron as an ovicide and larvicide have been the primary basis for its use in <italic>C</italic>. <italic>pomonella</italic> management (<xref ref-type="bibr" rid="bibr06">Brunner et al 2005</xref>). Recent studies examining the delayed lethal effects of novaluron on <italic>C. pomonella</italic> have demonstrated reduced egg hatch after adult exposure (<xref ref-type="bibr" rid="bibr13">G&#x000f6;k&#x000e7;e et al. 2009</xref>). However, the contribution of adult male versus female exposure was not determined. Similar delayed lethal effects of novaluron have been seen in other key pests, but the exact mechanism is unknown. Transovarial movement of the compound from the exposed adult to their eggs and larvae is one mechanism that has been suggested (<xref ref-type="bibr" rid="bibr08">Cutler et al. 2005</xref>; <xref ref-type="bibr" rid="bibr22">Kostyukosky and Trostanetsky 2006</xref>; <xref ref-type="bibr" rid="bibr40">Wise et al. 2007</xref>; <xref ref-type="bibr" rid="bibr01">Alyokhin et al. 2008</xref>). A second suggested explanation for novaluron's activity is the horizontal transfer from contaminated tarsi or scales of previously exposed adults to unexposed eggs, which has been documented with another insect growth regulator (pyriproxyfen) against mosquitoes (<xref ref-type="bibr" rid="bibr09">Chism and Apperson 2003</xref>).</p><p>The objectives of this study were to: 1) determine the contribution of adult male versus female exposure to novaluron's delayed lethal effects on hatching of <italic>C. pomonella</italic> eggs and 2) determine if adult mediated horizontal transfer contributes to the effects of novaluron on hatching of eggs.</p></sec><sec sec-type="materials|methods" id="sec2"><title>Materials and Methods</title><sec id="sec2a"><title>Insect material</title><p><italic>C</italic>. <italic>pomonella</italic> pupae were obtained from the Yakima Agricultural Research Laboratory, Wapato, Washington, where the larvae were reared on artificial wheat germ based diet and conditioned in constant light for 24 &#x02013; 48 hours at 21&#x000b0; C and 60% RH. Male and female pupae were identified according to their abdominal structure and separated into 1-liter plastic containers (<xref ref-type="bibr" rid="bibr28">Peterson 1965</xref>). They were incubated at 21&#x000b0; C, 60% RH and 16:8 L:D photoperiod until adult eclosion. After adult emergence, adult moths were transferred into 1-liter containers and incubated according to experiment type.</p></sec><sec id="sec2b"><title>Chemical material</title><p>The insect growth regulator novaluron, Rimon&#x000ae; 0.83EC, 9.3% a.i. (Chemtura Corporation, <ext-link ext-link-type="uri" xlink:href="www.chemtura.com">www.chemtura.com</ext-link>), was prepared to the recommended field rate of 30 fl oz per acre (233 ppm). Due to the inability of novaluron to fully homogenize in water, Latron&#x02122; B-1956 (Dow AgroSciences LLC, <ext-link ext-link-type="uri" xlink:href="www.dowagro.com">www.dowagro.com</ext-link>) was added at 0.038:1 liter: volume to the novaluron and control solutions. The control treatment was a solution of distilled water and Latron&#x02122; B-1956.</p></sec><sec id="sec2c"><title>Treatment of one or both sexes</title><p>Newly emerged <italic>C</italic>. <italic>pomonella</italic> adults ranging from 1&#x02013;3 days old were used for all experiments. The female-only experiment consisted of six replicates exposing five unmated females per replicate to novaluron for three days using a modified version of methods used in G&#x000f6;k&#x000e7;e et al. (<xref ref-type="bibr" rid="bibr13">2009</xref>), in which contact and ingestion exposures were combined. The modified version consisted of wax paper that lined the sides and bottom treated with novaluron or the control solution using a handheld sprayer (Lansing Sanitary Supply Inc., <ext-link ext-link-type="uri" xlink:href="www.lssclean.com">www.lssclean.com</ext-link>). In addition to wax paper, a 30 ml plastic cup (SOLO cup company, <ext-link ext-link-type="uri" xlink:href="www.solocup.com">www.solocup.com</ext-link>) containing 30 ml of treatment or control solution and a protruding cotton dental wick (TIDI&#x000ae; Products, <ext-link ext-link-type="uri" xlink:href="www.tidiproducts.com">www.tidiproducts.com</ext-link>) was used as a moisture source to prevent dehydration. The control for all experiments consisted of a solution of Latron&#x02122; B-1956 and distilled water at a ratio of 0.038:1. After three days female moths were placed into oviposition chambers, which were clean 1-liter containers lined with wax paper and containing five males. Moths were allowed to mate and lay eggs for seven days, after which moths were removed and wax papers were collected. The collected eggs were incubated at 21&#x000b0; C, 60% RH and 16:8 L:D photoperiod for 14 days, after which the number of hatched and non-hatched eggs were counted.</p><p>The male-only experiment exposed individuals to novaluron or control for three days, after which moths were placed into the oviposition chambers with five unmated females. The moths were allowed to mate and deposit eggs in the chambers for seven days before they were removed. The eggs were collected incubated at 21&#x000b0; C, 60% RH and 16:8 L:D photoperiod for 14 days, after which the number of hatched and non-hatched eggs was counted. This experiment was replicated six times.</p><p>The third experiment treated five females and five males together for three days, after which the same methods were followed as for the single-sex experiments. The collected eggs were incubated at 21&#x000b0; C, 60% RH and 16:8 L:D photoperiod for 14 days, after which the number of hatched and non-hatched eggs was counted. This experiment was replicated six times.</p></sec><sec id="sec2d"><title>Horizontal transfer and topical application</title><p>Five male and five female <italic>C. pomonella</italic> adults ranging from 1&#x02013;3 days old were placed into 1-liter containers lined with wax paper for seven days for egg deposition. After the seven day egg laying period the eggs were marked and adults were removed. Separately, five adult unmated females that were previously exposed for three days to novaluron or control by contact and ingestion, as described above, were placed into the container with the marked eggs. Eggs were exposed to the treated females for six days, after which moths were removed and the control and treatment eggs on wax papers were incubated for an additional 14 days to allow for egg hatch. Containers holding the treated moths were visually inspected every 12 hours to verify that adults were contacting previously laid eggs. Contact with eggs was observed as walking over or body contact with eggs. Any new eggs laid by novaluron-exposed females were removed. The experiment was replicated six times and the numbers of hatched and non-hatched eggs were counted.</p><p>To test topical application of novaluron onto eggs, five males and five females were placed into 1-liter containers lined with wax paper for seven days to allow for egg deposition. After the seven day period adults were removed and the wax paper with deposited eggs was sprayed with novaluron or control solution until runoff (same concentration as previously stated). Novaluron and control residues were allowed to dry and eggs were incubated for 14 days. The experiment was replicated six times and the numbers of hatched and non-hatched eggs were counted.</p><table-wrap id="t01_01" position="float"><label>Table 1. </label><caption><p>Novaluron treatment of <italic>Cydia pomonella</italic> males (N = 6) or females (N = 6) or both (N = 6) and mean number (&#x000b1;SEM) of eggs laid by codling moth females. Means in columns followed by different letters indicates significant difference (paired t-test, <italic>p</italic> &#x0003c; 0.05).</p></caption><graphic xlink:href="t01_01"/></table-wrap></sec><sec id="sec2e"><title>Statistical analysis</title><p>For all experiments the percentage egg hatch was normalized using arcsine square-root transformation (x&#x02032; = arcsine &#x0221a; x) (<xref ref-type="bibr" rid="bibr44">Zar, 1999</xref>). The transformed data was analyzed by a two-sample t-test (a &#x0003c; 0.05) to determine differences in egg hatch after exposure to the treatment. All statistical analyses were carried out using the SAS statistical program (<xref ref-type="bibr" rid="bibr32">SAS 2002</xref>).</p></sec></sec><sec sec-type="results" id="sec3"><title>Results</title><sec id="sec3a"><title>Sex treatments</title><p>The mean percent of hatched eggs laid by treated females was significantly lower than the control (t = 16.31, df = 10, <italic>p</italic> &#x0003c; 0.01) (<xref ref-type="fig" rid="f01_01">Figure 1</xref>). Although the male-only treatment did not produce the pronounced effect seen in other treatments, the difference between the treatment and the control was still significant (t = 2.60, df = 10, <italic>p</italic> &#x0003c; 0.05). When females and males were both exposed to novaluron, mean percent egg hatch was significantly lower than it was in the control (t = 20.97, df = 10, <italic>p</italic> &#x0003c; 0.01). The results also demonstrated that female-only, male-only, and female-male exposure to novaluron treatments did not affect fecundity (<xref ref-type="table" rid="t01_01">Table 1</xref>).</p></sec><sec id="sec3b"><title>Horizontal transfer and topical application</title><p>Eggs exposed to novaluron-treated females showed no difference from the control in the percentage of egg hatch (t = -0.33, df = 10, <italic>p</italic> = 0.7451) (<xref ref-type="fig" rid="f02_01">Figure 2</xref>). Eggs that were topically treated with novaluron showed significantly lower egg hatch than the control (t = 4.5, df = 10, <italic>p</italic> = 0.01) (<xref ref-type="fig" rid="f02_01">Figure 2</xref>).</p><fig id="f01_01" fig-type="figure" position="float"><label>Figure 1. </label><caption><p>Mean (N = 6) percent hatch of <italic>Cydia pomonella</italic> eggs after treatments of adults (male, female or both sexes) where * indicates that the mean percentage egg hatch (mean &#x000b1; 95% Cl) is significantly different from the control (two sample t-test, <italic>p</italic> &#x0003c; 0.05). The presented mean egg hatch data were arcsine square-root transformed before analysis and then backtransformed for presentation. High quality figures are available online</p></caption><graphic xlink:href="f01_01"/></fig><fig id="f02_01" fig-type="figure" position="float"><label>Figure 2. </label><caption><p>Mean (N = 6) percent hatch of <italic>Cydia pomonella</italic> eggs after different exposure methods where * indicates that the mean percentage egg hatch (mean &#x000b1; 95% Cl) is significantly different from the control (two sample t-test, <italic>p</italic> &#x0003c; 0.05). The presented mean egg hatch data were arcsine square-root transformed before analysis and then backtransformed for presentation. High quality figures are available online</p></caption><graphic xlink:href="f02_01"/></fig></sec></sec><sec sec-type="discussion" id="sec4"><title>Discussion</title><p>This study demonstrates that the delayed lethal effects of novaluron on the <italic>C. pomonella</italic> can result from both adult male and female exposure, although the impact of male-only exposure on egg hatch is more limited than when adult females are directly exposed. A possible explanation for this is that under male-only exposure novaluron may be transferred to the female during copulation. Moore et al. (<xref ref-type="bibr" rid="bibr24">1978</xref>) demonstrated that the chitin synthesis inhibitor, diflubenzuron, was transferred between sexes in boll weevils and resulted in reduced hatching of eggs laid after treated males were allowed to mate with untreated females.</p><p>Novaluron does not appear to affect <italic>C. pomonella</italic> fecundity, regardless of whether males or females are exposed, confirming the results of previously published studies (<xref ref-type="bibr" rid="bibr13">G&#x000f6;k&#x000e7;e et al. 2009</xref>). It has also been demonstrated that exposure to novaluron does not negatively impact the fecundity of female <italic>Leptinotarsa decemlineata</italic> (<xref ref-type="bibr" rid="bibr01">Alyokin et al. 2008</xref>, <xref ref-type="bibr" rid="bibr02">2009</xref>) or <italic>Tribolium castaneum</italic> (<xref ref-type="bibr" rid="bibr22">Kostyukovsky and Trostanetsky 2006</xref>).</p><p>The lack of significant reduction in egg hatching in the horizontal transfer experiment suggests that transfer of novaluron by contaminated females onto previously laid eggs is not a valid explanation for the delayed lethal effects previously claimed for this compound. However, other exposure methods such as direct/topical contact should be explored before ruling out horizontal transfer. The results from the topical application confirm what has already been published on the direct ovicidal effects of novaluron on <italic>C. pomonella</italic> (<xref ref-type="bibr" rid="bibr06">Brunner et al. 2005</xref>). The results presented in this study and by G&#x000f6;k&#x000e7;e et al. (<xref ref-type="bibr" rid="bibr13">2009</xref>), demonstrate that the observed reduction in egg hatch is likely related to the transfer of the compound within the female, as opposed to superficial contact of exposed females to eggs.</p><p>The exact mechanism or mechanisms responsible for the observed delayed lethal effects is yet to be determined. There is evidence for a physiological mechanism whereby exposure to diflubenzuron resulted in compromised reproductive organs (<xref ref-type="bibr" rid="bibr33">Soltani and Soltani-Mazouni 1992</xref>). Transovarial transfer to eggs as a mechanism has gained evidence from several researchers using diflubenzuron or novaluron (<xref ref-type="bibr" rid="bibr12">Elek 1998</xref>; <xref ref-type="bibr" rid="bibr23">Medina et al. 2002</xref>; <xref ref-type="bibr" rid="bibr22">Kostyukovsky and Trostanetsky 2006</xref>; <xref ref-type="bibr" rid="bibr34">Trostanetsky and Kostyukosky 2008</xref>). Medina et al. (<xref ref-type="bibr" rid="bibr23">2002</xref>) demonstrated presence of benzylurea in the ovaries and eggs of <italic>Chysoperla carnea</italic> using radio-labeled diflubenzuron after adults were exposed to the compound. Numerous observations were made in our study of eggs in the novaluron treatments that failed to eclose while in the black-head stage, which provides further support for the transovarial mechanism of activity. If the mechanism is transovarial in nature then research is still needed to determine the morphological pathway the compound takes from the adult moth to the eggs. Research conducted by Alyokin et al. (<xref ref-type="bibr" rid="bibr02">2009</xref>) showed that Colorado potato beetles treated continuously with novaluron-treated foliage resulted in failure of egg hatch, but egg hatch was restored after several days exposure to untreated foliage.</p><p>In pome fruit integrated pest management programs, novaluron use is primarily based on its ovicidal and larvacidal properties throughout the growing season. However, the contribution of novaluron's delayed lethal activity needs to be considered when applying field treatments. With the imminent phase-out of azinphosmethyl, the newer classes of insecticides being marketed must be well understood and their patterns of use optimized. Incorporation of novaluron into <italic>C. pomonella</italic> mating disruption programs may result in enhanced seasonal control of this key pest. Although mating disruption has been
+successful in low populations, the migration of mated females into mating disruption areas and areas with high populations require chemical applications to prevent fruit damage (<xref ref-type="bibr" rid="bibr05">Brunner et al. 2002</xref>, <xref ref-type="bibr" rid="bibr43">Witzgall et al. 2008</xref>). The addition of the lethal and delayed lethal effects of novaluron can complement the adult effects of mating disruption in an integrated pest management system.</p><p>More research is needed to fully understand the mechanisms responsible for its effects on reduced hatching of eggs seen in this study and in G&#x000f6;k&#x000e7;e et al. (<xref ref-type="bibr" rid="bibr13">2009</xref>). Future research is needed to determine how transovarial novaluron affects egg hatch, and if reduced egg hatch is measureable under field conditions.</p></sec></body><back><ack><title>Acknowledgements</title><p>We would like to thank Pete Nelson and Josh Iamurri for their assistance in the completion of these experiments. We also thank the two anonymous reviews for their constructive reviews that aided in improving this publication. Funding for this experiment was provided by Makhteshim Agan of North America, Inc. (MANA).</p></ack><glossary><def-list><title>Abbreviatons:</title><def-item><term><bold>FQPA</bold>, </term><def><p>Food Quality Protection Act;</p></def></def-item><def-item><term><bold>US EPA</bold>, </term><def><p>United States Environmental Protection Agency</p></def></def-item></def-list></glossary><ref-list content-type="parsed"><title>References</title><ref id="bibr01"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alyokhin</surname><given-names>A</given-names></name><name><surname>Sewell</surname><given-names>G</given-names></name><name><surname>Choban</surname><given-names>R</given-names></name></person-group>
+<year>2008</year>
+<article-title>Reduced viability of Colorado potato beetle, <italic>Leptinotarsa decemlineata</italic>, eggs exposed to novaluron.</article-title>
+<source><italic>Pest Management Science</italic></source>
+<volume>64</volume>
+<fpage>94</fpage>
+<lpage>99</lpage>
+<pub-id pub-id-type="pmid">17890656</pub-id></element-citation></ref><ref id="bibr02"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alyokhin</surname><given-names>A</given-names></name><name><surname>Guillemette</surname><given-names>R</given-names></name><name><surname>Choban</surname><given-names>R</given-names></name></person-group>
+<year>2009</year>
+<article-title>Stimulatory and suppressive effects of novaluron on the Colorado potato beetle reproduction.</article-title>
+<source><italic>Journal of Economic Entomology</italic></source>
+<volume>102</volume>
+<fpage>2078</fpage>
+<lpage>2083</lpage>
+<pub-id pub-id-type="pmid">20069834</pub-id></element-citation></ref><ref id="bibr03"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barnes</surname><given-names>MM</given-names></name><name><surname>Moffitt</surname><given-names>HR</given-names></name></person-group>
+<year>1963</year>
+<article-title>Resistance to DDT in the adult codling moth and reference curves for Guthion and carbaryl.</article-title>
+<source><italic>Journal of Economic Entomology</italic></source>
+<volume>56</volume>
+<fpage>722</fpage>
+<lpage>725</lpage>
+</element-citation></ref><ref id="bibr04"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Barnes</surname><given-names>MM</given-names></name></person-group>
+<year>1991</year>
+<article-title>Tortricids in pome and stone fruits, codling moth occurrence, host race formation and damage.</article-title>
+<person-group person-group-type="editor"><name><surname>van der Geest</surname><given-names>LPS</given-names></name><name><surname>Evenhuis</surname><given-names>HH</given-names></name></person-group>
+<source><italic>Tortricid pests: their biology, natural enemies and control</italic></source>
+<fpage>313</fpage>
+<lpage>327</lpage>
+<publisher-name>Elsevier Science Publishers</publisher-name>
+</element-citation></ref><ref id="bibr05"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brunner</surname><given-names>J</given-names></name><name><surname>Welter</surname><given-names>S</given-names></name><name><surname>Calkin</surname><given-names>C</given-names></name><name><surname>Hilton</surname><given-names>R</given-names></name><name><surname>Beers</surname><given-names>E</given-names></name><name><surname>Dunley</surname><given-names>J</given-names></name><name><surname>Unruh</surname><given-names>T</given-names></name><name><surname>Knight</surname><given-names>A</given-names></name><name><surname>Steenwyk</surname><given-names>RV</given-names></name><name><surname>Buskirk</surname><given-names>PV</given-names></name></person-group>
+<year>2002</year>
+<article-title>Mating disruption of codling moth: a perspective from the Western United States.</article-title>
+<source><italic>IOBC WPRS Bulletin</italic></source>
+<volume>25</volume>
+<fpage>11</fpage>
+<lpage>19</lpage>
+</element-citation></ref><ref id="bibr06"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brunner</surname><given-names>JF</given-names></name><name><surname>Beers</surname><given-names>EH</given-names></name><name><surname>Dunley</surname><given-names>JE</given-names></name><name><surname>Doerr</surname><given-names>M</given-names></name><name><surname>Granger</surname><given-names>K</given-names></name></person-group>
+<year>2005</year>
+<article-title>Role of neonicotinyl insecticides in Washington apple integrated pest management. Part I. Control of lepidopteran pests.</article-title>
+<source><italic>Journal of Insect Science</italic></source>
+<volume>5</volume>
+<fpage>14</fpage>
+<comment>Available online, <ext-link ext-link-type="uri" xlink:href="http://insectscience.org/5.14">http://insectscience.org/5.14</ext-link>.</comment>
+<pub-id pub-id-type="pmid">16341246</pub-id></element-citation></ref><ref id="bibr07"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Croft</surname><given-names>BA</given-names></name><name><surname>Hoyt</surname><given-names>SC</given-names></name></person-group>
+<year>1983</year>
+<source><italic>Integrated Management of Insect Pests of Pome and Stone Fruits</italic></source>
+<publisher-loc>Wiley</publisher-loc>
+</element-citation></ref><ref id="bibr08"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cutler</surname><given-names>C</given-names></name><name><surname>Scott-Dupree</surname><given-names>C</given-names></name><name><surname>Tolman</surname><given-names>J</given-names></name><name><surname>Harris</surname><given-names>CR</given-names></name></person-group>
+<year>2005</year>
+<article-title>Acute and sublethal toxicity of novaluron, a novel chitin synthesis inhibitor, to <italic>Leptinotarsa decemlineata</italic> (Coleoptera: Chrysomelidae).</article-title>
+<source><italic>Pest Management Science</italic></source>
+<volume>61</volume>
+<fpage>1060</fpage>
+<lpage>1068</lpage>
+<pub-id pub-id-type="pmid">16015578</pub-id></element-citation></ref><ref id="bibr09"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chism</surname><given-names>BD</given-names></name><name><surname>Apperson</surname><given-names>CS</given-names></name></person-group>
+<year>2003</year>
+<article-title>Horizontal transfer of the insect growth regulator pyriproxyfen to larval microcosms by gravid <italic>Aedes albopictus</italic> and <italic>Ochlerotatus triseriatus</italic> mosquitoes in the laboratory.</article-title>
+<source><italic>Medical Veterinary Entomology</italic></source>
+<volume>16</volume>
+<fpage>211</fpage>
+<lpage>220</lpage>
+</element-citation></ref><ref id="bibr10"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dunley</surname><given-names>J</given-names></name><name><surname>Welter</surname><given-names>SC</given-names></name></person-group>
+<year>2000</year>
+<article-title>Correlated insecticide cross-resistance in azinphosmethyl resistant codling moth (Lepidoptera: Tortricidae).</article-title>
+<source><italic>Journal of Economic Entomology</italic></source>
+<volume>93</volume>
+<fpage>955</fpage>
+<lpage>962</lpage>
+<pub-id pub-id-type="pmid">10902355</pub-id></element-citation></ref><ref id="bibr11"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elliott</surname><given-names>RH</given-names></name><name><surname>Anderson</surname><given-names>DW</given-names></name></person-group>
+<year>1982</year>
+<article-title>Efficacy of diflubenzuron against the codling moth, <italic>Laspeyresia pomonella</italic> (Lepidoptera: Olethreutidae), and impact on orchard mites.</article-title>
+<source><italic>Canadian Entomology</italic></source>
+<volume>114</volume>
+<fpage>733</fpage>
+<lpage>737</lpage>
+</element-citation></ref><ref id="bibr12"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elek</surname><given-names>JA</given-names></name></person-group>
+<year>1998</year>
+<article-title>Treatment of adult Coleoptera with a chitin synthesis inhibitor affects mortality and development time of their progeny.</article-title>
+<source><italic>Entomologia Experimentalis et Applicata</italic></source>
+<volume>88</volume>
+<fpage>31</fpage>
+<lpage>39</lpage>
+</element-citation></ref><ref id="bibr13"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>G&#x000f6;k&#x000e7;e</surname><given-names>A</given-names></name><name><surname>Kim</surname><given-names>SH</given-names></name><name><surname>Wise</surname><given-names>JC</given-names></name><name><surname>Whalon</surname><given-names>ME</given-names></name></person-group>
+<year>2009</year>
+<article-title>Reduced egg viability in codling moth <italic>Cydia pomonella</italic> (L.) (Lepidoptera: Tortricidae) following adult exposure to novaluron.</article-title>
+<source><italic>Pest Management Science</italic></source>
+<volume>65</volume>
+<fpage>229</fpage>
+<lpage>234</lpage>
+<pub-id pub-id-type="pmid">19115224</pub-id></element-citation></ref><ref id="bibr14"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hajjar</surname><given-names>NP</given-names></name><name><surname>Casida</surname><given-names>JE</given-names></name></person-group>
+<year>1978</year>
+<article-title>Insecticidal benzoylphenyl ureas: structure - activity relationships as chitin synthesis inhibitors.</article-title>
+<source><italic>Science</italic></source>
+<volume>200</volume>
+<fpage>1499</fpage>
+<lpage>1500</lpage>
+<pub-id pub-id-type="pmid">17757692</pub-id></element-citation></ref><ref id="bibr15"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Howell</surname><given-names>JF</given-names></name><name><surname>Maitlen</surname><given-names>JC</given-names></name></person-group>
+<year>1983</year>
+<article-title>Codling moth (Lepidoptera: Olethreutidae) susceptibility to azinphosmethyl.</article-title>
+<source><italic>Journal of Economic Entomology</italic></source>
+<volume>76</volume>
+<fpage>912</fpage>
+<lpage>915</lpage>
+</element-citation></ref><ref id="bibr16"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Howitt</surname><given-names>AH</given-names></name></person-group>
+<year>1993</year>
+<source>Common tree fruit pests.</source>
+<publisher-name>Michigan State University Extension. <italic>NCR</italic> 63</publisher-name>
+</element-citation></ref><ref id="bibr17"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoying</surname><given-names>SA</given-names></name><name><surname>Riedl</surname><given-names>H</given-names></name></person-group>
+<year>1980</year>
+<article-title>Susceptibility of codling moth to diflubenzuron.</article-title>
+<source><italic>Journal of Economic Entomology</italic></source>
+<volume>73</volume>
+<fpage>556</fpage>
+<lpage>560</lpage>
+</element-citation></ref><ref id="bibr18"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Hoyt</surname><given-names>SC</given-names></name><name><surname>Leeper</surname><given-names>JR</given-names></name><name><surname>Brown</surname><given-names>GC</given-names></name><name><surname>Croft</surname><given-names>BA</given-names></name></person-group>
+<year>1983</year>
+<article-title>Basic biology and management components for insect IPM</article-title>
+<person-group person-group-type="editor"><name><surname>Croft</surname><given-names>BA</given-names></name><name><surname>Hoyt</surname><given-names>SC</given-names></name></person-group>
+<source><italic>Integrated Management of Insect Pests of Pome and Stone Fruits</italic>.</source>
+<fpage>97</fpage>
+<publisher-name>John Wiley and Sons</publisher-name>
+</element-citation></ref><ref id="bibr19"><element-citation publication-type="other">
+<collab>IRAC Mode of Action Classification.</collab>
+<comment>Available online, <ext-link ext-link-type="uri" xlink:href="http://www.irac-online.org/teams/mode-of-action/">http://www.irac-online.org/teams/mode-of-action/</ext-link></comment>
+</element-citation></ref><ref id="bibr20"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ishaaya</surname><given-names>I</given-names></name><name><surname>Casida</surname><given-names>JE</given-names></name></person-group>
+<year>1974</year>
+<article-title>Dietary TH 6040 alters composition and enzyme activity of house fly larval cuticle.</article-title>
+<source><italic>Pesticide Biochemistry Physiology</italic></source>
+<volume>4</volume>
+<fpage>484</fpage>
+<lpage>490</lpage>
+</element-citation></ref><ref id="bibr21"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Knight</surname><given-names>AL</given-names></name><name><surname>Brunner</surname><given-names>JF</given-names></name><name><surname>Alston</surname><given-names>D</given-names></name></person-group>
+<year>1994</year>
+<article-title>Survey of azinphosmethyl resistance in codling moth (Lepidoptera: Tortricidae) in Washington and Utah.</article-title>
+<source><italic>Journal of Economic Entomology</italic></source>
+<volume>87</volume>
+<fpage>285</fpage>
+<lpage>292</lpage>
+</element-citation></ref><ref id="bibr22"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kostyukosky</surname><given-names>M</given-names></name><name><surname>Trostanetsky</surname><given-names>A</given-names></name></person-group>
+<year>2006</year>
+<article-title>The effect of a new chitin synthesis inhibitor, novaluron, on various development stages of <italic>Tribolium castaneum</italic> (Herbst).</article-title>
+<source><italic>Journal of Stored Product Research</italic></source>
+<volume>42</volume>
+<fpage>136</fpage>
+<lpage>148</lpage>
+</element-citation></ref><ref id="bibr23"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Medina</surname><given-names>P</given-names></name><name><surname>Smagghe</surname><given-names>G</given-names></name><name><surname>Budia</surname><given-names>F</given-names></name><name><surname>del Estal</surname><given-names>P</given-names></name><name><surname>Tiny</surname><given-names>L</given-names></name><name><surname>Vi&#x000f1;uela</surname><given-names>E</given-names></name></person-group>
+<year>2002</year>
+<article-title>Significance of penetration, excretion, and transovarial uptake to toxicity of three insect growth regulators in predatory lacewing adults.</article-title>
+<source><italic>Archives of Insect Biochemistry and Physiology</italic></source>
+<volume>51</volume>
+<fpage>91</fpage>
+<lpage>101</lpage>
+<pub-id pub-id-type="pmid">12232876</pub-id></element-citation></ref><ref id="bibr24"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moore</surname><given-names>RF</given-names></name><name><surname>Leopold</surname><given-names>RA</given-names></name><name><surname>Taft</surname><given-names>HM</given-names></name></person-group>
+<year>1978</year>
+<article-title>Boll weevils, mechanism of transfer of diflubenzuron from male to female.</article-title>
+<source><italic>Journal of Economic Entomology</italic></source>
+<volume>71</volume>
+<fpage>587</fpage>
+<lpage>590</lpage>
+</element-citation></ref><ref id="bibr25"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mota-Sanchez</surname><given-names>D</given-names></name><name><surname>Wise</surname><given-names>JC</given-names></name><name><surname>Poppen</surname><given-names>RV</given-names></name><name><surname>Gut</surname><given-names>LJ</given-names></name><name><surname>Hollingworth</surname><given-names>RM</given-names></name></person-group>
+<year>2008</year>
+<article-title>Resistance of codling moth, <italic>Cydia pomonella</italic> (L.) (Lepidoptera: Tortricidae), larvae in Michigan to insecticides with different modes of action and the impact on field residual activity.</article-title>
+<source><italic>Pest Management Science</italic></source>
+<volume>64</volume>
+<fpage>881</fpage>
+<lpage>890</lpage>
+<pub-id pub-id-type="pmid">18383486</pub-id></element-citation></ref><ref id="bibr26"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mulder</surname><given-names>R</given-names></name><name><surname>Gijswijt</surname><given-names>MJ</given-names></name></person-group>
+<year>1973</year>
+<article-title>The laboratory evaluation of two promising new insecticides which interfere with cuticle deposition.</article-title>
+<source><italic>Pesticide Science</italic></source>
+<volume>4</volume>
+<fpage>737</fpage>
+<lpage>745</lpage>
+</element-citation></ref><ref id="bibr27"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakagawa</surname><given-names>Y</given-names></name><name><surname>Matsumura</surname><given-names>F</given-names></name></person-group>
+<year>1994</year>
+<article-title>Diflubenzuron affects gamma-thio GTP stimulated Ca<sup>+</sup> transport in vitro in intracellular vesicles from the integument of the newly molted American cockroach, <italic>Periplaneta Americana</italic> L.</article-title>
+<source><italic>Insect Biochemistry Molecular Biology</italic></source>
+<volume>24</volume>
+<fpage>1009</fpage>
+<lpage>1015</lpage>
+</element-citation></ref><ref id="bibr28"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peterson</surname><given-names>DM</given-names></name></person-group>
+<year>1965</year>
+<article-title>A quick method for sex determination of codling moth pupae.</article-title>
+<source><italic>Journal of Economic Entomology</italic></source>
+<volume>58</volume>
+<fpage>576</fpage>
+</element-citation></ref><ref id="bibr29"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Post</surname><given-names>LC</given-names></name><name><surname>de Jong</surname><given-names>BJ</given-names></name><name><surname>Vincent</surname><given-names>WR</given-names></name></person-group>
+<year>1974</year>
+<article-title>1-(2, 6-disubstituted benzoyl)-3-phenylurea insecticides: inhibitors of chitin synthesis.</article-title>
+<source><italic>Pesticide Biochemistry Physiology</italic></source>
+<volume>4</volume>
+<fpage>473</fpage>
+<lpage>483</lpage>
+</element-citation></ref><ref id="bibr30"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reuveny</surname><given-names>H</given-names></name><name><surname>Cohen</surname><given-names>E</given-names></name></person-group>
+<year>2004</year>
+<article-title>Resistance of the codling moth <italic>Cydia pomonella</italic> (L.) (Lep., Tortricidae) to pesticides in Israel.</article-title>
+<source><italic>Journal of Applied Entomology</italic></source>
+<volume>128</volume>
+<fpage>645</fpage>
+<lpage>651</lpage>
+</element-citation></ref><ref id="bibr31"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Riedl</surname><given-names>H</given-names></name><name><surname>Seaman</surname><given-names>A</given-names></name><name><surname>Henry</surname><given-names>F</given-names></name></person-group>
+<year>1985</year>
+<article-title>Monitoring susceptibility to azinphosmethyl in field populations of codling moth (Lepidoptera: Tortricidae) with pheromone traps.</article-title>
+<source><italic>Journal of Economic Entomology</italic></source>
+<volume>78</volume>
+<fpage>692</fpage>
+<lpage>699</lpage>
+</element-citation></ref><ref id="bibr32"><element-citation publication-type="book">
+<collab>SAS Institute.</collab>
+<year>2002</year>
+<source><italic>SAS/STAT user's guide</italic></source>
+<edition>7th edition.</edition>
+<publisher-name>SAS Institute</publisher-name>
+</element-citation></ref><ref id="bibr33"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Soltani</surname><given-names>N</given-names></name><name><surname>Soltani-Mazouni</surname><given-names>N</given-names></name></person-group>
+<year>1992</year>
+<article-title>Diflubenzuron and oogenesis in the codling moth, <italic>Cydia pomonella</italic> (L.).</article-title>
+<source><italic>Pesticide Science</italic></source>
+<volume>34</volume>
+<fpage>257</fpage>
+<lpage>261</lpage>
+</element-citation></ref><ref id="bibr34"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Trostanetsky</surname><given-names>A</given-names></name><name><surname>Kostyukovsky</surname><given-names>M</given-names></name></person-group>
+<year>2008</year>
+<article-title>Transovarial activity of the chitin synthesis inhibitor novaluron on egg hatch and subsequent development of larvae of <italic>Tribolium castaneum</italic>.</article-title>
+<source><italic>Phytoparasitica</italic></source>
+<volume>36</volume>
+<fpage>38</fpage>
+<lpage>41</lpage>
+</element-citation></ref><ref id="bibr35"><element-citation publication-type="other">
+<collab>USDA.</collab>
+<year>2004</year>
+<source>The Road Map for the National Integrated Pest Management (IPM) Program.</source>
+<comment>Available online, <ext-link ext-link-type="uri" xlink:href="http://www.csrees.usda.gov/nea/pest/pdfs/ipm_roadmap_5-3-04.pdf">http://www.csrees.usda.gov/nea/pest/pdfs/ipm_roadmap_5-3-04.pdf</ext-link>.</comment>
+</element-citation></ref><ref id="bibr36"><element-citation publication-type="other">
+<collab>US EPA.</collab>
+<year>1997</year>
+<article-title>Guidelines for expedited review of conventional pesticides under the reduced-risk initiative and for biological pesticides.</article-title>
+<source>Pesticide Registration (PR) Notice 97-3.</source>
+</element-citation></ref><ref id="bibr37"><element-citation publication-type="other">
+<collab>US EPA.</collab>
+<year>2006</year>
+<article-title>Proposed Decisions for the Remaining Uses of Azinphos-methyl.</article-title>
+<source>EPA-HQ-OPP-2005-0061-0134.</source>
+</element-citation></ref><ref id="bibr38"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Varela</surname><given-names>LG</given-names></name><name><surname>Welter</surname><given-names>SC</given-names></name><name><surname>Jones</surname><given-names>VP</given-names></name><name><surname>Brunner</surname><given-names>JF</given-names></name><name><surname>Riedl</surname><given-names>H</given-names></name></person-group>
+<year>1993</year>
+<article-title>Monitoring and characterization of insecticide resistance in codling moth (Lepidoptera: Torticidae) in four Western states.</article-title>
+<source><italic>Journal of Economic Entomology</italic></source>
+<volume>86</volume>
+<fpage>1</fpage>
+<lpage>10</lpage>
+</element-citation></ref><ref id="bibr39"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Whalon</surname><given-names>M</given-names></name><name><surname>Mota-Sanchez</surname><given-names>D</given-names></name><name><surname>Hollingworth</surname><given-names>RM</given-names></name></person-group>
+<year>2008</year>
+<source><italic>Global Pesticide Resistance in Arthropods</italic>.</source>
+<publisher-name>CABI</publisher-name>
+</element-citation></ref><ref id="bibr40"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wise</surname><given-names>JC</given-names></name><name><surname>Kim</surname><given-names>K</given-names></name><name><surname>Hoffmann</surname><given-names>E</given-names></name><name><surname>Vandervoort</surname><given-names>C</given-names></name><name><surname>G&#x000f6;k&#x000e7;e</surname><given-names>A</given-names></name><name><surname>Whalon</surname><given-names>ME</given-names></name></person-group>
+<year>2007</year>
+<article-title>Novel life stage targets against plum curculio, <italic>Conotrachelus nenuphar</italic> (Herbst), in apple integrated pest management.</article-title>
+<source><italic>Pest Management Science</italic></source>
+<volume>63</volume>
+<fpage>737</fpage>
+<lpage>742</lpage>
+<pub-id pub-id-type="pmid">17575566</pub-id></element-citation></ref><ref id="bibr41"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Wise</surname><given-names>J</given-names></name><name><surname>Schilder</surname><given-names>A</given-names></name><name><surname>Zandstra</surname><given-names>B</given-names></name><name><surname>Hanson</surname><given-names>E</given-names></name><name><surname>Gut</surname><given-names>L</given-names></name><name><surname>Isaacs</surname><given-names>R</given-names></name><name><surname>Sundin</surname><given-names>G</given-names></name></person-group>
+<year>2008</year>
+<source><italic>2009 Michigan Fruit Management Guide</italic>.</source>
+<publisher-name>Michigan State University Extension Bulletin E-154</publisher-name>
+</element-citation></ref><ref id="bibr42"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Wise</surname><given-names>JC</given-names></name><name><surname>Whalon</surname><given-names>ME</given-names></name></person-group>
+<year>2009</year>
+<article-title>A systems approach to IPM integration, ecological assessment and resistance management in tree fruit orchards.</article-title>
+<person-group person-group-type="editor"><name><surname>Ishaaya</surname><given-names>I</given-names></name><name><surname>Horowitz</surname><given-names>AR</given-names></name></person-group>
+<source><italic>Biorational Control of Arthropod Pests: Application and Resistance Management</italic></source>
+<fpage>325</fpage>
+<lpage>346</lpage>
+<publisher-name>Springer Publishing Ltd</publisher-name>
+</element-citation></ref><ref id="bibr43"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Witzgall</surname><given-names>P</given-names></name><name><surname>Stelinski</surname><given-names>L</given-names></name><name><surname>Gut</surname><given-names>L</given-names></name><name><surname>Thomson</surname><given-names>D</given-names></name></person-group>
+<year>2008</year>
+<article-title>Codling moth management and chemical ecology.</article-title>
+<source><italic>Annual Review of Entomology</italic></source>
+<volume>53</volume>
+<fpage>503</fpage>
+<lpage>522</lpage>
+</element-citation></ref><ref id="bibr44"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Zar</surname><given-names>JH</given-names></name></person-group>
+<year>1999</year>
+<source><italic>Biostatistical analysis</italic></source>
+<edition>4<sup>th</sup> edition.</edition>
+<publisher-name>Prentice Hall</publisher-name>
+</element-citation></ref></ref-list></back></article>

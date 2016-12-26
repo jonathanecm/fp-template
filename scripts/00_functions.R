@@ -1,6 +1,4 @@
 
-
-
 titles_clarifier <- function(vec) {
     # Clarifying sections titles. 
     #vec <- map_chr(vec, xmlValue)
@@ -15,6 +13,6 @@ titles_clarifier <- function(vec) {
         map_chr(removeNumbers) %>% 
         map_chr(stripWhitespace) %>%
         map_chr(trim) %>% 
-        map_chr(toAnd) 
+        map_chr(toAnd)
     return(vec)
 }

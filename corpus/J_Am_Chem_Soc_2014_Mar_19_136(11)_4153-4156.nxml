@@ -1,0 +1,287 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="rapid-communication" xml:lang="EN"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Chem Soc</journal-id><journal-id journal-id-type="iso-abbrev">J. Am. Chem. Soc</journal-id><journal-id journal-id-type="publisher-id">ja</journal-id><journal-id journal-id-type="coden">jacsat</journal-id><journal-title-group><journal-title>Journal of the American Chemical Society</journal-title></journal-title-group><issn pub-type="ppub">0002-7863</issn><issn pub-type="epub">1520-5126</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">24592808</article-id><article-id pub-id-type="pmc">3971965</article-id><article-id pub-id-type="doi">10.1021/ja5012542</article-id><article-categories><subj-group><subject>Communication</subject></subj-group></article-categories><title-group><article-title>Design
+of Spiro[2.3]hex-1-ene, a Genetically Encodable
+Double-Strained Alkene for Superfast Photoclick Chemistry</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Yu</surname><given-names>Zhipeng</given-names></name></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name><surname>Lin</surname><given-names>Qing</given-names></name><xref rid="cor1" ref-type="other">*</xref></contrib><aff id="aff1">Department of Chemistry, <institution>State University of New York at Buffalo</institution>, Buffalo, New York 14260, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><email>qinglin@buffalo.edu</email></corresp></author-notes><pub-date pub-type="pmc-release"><day>04</day><month>03</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>04</day><month>03</month><year>2014</year></pub-date><pub-date pub-type="ppub"><day>19</day><month>03</month><year>2014</year></pub-date><volume>136</volume><issue>11</issue><fpage>4153</fpage><lpage>4156</lpage><history><date date-type="received"><day>05</day><month>02</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2014 American Chemical
+Society</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2014-012542_0007" id="ab-tgr1"/></p><p>Reactive yet stable alkene reporters
+offer a facile route to studying
+fast biological processes via the cycloaddition-based bioorthogonal
+reactions. Here, we report the design and synthesis of a strained
+spirocyclic alkene, spiro[2.3]hex-1-ene (Sph), for an accelerated
+photoclick chemistry, and its site-specific introduction into proteins
+via amber codon suppression using the wild-type pyrrolysyl-tRNA synthetase/tRNA<sub>CUA</sub> pair. Because of its high ring strain and reduced steric
+hindrance, Sph exhibited fast reaction kinetics (<italic>k</italic><sub>2</sub> up to 34&#x02009;000 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup>) in the photoclick chemistry and afforded rapid (&#x0003c;10 s) bioorthogonal
+protein labeling.</p></abstract><funding-group><funding-statement><funding-source>National Institutes of Health, United States</funding-source></funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ja5012542</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ja-2014-012542</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>The use of strain, a classic
+concept in organic chemistry,<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> to accelerate
+bioorthogonal reactions has attracted a lot of interest recently,
+particularly in the cycloaddition reactions.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> Some prominent examples include strain-promoted azide&#x02013;alkyne
+cycloaddition,<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> nitrone&#x02013;alkyne cycloaddition,<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> tetrazine&#x02013;alkene cycloaddition,<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> and tetrazole&#x02013;alkene cycloaddition (&#x0201c;photoclick
+chemistry&#x0201d;).<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> With rare exceptions,<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> the majority of strained substrates serve as
+dipolarophiles or dienophiles, such as cyclooctyne and its variants,<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> thiacycloheptyne,<sup><xref ref-type="bibr" rid="ref8">8</xref></sup><italic>trans</italic>-cyclooctene,<sup><xref ref-type="bibr" rid="cit5a">5a</xref></sup> norbornene,<sup><xref ref-type="bibr" rid="cit5b">5b</xref></sup> and cyclopropene and its
+derivatives.<sup><xref ref-type="bibr" rid="cit6b">6b</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> To further enhance the reactivity
+of these strained substrates, additional conformational controls have
+been devised, such as the fusion of a second ring. For example, Fox
+and co-workers elegantly designed a cyclopropane-fused <italic>trans</italic>-cyclooctene that adopts the higher-energy &#x0201c;half-chair&#x0201d;
+conformation and affords a second-order rate constant, <italic>k</italic><sub>2</sub>, of 22&#x02009;000 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup> in the inverse electron-demand Diels&#x02013;Alder reaction with
+3,6-di(2-pyridyl)-<italic>s</italic>-tetrazine in methanol, 18 times
+faster than the parent <italic>trans</italic>-cyclooctene.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Similarly, van Delft and co-workers ingeniously
+fused the cyclopropane ring to cyclooctyne to generate bicyclo[6.1.0]non-4-yn-9-ylmethanol
+(BCN), which exhibited a rate acceleration of 70-fold (<italic>k</italic><sub>2</sub> = 0.14 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup>)
+over cyclooctyne in the nitrone&#x02013;alkyne cycloaddition reaction.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> A recent report by Chin and Fox et al. revealed
+that BCN is also an excellent substrate for the tetrazine ligation
+reaction with a 3,6-di(2-pyridyl)-<italic>s</italic>-tetrazine derivative
+(<italic>k</italic><sub>2</sub> = 437 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup>).<sup><xref ref-type="bibr" rid="ref12">12</xref></sup></p><p>We previously
+reported the synthesis of a stable and genetically
+encodable 3,3-disubstituted cyclopropene<sup><xref ref-type="bibr" rid="cit6b">6b</xref></sup> (<bold>1</bold> in Figure <xref rid="fig1" ref-type="fig">1</xref>) as a privileged
+substrate for photoclick chemistry (<italic>k</italic><sub>2</sub> = 58 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup> with 2-(<italic>p</italic>-methoxyphenyl)-5-phenyltetrazole (<bold>Tet-1</bold>)
+in 1:1 acetonitrile/PBS). The small ring size forces C<sup>3</sup>-substituents into close proximity with the cyclopropene &#x003c0;-bond,
+which may cause considerable steric clash with the aryl substituents
+of the incoming nitrile imine along the reaction coordinate. Therefore,
+we envisioned that the cycloaddition reaction could be accelerated
+if we decrease this steric hindrance. Indeed, computational studies
+suggested that this type of steric hindrance is a major impediment
+in obtaining fast reaction kinetics in the dibenzocyclooctyne-mediated
+cycloaddition reaction.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Here, we report
+the design, synthesis, and genetic encoding of spiro[2.3]hex-1-ene,
+an unprecedented stable cyclopropene derivative that showed superior
+reactivity in photoclick chemistry.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Structures of cyclopropene derivatives
+and their optimized geometries.
+The LUMO orbitals are rendered on the structures, with the LUMO energies
+indicated in eV. Calculations were performed using the B3LYP method
+at the 6-311++G** level in a vacuum at 298 K. The dihedral angles
+between the cyclopropene plane of symmetry line (in blue) and the
+indicated C<sup>4</sup>&#x02013;H or C<sup>4</sup>&#x02013;O bond are
+shown.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2014-012542_0001" id="gr2" position="float"/></fig><p>To relieve the steric repulsion,
+we considered four basic cyclopropene
+structures, as shown in Figure <xref rid="fig1" ref-type="fig">1</xref>. DFT calculations
+indicated that the LUMO energies of these four structures followed
+the order of <bold>1</bold> &#x0003c; <bold>3</bold> &#x0003c; <bold>2</bold> &#x02248; <bold>4</bold>, suggesting that cyclopropene <bold>1</bold> has the smallest HOMO&#x02013;LUMO gap, which may lead to the fastest
+cycloaddition reaction.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> On the other
+hand, the addition of an exocyclic 3- or 4-membered ring (<bold>3</bold> and <bold>4</bold>) significantly altered the projections of the
+hydrogens at the C<sup>4</sup> position; the dihedral angles between
+the cyclopropene ring symmetry line and the C&#x02013;H bond increased
+to 122.5&#x000b0; and 79.5&#x000b0;, respectively. Considering the size
+of H vs O, the steric hindrance presented by these four cyclopropene
+structures toward an incoming nitrile imine dipole should follow the
+order of <bold>3</bold> &#x0003c; <bold>4</bold> &#x0003c; <bold>2</bold> &#x0003c; <bold>1</bold>. Taking these factors together, the reactivity trend should
+follow the order of <bold>3</bold> &#x0003e; <bold>4</bold> &#x0003e; <bold>2</bold>, with the position of cyclopropene <bold>1</bold> uncertain
+because
+of the two opposing effects.</p><p>To experimentally determine the
+reactivity trend, we set out to
+prepare three new cyclopropene derivatives based on the structures
+of <bold>2</bold>&#x02013;<bold>4</bold> (Scheme <xref rid="sch1" ref-type="scheme">1</xref>). The 3,3-dialkyl-substituted cyclopropene <bold>9</bold> was obtained
+from ethyl-3-methylbut-3-enol (Scheme <xref rid="sch1" ref-type="scheme">1</xref>a) via
+the following key steps: (i) cyclopropanation with the <italic>in
+situ</italic>-generated dibromocarbene in the presence of phase-transfer
+catalyst cetyltrimethylammonium bromide (CTAB) to form dibromocyclopropane <bold>6</bold>; (ii) Ti(O<sup><italic>i</italic></sup>Pr)<sub>4</sub>-catalyzed
+mono-debromination to form bromocyclopropane <bold>7</bold>; and (iii)
+base-mediated elimination to generate the 3,3-dialkylated cyclopropene <bold>8</bold>. For X-ray structural determination, crystalline carbamate
+analogue <bold>11</bold> was also prepared. In parallel, the synthesis
+of spiro[2.2]pentene began with the ethoxyethyl-protected (methylenecyclopropyl)carbinol <bold>14</bold> (Scheme <xref rid="sch1" ref-type="scheme">1</xref>b), prepared using a published
+procedure.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> Subsequent cyclopropanation
+and mono-debromination proceeded smoothly to afford a diastereomeric
+mixture of 1-bromo-spiro[2.2]pentane <bold>16</bold> in an overall
+yield of 36%. However, treatment of <bold>16</bold> with potassium <italic>tert</italic>-butoxide in DMSO did not produce the desired spiro[2.2]pentene <bold>17</bold> as reported,<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> presumably due
+to the high strain energy (&#x0223c;90 kcal/mol) in this spirocyclic
+system.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> The extensive search for an alternative
+base to effect the elimination was not successful, suggesting the
+spiropentene might be unstable at room temperature. In this regard,
+spiro[2.3]hexene should offer a balance between stability and reactivity
+because of its larger ring size. The synthesis of spiro[2.3]hex-1-ene <bold>23</bold> started with cyclopropanation of the commercially available
+3-methylene-cyclobutanecarbonitrile to produce the diastereomers <bold>18a</bold> and <bold>18b</bold> in 7:6 ratio with a combined yield
+of 76% (Scheme <xref rid="sch1" ref-type="scheme">1</xref>c). These two diastereomers
+were separated and allowed to proceed in parallel in subsequent transformations:
+(i) reduction of the nitrile group to the alcohol through sequential
+treatments of DIBAL and NaBH<sub>4</sub>; (ii) protection of the alcohol
+by ethyl vinyl ether; and (iii) mono-debromination to give mono-bromo-spirohexane <bold>21a</bold>/<bold>21b</bold> (Scheme <xref rid="sch1" ref-type="scheme">1</xref>c). To
+our satisfaction, the elimination reactions with <bold>21a</bold>/<bold>21b</bold> proceeded smoothly to generate spiro[2.3]hex-1-ene <bold>22</bold> with excellent yields. A succinimidyl carbonate derivative <bold>24</bold> was then prepared for the crystallographic study.</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Synthesis
+of Cyclopropene Derivatives</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2014-012542_0006" id="gr1" position="float"/></fig><p>The crystal structures of cyclopropene <bold>11</bold> and spiro[2.3]hex-1-ene <bold>24</bold> were obtained (see Tables
+S1 and S2 in the <xref rid="notes-1" ref-type="notes">Supporting Information (SI)</xref> for crystal data
+and structural refinement), allowing us to compare them with 3-methyl-3-cyclopropenecarboxylic
+acid that was determined previously<sup><xref ref-type="bibr" rid="cit6b">6b</xref></sup> (Figure <xref rid="fig2" ref-type="fig">2</xref>). From the top view, the three cyclopropene rings
+are essentially identical, with the C=C bond length of 1.27&#x02013;1.28
+&#x000c5; and the opposing bond angle of approximately 50&#x000b0;. However,
+from the side view the bond angle between two C<sup>3</sup>-substituents
+decreased dramatically from 113.5&#x000b0; for 3-methyl-3-cyclopropenecarboxylic
+acid and 112.3&#x000b0; for <bold>11</bold> to 92.3&#x000b0; for spiro[2.3]hex-1-ene <bold>24</bold>. As expected, the cyclobutane ring in <bold>24</bold> pulls
+the C<sup>3</sup>-substituents away from the &#x003c0;-faces of the
+cyclopropene ring, resulting in reduced steric hindrance.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Crystal structures
+of the three cyclopropene derivatives viewed
+from the side and the top. The carbamate group in <bold>11</bold> and
+the carbonate group in <bold>24</bold> are omitted for clarity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2014-012542_0002" id="gr3" position="float"/></fig><p>To examine whether reduced steric
+hindrance in spiro[2.3]hex-1-ene
+leads to faster cycloaddition reaction, we performed pairwise comparison
+studies in which a mixture of cyclopropenes were incubated with <bold>Tet-1</bold> in CD<sub>3</sub>CN and competitive formation of the
+pyrazoline products was monitored by <sup>1</sup>H NMR (Figure <xref rid="fig3" ref-type="fig">3</xref>).<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> The reactions proceeded
+cleanly in the NMR tube (Figures S4 and S5 in <xref rid="notes-1" ref-type="notes">SI</xref>) upon photoirradiation with a hand-held 302 nm UV lamp
+(UVM, 0.16 A, 2.3 mW/cm<sup>2</sup>). Based on the characteristic
+pyrazoline proton signals, spirohexene <bold>22</bold> was about 17
+times more reactive than cyclopropene <bold>1</bold> (Figure <xref rid="fig3" ref-type="fig">3</xref>b) and 4 times more reactive than cyclopropene <bold>8</bold> (Figure <xref rid="fig3" ref-type="fig">3</xref>c). A separate HPLC-based
+kinetic study of the cycloaddition of <bold>Tet-1</bold> with spirohexene <bold>22</bold> in PBS/ACN (1:1) gave a cycloaddition rate constant of
+890 &#x000b1; 51 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup> (Figure
+S6 in <xref rid="notes-1" ref-type="notes">SI</xref>), about 15 times faster than the
+reaction of cyclopropene <bold>1</bold> under the same condition.<sup><xref ref-type="bibr" rid="cit6b">6b</xref></sup> Furthermore, when Cl<sup>&#x02013;</sup>-free
+phosphate buffer/ACN (1:1) was used as the solvent, the cycloaddition
+rate constant increased to 2600 &#x000b1; 180 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup> (Figure S7 in <xref rid="notes-1" ref-type="notes">SI</xref>), consistent
+with a recent report that the nitrile imine&#x02013;alkene cycloaddition
+is extremely fast in the absence of Cl<sup>&#x02013;</sup>.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> To understand the basis of the reactivity trend
+among the cyclopropene derivatives, we conducted a DFT-based search
+of the transition states (TSs) for the cycloaddition reactions (Figure <xref rid="fig4" ref-type="fig">4</xref>).<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> We found that for
+cyclopropene <bold>1</bold> the exo TS is favored over the endo TS
+by 2.0 kcal/mol, presumably due to increased steric hindrance and
+lack of secondary interactions (a result of orthogonal arrangement
+of the nitrile imine &#x003c0; system and the carbonyl &#x003c0; system)
+in the endo TS. Compared with cyclopropene <bold>1</bold>, cyclopropene <bold>8</bold> and spirohexene <bold>22</bold> showed lower activation
+barriers, which led to 2.3 and 15 times faster cycloaddition reaction,
+respectively (Figure <xref rid="fig4" ref-type="fig">4</xref>). These results agree
+well with the NMR-based competition studies (Figure <xref rid="fig3" ref-type="fig">3</xref>).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Competitive cycloadditions of <bold>Tet-1</bold> with pairs of
+cyclopropene dipolarophiles in CD<sub>3</sub>CN at 25 &#x000b0;C. (a)
+Reaction scheme. (b,c) Selected regions of <sup>1</sup>H NMR of the
+reaction mixtures before and after 302 nm photoirradiation, showing
+the characteristic proton signals for pyrazoline <bold>25</bold>&#x02013;<bold>27</bold>. See Figures S1&#x02013;S5 in <xref rid="notes-1" ref-type="notes">SI</xref> for spectrum assignment and ratio determination details.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2014-012542_0003" id="gr4" position="float"/></fig><p>Since the <italic>Methanosarcina mazei</italic> pyrrolysyl-tRNA
+synthetase (PylRS)/tRNA<sub>CUA</sub> pair has shown tremendous versatility
+in genetically encoding structurally diverse lysine derivatives,<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> we suspected that spiro[2.3]hexene could be
+similarly introduced into proteins site-specifically using this system.
+Accordingly, we prepared <italic>N</italic><sup>&#x003b5;</sup>-(spiro[2.3]hex-1-ene-5-methoxycarbonyl)-<sc>l</sc>-lysine (SphK) from <bold>24</bold> (Scheme S4 in <xref rid="notes-1" ref-type="notes">SI</xref>) and found that SphK is stable toward excess
+glutathione (Figure S8 in <xref rid="notes-1" ref-type="notes">SI</xref>). To our delight,
+SphK was efficiently incorporated into superfolder GFP (sfGFP) carrying
+an amber codon at position 2 in BL21(DE3) cells expressing the wild-type
+PylRS/tRNA<sub>CUA</sub> pair. The SphK-encoded sfGFP (sfGFP-S2SphK)
+was purified in a yield of 4.9 mg/L (Figure S9 in <xref rid="notes-1" ref-type="notes">SI</xref>). For comparison, the CpK-encoded sfGFP (sfGFP-S2CpK) was
+expressed at 4.1 mg/L when an engineered PylRS/tRNA<sub>CUA</sub> pair
+previously reported to charge <italic>N</italic><sup>&#x003b5;</sup>-acryloyl-<sc>l</sc>-lysine<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> was employed
+(Figure S10 in <xref rid="notes-1" ref-type="notes">SI</xref>). Subsequent kinetic
+studies revealed that sfGFP-S2SphK reacted with <bold>Tet-1</bold> in PBS/CH<sub>3</sub>CN (2:1) with <italic>k</italic><sub>2</sub> = 1850 &#x000b1; 218 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup>, about
+9 times faster than sfGFP-S2CpK (<italic>k</italic><sub>2</sub> =
+206 &#x000b1; 17 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup>) (Figure <xref rid="fig5" ref-type="fig">5</xref>; Figures S11 and S12 in <xref rid="notes-1" ref-type="notes">SI</xref>). To eliminate the inhibitory effect of Cl<sup>&#x02013;</sup>, we
+also ran the reaction in the Cl<sup>&#x02013;</sup>-free phosphate
+buffer/CH<sub>3</sub>CN (2:1) and found <italic>k</italic><sub>2</sub> to be 7000 &#x000b1; 320 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup>, about 4 times faster than in Cl<sup>&#x02013;</sup>-containing PBS/CH<sub>3</sub>CN (2:1) buffer (Figure <xref rid="fig5" ref-type="fig">5</xref>b; Figure
+S13 in <xref rid="notes-1" ref-type="notes">SI</xref>). To completely remove CH<sub>3</sub>CN from the solvent system, we synthesized a water-soluble <bold>Tet-2</bold> carrying a sulfonic acid group (Scheme S5 in <xref rid="notes-1" ref-type="notes">SI</xref>; structure shown in Figure <xref rid="fig5" ref-type="fig">5</xref>a). In the fluorescence-based verification study, <bold>Tet-2</bold> maintains excellent reactivity toward spirohexene <bold>22</bold> (<italic>k</italic><sub>2</sub> = 34&#x02009;000 &#x000b1; 1300 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup> in CH<sub>3</sub>CN/phosphate
+buffer (1:1); Figure S14 in <xref rid="notes-1" ref-type="notes">SI</xref>). When sfGFP-SphK
+was treated with <bold>Tet-2</bold> in phosphate buffer under identical
+photoirradiation conditions, the second-order rate constant, <italic>k</italic><sub>2</sub>, was determined to be 10&#x02009;420 &#x000b1;
+810 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup> (Figure <xref rid="fig5" ref-type="fig">5</xref>b; Figure S15 in <xref rid="notes-1" ref-type="notes">SI</xref>), in a range
+close to the tetrazine ligation (<italic>k</italic><sub>2</sub> =
+22&#x02009;000 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup> for protein
+substrates as measured by a fluorescence-based assay).<sup><xref ref-type="bibr" rid="ref10">10</xref></sup></p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>M06-2X/6-311+G(d,p)-optimized transition-state structures
+for the
+cycloaddition of the nitrile imine with <bold>1</bold>, <bold>2</bold> (simplified <bold>8</bold>), and 5-methylspiro[2.3]hex-1-ene <bold>22d</bold> (simplified <bold>22</bold>) in water at 298 K. The bond
+lengths (in &#x000c5;) at the saddle point are marked on the TS structures.
+The activation energies, &#x00394;<italic>G</italic>&#x000b0;<sup>&#x029e7;</sup>, are in kcal/mol, and the single imaginary frequencies, <italic>v</italic><sub>i</sub>, are in cm<sup>&#x02013;1</sup>. The relative
+rate constants, <italic>k</italic><sub>rel</sub>, were computed on
+the basis of &#x00394;&#x00394;<italic>G</italic>&#x000b0;<sup>&#x029e7;</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2014-012542_0004" id="gr5" position="float"/></fig><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Comparison of the reactivity of CpK- and SphK-encoded
+sfGFP in
+photoclick chemistry. (a) Scheme for genetic incorporation of SphK
+into sfGFP and its subsequent reaction with the tetrazoles. (b) Plots
+of the photoclick reactions of sfGFP-S2CpK and sfGFP-S2SphK with <bold>Tet-1</bold> or <bold>Tet-2</bold> in various solvent systems. The
+reactions were set up by incubating 5 &#x003bc;M sfGFP-S2CpK or sfGFP-S2SphK
+and 50 &#x003bc;M <bold>Tet-1</bold>/<bold>Tet-2</bold> in PBS/ACN (2:1),
+phosphate buffer/ACN (2:1), or phosphate buffer only. The mixtures
+were irradiated with a 302 nm hand-held UV lamp for the indicated
+time prior to LC-MS analysis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2014-012542_0005" id="gr6" position="float"/></fig><p>In summary, we have synthesized a biocompatible spirocyclic
+alkene
+reporter that is stable at ambient conditions and yet highly reactive
+toward tetrazoles in photoclick chemistry. Crystallographic analysis
+and computational studies indicated that the enhanced reactivity is
+due to the unique spirocyclic structure, which alleviates steric repulsion
+in the transition state in addition to the ring strain present in
+the cyclopropene. Moreover, a lysine derivative containing the spiro[2.3]hex-1-ene
+moiety was incorporated into proteins site-specifically using the
+amber codon suppression technique, which in turn directed fast (&#x0003c;10
+s) and specific protein modification by a water-soluble tetrazole
+via the photoclick reaction with a <italic>k</italic><sub>2</sub> value
+exceeding 10&#x02009;000 M<sup>&#x02013;1</sup> s<sup>&#x02013;1</sup>. Exploitation of this genetically encodable, robust alkene reporter
+to study class B GPCR activation<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> in living
+cells is currently underway.</p></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>Supplemental figures and tables,
+synthetic schemes, experimental procedures, characterization of all
+new compounds, X-ray structural data, and computational results. These
+materials are available free of charge via the Internet at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja5012542_si_001.pdf"><caption><p>ja5012542_si_001.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile2"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja5012542_si_002.cif"><caption><p>ja5012542_si_002.cif</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile3"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja5012542_si_003.cif"><caption><p>ja5012542_si_003.cif</p></caption></media></supplementary-material></sec><notes id="NOTES-d2927e876-autogenerated" notes-type="conflict-of-interest"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We gratefully acknowledge the National Institutes
+of Health
+(GM 085092) and the National Science Foundation (CHE-1305826) for
+financial support. The FT-ICR mass spectrometer used in this study
+was supported through a grant from the NIH National Center for Research
+Resources (S10RR029517). We thank Prof. Wenshe Liu at Texas A&#x00026;M
+University for generously providing us the plasmids pEvol-PylT-PylRS,
+pEvol-AcrKRS, and pET-sfGFPS2TAG, and William Brennessel at the University
+of Rochester for X-ray structural determination for compounds <bold>11</bold> and <bold>24</bold> (Cambridge Structural Database accession
+numbers CCDC 983641 and 983642, respectively).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Wiberg</surname><given-names>K. B.</given-names></name>
+<source>Angew. Chem.,
+Int. Ed. Engl.</source>
+<year>1986</year>, <volume>25</volume>, <fpage>312</fpage>&#x02013;<lpage>322</lpage>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Ramil</surname><given-names>C. P.</given-names></name>; <name><surname>Lin</surname><given-names>Q.</given-names></name>
+<source>Chem.
+Commun.</source>
+<year>2013</year>, <volume>49</volume>, <fpage>11007</fpage>&#x02013;<lpage>11022</lpage>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3a"><label>a</label><name><surname>Agard</surname><given-names>N. J.</given-names></name>; <name><surname>Prescher</surname><given-names>J. A.</given-names></name>; <name><surname>Bertozzi</surname><given-names>C. R.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2004</year>, <volume>126</volume>, <fpage>15046</fpage>&#x02013;<lpage>15047</lpage>.<pub-id pub-id-type="pmid">15547999</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit3b"><label> b</label><name><surname>Sletten</surname><given-names>E. M.</given-names></name>; <name><surname>Bertozzi</surname><given-names>C. R.</given-names></name>
+<source>Acc. Chem. Res.</source>
+<year>2011</year>, <volume>44</volume>, <fpage>666</fpage>&#x02013;<lpage>676</lpage>.<pub-id pub-id-type="pmid">21838330</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit3c"><label> c</label><name><surname>Ning</surname><given-names>X.</given-names></name>; <name><surname>Guo</surname><given-names>J.</given-names></name>; <name><surname>Wolfert</surname><given-names>M. A.</given-names></name>; <name><surname>Boons</surname><given-names>G. J.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>2008</year>, <volume>47</volume>, <fpage>2253</fpage>&#x02013;<lpage>2255</lpage>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4a"><label>a</label><name><surname>Ning</surname><given-names>X.</given-names></name>; <name><surname>Temming</surname><given-names>R. P.</given-names></name>; <name><surname>Dommerholt</surname><given-names>J.</given-names></name>; <name><surname>Guo</surname><given-names>J.</given-names></name>; <name><surname>Ania</surname><given-names>D. B.</given-names></name>; <name><surname>Debets</surname><given-names>M. F.</given-names></name>; <name><surname>Wolfert</surname><given-names>M. A.</given-names></name>; <name><surname>Boons</surname><given-names>G. J.</given-names></name>; <name><surname>van Delft</surname><given-names>F. L.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>2010</year>, <volume>49</volume>, <fpage>3065</fpage>&#x02013;<lpage>3068</lpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit4b"><label> b</label><name><surname>McKay</surname><given-names>C. S.</given-names></name>; <name><surname>Moran</surname><given-names>J.</given-names></name>; <name><surname>Pezacki</surname><given-names>J. P.</given-names></name>
+<source>Chem. Commun.</source>
+<year>2010</year>, <volume>46</volume>, <fpage>931</fpage>&#x02013;<lpage>933</lpage>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5a"><label>a</label><name><surname>Blackman</surname><given-names>M. L.</given-names></name>; <name><surname>Royzen</surname><given-names>M.</given-names></name>; <name><surname>Fox</surname><given-names>J. M.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2008</year>, <volume>130</volume>, <fpage>13518</fpage>&#x02013;<lpage>13519</lpage>.<pub-id pub-id-type="pmid">18798613</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit5b"><label> b</label><name><surname>Devaraj</surname><given-names>N. K.</given-names></name>; <name><surname>Weissleder</surname><given-names>R.</given-names></name>; <name><surname>Hilderbrand</surname><given-names>S. A.</given-names></name>
+<source>Bioconjugate Chem.</source>
+<year>2008</year>, <volume>19</volume>, <fpage>2297</fpage>&#x02013;<lpage>2299</lpage>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6a"><label>a</label><name><surname>Lim</surname><given-names>R. K. V.</given-names></name>; <name><surname>Lin</surname><given-names>Q.</given-names></name>
+<source>Acc. Chem. Res.</source>
+<year>2011</year>, <volume>44</volume>, <fpage>828</fpage>&#x02013;<lpage>839</lpage>.<pub-id pub-id-type="pmid">21609129</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit6b"><label> b</label><name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Pan</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Lin</surname><given-names>Q.</given-names></name>
+<source>Angew.
+Chem., Int. Ed.</source>
+<year>2012</year>, <volume>51</volume>, <fpage>10600</fpage>&#x02013;<lpage>10604</lpage>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7a"><label>a</label><name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Lim</surname><given-names>R. K. V.</given-names></name>; <name><surname>Lin</surname><given-names>Q.</given-names></name>
+<source>Chem.&#x02014;Eur. J.</source>
+<year>2010</year>, <volume>16</volume>, <fpage>13325</fpage>&#x02013;<lpage>13329</lpage>.<pub-id pub-id-type="pmid">21031376</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit7b"><label> b</label><name><surname>McKay</surname><given-names>C. S.</given-names></name>; <name><surname>Blake</surname><given-names>J. A.</given-names></name>; <name><surname>Cheng</surname><given-names>J.</given-names></name>; <name><surname>Danielson</surname><given-names>D. C.</given-names></name>; <name><surname>Pezacki</surname><given-names>J. P.</given-names></name>
+<source>Chem. Commun.</source>
+<year>2011</year>, <volume>47</volume>, <fpage>10040</fpage>&#x02013;<lpage>10042</lpage>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>de
+Almeida</surname><given-names>G.</given-names></name>; <name><surname>Sletten</surname><given-names>E. M.</given-names></name>; <name><surname>Nakamura</surname><given-names>H.</given-names></name>; <name><surname>Palaniappan</surname><given-names>K. K.</given-names></name>; <name><surname>Bertozzi</surname><given-names>C. R.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>2012</year>, <volume>51</volume>, <fpage>2443</fpage>&#x02013;<lpage>2447</lpage>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9a"><label>a</label><name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>&#x00160;e&#x0010d;kut&#x00117;</surname><given-names>J.</given-names></name>; <name><surname>Cole</surname><given-names>C. M.</given-names></name>; <name><surname>Devaraj</surname><given-names>N. K.</given-names></name>
+<source>Angew. Chem.,
+Int. Ed.</source>
+<year>2012</year>, <volume>51</volume>, <fpage>7476</fpage>&#x02013;<lpage>7479</lpage>.</mixed-citation><mixed-citation publication-type="journal" id="cit9b"><label> b</label><name><surname>Patterson</surname><given-names>D. M.</given-names></name>; <name><surname>Nazarova</surname><given-names>L. A.</given-names></name>; <name><surname>Xie</surname><given-names>B.</given-names></name>; <name><surname>Kamber</surname><given-names>D. N.</given-names></name>; <name><surname>Prescher</surname><given-names>J. A.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <fpage>18638</fpage>&#x02013;<lpage>18643</lpage>.<pub-id pub-id-type="pmid">23072583</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit9c"><label> c</label><name><surname>Kamber</surname><given-names>D. N.</given-names></name>; <name><surname>Nazarova</surname><given-names>L. A.</given-names></name>; <name><surname>Liang</surname><given-names>Y.</given-names></name>; <name><surname>Lopez</surname><given-names>S. A.</given-names></name>; <name><surname>Patterson</surname><given-names>D. M.</given-names></name>; <name><surname>Shih</surname><given-names>H. W.</given-names></name>; <name><surname>Houk</surname><given-names>K. N.</given-names></name>; <name><surname>Prescher</surname><given-names>J. A.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>13680</fpage>&#x02013;<lpage>13683</lpage>.<pub-id pub-id-type="pmid">24000889</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Taylor</surname><given-names>M. T.</given-names></name>; <name><surname>Blackman</surname><given-names>M. L.</given-names></name>; <name><surname>Dmitrenko</surname><given-names>O.</given-names></name>; <name><surname>Fox</surname><given-names>M.</given-names></name>
+<source>J.
+Am. Chem. Soc.</source>
+<year>2011</year>, <volume>133</volume>, <fpage>9646</fpage>&#x02013;<lpage>9649</lpage>.<pub-id pub-id-type="pmid">21599005</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Dommerholt</surname><given-names>J.</given-names></name>; <name><surname>Schmidt</surname><given-names>S.</given-names></name>; <name><surname>Temming</surname><given-names>R.</given-names></name>; <name><surname>Hendriks</surname><given-names>L. J. A.</given-names></name>; <name><surname>Rutjes</surname><given-names>F. P. J. T.</given-names></name>; <name><surname>van Hest</surname><given-names>J. C. M.</given-names></name>; <name><surname>Lefeber</surname><given-names>D. J.</given-names></name>; <name><surname>Friedl</surname><given-names>F.</given-names></name>; <name><surname>van Delft</surname><given-names>F. L.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>2010</year>, <volume>49</volume>, <fpage>9422</fpage>&#x02013;<lpage>9425</lpage>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Lang</surname><given-names>K.</given-names></name>; <name><surname>Davis</surname><given-names>L.</given-names></name>; <name><surname>Wallace</surname><given-names>S.</given-names></name>; <name><surname>Mahesh</surname><given-names>M.</given-names></name>; <name><surname>Cox</surname><given-names>D. J.</given-names></name>; <name><surname>Blackman</surname><given-names>M. L.</given-names></name>; <name><surname>Fox</surname><given-names>J. M.</given-names></name>; <name><surname>Chin</surname><given-names>J. W.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <fpage>10317</fpage>&#x02013;<lpage>10320</lpage>.<pub-id pub-id-type="pmid">22694658</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Chenoweth</surname><given-names>K.</given-names></name>; <name><surname>Chenoweth</surname><given-names>D.</given-names></name>; <name><surname>Goddard</surname><given-names>W. A.</given-names><suffix>III</suffix></name>
+<source>Org. Biomol. Chem.</source>
+<year>2009</year>, <volume>7</volume>, <fpage>5255</fpage>&#x02013;<lpage>5258</lpage>.<pub-id pub-id-type="pmid">20024122</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Song</surname><given-names>W.</given-names></name>; <name><surname>Hu</surname><given-names>W. J.</given-names></name>; <name><surname>Lin</surname><given-names>Q.</given-names></name>
+<source>Angew. Chem., Int.
+Ed.</source>
+<year>2009</year>, <volume>48</volume>, <fpage>5330</fpage>&#x02013;<lpage>5333</lpage>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Okuma</surname><given-names>K.</given-names></name>; <name><surname>Tanaka</surname><given-names>Y.</given-names></name>; <name><surname>Yoshihara</surname><given-names>K.</given-names></name>; <name><surname>Ezaki</surname><given-names>A.</given-names></name>; <name><surname>Koda</surname><given-names>G.</given-names></name>; <name><surname>Ohta</surname><given-names>H.</given-names></name>
+<source>J.
+Org. Chem.</source>
+<year>1993</year>, <volume>58</volume>, <fpage>5915</fpage>&#x02013;<lpage>5917</lpage>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Bloch</surname><given-names>R.</given-names></name>; <name><surname>Denis</surname><given-names>J. -M.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>1980</year>, <volume>19</volume>, <fpage>928</fpage>&#x02013;<lpage>929</lpage>.</mixed-citation><note><p>Spiropentene
+was obtained as a solution in chloroform after the elimination reaction
+under low pressure (80 Torr). In condensed phase even at &#x02212;78&#x000b0;C,
+spiropentene was found to polymerize.</p></note></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Kao</surname><given-names>J.</given-names></name>; <name><surname>Radom</surname><given-names>L.</given-names></name>
+<source>J.
+Am. Chem. Soc.</source>
+<year>1978</year>, <volume>100</volume>, <fpage>760</fpage>&#x02013;<lpage>767</lpage>.</mixed-citation></ref><ref id="ref18"><note><p>Initial studies of the individual cycloaddition
+reactions by <sup>1</sup>H NMR indicated that the rates of cycloaddition
+rate were similar, which can be attributed to the fact that at high
+concentrations (&#x0223c;50 mM) the tetrazole ring-rupture became the
+rate-determining step. See Figures S1&#x02013;S3 in <xref rid="notes-1" ref-type="notes">SI</xref> for details.</p></note></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Wang</surname><given-names>X. S.</given-names></name>; <name><surname>Lee</surname><given-names>Y. -J.</given-names></name>; <name><surname>Liu</surname><given-names>W. R.</given-names></name>
+<source>Chem. Commun.</source>
+<year>2014</year>, <volume>50</volume>, <fpage>3176</fpage>&#x02013;<lpage>3179</lpage>.</mixed-citation></ref><ref id="ref20"><note><p>See <xref rid="notes-1" ref-type="notes">Supporting Information</xref> for computational details.</p></note></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21a"><label>a</label><name><surname>Nguyen</surname><given-names>D. P.</given-names></name>; <name><surname>Lusic</surname><given-names>H.</given-names></name>; <name><surname>Neumann</surname><given-names>H.</given-names></name>; <name><surname>Kapadnis</surname><given-names>P. B.</given-names></name>; <name><surname>Deiters</surname><given-names>A.</given-names></name>; <name><surname>Chin</surname><given-names>J. W.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2009</year>, <volume>131</volume>, <fpage>8720</fpage>&#x02013;<lpage>8721</lpage>.<pub-id pub-id-type="pmid">19514718</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit21b"><label> b</label><name><surname>Lang</surname><given-names>K.</given-names></name>; <name><surname>Davis</surname><given-names>L.</given-names></name>; <name><surname>Torres-Kolbus</surname><given-names>J.</given-names></name>; <name><surname>Chou</surname><given-names>C.</given-names></name>; <name><surname>Deiters</surname><given-names>A.</given-names></name>; <name><surname>Chin</surname><given-names>J. W.</given-names></name>
+<source>Nat. Chem.</source>
+<year>2012</year>, <volume>4</volume>, <fpage>298</fpage>&#x02013;<lpage>304</lpage>.<pub-id pub-id-type="pmid">22437715</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit21c"><label> c</label><name><surname>Wang</surname><given-names>Y. S.</given-names></name>; <name><surname>Fang</surname><given-names>X.</given-names></name>; <name><surname>Wallace</surname><given-names>A. L.</given-names></name>; <name><surname>Wu</surname><given-names>B.</given-names></name>; <name><surname>Liu</surname><given-names>W. R.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <fpage>2950</fpage>&#x02013;<lpage>2953</lpage>.<pub-id pub-id-type="pmid">22289053</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Lee</surname><given-names>Y. J.</given-names></name>; <name><surname>Wu</surname><given-names>B.</given-names></name>; <name><surname>Raymond</surname><given-names>J. E.</given-names></name>; <name><surname>Zeng</surname><given-names>Y.</given-names></name>; <name><surname>Fang</surname><given-names>X.</given-names></name>; <name><surname>Wooley</surname><given-names>K. L.</given-names></name>; <name><surname>Liu</surname><given-names>W. R.</given-names></name>
+<source>ACS Chem. Biol.</source>
+<year>2013</year>, <volume>8</volume>, <fpage>1664</fpage>&#x02013;<lpage>1670</lpage>.<pub-id pub-id-type="pmid">23735044</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Dong</surname><given-names>M.</given-names></name>; <name><surname>Koole</surname><given-names>C.</given-names></name>; <name><surname>Wootten</surname><given-names>D.</given-names></name>; <name><surname>Sexton</surname><given-names>P. M.</given-names></name>; <name><surname>Miller</surname><given-names>L. J.</given-names></name>
+<source>Br. J. Pharmacol.</source>
+<year>2014</year>, <volume>171</volume>, <fpage>1085</fpage>&#x02013;<lpage>1101</lpage>.<pub-id pub-id-type="pmid">23889342</pub-id></mixed-citation></ref></ref-list></back></article>
