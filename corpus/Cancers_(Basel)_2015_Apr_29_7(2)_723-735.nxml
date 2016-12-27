@@ -1,0 +1,590 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancers (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Cancers (Basel)</journal-id><journal-id journal-id-type="publisher-id">cancers</journal-id><journal-title-group><journal-title>Cancers</journal-title></journal-title-group><issn pub-type="epub">2072-6694</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25938854</article-id><article-id pub-id-type="pmc">4491681</article-id><article-id pub-id-type="doi">10.3390/cancers7020723</article-id><article-id pub-id-type="publisher-id">cancers-07-00723</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Pathologic Cellular Events in Smoking-Related Pancreatitis</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Thrower</surname><given-names>Edwin</given-names></name><xref ref-type="aff" rid="af1-cancers-07-00723">1</xref><xref ref-type="aff" rid="af2-cancers-07-00723">2</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Schuller</surname><given-names>Hildegard</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-cancers-07-00723"><label>1</label>Department of Internal Medicine, Section of Digestive Diseases, Yale University School of Medicine, New Haven, CT 06520, USA; E-Mail: <email>Edwin.thrower@yale.edu</email>; Tel.: +1-203-932-5711 (ext. 3284); Fax: +1-203-937-3852</aff><aff id="af2-cancers-07-00723"><label>2</label>Veterans Affairs Connecticut Healthcare, West Haven, CT 06516, USA</aff><pub-date pub-type="epub"><day>29</day><month>4</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>7</volume><issue>2</issue><fpage>723</fpage><lpage>735</lpage><history><date date-type="received"><day>07</day><month>4</month><year>2015</year></date><date date-type="accepted"><day>21</day><month>4</month><year>2015</year></date></history><permissions><copyright-statement>&#x000a9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2015</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Pancreatitis, a debilitating inflammatory disorder, results from pancreatic injury. Alcohol abuse is the foremost cause, although cigarette smoking has recently surfaced as a distinct risk factor. The mechanisms by which cigarette smoke and its toxins initiate pathological cellular events leading to pancreatitis, have not been clearly defined. Although cigarette smoke is composed of more than 4000 compounds, it is mainly nicotine and the tobacco-specific nitrosamine 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK), which have been extensively studied with respect to pancreatic diseases. This review summarizes these research findings and highlights cellular pathways which may be of relevance in initiation and progression of smoking-related pancreatitis.</p></abstract><kwd-group><kwd>pancreatitis</kwd><kwd>smoking</kwd><kwd>nicotine</kwd><kwd>4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK)</kwd><kwd>nicotinic acetylcholine receptors (nAChRs)</kwd><kwd>inflammation</kwd><kwd>bioactivation</kwd><kwd>&#x003b2;-adrenergic receptors</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>Pancreatitis is an inflammatory condition which arises following injury to the pancreas. An early pivotal event in initiation of acute pancreatitis (AP) is premature activation and retention of digestive pro-enzymes (zymogens) in pancreatic acinar cells, leading to autodigestion of the pancreas [<xref rid="B1-cancers-07-00723" ref-type="bibr">1</xref>]. Inflammation, edema, ischemia, and cell death subsequently follow [<xref rid="B2-cancers-07-00723" ref-type="bibr">2</xref>]. Typically, AP is self-limiting, with a complete recovery after the acute event. However, recurrent bouts of AP can set in motion inflammatory events that in turn lead to stellate cell activation and increased fibrosis, resulting in chronic pancreatitis (CP) [<xref rid="B3-cancers-07-00723" ref-type="bibr">3</xref>]. Chronic inflammation associated with CP facilitates progression to cancer, as seen by formation of precancerous lesions and subsequent advancement to pancreatic ductal adenocarcinoma (PDAC). Furthermore, patients with CP are found to be at elevated risk for developing pancreatic cancer [<xref rid="B4-cancers-07-00723" ref-type="bibr">4</xref>].</p><p>Usual etiologies for pancreatitis include alcohol abuse and gallstones although several recent clinical studies have identified cigarette smoking as an independent and dose-dependent cause for both AP and CP [<xref rid="B5-cancers-07-00723" ref-type="bibr">5</xref>,<xref rid="B6-cancers-07-00723" ref-type="bibr">6</xref>,<xref rid="B7-cancers-07-00723" ref-type="bibr">7</xref>,<xref rid="B8-cancers-07-00723" ref-type="bibr">8</xref>,<xref rid="B9-cancers-07-00723" ref-type="bibr">9</xref>,<xref rid="B10-cancers-07-00723" ref-type="bibr">10</xref>,<xref rid="B11-cancers-07-00723" ref-type="bibr">11</xref>,<xref rid="B12-cancers-07-00723" ref-type="bibr">12</xref>,<xref rid="B13-cancers-07-00723" ref-type="bibr">13</xref>,<xref rid="B14-cancers-07-00723" ref-type="bibr">14</xref>,<xref rid="B15-cancers-07-00723" ref-type="bibr">15</xref>,<xref rid="B16-cancers-07-00723" ref-type="bibr">16</xref>,<xref rid="B17-cancers-07-00723" ref-type="bibr">17</xref>]. The pathological cellular mechanisms accounting for these risks, however, remain largely unknown. Some scientific studies have investigated effects of cigarette smoke inhalation in rats; animals developed pancreatic injury and elevated levels of pancreatic zymogens, although the cellular damage was less than that observed in human CP [<xref rid="B18-cancers-07-00723" ref-type="bibr">18</xref>,<xref rid="B19-cancers-07-00723" ref-type="bibr">19</xref>]. Given that cigarette smoke and tobacco contain a large number of toxic products, other studies have focused specifically on nicotine and its metabolites, which are among the most abundant of these toxins, and have been heavily implicated in disease. In subsequent sections, we will further explore recent research looking at effects and mechanisms mediated by nicotine and the tobacco-specific nitrosamine 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK), and their potential role in development of pancreatitis.</p></sec><sec><title>2. Induction of Pancreatitis Responses by Cigarette Toxins</title><sec><title>2.1. Nicotine</title><p>Nicotine is considered to be the most likely candidate in cigarettes and tobacco products for initiating smoking-related illnesses. Studies have demonstrated that nicotine plays a substantial part in induction of pancreatic pathophysiology [<xref rid="B20-cancers-07-00723" ref-type="bibr">20</xref>,<xref rid="B21-cancers-07-00723" ref-type="bibr">21</xref>,<xref rid="B22-cancers-07-00723" ref-type="bibr">22</xref>,<xref rid="B23-cancers-07-00723" ref-type="bibr">23</xref>,<xref rid="B24-cancers-07-00723" ref-type="bibr">24</xref>,<xref rid="B25-cancers-07-00723" ref-type="bibr">25</xref>]. Elevated levels of nicotine metabolites have been measured in human pancreatic juice collected from smokers. Cotinine, a primary metabolite, was present at levels around 130 ng/mL whereas NNK ranged from 1.37 ng/mL to 600 ng/mL (0.7 &#x000b5;M and 6.6 nM&#x02013;3 &#x000b5;M respectively) [<xref rid="B26-cancers-07-00723" ref-type="bibr">26</xref>]. Animal studies have also validated that the pancreas receives significant exposure to nicotine: Inhalation of <sup>3</sup>H-nicotine by rats resulted in an accumulation in the pancreas and intestine [<xref rid="B21-cancers-07-00723" ref-type="bibr">21</xref>,<xref rid="B27-cancers-07-00723" ref-type="bibr">27</xref>]. When rats were exposed to graded doses of nicotine for a period of 3&#x02013;16 weeks through aerosol or feeding (intragastric or <italic>ad-libitum</italic>) pathological changes occurred in exocrine pancreatic tissue. Cytoplasmic swelling, vacuolization, formation of pyknotic nuclei and karyorrhexis were observed in exocrine pancreatic cells. Furthermore, isolated acinar cells harvested from untreated animals were subsequently exposed to nicotine and incurred similar pathological damage. These changes reproduce those viewed in acute or experimental pancreatitis [<xref rid="B22-cancers-07-00723" ref-type="bibr">22</xref>,<xref rid="B23-cancers-07-00723" ref-type="bibr">23</xref>,<xref rid="B28-cancers-07-00723" ref-type="bibr">28</xref>,<xref rid="B29-cancers-07-00723" ref-type="bibr">29</xref>,<xref rid="B30-cancers-07-00723" ref-type="bibr">30</xref>,<xref rid="B31-cancers-07-00723" ref-type="bibr">31</xref>].</p><p>Nicotine, when given at pharmacological concentrations to animals <italic>in vivo</italic>, reduced exocrine function via suppression of pancreatic amylase release [<xref rid="B25-cancers-07-00723" ref-type="bibr">25</xref>,<xref rid="B30-cancers-07-00723" ref-type="bibr">30</xref>,<xref rid="B32-cancers-07-00723" ref-type="bibr">32</xref>,<xref rid="B33-cancers-07-00723" ref-type="bibr">33</xref>]. At low concentrations (0.1 nM) the hormone cholecystokinin (CCK) stimulates normal physiological responses in isolated rat pancreatic acini, including amylase secretion. Nicotine exposure, at low concentrations (100 &#x000b5;M) augments this CCK-induced amylase secretion, however at higher concentrations (up to 1 mM) it reduces it [<xref rid="B34-cancers-07-00723" ref-type="bibr">34</xref>,<xref rid="B35-cancers-07-00723" ref-type="bibr">35</xref>]. This reduction in secretion by high nicotine levels is similar to that seen in experimental models of pancreatitis, whereby stimulation of acinar cells with <italic>hyperstimulatory</italic> concentrations of CCK (10&#x02013;100 nM) induces early stages of acute pancreatitis [<xref rid="B1-cancers-07-00723" ref-type="bibr">1</xref>]. Premature activation of digestive enzymes and reduced secretion results in retention of active digestive enzymes within the acinar cell, and contributes to the degradation of the pancreas during the course of the disease. Nicotine-induced secretory events in isolated rat acini are abrogated following treatment with mecamylamine or &#x003c9;-conotoxin, nicotinic receptor antagonists, and the calcium channel antagonist, 2-Aminoethoxydiphenyl borate (2-APB) [<xref rid="B35-cancers-07-00723" ref-type="bibr">35</xref>]. This evidence suggests that nicotine might induce cellular responses through a nicotinic acetylcholine receptor (nAChR) and that calcium functions as a downstream effector. The role of nAChR and calcium signaling in smoking-related pancreatitis will be considered in more detail in <xref ref-type="sec" rid="sec3dot1-cancers-07-00723">Section 3.1</xref>.</p><p>Circulating levels of the gastrointestinal hormones gastrin and CCK were affected by nicotine exposure in rats [<xref rid="B36-cancers-07-00723" ref-type="bibr">36</xref>]. Fluctuations in basal levels of these hormones, as well as serum enzymes such as amylase and lipase, have been connected with morphological variations which occur in pancreatitis [<xref rid="B21-cancers-07-00723" ref-type="bibr">21</xref>,<xref rid="B34-cancers-07-00723" ref-type="bibr">34</xref>]. Nicotine can also regulate lipid peroxidation and oxidative stress although it is uncertain if these processes participate in pancreatic pathophysiology [<xref rid="B34-cancers-07-00723" ref-type="bibr">34</xref>].</p><p>Nicotine may alter the proteome of pancreatic cells, increasing expression of proteins that may be involved in pancreatitis and other pancreatic diseases. The effects of nicotine on the proteomes of two pancreatic duct cell lines&#x02014;an immortalized normal cell line (HPNE) and a cancer cell line (PanC1)- were investigated using mass spectrometry-based proteomics [<xref rid="B37-cancers-07-00723" ref-type="bibr">37</xref>]. Over 5000 proteins were detected per cell line. Of these, more than 900 proteins were differentially expressed upon nicotine treatment, 57 of which were detected in both cell lines. In particular, this study emphasized that amyloid precursor protein (APP), previously observed to have increased expression in pancreatic stellate cells upon nicotine treatment [<xref rid="B38-cancers-07-00723" ref-type="bibr">38</xref>] was also up-regulated in both ductal cell lines. Although the role of APP in pancreatic physiology is unclear, its increased expression may be connected to inflammatory or fibrotic responses. These data imply that nicotine may play a significant role in the initiation and progression of pancreatic disease.</p></sec><sec id="sec2dot2-cancers-07-00723"><title>2.2. NNK</title><p>NNK, a tobacco-specific nitrosamine derived from nicotine, is one of the most harmful components of cigarette smoke. Recently, NNK was defined as an initiator of, and sensitizer to, AP. Studies using isolated rat acinar cells and <italic>in vivo</italic> models of pancreatitis [<xref rid="B39-cancers-07-00723" ref-type="bibr">39</xref>] found that NNK treatment induced a key event in initiation of pancreatitis: premature activation of digestive zymogens (trypsinogen and chymotrypsinogen). Secondly, the effects of NNK in combination with a frequently-used model of pancreatitis (the &#x0201c;cerulein&#x0201d; model) were explored, to see if NNK pre-treatment could increase pancreatitis responses. Cerulein, an orthologue of the hormone cholecystokinin (CCK), when given at supraphysiologic concentrations (10&#x02013;100&#x000d7; that required to induce physiological responses), induces typical pancreatitis responses (zymogen activation, histological/morphological changes) in isolated acinar cells or live animals. Pre-exposure to NNK, followed by cerulein stimulation, raised zymogen activation to levels greater than that observed with a single application of either NNK or cerulein. Furthermore, NNK triggered cellular injury in pancreatic tissue (vacuolization, pyknotic nuclei, and edema) analogous to that seen during AP.</p><p>The cellular mechanisms through which nicotine and NNK inflict damage upon the pancreas are largely undetermined. Several studies have used a combination of pharmacological and biochemical approaches to identify pathways underlying initiation and progression of pancreatitis and other pancreatic diseases. These findings will be explored in <xref ref-type="sec" rid="sec3-cancers-07-00723">Section 3</xref>.</p></sec></sec><sec id="sec3-cancers-07-00723"><title>3. Cellular Mechanisms Mediated by Cigarette Toxins</title><sec id="sec3dot1-cancers-07-00723"><title>3.1. Calcium Signaling</title><p>Intracellular calcium overload is a critical early stage in the pathogenesis of numerous diseases. In pancreatic acinar cells, alcohol metabolites, bile and other factors initiate a sustained elevation of global calcium, resulting in premature trypsin activation, vacuolization and cell death (necrosis or apoptosis), all of which are necessary for the development of pancreatitis [<xref rid="B40-cancers-07-00723" ref-type="bibr">40</xref>]. Stimulation of G-protein coupled receptors on the acinar cell surface generates second messengers such as inositol (1,4,5)-trisphosphate (IP<sub>3</sub>), cyclic ADP ribose (cADPR), and nicotinic acid adenine dinucleotide phosphate (NAADP). These second messengers can activate calcium channels (IP<sub>3</sub> receptor and Ryanodine receptor) on the surface of the endoplasmic reticulum (ER) calcium store causing a pathological elevation in intracellular calcium. Alternatively calcium can enter through the plasma membrane via so-called &#x0201c;store-operated&#x0201d; calcium channels (SOC), although the mechanism is unclear. Furthermore, failed mitochondrial adenosine triphosphate (ATP) production can lower re-uptake and extrusion of calcium by ATP-dependent calcium pumps in the ER (sarco/endoplasmic reticulum Ca<sup>2+</sup>-activated ATPase) and plasma membrane [<xref rid="B40-cancers-07-00723" ref-type="bibr">40</xref>].</p><p>Whether nicotine and NNK mediate their effects on the pancreas, particularly the acinar cell, through aberrant calcium dynamics is open to question. A recent study, with isolated rat pancreatic acinar cells, showed that enhanced secretory responses induced by nicotine were suppressed by a calcium-selective antagonist [<xref rid="B35-cancers-07-00723" ref-type="bibr">35</xref>]. The antagonist 2-APB, however, blocks both store-operated calcium entry <italic>and</italic> IP<sub>3</sub>-induced calcium release, so this particular study does not clearly reveal <italic>how</italic> nicotine elevates calcium [<xref rid="B41-cancers-07-00723" ref-type="bibr">41</xref>]. In this same study, the nAChR blocker, mecamylamine, abrogated nicotine-stimulated responses, implying the additional involvement of nAChR. The &#x003b1;7 isoform of nAChR is also a calcium channel, and it is possible that the elevations in intracellular calcium may occur when nicotine activates it, allowing passage of calcium from the extracellular to intracellular environment [<xref rid="B42-cancers-07-00723" ref-type="bibr">42</xref>]. Alternately, it has been shown that choline activation of &#x003b1;7 nAChR promotes a rise in intracellular calcium from local ER stores via G-protein (G&#x003b1;q) signaling, leading to IP<sub>3</sub> receptor (IP<sub>3</sub>R) activation at the growth cone of differentiating PC12 cells [<xref rid="B43-cancers-07-00723" ref-type="bibr">43</xref>]. Potentially, a similar mechanism in acinar cells may be responsible for pathologically high calcium levels. It should be noted that although mecamylamine blocked nicotine effects in pancreatic acini, the presence of non-neuronal &#x003b1;7 nAchRs was not explored in this particular study. In <xref ref-type="sec" rid="sec3dot2-cancers-07-00723">Section 3.2</xref>, further evidence supporting a role for &#x003b1;7 nAchR in smoking-related pancreatitis will be described.</p></sec><sec id="sec3dot2-cancers-07-00723"><title>3.2. Nicotinic Acetylcholine Receptors</title><p>Nicotinic acetylcholine receptors were originally identified within the nervous system, but have subsequently been located in non-neuronal cells [<xref rid="B44-cancers-07-00723" ref-type="bibr">44</xref>]. Some cancer cell lines, human keratinocytes, and epithelial cells have &#x003b1;7 nAChR and are sensitive to NNK treatment (EC<sub>50</sub> for NNK = 0.03 &#x000b5;M). NNK is found in tobacco smoke at concentrations 5000&#x02013;10,000 times less than nicotine but has a 1000-fold higher affinity for &#x003b1;7 nAChR in comparison. In the organs of smokers, and in the pancreas and lungs of rodents that have been subjected to chronic nicotine/NNK exposure, &#x003b1;7 nAchRs are up-regulated [<xref rid="B44-cancers-07-00723" ref-type="bibr">44</xref>,<xref rid="B45-cancers-07-00723" ref-type="bibr">45</xref>].</p><p>A recent study by Alexandre <italic>et al.</italic> had recorded effects of NNK in induction of pancreatitis responses (described in <xref ref-type="sec" rid="sec2dot2-cancers-07-00723">Section 2.2</xref>). They extended this study to determine the cellular target of NNK. Non-neuronal &#x003b1;7 nAChR was selected as a potential candidate and it was primarily established that the receptor was in fact present in rat pancreatic acini by PCR analysis [<xref rid="B39-cancers-07-00723" ref-type="bibr">39</xref>]. A functional role was confirmed when isolated acini were pre-treated with mecamylamine, and NNK induced zymogen activation was annulled. These findings were further substantiated when isolated pancreatic acini from &#x003b1;7 nAChR<sup>&#x02212;/&#x02212;</sup> mice failed to respond to NNK exposure and no premature zymogen activation was seen when compared with wild type [<xref rid="B46-cancers-07-00723" ref-type="bibr">46</xref>]. Whether additional pancreatitis responses are mediated through the &#x003b1;7 nAChR and related pathways is a subject for future research.</p></sec><sec><title>3.3. Inflammatory Responses</title><p>In addition to direct interactions with acinar cell &#x003b1;7 nAChRs, both NNK and nicotine could potentially regulate immune responses during pancreatitis via &#x003b1;7nAChRs expressed on macrophages. Nicotine has been found to prevent NF&#x003ba;B activation in macrophages, thus obstructing generation of pro-inflammatory cytokines responsible for macrophage stimulation [<xref rid="B30-cancers-07-00723" ref-type="bibr">30</xref>,<xref rid="B47-cancers-07-00723" ref-type="bibr">47</xref>]. Furthermore, administration of mecamylamine to mice reduced neutrophil and macrophage migration to pancreatic tissue, resulting in more severe experimental pancreatitis [<xref rid="B48-cancers-07-00723" ref-type="bibr">48</xref>]. In another study, prophylactic and delayed therapeutic application of nicotine significantly diminished the severity of acute experimental pancreatitis in rats via induction of the cholinergic anti-inflammatory pathway [<xref rid="B49-cancers-07-00723" ref-type="bibr">49</xref>]. In a model of severe acute pancreatitis (SAP), induced in mice by retrograde injection of 2% Na-taurocholate into the pancreatic duct, nicotine treatment was found to have a protective effect [<xref rid="B50-cancers-07-00723" ref-type="bibr">50</xref>]. Nicotine (50&#x02013;300 &#x000b5;g/kg) inhibited tissue injury, digestive enzyme production, and pro-inflammatory cytokine generation in a dose-dependent fashion. Additionally, nicotine up-regulated the number and suppressive capacity of CD4<sup>+</sup> CD25<sup>+</sup> regulatory T cells (Treg) by causing expression of immunoregulatory molecules and secretion of transforming growth factor &#x003b2;1 (TGF-&#x003b2;1).</p><p>The concept of nicotine and NNK being responsible for anti-inflammatory effects and reduction in severity of pancreatitis may seem to conflict with other studies demonstrating a role in disease initiation [<xref rid="B20-cancers-07-00723" ref-type="bibr">20</xref>,<xref rid="B21-cancers-07-00723" ref-type="bibr">21</xref>,<xref rid="B22-cancers-07-00723" ref-type="bibr">22</xref>,<xref rid="B23-cancers-07-00723" ref-type="bibr">23</xref>,<xref rid="B24-cancers-07-00723" ref-type="bibr">24</xref>,<xref rid="B25-cancers-07-00723" ref-type="bibr">25</xref>,<xref rid="B39-cancers-07-00723" ref-type="bibr">39</xref>]. However, it is known that prolonged exposure to cigarette smoke causes chronic pancreatic inflammation. Additional studies suggest that NNK might initiate pro-inflammatory pathways in macrophages and other cells through its up-take and metabolism, a process known as &#x0201c;bioactivation&#x0201d; [<xref rid="B51-cancers-07-00723" ref-type="bibr">51</xref>]. This process occurs via the cytochrome P450 (CYP450) enzyme family through three major pathways: (a) carbonyl reduction, (b) pyridine <italic>N</italic>-oxidation and (c) &#x003b1;-hydroxylation. Following bioactivation, NNK metabolites can mediate a number of pathological cellular pathways. In U937 human macrophages, for example, NNK metabolites activated NF&#x003ba;B, inducing TNF-&#x003b1; release, while impeding synthesis of interleukin-10 (IL-10) [<xref rid="B51-cancers-07-00723" ref-type="bibr">51</xref>]. Such alterations in the cytokine profile can favor pro-inflammatory responses.</p><p>The effects of NNK and nicotine in pancreatitis appear to be very complex and somewhat paradoxical. The findings from these separate studies though are not as irreconcilable as they first appear. Early pancreatitis events likely involve a direct interaction of NNK/nicotine with &#x003b1;7 nAChR localized on acini, competing with a potential anti-inflammatory phase via &#x003b1;7 nAChR on macrophages [<xref rid="B39-cancers-07-00723" ref-type="bibr">39</xref>,<xref rid="B47-cancers-07-00723" ref-type="bibr">47</xref>,<xref rid="B48-cancers-07-00723" ref-type="bibr">48</xref>,<xref rid="B49-cancers-07-00723" ref-type="bibr">49</xref>]. It is possible that anti-inflammatory modulation of macrophages induces the healing process (perhaps through TGF-&#x003b2;1 signaling). In rodents pancreatic damage is normally resolved within a few days and cigarette smoke-induced immune modulation may turn this into an ongoing process.</p><p>The anti-inflammatory response could be short-lived, however, as sustained contact with cigarette toxins eventually gives way to chronic pancreatic inflammation [<xref rid="B52-cancers-07-00723" ref-type="bibr">52</xref>]. These chronic inflammatory responses potentially occur through uptake and metabolism (bioactivation) of NNK/nicotine in macrophages. Bioactivation of cigarette toxins in the pancreas itself may contribute to pancreatic cancer [<xref rid="B53-cancers-07-00723" ref-type="bibr">53</xref>], but it has not been determined if this process influences smoking-related pancreatitis. Limited evidence suggests bioactivation of NNK or nicotine in acini might contribute to pathological responses which predispose to pancreatitis. This is discussed further in <xref ref-type="sec" rid="sec3dot4-cancers-07-00723">Section 3.4</xref>.</p></sec><sec id="sec3dot4-cancers-07-00723"><title>3.4. &#x0201c;Bioactivation&#x0201d; of Toxins in the Pancreas</title><p>P450 enzymes, critical for bioactivation of NNK, have been identified in rodent pancreas (isoforms 2B6, 3A5 and 2A3), although there have been variable results in human pancreas [<xref rid="B54-cancers-07-00723" ref-type="bibr">54</xref>]. There was no evidence of P450 enzymes in human pancreatic samples from smokers and non-smokers in one study which employed cytochemical detection methods [<xref rid="B55-cancers-07-00723" ref-type="bibr">55</xref>]. However, another report identified CYP450 enzymes in human pancreatic tissue using immunohistochemical techniques [<xref rid="B56-cancers-07-00723" ref-type="bibr">56</xref>]. Moreover, the levels of enzymes were elevated in samples from patients with CP and pancreatic cancer [<xref rid="B56-cancers-07-00723" ref-type="bibr">56</xref>].</p><p>More recent findings have demonstrated that NNK may induce changes at the genetic level within the pancreatic acinar cell itself [<xref rid="B57-cancers-07-00723" ref-type="bibr">57</xref>]. Whether this occurs via a &#x0201c;bioactivated&#x0201d; form of NNK or an alternative pathway remains uncertain. The vitamin thiamin (vitamin B1) is crucial for pancreatic function due to its involvement in oxidative energy metabolism and its role as a cofactor for multiple enzymes in mitochondrial ATP production [<xref rid="B58-cancers-07-00723" ref-type="bibr">58</xref>]. The pancreatic acinar cell maintains high thiamin levels through uptake from its environment via thiamin transporters-1 and -2 (THTR-1 and THTR-2). Protein and mRNA levels of these transporters decreased significantly when pancreatic acinar 266-6 cells were exposed to NNK. These changes were linked with a reduction in thiamin uptake and thiamin transporter promoters- SLC19A2 and SLC19A3. Extended periods of NNK treatment in mice gave comparable results [<xref rid="B57-cancers-07-00723" ref-type="bibr">57</xref>]. This study emphasizes how a cigarette toxin such as NNK can induce modifications in pancreatic cell function at the level of transcription, giving rise to, in this circumstance, thiamin deficiency. Low intracellular levels of thiamin would ultimately impair oxidative energy metabolism, increase oxidative stress and compromise the structure and function of mitochondria [<xref rid="B59-cancers-07-00723" ref-type="bibr">59</xref>]. The resulting drop in cellular ATP levels, might play a role in sensitizing the pancreas to a secondary insult, predisposing it to development of pancreatitis [<xref rid="B60-cancers-07-00723" ref-type="bibr">60</xref>].</p></sec><sec><title>3.5. &#x003b2;-Adrenergic Receptors</title><p>NNK structurally resembles classic &#x003b2;-adrenergic agonists and has high affinity for human &#x003b2;-1 and &#x003b2;-2 receptors (EC<sub>50</sub> for &#x003b2;1= 5.8 nM; EC<sub>50</sub> for &#x003b2;2 = 128 nM) [<xref rid="B61-cancers-07-00723" ref-type="bibr">61</xref>]. In mammalian cells, stimulation of &#x003b2;-adrenergic receptors activates the enzyme adenylate cyclase resulting in elevations of the intracellular second messenger cAMP. Moreover, cAMP has been shown to participate in pancreatitis responses such as zymogen activation and amylase secretion [<xref rid="B62-cancers-07-00723" ref-type="bibr">62</xref>]. A study by Alexandre <italic>et al.</italic> discovered &#x003b2;-adrenergic receptors in rat pancreatic acinar cells, although NNK mediated zymogen activation was not reduced when &#x003b2;-adrenergic receptors were blocked with the inhibitor propranolol [<xref rid="B63-cancers-07-00723" ref-type="bibr">63</xref>]. Stimulation of &#x003b2;-adrenergic receptors can also cause release of arachidonic acid and it is possible that NNK could potentiate such release through the enzyme phospholipase A2 (PLA2), an important component in inflammation. Various PLA2 isoforms, namely phospholipase A2-II and A2-IV, are elevated during human AP and may influence disease severity both locally and systemically [<xref rid="B64-cancers-07-00723" ref-type="bibr">64</xref>]. Whether NNK mediates arachidonic acid release, however, and additional pancreatitis responses through &#x003b2;-adrenergic receptors remains to be seen.</p></sec></sec><sec><title>4. Conclusions</title><p>The amount of knowledge regarding the pathogenesis of smoking-induced pancreatitis is scarce compared with what is known about other etiologies of the disease, such as alcohol abuse and gallstones. Improvement and expansion of trustworthy animal models of smoking-related pancreatitis, as well as human studies, are needed if relevant cellular targets and effective therapies are to be identified.</p><p>Some models described in this review, which focus on specific cigarette toxins, such as nicotine and it&#x02019;s more potent derivative NNK, have yielded encouraging findings (summarized in <xref ref-type="fig" rid="cancers-07-00723-f001">Figure 1</xref> below). For instance, an &#x003b1;7nAChR in pancreatic acinar cells has emerged as a likely therapeutic target, given its role in premature zymogen activation and related pancreatitis responses [<xref rid="B63-cancers-07-00723" ref-type="bibr">63</xref>]. This receptor, along with &#x003b2;-adrenergic receptors, also mediates NNK activation of cellular signals including the enzyme cyclooxygenase-2 (COX2), epidermal growth factor receptor (EGFR) and extracellular-signal-regulated kinases (ERK) in pancreatic cancer cells and ductal cells [<xref rid="B65-cancers-07-00723" ref-type="bibr">65</xref>,<xref rid="B66-cancers-07-00723" ref-type="bibr">66</xref>]. Furthermore, pancreatic stellate cells have been shown to express &#x003b1;7nAChR and respond upon exposure to nicotine, resulting in increased proliferation and extracellular matrix (ECM) production [<xref rid="B25-cancers-07-00723" ref-type="bibr">25</xref>]. ECM production has been shown to contribute to the survival of pancreatic cancer cells and resistance to apoptosis [<xref rid="B67-cancers-07-00723" ref-type="bibr">67</xref>]. In addition, NNK has been shown to effect changes at the genetic level which could sensitize to pancreatitis and also cause pancreatic cancer. For instance, NNK triggers thiamin deficiency in acinar cells (a condition which could leave the pancreas vulnerable to pancreatitis) by affecting transcription of thiamin transporters [<xref rid="B57-cancers-07-00723" ref-type="bibr">57</xref>], whereas it predisposes to cancer through formation of DNA adducts and genetic mutations [<xref rid="B53-cancers-07-00723" ref-type="bibr">53</xref>]. Thus, cellular targets of cigarette toxins and downstream pathways involved in pancreatitis, may also have relevance in progression to pancreatic cancer.</p><p>Finally, factors such as epigenetic changes or environmental stimuli, may further propagate pancreatic injury when combined with smoking. Studies looking at smoking by itself, and with other risk factors, will greatly improve understanding of mechanisms underlying smoking-induced pancreatic diseases.</p><fig id="cancers-07-00723-f001" position="float"><label>Figure 1</label><caption><p>Cellular mechanisms mediated by cigarette toxins in pancreatic acinar cells. A representation of a pancreatic acinar cell is shown. Exposure to nicotine and NNK is known to cause morphological changes comparable to those seen in pancreatitis; these include vacuolization and formation of pyknotic nuclei. Nicotine has been shown to stimulate secretion by itself and augment cholecystokinin-mediated (CCK) secretion at low concentrations (100 &#x000b5;M); at higher concentrations (&#x0003e;1 mM) it inhibits secretion. Nicotine-mediated events are abrogated by pre-treatment of cells with the alpha-7 nAChR blocker mecamylamine, and the calcium channel antagonist 2-APB; this implies that nicotine-induced events occur via the alpha-7 nAChR and an elevation in intracellular calcium. This may be via a direct influx of calcium through the nAChR (given that it is a calcium channel) or through a G-protein coupled mechanism which gives rise to second messengers and subsequent release from intracellular calcium stores in the ER. NNK induces zymogen activation in acini and augments cerulein (CER)-induced zymogen activation; this effect is abrogated by the nAChR blocker mecamylamine and in alpha-7<sup>&#x02212;/&#x02212;</sup> mice. NNK has been shown to inhibit uptake of the vitamin thiamin, by reducing levels of thiamin transporters; thiamin is crucial for pancreatic function due to its involvement in oxidative energy metabolism and its role as a cofactor for multiple enzymes in mitochondrial ATP production. Thiamin deficiency ultimately impairs oxidative energy metabolism, increases oxidative stress and compromises the structure and function of mitochondria. The resulting drop in cellular ATP levels, might play a role in sensitizing the pancreas to a secondary insult, predisposing it to development of pancreatitis. Abbreviations: CER = cerulein; CCK = cholecystokinin; CCK-R = CCK receptor; THTR = thiamin transporters; &#x003b1;7 and &#x003b1;7nAChR = &#x003b1;7 nicotinic acetylcholine receptor.</p></caption><graphic xlink:href="cancers-07-00723-g001"/></fig></sec></body><back><ack><title>Acknowledgments</title><p>The authors would like to acknowledge Connecticut Department of Public Health (DPH contract log # 2014-0138), National Institute on Alcohol Abuse and Alcoholism (R21 AA-020847-01) and the Department of Veterans Affairs for support.</p></ack><notes><title>Conflicts of Interest</title><p>The author declares no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-cancers-07-00723"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leach</surname><given-names>S.D.</given-names></name><name><surname>Modlin</surname><given-names>I.M.</given-names></name><name><surname>Scheele</surname><given-names>G.A.</given-names></name><name><surname>Gorelick</surname><given-names>F.S.</given-names></name></person-group>
+<article-title>Intracellular activation of digestive zymogens in rat pancreatic acini. Stimulation by high doses of cholecystokinin</article-title>
+<source>J. Clin. Investig.</source>
+<year>1991</year>
+<volume>87</volume>
+<fpage>362</fpage>
+<lpage>366</lpage>
+<pub-id pub-id-type="doi">10.1172/JCI114995</pub-id>
+<pub-id pub-id-type="pmid">1985109</pub-id></element-citation></ref><ref id="B2-cancers-07-00723"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gaisano</surname><given-names>H.Y.</given-names></name><name><surname>Gorelick</surname><given-names>F.S.</given-names></name></person-group>
+<article-title>New insights into the mechanisms of pancreatitis</article-title>
+<source>Gastroenterology</source>
+<year>2009</year>
+<volume>136</volume>
+<fpage>2040</fpage>
+<lpage>2044</lpage>
+<pub-id pub-id-type="doi">10.1053/j.gastro.2009.04.023</pub-id>
+<pub-id pub-id-type="pmid">19379751</pub-id></element-citation></ref><ref id="B3-cancers-07-00723"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kolodecik</surname><given-names>T.</given-names></name><name><surname>Shugrue</surname><given-names>C.</given-names></name><name><surname>Ashat</surname><given-names>M.</given-names></name><name><surname>Thrower</surname><given-names>E.C.</given-names></name></person-group>
+<article-title>Risk factors for pancreatic cancer: Underlying mechanisms and potential targets</article-title>
+<source>Front. Physiol.</source>
+<year>2013</year>
+<pub-id pub-id-type="doi">10.3389/fphys.2013.00415</pub-id>
+</element-citation></ref><ref id="B4-cancers-07-00723"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raimondi</surname><given-names>S.</given-names></name><name><surname>Lowenfels</surname><given-names>A.B.</given-names></name><name><surname>Morselli-Labate</surname><given-names>A.M.</given-names></name><name><surname>Maisonneuve</surname><given-names>P.</given-names></name><name><surname>Pezzilli</surname><given-names>R.</given-names></name></person-group>
+<article-title>Pancreatic cancer in chronic pancreatitis; aetiology, incidence, and early detection</article-title>
+<source>Best Pract. Res. Clin. Gastroenterol.</source>
+<year>2010</year>
+<volume>24</volume>
+<fpage>349</fpage>
+<lpage>358</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bpg.2010.02.007</pub-id>
+<pub-id pub-id-type="pmid">20510834</pub-id></element-citation></ref><ref id="B5-cancers-07-00723"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cote</surname><given-names>G.A.</given-names></name><name><surname>Yadav</surname><given-names>D.</given-names></name><name><surname>Slivka</surname><given-names>A.</given-names></name><name><surname>Hawes</surname><given-names>R.H.</given-names></name><name><surname>Anderson</surname><given-names>M.A.</given-names></name><name><surname>Burton</surname><given-names>F.R.</given-names></name><name><surname>Brand</surname><given-names>R.E.</given-names></name><name><surname>Banks</surname><given-names>P.A.</given-names></name><name><surname>Lewis</surname><given-names>M.D.</given-names></name><name><surname>Disario</surname><given-names>J.A.</given-names></name><etal/></person-group>
+<article-title>Alcohol and smoking as risk factors in an epidemiology study of patients with chronic pancreatitis</article-title>
+<source>Clin. Gastroenterol. Hepatol.</source>
+<year>2011</year>
+<volume>9</volume>
+<fpage>266</fpage>
+<lpage>273</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cgh.2010.10.015</pub-id>
+<pub-id pub-id-type="pmid">21029787</pub-id></element-citation></ref><ref id="B6-cancers-07-00723"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hirota</surname><given-names>M.</given-names></name><name><surname>Shimosegawa</surname><given-names>T.</given-names></name><name><surname>Masamune</surname><given-names>A.</given-names></name><name><surname>Kikuta</surname><given-names>K.</given-names></name><name><surname>Kume</surname><given-names>K.</given-names></name><name><surname>Hamada</surname><given-names>S.</given-names></name><name><surname>Kanno</surname><given-names>A.</given-names></name><name><surname>Kimura</surname><given-names>K.</given-names></name><name><surname>Tsuji</surname><given-names>I.</given-names></name><name><surname>Kuriyama</surname><given-names>S.</given-names></name></person-group>
+<article-title>The seventh nationwide epidemiological survey for chronic pancreatitis in Japan: Clinical significance of smoking habit in Japanese patients</article-title>
+<source>Pancreatology</source>
+<year>2014</year>
+<volume>14</volume>
+<fpage>490</fpage>
+<lpage>496</lpage>
+<pub-id pub-id-type="doi">10.1016/j.pan.2014.08.008</pub-id>
+<pub-id pub-id-type="pmid">25224249</pub-id></element-citation></ref><ref id="B7-cancers-07-00723"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Law</surname><given-names>R.</given-names></name><name><surname>Parsi</surname><given-names>M.</given-names></name><name><surname>Lopez</surname><given-names>R.</given-names></name><name><surname>Zuccaro</surname><given-names>G.</given-names></name><name><surname>Stevens</surname><given-names>T.</given-names></name></person-group>
+<article-title>Cigarette smoking is independently associated with chronic pancreatitis</article-title>
+<source>Pancreatology</source>
+<year>2010</year>
+<volume>10</volume>
+<fpage>54</fpage>
+<lpage>59</lpage>
+<pub-id pub-id-type="doi">10.1159/000225927</pub-id>
+<pub-id pub-id-type="pmid">20332662</pub-id></element-citation></ref><ref id="B8-cancers-07-00723"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>H.H.</given-names></name><name><surname>Chang</surname><given-names>H.Y.</given-names></name><name><surname>Chiang</surname><given-names>Y.T.</given-names></name><name><surname>Wu</surname><given-names>M.-S.</given-names></name><name><surname>Lin</surname><given-names>J.-T.</given-names></name><name><surname>Wei-Chih Liao</surname><given-names>W.-C.</given-names></name></person-group>
+<article-title>Smoking, drinking, and pancreatitis: A population-based cohort study in Taiwan</article-title>
+<source>Pancreas</source>
+<year>2014</year>
+<volume>43</volume>
+<fpage>1117</fpage>
+<lpage>1122</lpage>
+<pub-id pub-id-type="doi">10.1097/MPA.0000000000000209</pub-id>
+<pub-id pub-id-type="pmid">25083998</pub-id></element-citation></ref><ref id="B9-cancers-07-00723"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maisonneuve</surname><given-names>P.</given-names></name><name><surname>Lowenfels</surname><given-names>A.B.</given-names></name><name><surname>Mullhaupt</surname><given-names>B.</given-names></name><name><surname>Cavallini</surname><given-names>G.</given-names></name><name><surname>Lankisch</surname><given-names>P.G.</given-names></name><name><surname>Andersen</surname><given-names>J.R.</given-names></name><name><surname>Dimagno</surname><given-names>E.P.</given-names></name><name><surname>Andr&#x000e9;n-Sandberg</surname><given-names>A.</given-names></name><name><surname>Domell&#x000f6;f</surname><given-names>L.</given-names></name><name><surname>Frulloni</surname><given-names>L.</given-names></name><etal/></person-group>
+<article-title>Cigarette smoking accelerates progression of alcoholic chronic pancreatitis</article-title>
+<source>Gut</source>
+<year>2005</year>
+<volume>54</volume>
+<fpage>510</fpage>
+<lpage>514</lpage>
+<pub-id pub-id-type="doi">10.1136/gut.2004.039263</pub-id>
+<pub-id pub-id-type="pmid">15753536</pub-id></element-citation></ref><ref id="B10-cancers-07-00723"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sadr-Azodi</surname><given-names>O.</given-names></name><name><surname>Andren-Sandberg</surname><given-names>A.</given-names></name><name><surname>Orsini</surname><given-names>N.</given-names></name><name><surname>Wolk</surname><given-names>A.</given-names></name></person-group>
+<article-title>Cigarette smoking, smoking cessation and acute pancreatitis: A prospective population-based study</article-title>
+<source>Gut</source>
+<year>2012</year>
+<volume>61</volume>
+<fpage>262</fpage>
+<lpage>267</lpage>
+<pub-id pub-id-type="doi">10.1136/gutjnl-2011-300566</pub-id>
+<pub-id pub-id-type="pmid">21836026</pub-id></element-citation></ref><ref id="B11-cancers-07-00723"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Talamini</surname><given-names>G.</given-names></name><name><surname>Bassi</surname><given-names>C.</given-names></name><name><surname>Falconi</surname><given-names>M.</given-names></name><name><surname>Sartori</surname><given-names>N.</given-names></name><name><surname>Salvia</surname><given-names>R.</given-names></name><name><surname>Rigo</surname><given-names>L.</given-names></name><name><surname>Castagnini</surname><given-names>A.</given-names></name><name><surname>di Francesco</surname><given-names>V.</given-names></name><name><surname>Frulloni</surname><given-names>L.</given-names></name><name><surname>Bovo</surname><given-names>P.</given-names></name><etal/></person-group>
+<article-title>Alcohol and smoking as risk factors in chronic pancreatitis and pancreatic cancer</article-title>
+<source>Dig. Dis. Sci.</source>
+<year>1999</year>
+<volume>44</volume>
+<fpage>1303</fpage>
+<lpage>1311</lpage>
+<pub-id pub-id-type="doi">10.1023/A:1026670911955</pub-id>
+<pub-id pub-id-type="pmid">10489910</pub-id></element-citation></ref><ref id="B12-cancers-07-00723"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tolstrup</surname><given-names>J.S.</given-names></name><name><surname>Kristiansen</surname><given-names>L.</given-names></name><name><surname>Becker</surname><given-names>U.</given-names></name><name><surname>Gr&#x000f8;nbaek</surname><given-names>M.</given-names></name></person-group>
+<article-title>Smoking and risk of acute and chronic pancreatitis among women and men: A population-based cohort study</article-title>
+<source>Arch. Intern. Med.</source>
+<year>2009</year>
+<volume>169</volume>
+<fpage>603</fpage>
+<lpage>609</lpage>
+<pub-id pub-id-type="doi">10.1001/archinternmed.2008.601</pub-id>
+<pub-id pub-id-type="pmid">19307524</pub-id></element-citation></ref><ref id="B13-cancers-07-00723"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>H.</given-names></name><name><surname>Wang</surname><given-names>L.</given-names></name><name><surname>Shi</surname><given-names>Y.H.</given-names></name><name><surname>Sui</surname><given-names>G.T.</given-names></name><name><surname>Wu</surname><given-names>Y.F.</given-names></name><name><surname>Lu</surname><given-names>X.Q.</given-names></name><name><surname>Li</surname><given-names>M.Y.</given-names></name><name><surname>Xia</surname><given-names>Q.</given-names></name><name><surname>Bian</surname><given-names>X.X.</given-names></name><name><surname>Li</surname><given-names>H.H.</given-names></name><etal/></person-group>
+<article-title>Risk factors of acute pancreatitis in the elderly Chinese population: A population-based cross-sectional study</article-title>
+<source>J. Dig. Dis.</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>501</fpage>
+<lpage>507</lpage>
+<pub-id pub-id-type="doi">10.1111/1751-2980.12168</pub-id>
+<pub-id pub-id-type="pmid">24957953</pub-id></element-citation></ref><ref id="B14-cancers-07-00723"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yuhara</surname><given-names>H.</given-names></name><name><surname>Ogawa</surname><given-names>M.</given-names></name><name><surname>Kawaguchi</surname><given-names>Y.</given-names></name><name><surname>Igarashi</surname><given-names>M.</given-names></name><name><surname>Mine</surname><given-names>T.</given-names></name></person-group>
+<article-title>Smoking and risk for acute pancreatitis: A systematic review and meta-analysis</article-title>
+<source>Pancreas</source>
+<year>2014</year>
+<volume>43</volume>
+<fpage>1201</fpage>
+<lpage>1207</lpage>
+<pub-id pub-id-type="doi">10.1097/MPA.0000000000000176</pub-id>
+<pub-id pub-id-type="pmid">25333404</pub-id></element-citation></ref><ref id="B15-cancers-07-00723"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lindkvist</surname><given-names>B.</given-names></name><name><surname>Appelros</surname><given-names>S.</given-names></name><name><surname>Manjer</surname><given-names>J.</given-names></name><name><surname>Berglund</surname><given-names>G.</given-names></name><name><surname>Borgstrom</surname><given-names>A.</given-names></name></person-group>
+<article-title>A prospective cohort study of smoking in acute pancreatitis</article-title>
+<source>Pancreatology</source>
+<year>2008</year>
+<volume>8</volume>
+<fpage>63</fpage>
+<lpage>70</lpage>
+<pub-id pub-id-type="doi">10.1159/000114868</pub-id>
+<pub-id pub-id-type="pmid">18235217</pub-id></element-citation></ref><ref id="B16-cancers-07-00723"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yadav</surname><given-names>D.</given-names></name><name><surname>Hawes</surname><given-names>R.H.</given-names></name><name><surname>Brand</surname><given-names>R.E.</given-names></name><name><surname>Anderson</surname><given-names>M.A.</given-names></name><name><surname>Money</surname><given-names>M.E.</given-names></name><name><surname>Banks</surname><given-names>P.A.</given-names></name><name><surname>Bishop</surname><given-names>M.D.</given-names></name><name><surname>Baillie</surname><given-names>J.</given-names></name><name><surname>Sherman</surname><given-names>S.</given-names></name><name><surname>DiSario</surname><given-names>J.</given-names></name><etal/></person-group>
+<article-title>Alcohol consumption, cigarette smoking, and the risk of recurrent acute and chronic pancreatitis</article-title>
+<source>Arch. Intern. Med.</source>
+<year>2009</year>
+<volume>169</volume>
+<fpage>1035</fpage>
+<lpage>1045</lpage>
+<pub-id pub-id-type="doi">10.1001/archinternmed.2009.125</pub-id>
+<pub-id pub-id-type="pmid">19506173</pub-id></element-citation></ref><ref id="B17-cancers-07-00723"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alsamarrai</surname><given-names>A.</given-names></name><name><surname>Das</surname><given-names>S.L.</given-names></name><name><surname>Windsor</surname><given-names>J.A.</given-names></name><name><surname>Petrov</surname><given-names>M.S.</given-names></name></person-group>
+<article-title>Factors that affect risk for pancreatic disease in the general population: A systematic review and meta-analysis of prospective cohort studies</article-title>
+<source>Clin. Gastroenterol. Hepatol.</source>
+<year>2014</year>
+<volume>12</volume>
+<fpage>1635</fpage>
+<lpage>1644.e5</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cgh.2014.01.038</pub-id>
+<pub-id pub-id-type="pmid">24509242</pub-id></element-citation></ref><ref id="B18-cancers-07-00723"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wittel</surname><given-names>U.A.</given-names></name><name><surname>Pandey</surname><given-names>K.K.</given-names></name><name><surname>Andrianifahanana</surname><given-names>M.</given-names></name><name><surname>Johansson</surname><given-names>S.L.</given-names></name><name><surname>Cullen</surname><given-names>D.M.</given-names></name><name><surname>Akhter</surname><given-names>M.P.</given-names></name><name><surname>Brand</surname><given-names>R.E.</given-names></name><name><surname>Prokopczyk</surname><given-names>B.</given-names></name><name><surname>Batra</surname><given-names>S.K.</given-names></name></person-group>
+<article-title>Chronic pancreatic inflammation induced by environmental tobacco smoke inhalation in rats</article-title>
+<source>Am. J. Gastroenterol.</source>
+<year>2006</year>
+<volume>101</volume>
+<fpage>148</fpage>
+<lpage>159</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1572-0241.2006.00405.x</pub-id>
+<pub-id pub-id-type="pmid">16405548</pub-id></element-citation></ref><ref id="B19-cancers-07-00723"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hartwig</surname><given-names>W.</given-names></name><name><surname>Werner</surname><given-names>J.</given-names></name><name><surname>Ryschich E Mayer</surname><given-names>H.</given-names></name><name><surname>Schmidt</surname><given-names>J.</given-names></name><name><surname>Gebhard</surname><given-names>M.M.</given-names></name><name><surname>Herfarth</surname><given-names>C.</given-names></name><name><surname>Klar</surname><given-names>E.</given-names></name></person-group>
+<article-title>Cigarette smoke enhances ethanol-induced pancreatic injury</article-title>
+<source>Pancreas</source>
+<year>2000</year>
+<volume>21</volume>
+<fpage>272</fpage>
+<lpage>278</lpage>
+<pub-id pub-id-type="doi">10.1097/00006676-200010000-00009</pub-id>
+<pub-id pub-id-type="pmid">11039472</pub-id></element-citation></ref><ref id="B20-cancers-07-00723"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>Doi</surname><given-names>R.</given-names></name><name><surname>Tangoku</surname><given-names>A.</given-names></name><name><surname>Rayford</surname><given-names>P.L.</given-names></name></person-group>
+<article-title>Structural and functional changes of rat exocrine pancreas exposed to nicotine</article-title>
+<source>Intern. J. Pancreatol.</source>
+<year>1995</year>
+<volume>18</volume>
+<fpage>257</fpage>
+<lpage>264</lpage>
+</element-citation></ref><ref id="B21-cancers-07-00723"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>MacLeod</surname><given-names>S.</given-names></name><name><surname>Udupa</surname><given-names>K.B.</given-names></name><name><surname>Rayford</surname><given-names>P.L.</given-names></name></person-group>
+<article-title>Pathophysiological effects of nicotine on the pancreas: An update</article-title>
+<source>Exp. Biol. Med.</source>
+<year>2002</year>
+<volume>227</volume>
+<fpage>445</fpage>
+<lpage>454</lpage>
+</element-citation></ref><ref id="B22-cancers-07-00723"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>Rayford</surname><given-names>P.L.</given-names></name><name><surname>Chang</surname><given-names>L.W.</given-names></name></person-group>
+<article-title>Induction of pancreatic acinar pathology via inhalation of nicotine</article-title>
+<source>Proc. Soc. Exp. Biol. Med.</source>
+<year>1992</year>
+<volume>201</volume>
+<fpage>159</fpage>
+<lpage>164</lpage>
+<pub-id pub-id-type="doi">10.3181/00379727-201-43494B</pub-id>
+<pub-id pub-id-type="pmid">1409731</pub-id></element-citation></ref><ref id="B23-cancers-07-00723"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>Rayford</surname><given-names>P.L.</given-names></name><name><surname>Chang</surname><given-names>L.W.</given-names></name></person-group>
+<article-title>Pathophysiological effects of nicotine on the pancreas</article-title>
+<source>Proc. Soc. Exp. Biol. Med.</source>
+<year>1998</year>
+<volume>218</volume>
+<fpage>168</fpage>
+<lpage>173</lpage>
+<pub-id pub-id-type="doi">10.3181/00379727-218-44284</pub-id>
+<pub-id pub-id-type="pmid">9648934</pub-id></element-citation></ref><ref id="B24-cancers-07-00723"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>Walker</surname><given-names>A.</given-names></name></person-group>
+<article-title>A cell-based approach to study changes in the pancreas following nicotine exposure in an animal model of injury</article-title>
+<source>Langenbecks Arch. Surg.</source>
+<year>2008</year>
+<volume>393</volume>
+<fpage>547</fpage>
+<lpage>555</lpage>
+<pub-id pub-id-type="doi">10.1007/s00423-007-0267-1</pub-id>
+<pub-id pub-id-type="pmid">18204935</pub-id></element-citation></ref><ref id="B25-cancers-07-00723"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lau</surname><given-names>P.P.</given-names></name><name><surname>Dubick</surname><given-names>M.A.</given-names></name><name><surname>Yu</surname><given-names>G.S.</given-names></name><name><surname>Morrill</surname><given-names>P.R.</given-names></name><name><surname>Geokas</surname><given-names>M.C</given-names></name></person-group>
+<article-title>Dynamic changes of pancreatic structure and function in rats treated chronically with nicotine</article-title>
+<source>Toxicol. Appl. Pharmacol.</source>
+<year>1990</year>
+<volume>104</volume>
+<fpage>457</fpage>
+<lpage>465</lpage>
+<pub-id pub-id-type="doi">10.1016/0041-008X(90)90167-S</pub-id>
+<pub-id pub-id-type="pmid">1696755</pub-id></element-citation></ref><ref id="B26-cancers-07-00723"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Prokopczyk</surname><given-names>B.</given-names></name><name><surname>Hoffmann</surname><given-names>D.</given-names></name><name><surname>Bologna</surname><given-names>M.</given-names></name><name><surname>Cunningham</surname><given-names>A.J.</given-names></name><name><surname>Trushin</surname><given-names>N.</given-names></name><name><surname>Akerkar</surname><given-names>S.</given-names></name><name><surname>Boyiri</surname><given-names>T.</given-names></name><name><surname>Amin</surname><given-names>S.</given-names></name><name><surname>Desai</surname><given-names>D.</given-names></name><name><surname>Colosimo</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>Identification of tobacco-derived compounds in human pancreatic juice</article-title>
+<source>Chem. Res. Toxicol.</source>
+<year>2002</year>
+<volume>15</volume>
+<fpage>677</fpage>
+<lpage>685</lpage>
+<pub-id pub-id-type="doi">10.1021/tx0101088</pub-id>
+<pub-id pub-id-type="pmid">12018989</pub-id></element-citation></ref><ref id="B27-cancers-07-00723"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>Doi</surname><given-names>R.</given-names></name><name><surname>Chang</surname><given-names>L.W.</given-names></name><name><surname>Rayford</surname><given-names>P.L.</given-names></name></person-group>
+<article-title>Tissue distribution of [3H]-nicotine in rats</article-title>
+<source>Biomed. Environ. Sci. BES.</source>
+<year>1993</year>
+<volume>6</volume>
+<fpage>59</fpage>
+<lpage>64</lpage>
+</element-citation></ref><ref id="B28-cancers-07-00723"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name></person-group>
+<article-title>An exploratory study on the development of an animal model of acute pancreatitis following nicotine exposure</article-title>
+<source>Tob. Induc. Dis.</source>
+<year>2003</year>
+<volume>1</volume>
+<fpage>213</fpage>
+<lpage>217</lpage>
+<pub-id pub-id-type="doi">10.1186/1617-9625-1-3-213</pub-id>
+<pub-id pub-id-type="pmid">19570262</pub-id></element-citation></ref><ref id="B29-cancers-07-00723"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>Hosotani</surname><given-names>R.</given-names></name><name><surname>Chang</surname><given-names>L.</given-names></name><name><surname>Rayford</surname><given-names>P.L.</given-names></name></person-group>
+<article-title>Metabolic and pathologic effects of nicotine on gastrointestinal tract and pancreas of rats</article-title>
+<source>Pancreas</source>
+<year>1990</year>
+<volume>5</volume>
+<fpage>222</fpage>
+<lpage>229</lpage>
+<pub-id pub-id-type="doi">10.1097/00006676-199003000-00016</pub-id>
+<pub-id pub-id-type="pmid">1690423</pub-id></element-citation></ref><ref id="B30-cancers-07-00723"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>Hosotani</surname><given-names>R.</given-names></name><name><surname>Rayford</surname><given-names>P.L.</given-names></name></person-group>
+<article-title>Inhibition of CCK or carbachol-stimulated amylase release by nicotine</article-title>
+<source>Life Sci.</source>
+<year>1989</year>
+<volume>45</volume>
+<fpage>2163</fpage>
+<lpage>2168</lpage>
+<pub-id pub-id-type="doi">10.1016/0024-3205(89)90083-0</pub-id>
+<pub-id pub-id-type="pmid">2481202</pub-id></element-citation></ref><ref id="B31-cancers-07-00723"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lindkvist</surname><given-names>B.</given-names></name><name><surname>Wierup</surname><given-names>N.</given-names></name><name><surname>Sundler</surname><given-names>F.</given-names></name><name><surname>Borgstr&#x000f6;m</surname><given-names>A.</given-names></name></person-group>
+<article-title>Long-term nicotine exposure causes increased concentrations of trypsinogens and amylase in pancreatic extracts in the rat</article-title>
+<source>Pancreas</source>
+<year>2008</year>
+<volume>37</volume>
+<fpage>288</fpage>
+<lpage>294</lpage>
+<pub-id pub-id-type="doi">10.1097/MPA.0b013e31816a7744</pub-id>
+<pub-id pub-id-type="pmid">18815551</pub-id></element-citation></ref><ref id="B32-cancers-07-00723"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hosotani</surname><given-names>R.</given-names></name><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>McKay</surname><given-names>D.</given-names></name><name><surname>Rayford</surname><given-names>P.L.</given-names></name></person-group>
+<article-title>Mechanism of action of nicotine on amylase release by isolated pancreatic acini</article-title>
+<source>Pharmacol. Biochem. Behav.</source>
+<year>1989</year>
+<volume>33</volume>
+<fpage>663</fpage>
+<lpage>666</lpage>
+<pub-id pub-id-type="doi">10.1016/0091-3057(89)90405-X</pub-id>
+<pub-id pub-id-type="pmid">2479952</pub-id></element-citation></ref><ref id="B33-cancers-07-00723"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wittel</surname><given-names>U.A.</given-names></name><name><surname>Singh</surname><given-names>A.P.</given-names></name><name><surname>Henley</surname><given-names>B.J.</given-names></name><name><surname>Andrianifahanana</surname><given-names>M.</given-names></name><name><surname>Akhter</surname><given-names>M.P.</given-names></name><name><surname>Cullen</surname><given-names>D.M.</given-names></name><name><surname>Batra</surname><given-names>S.K.</given-names></name></person-group>
+<article-title>Cigarette smoke-induced differential expression of the genes involved in exocrine function of the rat pancreas</article-title>
+<source>Pancreas</source>
+<year>2006</year>
+<volume>33</volume>
+<fpage>364</fpage>
+<lpage>370</lpage>
+<pub-id pub-id-type="doi">10.1097/01.mpa.0000240601.80570.31</pub-id>
+<pub-id pub-id-type="pmid">17079941</pub-id></element-citation></ref><ref id="B34-cancers-07-00723"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>Bose</surname><given-names>C.</given-names></name><name><surname>Udupa</surname><given-names>K.B.</given-names></name></person-group>
+<article-title>Nicotine-induced proliferation of isolated rat pancreatic acinar cells: effect on cell signalling and function</article-title>
+<source>Cell Prolif.</source>
+<year>2007</year>
+<volume>40</volume>
+<fpage>125</fpage>
+<lpage>141</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2184.2007.00418.x</pub-id>
+<pub-id pub-id-type="pmid">17227300</pub-id></element-citation></ref><ref id="B35-cancers-07-00723"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>Udupa</surname><given-names>K.B.</given-names></name></person-group>
+<article-title>Effect of nicotine on exocytotic pancreatic secretory response: Role of calcium signaling</article-title>
+<source>Tob. Induc. Dis.</source>
+<year>2013</year>
+<volume>11</volume>
+<fpage>1</fpage>
+<pub-id pub-id-type="doi">10.1186/1617-9625-11-1</pub-id>
+<pub-id pub-id-type="pmid">23327436</pub-id></element-citation></ref><ref id="B36-cancers-07-00723"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chowdhury</surname><given-names>P.</given-names></name><name><surname>Hosotani</surname><given-names>R.</given-names></name><name><surname>Rayford</surname><given-names>P.L.</given-names></name></person-group>
+<article-title>Weight loss and altered circulating GI peptide levels of rats exposed chronically to nicotine</article-title>
+<source>Pharmacol. Biochem. Behav.</source>
+<year>1989</year>
+<volume>33</volume>
+<fpage>591</fpage>
+<lpage>594</lpage>
+<pub-id pub-id-type="doi">10.1016/0091-3057(89)90393-6</pub-id>
+<pub-id pub-id-type="pmid">2587602</pub-id></element-citation></ref><ref id="B37-cancers-07-00723"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Paulo</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Nicotine alters the proteome of two human pancreatic duct cell lines</article-title>
+<source>JOP</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>465</fpage>
+<lpage>474</lpage>
+<pub-id pub-id-type="pmid">25262714</pub-id></element-citation></ref><ref id="B38-cancers-07-00723"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Paulo</surname><given-names>J.A.</given-names></name><name><surname>Urrutia</surname><given-names>R.</given-names></name><name><surname>Kadiyala</surname><given-names>V.</given-names></name><name><surname>Banks</surname><given-names>P.</given-names></name><name><surname>Conwell</surname><given-names>D.L.</given-names></name><name><surname>Steen</surname><given-names>H.</given-names></name></person-group>
+<article-title>Cross-species analysis of nicotine-induced proteomic alterations in pancreatic cells</article-title>
+<source>Proteomics</source>
+<year>2013</year>
+<volume>13</volume>
+<fpage>1499</fpage>
+<lpage>1512</lpage>
+<pub-id pub-id-type="doi">10.1002/pmic.201200492</pub-id>
+<pub-id pub-id-type="pmid">23456891</pub-id></element-citation></ref><ref id="B39-cancers-07-00723"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alexandre</surname><given-names>M.</given-names></name><name><surname>Uduman</surname><given-names>A.K.</given-names></name><name><surname>Minervini</surname><given-names>S.</given-names></name><name><surname>Raoof</surname><given-names>A.</given-names></name><name><surname>Shugrue</surname><given-names>C.A.</given-names></name><name><surname>Akinbiyi</surname><given-names>E.O.</given-names></name><name><surname>Patel</surname><given-names>V.</given-names></name><name><surname>Shitia</surname><given-names>M.</given-names></name><name><surname>Kolodecik</surname><given-names>T.R.</given-names></name><name><surname>Patton</surname><given-names>R.</given-names></name><etal/></person-group>
+<article-title>Tobacco carcinogen 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone initiates and enhances pancreatitis responses</article-title>
+<source>Am. J. Physiol. Gastrointest. Liver Physiol.</source>
+<year>2012</year>
+<volume>303</volume>
+<fpage>G696</fpage>
+<lpage>G704</lpage>
+<pub-id pub-id-type="doi">10.1152/ajpgi.00138.2012</pub-id>
+<pub-id pub-id-type="pmid">22837343</pub-id></element-citation></ref><ref id="B40-cancers-07-00723"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J.</given-names></name><name><surname>Zhou</surname><given-names>R.</given-names></name><name><surname>Zhang</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>Z.-F.</given-names></name></person-group>
+<article-title>Calcium signaling of pancreatic acinar cells in the pathogenesis of pancreatitis</article-title>
+<source>World J. Gastroenterol.</source>
+<year>2014</year>
+<volume>20</volume>
+<fpage>16146</fpage>
+<lpage>16152</lpage>
+<pub-id pub-id-type="pmid">25473167</pub-id></element-citation></ref><ref id="B41-cancers-07-00723"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bootman</surname><given-names>M.D.</given-names></name><name><surname>Collins</surname><given-names>T.J.</given-names></name><name><surname>Mackenzie</surname><given-names>L.</given-names></name><name><surname>Roderick</surname><given-names>H.L.</given-names></name><name><surname>Berridge</surname><given-names>M.J.</given-names></name><name><surname>Peppiatt</surname><given-names>C.M.</given-names></name></person-group>
+<article-title>2-aminoethoxydiphenyl borate (2-APB) is a reliable blocker of store-operated Ca<sup>2+</sup> entry but an inconsistent inhibitor of InsP3-induced Ca<sup>2+</sup> release</article-title>
+<source>FASEB J.</source>
+<year>2002</year>
+<volume>16</volume>
+<fpage>1145</fpage>
+<lpage>1150</lpage>
+<pub-id pub-id-type="doi">10.1096/fj.02-0037rev</pub-id>
+<pub-id pub-id-type="pmid">12153982</pub-id></element-citation></ref><ref id="B42-cancers-07-00723"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berg</surname><given-names>D.K.</given-names></name><name><surname>Conroy</surname><given-names>W.G.</given-names></name></person-group>
+<article-title>Nicotinic alpha 7 receptors: Synaptic options and downstream signaling in neurons</article-title>
+<source>J. Neurobiol.</source>
+<year>2002</year>
+<volume>53</volume>
+<fpage>512</fpage>
+<lpage>523</lpage>
+<pub-id pub-id-type="doi">10.1002/neu.10116</pub-id>
+<pub-id pub-id-type="pmid">12436416</pub-id></element-citation></ref><ref id="B43-cancers-07-00723"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nordman</surname><given-names>J.C.</given-names></name><name><surname>Kabbani</surname><given-names>N.</given-names></name></person-group>
+<article-title>Microtubule dynamics at the growth cone are mediated by alpha7 nicotinic receptor activation of a Galphaq and IP3 receptor pathway</article-title>
+<source>FASEB J.</source>
+<year>2014</year>
+<volume>28</volume>
+<fpage>2995</fpage>
+<lpage>3006</lpage>
+<pub-id pub-id-type="doi">10.1096/fj.14-251439</pub-id>
+<pub-id pub-id-type="pmid">24687992</pub-id></element-citation></ref><ref id="B44-cancers-07-00723"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schuller</surname><given-names>H.M.</given-names></name></person-group>
+<article-title>Nitrosamines as nicotinic receptor ligands</article-title>
+<source>Life Sci.</source>
+<year>2007</year>
+<volume>80</volume>
+<fpage>2274</fpage>
+<lpage>2280</lpage>
+<pub-id pub-id-type="doi">10.1016/j.lfs.2007.03.006</pub-id>
+<pub-id pub-id-type="pmid">17459420</pub-id></element-citation></ref><ref id="B45-cancers-07-00723"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Al-Wadei</surname><given-names>H.A.</given-names></name><name><surname>Schuller</surname><given-names>H.M.</given-names></name></person-group>
+<article-title>Nicotinic receptor-associated modulation of stimulatory and inhibitory neurotransmitters in NNK-induced adenocarcinoma of the lungs and pancreas</article-title>
+<source>J. Pathol.</source>
+<year>2009</year>
+<volume>218</volume>
+<fpage>437</fpage>
+<lpage>445</lpage>
+<pub-id pub-id-type="doi">10.1002/path.2542</pub-id>
+<pub-id pub-id-type="pmid">19274673</pub-id></element-citation></ref><ref id="B46-cancers-07-00723"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ashat</surname><given-names>M.</given-names></name><name><surname>Tashkandi</surname><given-names>N.</given-names></name><name><surname>Sreekumar</surname><given-names>B.</given-names></name><name><surname>Patel</surname><given-names>V.</given-names></name><name><surname>Chowdhury</surname><given-names>A.B.</given-names></name><name><surname>Shugrue</surname><given-names>C.</given-names></name><name><surname>Messenger</surname><given-names>S.</given-names></name><name><surname>Groblewski</surname><given-names>G.E.</given-names></name><name><surname>Thrower</surname><given-names>E.C.</given-names></name></person-group>
+<article-title>Sa1788 Tobacco Toxin NNK (4-[Methylnitrosamino]-1-[3-Pyridyl]-1-Butanone) Mediates Zymogen Activation in Murine and Human Pancreatic Acini</article-title>
+<source>Gastroenterology</source>
+<year>2014</year>
+<volume>146</volume>
+<fpage>S296</fpage>
+<pub-id pub-id-type="doi">10.1016/S0016-5085(14)61058-1</pub-id>
+</element-citation></ref><ref id="B47-cancers-07-00723"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>H.</given-names></name><name><surname>Yu</surname><given-names>M.</given-names></name><name><surname>Ochani</surname><given-names>M.</given-names></name><name><surname>Amella</surname><given-names>C.A.</given-names></name><name><surname>Tanovic</surname><given-names>M.</given-names></name><name><surname>Susarla</surname><given-names>S.</given-names></name><name><surname>Li</surname><given-names>J.H.</given-names></name><name><surname>Wang</surname><given-names>H.</given-names></name><name><surname>Yang</surname><given-names>H.</given-names></name><name><surname>Ulloa</surname><given-names>L.</given-names></name><etal/></person-group>
+<article-title>Nicotinic acetylcholine receptor alpha7 subunit is an essential regulator of inflammation</article-title>
+<source>Nature</source>
+<year>2003</year>
+<volume>421</volume>
+<fpage>384</fpage>
+<lpage>388</lpage>
+<pub-id pub-id-type="doi">10.1038/nature01339</pub-id>
+<pub-id pub-id-type="pmid">12508119</pub-id></element-citation></ref><ref id="B48-cancers-07-00723"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Westerloo</surname><given-names>D.J.</given-names></name><name><surname>Giebelen</surname><given-names>I.A.</given-names></name><name><surname>Florquin</surname><given-names>S.</given-names></name><name><surname>Bruno</surname><given-names>M.J.</given-names></name><name><surname>Larosa</surname><given-names>G.J.</given-names></name><name><surname>Ulloa</surname><given-names>L.</given-names></name><name><surname>Tracey</surname><given-names>K.J.</given-names></name><name><surname>van der Poll</surname><given-names>T.</given-names></name></person-group>
+<article-title>The vagus nerve and nicotinic receptors modulate experimental pancreatitis severity in mice</article-title>
+<source>Gastroenterology</source>
+<year>2006</year>
+<volume>130</volume>
+<fpage>1822</fpage>
+<lpage>1830</lpage>
+<pub-id pub-id-type="pmid">16697744</pub-id></element-citation></ref><ref id="B49-cancers-07-00723"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schneider</surname><given-names>L.</given-names></name><name><surname>Jabrailova</surname><given-names>B.</given-names></name><name><surname>Soliman</surname><given-names>H.</given-names></name><name><surname>Hofer</surname><given-names>S.</given-names></name><name><surname>Strobel</surname><given-names>O.</given-names></name><name><surname>Hackert</surname><given-names>T.</given-names></name><name><surname>B&#x000fc;chler</surname><given-names>M.W.</given-names></name><name><surname>Werner</surname><given-names>J.</given-names></name></person-group>
+<article-title>Pharmacological cholinergic stimulation as a therapeutic tool in experimental necrotizing pancreatitis</article-title>
+<source>Pancreas</source>
+<year>2014</year>
+<volume>43</volume>
+<fpage>41</fpage>
+<lpage>46</lpage>
+<pub-id pub-id-type="doi">10.1097/MPA.0b013e3182a85c21</pub-id>
+<pub-id pub-id-type="pmid">24212240</pub-id></element-citation></ref><ref id="B50-cancers-07-00723"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zheng</surname><given-names>Y.S.</given-names></name><name><surname>Wu</surname><given-names>Z.S.</given-names></name><name><surname>Zhang</surname><given-names>L.Y.</given-names></name><name><surname>Ke</surname><given-names>L.</given-names></name><name><surname>Li</surname><given-names>W.Q.</given-names></name><name><surname>Li</surname><given-names>N.</given-names></name><name><surname>Li</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>Nicotine Ameliorates Experimental Severe Acute Pancreatitis via Enhancing Immunoregulation of CD4+ CD25+ Regulatory T Cells</article-title>
+<source>Pancreas</source>
+<year>2015</year>
+<volume>44</volume>
+<fpage>500</fpage>
+<lpage>506</lpage>
+<pub-id pub-id-type="pmid">25742430</pub-id></element-citation></ref><ref id="B51-cancers-07-00723"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rioux</surname><given-names>N.</given-names></name><name><surname>Castonguay</surname><given-names>A.</given-names></name></person-group>
+<article-title>4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone modulation of cytokine release in U937 human macrophages</article-title>
+<source>Cancer Immunol. Immunother. CII.</source>
+<year>2001</year>
+<volume>49</volume>
+<fpage>663</fpage>
+<lpage>670</lpage>
+<pub-id pub-id-type="doi">10.1007/s002620000157</pub-id>
+</element-citation></ref><ref id="B52-cancers-07-00723"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greer</surname><given-names>J.B.</given-names></name><name><surname>Whitcomb</surname><given-names>D.C.</given-names></name></person-group>
+<article-title>Inflammation and pancreatic cancer: An evidence-based review</article-title>
+<source>Curr. Opin. Pharmacol.</source>
+<year>2009</year>
+<volume>9</volume>
+<fpage>411</fpage>
+<lpage>418</lpage>
+<pub-id pub-id-type="doi">10.1016/j.coph.2009.06.011</pub-id>
+<pub-id pub-id-type="pmid">19589727</pub-id></element-citation></ref><ref id="B53-cancers-07-00723"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Edderkaoui</surname><given-names>M.</given-names></name><name><surname>Thrower</surname><given-names>E.</given-names></name></person-group>
+<article-title>Smoking and Pancreatic Disease</article-title>
+<source>J. Cancer Ther.</source>
+<year>2013</year>
+<volume>4</volume>
+<fpage>34</fpage>
+<lpage>40</lpage>
+<pub-id pub-id-type="doi">10.4236/jct.2013.410A005</pub-id>
+<pub-id pub-id-type="pmid">24660091</pub-id></element-citation></ref><ref id="B54-cancers-07-00723"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Akopyan</surname><given-names>G.</given-names></name><name><surname>Bonavida</surname><given-names>B.</given-names></name></person-group>
+<article-title>Understanding tobacco smoke carcinogen NNK and lung tumorigenesis</article-title>
+<source>Int. J. Oncol.</source>
+<year>2006</year>
+<volume>29</volume>
+<fpage>745</fpage>
+<lpage>752</lpage>
+<pub-id pub-id-type="pmid">16964372</pub-id></element-citation></ref><ref id="B55-cancers-07-00723"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anderson</surname><given-names>K.E.</given-names></name><name><surname>Hammons</surname><given-names>G.J.</given-names></name><name><surname>Kadlubar</surname><given-names>F.F.</given-names></name><name><surname>Potter</surname><given-names>J.D.</given-names></name><name><surname>Kaderlik</surname><given-names>K.R.</given-names></name><name><surname>Ilett</surname><given-names>K.F.</given-names></name><name><surname>Minchin</surname><given-names>R.F.</given-names></name><name><surname>Teitel</surname><given-names>C.H.</given-names></name><name><surname>Chou</surname><given-names>H.C.</given-names></name><name><surname>Martin</surname><given-names>M.V.</given-names></name><etal/></person-group>
+<article-title>Metabolic activation of aromatic amines by human pancreas</article-title>
+<source>Carcinogenesis</source>
+<year>1997</year>
+<volume>18</volume>
+<fpage>1085</fpage>
+<lpage>1092</lpage>
+<pub-id pub-id-type="doi">10.1093/carcin/18.5.1085</pub-id>
+<pub-id pub-id-type="pmid">9163700</pub-id></element-citation></ref><ref id="B56-cancers-07-00723"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Foster</surname><given-names>J.R.</given-names></name><name><surname>Idle</surname><given-names>J.R.</given-names></name><name><surname>Hardwick</surname><given-names>J.P.</given-names></name><name><surname>Bars</surname><given-names>R.</given-names></name><name><surname>Scott</surname><given-names>P.</given-names></name><name><surname>Braganza</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Induction of drug-metabolizing enzymes in human pancreatic cancer and chronic pancreatitis</article-title>
+<source>J. Pathol.</source>
+<year>1993</year>
+<volume>169</volume>
+<fpage>457</fpage>
+<lpage>463</lpage>
+<pub-id pub-id-type="doi">10.1002/path.1711690412</pub-id>
+<pub-id pub-id-type="pmid">8501544</pub-id></element-citation></ref><ref id="B57-cancers-07-00723"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Srinivasan</surname><given-names>P.</given-names></name><name><surname>Subramanian</surname><given-names>V.S.</given-names></name><name><surname>Said</surname><given-names>H.M.</given-names></name></person-group>
+<article-title>Effect of the cigarette smoke component, 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK), on physiological and molecular parameters of thiamin uptake by pancreatic acinar cells</article-title>
+<source>PLoS ONE</source>
+<year>2013</year>
+<volume>8</volume>
+<fpage>e78853</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0078853</pub-id>
+<pub-id pub-id-type="pmid">24244374</pub-id></element-citation></ref><ref id="B58-cancers-07-00723"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Said</surname><given-names>H.M.</given-names></name></person-group>
+<article-title>Recent advances in transport of water-soluble vitamins in organs of the digestive system: A focus on the colon and the pancreas</article-title>
+<source>Am. J. Physiol. Gastrointest. Liver Physiol.</source>
+<year>2013</year>
+<volume>305</volume>
+<fpage>G601</fpage>
+<lpage>G610</lpage>
+<pub-id pub-id-type="doi">10.1152/ajpgi.00231.2013</pub-id>
+<pub-id pub-id-type="pmid">23989008</pub-id></element-citation></ref><ref id="B59-cancers-07-00723"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bettendorff</surname><given-names>L.</given-names></name><name><surname>Goessens</surname><given-names>G.</given-names></name><name><surname>Sluse</surname><given-names>F.</given-names></name><name><surname>Wins</surname><given-names>P.</given-names></name><name><surname>Bureau</surname><given-names>M.</given-names></name><name><surname>Laschet</surname><given-names>J.</given-names></name><name><surname>Grisar</surname><given-names>T.</given-names></name></person-group>
+<article-title>Thiamine deficiency in cultured neuroblastoma cells: Effect on mitochondrial function and peripheral benzodiazepine receptors</article-title>
+<source>J. Neurochem.</source>
+<year>1995</year>
+<volume>64</volume>
+<fpage>2013</fpage>
+<lpage>2021</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1471-4159.1995.64052013.x</pub-id>
+<pub-id pub-id-type="pmid">7722487</pub-id></element-citation></ref><ref id="B60-cancers-07-00723"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shugrue</surname><given-names>C.A.</given-names></name><name><surname>Alexandre</surname><given-names>M.</given-names></name><name><surname>de Villalvilla</surname><given-names>A.D.</given-names></name><name><surname>Kolodecik</surname><given-names>T.R.</given-names></name><name><surname>Young</surname><given-names>L.H.</given-names></name><name><surname>Gorelick</surname><given-names>F.S.</given-names></name><name><surname>Thrower</surname><given-names>E.C.</given-names></name></person-group>
+<article-title>Cerulein hyperstimulation decreases AMP-activated protein kinase levels at the site of maximal zymogen activation</article-title>
+<source>Am. J. Physiol. Gastrointest. Liver Physiol.</source>
+<year>2012</year>
+<volume>303</volume>
+<fpage>G723</fpage>
+<lpage>G732</lpage>
+<pub-id pub-id-type="doi">10.1152/ajpgi.00082.2012</pub-id>
+<pub-id pub-id-type="pmid">22821946</pub-id></element-citation></ref><ref id="B61-cancers-07-00723"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schuller</surname><given-names>H.M.</given-names></name><name><surname>Tithof</surname><given-names>P.K.</given-names></name><name><surname>Williams</surname><given-names>M.</given-names></name><name><surname>Plummer</surname><given-names>H.</given-names><suffix>3rd</suffix></name></person-group>
+<article-title>The tobacco-specific carcinogen 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone is a beta-adrenergic agonist and stimulates DNA synthesis in lung adenocarcinoma via beta-adrenergic receptor-mediated release of arachidonic acid</article-title>
+<source>Cancer Res.</source>
+<year>1999</year>
+<volume>59</volume>
+<fpage>4510</fpage>
+<lpage>4515</lpage>
+<pub-id pub-id-type="pmid">10493497</pub-id></element-citation></ref><ref id="B62-cancers-07-00723"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chaudhuri</surname><given-names>A.</given-names></name><name><surname>Kolodecik</surname><given-names>T.R.</given-names></name><name><surname>Gorelick</surname><given-names>F.S.</given-names></name></person-group>
+<article-title>Effects of increased intracellular cAMP on carbachol-stimulated zymogen activation, secretion, and injury in the pancreatic acinar cell</article-title>
+<source>Am. J. Physiol. Gastrointest. Liver Physiol.</source>
+<year>2005</year>
+<volume>288</volume>
+<fpage>G235</fpage>
+<lpage>G243</lpage>
+<pub-id pub-id-type="doi">10.1152/ajpgi.00334.2004</pub-id>
+<pub-id pub-id-type="pmid">15458924</pub-id></element-citation></ref><ref id="B63-cancers-07-00723"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alexandre</surname><given-names>M.</given-names></name><name><surname>Pandol</surname><given-names>S.J.</given-names></name><name><surname>Gorelick</surname><given-names>F.S.</given-names></name><name><surname>Thrower</surname><given-names>E.C.</given-names></name></person-group>
+<article-title>The emerging role of smoking in the development of pancreatitis</article-title>
+<source>Pancreatology</source>
+<year>2011</year>
+<volume>11</volume>
+<fpage>469</fpage>
+<lpage>474</lpage>
+<pub-id pub-id-type="doi">10.1159/000332196</pub-id>
+<pub-id pub-id-type="pmid">21986098</pub-id></element-citation></ref><ref id="B64-cancers-07-00723"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Friess</surname><given-names>H.</given-names></name><name><surname>Shrikhande</surname><given-names>S.</given-names></name><name><surname>Riesle</surname><given-names>E.</given-names></name><name><surname>Kashiwagi</surname><given-names>M.</given-names></name><name><surname>Baczako</surname><given-names>K.</given-names></name><name><surname>Zimmermann</surname><given-names>A.</given-names></name><name><surname>Uhl</surname><given-names>W.</given-names></name><name><surname>B&#x000fc;chler</surname><given-names>M.W.</given-names></name></person-group>
+<article-title>Phospholipase A2 isoforms in acute pancreatitis</article-title>
+<source>Ann. Surg.</source>
+<year>2001</year>
+<volume>233</volume>
+<fpage>204</fpage>
+<lpage>212</lpage>
+<pub-id pub-id-type="doi">10.1097/00000658-200102000-00009</pub-id>
+<pub-id pub-id-type="pmid">11176126</pub-id></element-citation></ref><ref id="B65-cancers-07-00723"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Askari</surname><given-names>M.D.</given-names></name><name><surname>Tsao</surname><given-names>M.S.</given-names></name><name><surname>Cekanova</surname><given-names>M.</given-names></name><name><surname>Schuller</surname><given-names>H.</given-names></name></person-group>
+<article-title>Ethanol and the tobacco-specific carcinogen, NNK, contribute to signaling in immortalized human pancreatic duct epithelial cells</article-title>
+<source>Pancreas</source>
+<year>2006</year>
+<volume>33</volume>
+<fpage>53</fpage>
+<lpage>62</lpage>
+<pub-id pub-id-type="doi">10.1097/01.mpa.0000226883.55828.e9</pub-id>
+<pub-id pub-id-type="pmid">16804413</pub-id></element-citation></ref><ref id="B66-cancers-07-00723"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weddle</surname><given-names>D.L.</given-names></name><name><surname>Tithoff</surname><given-names>P.</given-names></name><name><surname>Williams</surname><given-names>M.</given-names></name><name><surname>Schuller</surname><given-names>H.M.</given-names></name></person-group>
+<article-title>Beta-adrenergic growth regulation of human cancer cell lines derived from pancreatic ductal carcinomas</article-title>
+<source>Carcinogenesis</source>
+<year>2001</year>
+<volume>22</volume>
+<fpage>473</fpage>
+<lpage>479</lpage>
+<pub-id pub-id-type="doi">10.1093/carcin/22.3.473</pub-id>
+<pub-id pub-id-type="pmid">11238189</pub-id></element-citation></ref><ref id="B67-cancers-07-00723"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Edderkaoui</surname><given-names>M.</given-names></name><name><surname>Hong</surname><given-names>P.</given-names></name><name><surname>Vaquero</surname><given-names>E.C.</given-names></name><name><surname>Lee</surname><given-names>J.K.</given-names></name><name><surname>Fischer</surname><given-names>L.</given-names></name><name><surname>Friess</surname><given-names>H.</given-names></name><name><surname>Buchler</surname><given-names>M.W.</given-names></name><name><surname>Lerch</surname><given-names>M.M.</given-names></name><name><surname>Pandol</surname><given-names>S.J.</given-names></name><name><surname>Gukovskaya</surname><given-names>A.S.</given-names></name></person-group>
+<article-title>Extracellular matrix stimulates reactive oxygen species production and increases pancreatic cancer cell survival through 5-lipoxygenase and NADPH oxidase</article-title>
+<source>Am. J. Physiol. Gastrointest. Liver Physiol.</source>
+<year>2005</year>
+<volume>289</volume>
+<fpage>G1137</fpage>
+<lpage>G1147</lpage>
+<pub-id pub-id-type="doi">10.1152/ajpgi.00197.2005</pub-id>
+<pub-id pub-id-type="pmid">16037546</pub-id></element-citation></ref></ref-list></back></article>

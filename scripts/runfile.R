@@ -9,7 +9,7 @@ for (path in paths) {
 }
 
 source("./scripts/01_sample_files.R")
-#source("./scripts/02_extract_p-values.R")
+source("./scripts/02_extract_p-values.R")
 # source("02_analysis.R")
 # rmarkdown::render("03_report.Rmd", output_dir = "Final Project")
 

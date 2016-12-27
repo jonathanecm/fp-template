@@ -1,0 +1,825 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Nucleic Acids Res</journal-id><journal-id journal-id-type="iso-abbrev">Nucleic Acids Res</journal-id><journal-id journal-id-type="hwp">nar</journal-id><journal-id journal-id-type="publisher-id">nar</journal-id><journal-title-group><journal-title>Nucleic Acids Research</journal-title></journal-title-group><issn pub-type="ppub">0305-1048</issn><issn pub-type="epub">1362-4962</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25958398</article-id><article-id pub-id-type="pmc">4477666</article-id><article-id pub-id-type="doi">10.1093/nar/gkv439</article-id><article-categories><subj-group subj-group-type="heading"><subject>Survey and Summary</subject></subj-group></article-categories><title-group><article-title>Design and bioinformatics analysis of genome-wide CLIP experiments</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Tao</given-names></name><xref ref-type="aff" rid="AFF1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Xiao</surname><given-names>Guanghua</given-names></name><xref ref-type="aff" rid="AFF1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Chu</surname><given-names>Yongjun</given-names></name><xref ref-type="aff" rid="AFF2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Michael Q.</given-names></name><xref ref-type="aff" rid="AFF3"><sup>3</sup></xref><xref ref-type="aff" rid="AFF4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Corey</surname><given-names>David R.</given-names></name><xref ref-type="aff" rid="AFF2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Xie</surname><given-names>Yang</given-names></name><xref ref-type="aff" rid="AFF1"><sup>1</sup></xref><xref ref-type="aff" rid="AFF5"><sup>5</sup></xref><xref ref-type="corresp" rid="COR1">*</xref></contrib><aff id="AFF1"><label>1</label>Quantitative Biomedical Research Center, University of Texas Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, TX 75390, USA</aff><aff id="AFF2"><label>2</label>Departments of Pharmacology and Biochemistry, University of Texas Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, TX 75390, USA</aff><aff id="AFF3"><label>3</label>Department of Biological Sciences, Center for Systems Biology, The University of Texas at Dallas, Richardson, TX 75080, USA</aff><aff id="AFF4"><label>4</label>Bioinformatics Division, Center for Synthetic and System Biology, TNLIST, Tsinghua University, Beijing 100084, China</aff><aff id="AFF5"><label>5</label>Harold C. Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, TX 75390, USA</aff></contrib-group><author-notes><corresp id="COR1"><label>*</label>To whom correspondence should be addressed. Tel: +1 214 648 5178; Fax: +1 214 648 5120; Email: <email>yang.xie@utsouthwestern.edu</email></corresp></author-notes><pub-date pub-type="ppub"><day>23</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>09</day><month>5</month><year>2015</year></pub-date><pub-date pub-type="pmc-release"><day>09</day><month>5</month><year>2015</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the
+							<pub-date pub-type="epub"/>. --><volume>43</volume><issue>11</issue><fpage>5263</fpage><lpage>5274</lpage><history><date date-type="accepted"><day>23</day><month>4</month><year>2015</year></date><date date-type="rev-recd"><day>22</day><month>4</month><year>2015</year></date><date date-type="received"><day>16</day><month>12</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2015. Published by Oxford University Press on behalf of Nucleic Acids Research.</copyright-statement><copyright-year>2015</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="gkv439.pdf"/><abstract><p>The past decades have witnessed a surge of discoveries revealing RNA regulation as a central player in cellular processes. RNAs are regulated by RNA-binding proteins (RBPs) at all post-transcriptional stages, including splicing, transportation, stabilization and translation. Defects in the functions of these RBPs underlie a broad spectrum of human pathologies. Systematic identification of RBP functional targets is among the key biomedical research questions and provides a new direction for drug discovery. The advent of cross-linking immunoprecipitation coupled with high-throughput sequencing (genome-wide CLIP) technology has recently enabled the investigation of genome-wide RBP&#x02013;RNA binding at single base-pair resolution. This technology has evolved through the development of three distinct versions: HITS-CLIP, PAR-CLIP and iCLIP. Meanwhile, numerous bioinformatics pipelines for handling the genome-wide CLIP data have also been developed. In this review, we discuss the genome-wide CLIP technology and focus on bioinformatics analysis. Specifically, we compare the strengths and weaknesses, as well as the scopes, of various bioinformatics tools. To assist readers in choosing optimal procedures for their analysis, we also review experimental design and procedures that affect bioinformatics analyses.</p></abstract><counts><page-count count="12"/></counts><custom-meta-group><custom-meta><meta-name>cover-date</meta-name><meta-value>23 June 2015</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="SEC1"><title>INTRODUCTION</title><p>The diversity of RNA in sequence and structure underpins much of cell heterogeneity and complexity. RNA-binding proteins (RBPs) are proteins that bind to double- or single-stranded RNAs in cells and form ribonucleoprotein complexes with the bound RNAs. Located in either the nucleus or cytoplasm, or both, they engage in every step of the post-transcriptional modification process, including alternative splicing, regulation of mRNA levels, transport between cellular compartments, alternative polyadenylation, transcript stability, etc. (<xref rid="B1" ref-type="bibr">1</xref>,<xref rid="B2" ref-type="bibr">2</xref>). For example, the TIAR protein has been shown to be transported from the nucleus to the cytoplasm during Fas-mediated apoptotic cell death (<xref rid="B3" ref-type="bibr">3</xref>). One example of an intra-nuclear RBP is Yra1p, which has been found to be involved in mRNA export (<xref rid="B4" ref-type="bibr">4</xref>). Cytoplasmic RBPs, on the other hand, include Unr, which has been shown to be required for internally initiating the translation of human rhinovirus RNA (<xref rid="B5" ref-type="bibr">5</xref>).</p><p>RBPs bind target RNAs by recognizing their sequences or/and RNA secondary structures through RNA-binding motifs. For example, the AUF1 protein recognizes RNAs through a signature motif composed of 29&#x02013;39 nt with high A and U contents and a secondary structure specific to the RNAs (<xref rid="B6" ref-type="bibr">6</xref>). Binding of RBPs with RNA targets can also be regulated through competition with other RBPs and non-coding RNAs (<xref rid="B7" ref-type="bibr">7</xref>,<xref rid="B8" ref-type="bibr">8</xref>). RBPs may influence the global coordination of gene expression by organizing nascent groups of RNAs into downstream chains of the post-transcriptional modification process, through what is known as the &#x02018;RNA-operon&#x02019; theory (<xref rid="B9" ref-type="bibr">9</xref>). RBPs have been implicated in various types of human diseases (<xref rid="B1" ref-type="bibr">1</xref>,<xref rid="B10" ref-type="bibr">10</xref>&#x02013;<xref rid="B13" ref-type="bibr">13</xref>). For instance, the RBP Musashi1 was found to be related to many cancer types, including those of the breast, colon, medulloblastoma and glioblastoma, as well as to neurogenesis and neurodegenerative diseases (<xref rid="B13" ref-type="bibr">13</xref>). In addition, lack of&#x000a0;Fragile X mental retardation protein (FMRP) results in a deficiency in human cognition and premature ovarian insufficiency (<xref rid="B14" ref-type="bibr">14</xref>) and the FUS, EWSR1, and TAF15 (FET)&#x000a0;protein family is responsible for RNA editing and plays important roles in many diseases (<xref rid="B15" ref-type="bibr">15</xref>,<xref rid="B16" ref-type="bibr">16</xref>). In summary, studying RNA-protein interactions is necessary to achieve a systematic understanding of transcription, translation and other biological processes.</p><p>CLIP (cross-linking immunoprecipitation) is a molecular biology technology that employs ultraviolet (UV) cross-linking and immunoprecipitation in order to identify RBP&#x02013;RNA interactions (<xref rid="B17" ref-type="bibr">17</xref>,<xref rid="B18" ref-type="bibr">18</xref>). The advantage of CLIP lies in allowing identification of interactions within cells (where the crosslinking occurs) versus interactions that might occur after cells are lysed. CLIP increases the confidence that observed interactions are physiologically relevant and can better justify identification of candidates for experimental validation. In early reports, CLIPed cDNAs were sequenced in a low-throughput manner that yielded a few hundred sequence reads. Recently, next-generation sequencing (NGS) techniques have been applied to globally analyzing transcriptional and post-transcriptional regulation, including mRNA sequencing (<xref rid="B19" ref-type="bibr">19</xref>), alternative splicing (<xref rid="B20" ref-type="bibr">20</xref>) and miRNA profiling (<xref rid="B21" ref-type="bibr">21</xref>). The combination of CLIP with NGS technology has greatly improved our ability to study RBP&#x02013;RNA interactions on the genome scale (<xref rid="B22" ref-type="bibr">22</xref>). While earlier genome-wide CLIP studies focused more on the binding of RBP to mRNAs, recent studies have implicated a wide range of regulatory functions of RBP binding sites in long noncoding RNA (lncRNA) (<xref rid="B23" ref-type="bibr">23</xref>), circular RNA (<xref rid="B24" ref-type="bibr">24</xref>) and mitochondrial RNA (<xref rid="B25" ref-type="bibr">25</xref>).</p><p>In this study, we first review the general procedure and then compare current genome-wide CLIP technologies. Next, we discuss the major experimental design and bioinformatics analysis considerations. Finally, we provide an overview of the current analysis software and databases for genome-wide CLIP data.</p><sec id="SEC1-1"><title>Current genome-wide CLIP technologies</title><p>There are three major technologies for genome-wide CLIP experiments: (i) HITS-CLIP (high-throughput sequencing of RNA isolated by crosslinking immunoprecipitation) (<xref rid="B22" ref-type="bibr">22</xref>,<xref rid="B26" ref-type="bibr">26</xref>), which is the first version of genome-wide CLIP-Seq technology; (ii) Photoactivatable-Ribonucleoside-Enhanced Crosslinking and Immunoprecipitation (PAR-CLIP) (<xref rid="B27" ref-type="bibr">27</xref>), which improved the signal-to-noise ratio of the characteristic mutations observed in sequencing data by use of nucleoside analog; and (iii) Individual-nucleotide resolution CLIP (iCLIP) (<xref rid="B28" ref-type="bibr">28</xref>), which achieved a much higher efficiency in reverse-transcription compared with HITS-CLIP and PAR-CLIP. Throughout this text, we used genome-wide CLIP as a generic name for HITS-CLIP, PAR-CLIP and iCLIP. The field of RNA-regulation has seen rapid growth for all versions of genome-wide CLIP technology (Figure <xref ref-type="fig" rid="F1">1</xref>). In general, genome-wide CLIP technology involves cross-linking, partial RNA digestion, immunoprecipitation, reverse transcription and sequencing. The similarities and differences in the experimental procedures of these three CLIP methods are detailed below:</p><fig id="F1" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Number of related scientific articles found by Google Scholar by searching for each of the key terms in the given year interval. Since &#x02018;iCLIP&#x02019; could have many other meanings, it is searched together with &#x02018;CLIP-Seq&#x02019;.</p></caption><graphic xlink:href="gkv439fig1"/></fig><sec id="SEC1-1-1"><title>Cross-linking</title><p>The HITS-CLIP method exposes the processed biomaterials from cells or tissues to UV light to cross-link RNAs with bound RBPs (<xref rid="B17" ref-type="bibr">17</xref>). It was the first CLIP platform developed for the genome-wide identification of RBP binding sites. Although successful, it is limited by its low efficiency of UV-induced crosslinking, which makes it difficult to locate high-confidence binding sites. The PAR-CLIP method resolves this efficiency problem by incorporating photoreactive ribonucleoside analogs, such as 4-thiouridine (4-SU) and 6-thioguanosine (6-SG), into living cells in the culture system before the UV light treatment (<xref rid="B27" ref-type="bibr">27</xref>). Although ribonucleoside analogs improve the signal-to-noise ratio in PAR-CLIP data, treatment of living animals with these chemicals could be toxic. iCLIP employs a UV cross-linking strategy similar to HITS-CLIP.</p></sec><sec id="SEC1-1-2"><title>Immunoprecipitation and enzymatic digestion</title><p>The immunoprecipitation step is similar for all HITS-CLIP, PAR-CLIP and iCLIP experiments. It generally involves bead preparation, cell lysis, partial RNA digestion immunoprecipitation, labeling and sodium dodecyl sulphate-polyacrylamide gel electrophoresis. The purified protein&#x02013;RNA complexes are then treated by proteinase K. In the RNA digestion step, substantial bias could be introduced due to sequence specificity and amount of RNase being used. Less bias is expected with a low sequence-specificity RNase, like RNase I, and mild digestion strength. Importantly, recombinant ligase and proteinase K enzymes contain bacterial RNAs, mostly rRNAs. If the 3&#x02032; linker ligation is performed with free RNAs rather than with on-bead RNAs, these bacterial RNAs can also be cloned (<xref rid="B29" ref-type="bibr">29</xref>).</p></sec><sec id="SEC1-1-3"><title>Reverse transcription</title><p>In HITS-CLIP experiments, the remaining cross-linked amino acid(s) are attached to the RNAs, which then become an obstacle for reverse transcription. The reverse transcriptase can read through these obstacles on cDNAs with a certain probability, but errors, reflected as mutations after sequencing, may be introduced on the cross-linking sites. In PAR-CLIP, chemical property changes as a result of nucleoside analog treatment (4SU for example) and UV light stimulus will induce a dA to dG mutation that can be detected in the sequencing data. These cross-linking induced mutations could serve as markers for RBP binding sites and are sometimes referred to as &#x02018;characteristic mutations&#x02019;. In HITS-CLIP experiments, the characteristic mutations could be substitutions, insertions, deletions or a combination of the above, depending on specific RBPs. For example, it has been shown that deletions are preferably induced in Argonaute (AGO) HITS-CLIP experiments (<xref rid="B30" ref-type="bibr">30</xref>). On the other hand, PAR-CLIP experiments induce a specific type of substitution depending on the nucleotide analog used: applying 4SU or 6SG leads to T&#x02192;C or G&#x02192;A substitutions, respectively (<xref rid="B31" ref-type="bibr">31</xref>).</p><p>In reverse transcription, a significant number of cDNAs will be truncated at the attached residues since the reverse transcriptase fails to read through these obstacles. These truncated cDNAs are normally not sequenced in HITS-CLIP and PAR-CLIP. The iCLIP procedure is designed to capture these truncation sites of cDNA fragments with high efficiency through replacement of the intermolecular ligation procedure with intramolecular circularization. Therefore, the 5&#x02032; ends of the sequencing reads, rather than characteristic mutations, are supposed to accurately mark the RBP targeting sites (<xref rid="B28" ref-type="bibr">28</xref>).</p></sec><sec id="SEC1-1-4"><title>High-throughput sequencing</title><p>cDNA libraries can be subject to deep sequencing. Since the RNAs are sheared into short fragments of 20&#x02013;100 bp, it was initially thought that single-end sequencing would usually be sufficient to cover whole cDNA fragments (<xref rid="B32" ref-type="bibr">32</xref>). However, some experiments require libraries of RNA fragments that are longer than those that could be covered by single-end sequencing, mainly due to dissimilar preferences in the library size selection step. Paired-end sequencing may be desirable in these cases so that whole cDNA fragments can be covered, because the lengths of RBP&#x02013;RNA contact regions are comparable to the length of sequencing reads. Argonaute protein (AGO) is a key protein involved in RNAi that forms critical complexes with micro RNAs. AGO&#x02013;RNA contact regions were estimated to be around 60 bp long (<xref rid="B26" ref-type="bibr">26</xref>). Therefore, exact coverage is important since identification of RBP binding sites usually requires a much higher resolution compared to ChIP-Seq experiments for transcription factors, whose resolution requirements are at least a few hundred base pairs (<xref rid="B33" ref-type="bibr">33</xref>).</p></sec></sec></sec><sec id="SEC2"><title>EXPERIMENTAL DESIGN AND BIOINFORMATICS ANALYSIS CONSIDERATIONS</title><p>The three variants of genome-wide CLIP experiments provide opportunities to understand RBP&#x02013;RNA interactions on a genome-wide scale. There remain, however, many issues confronting experimental design, such as which CLIP method to use and how to conduct control and replicate experiments. The specific goal of the study should always be considered when making decisions regarding experimental design. For example, many earlier studies sought just to identify binding sites of the RBP of interest. More contemporary studies are concerned with RBP function such as splicing. Other recent studies are starting to venture into the realm of comparative analysis. Therefore, the genome-wide CLIP experiments should be designed differently to accommodate the specific goal of each study. Proper bioinformatics analysis should be carried out to best suit the choice of experimental procedure. In this section, we will discuss experimental design and bioinformatics analysis considerations following the natural order of how a genome-wide CLIP study is done.</p><sec id="SEC2-1"><title>Choosing a CLIP method</title><p>The goal of a specific study is the primary consideration for choosing a CLIP method. Table <xref ref-type="table" rid="tbl1">1</xref> gives a brief summary of the advantages and disadvantages of the three genome-wide CLIP techniques that should be considered when choosing a CLIP version for the RBP under specific experimental conditions. Whether the experiment is to be done <italic>in vivo</italic> is one reason for favoring HITS-CLIP or iCLIP over PAR-CLIP, since the ribonucleoside analog treatment could be toxic. This is why HITS-CLIP and iCLIP have broad applications in cultured cells, animal tissues and plants. On the other hand, if the study wishes to reach a higher resolution at determining binding sites, PAR-CLIP or iCLIP should be favored. This is because PAR-CLIP has a much higher proportion of reads with characteristic mutations on cross-linking sites compared with HITS-CLIP and in iCLIP truncation sites can be directly used to accurately map interaction events. Thirdly, iCLIP is technically more challenging compared with HITS-CLIP and PAR-CLIP, which has probably limited its use. iCLIP requires the protein-bound RNA to be mildly digested by an endonuclease, which ensures the reads originating from truncated cDNA are long enough to be aligned. Therefore, a researcher needs to first experimentally determine the best condition to achieve an acceptable partial RNA digestion. In addition, iCLIP implements cDNA circularization and re-linearization steps. These steps require researchers to properly cut desired bands from polyacrylamide gels and carry out product elution and isolation. RNA obtained from CLIP techniques are generally in minute quantities. Extra manipulations on hardly-detectable cDNA will give an additional challenge to preparing an iCLIP sequencing library.</p><table-wrap id="tbl1" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Features of the three genome-wide CLIP platforms, as well as the major considerations for data analysis</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">HITS-CLIP</th><th align="left" rowspan="1" colspan="1">PAR-CLIP</th><th align="left" rowspan="1" colspan="1">iCLIP</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Ribonucleoside analog treatment</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">Yes (4-SU, 6-SG)</td><td align="left" rowspan="1" colspan="1">No</td></tr><tr><td align="left" rowspan="1" colspan="1">Cross-linking</td><td align="left" rowspan="1" colspan="1">UV light cross-linking</td><td align="left" rowspan="1" colspan="1">Ribonucleoside analog treatment and UV light cross-linking</td><td align="left" rowspan="1" colspan="1">UV light cross-linking</td></tr><tr><td align="left" rowspan="1" colspan="1">UV light wavelength</td><td align="left" rowspan="1" colspan="1">254 nm</td><td align="left" rowspan="1" colspan="1">365nm</td><td align="left" rowspan="1" colspan="1">254 nm</td></tr><tr><td align="left" rowspan="1" colspan="1">Adaptor ligations</td><td align="left" rowspan="1" colspan="1">Inter(molecular)/Inter</td><td align="left" rowspan="1" colspan="1">Inter/Inter</td><td align="left" rowspan="1" colspan="1">Inter/Intra</td></tr><tr><td align="left" rowspan="1" colspan="1">Diagnostic sites</td><td align="left" rowspan="1" colspan="1">No definite type of mutations</td><td align="left" rowspan="1" colspan="1">T&#x02192;C or G&#x02192;A</td><td align="left" rowspan="1" colspan="1">Pattern of cDNA truncations</td></tr><tr><td align="left" rowspan="1" colspan="1">PCR duplicates</td><td align="left" rowspan="1" colspan="1">Estimated by similarity in read sequence and alignment positions</td><td align="left" rowspan="1" colspan="1">Estimated by similarity in read sequence and alignment positions</td><td align="left" rowspan="1" colspan="1">Found by random barcodes</td></tr><tr><td align="left" rowspan="1" colspan="1">Advantages</td><td align="left" rowspan="1" colspan="1">Broad applications (from cultured cells, animal tissues and plants)</td><td align="left" rowspan="1" colspan="1">Enhanced UV-crosslinking efficiency; high signal-to-noise ratio at determining true binding sites</td><td align="left" rowspan="1" colspan="1">Broad applications; high signal-to-noise ratio at determining true binding sites</td></tr><tr><td align="left" rowspan="1" colspan="1">Disadvantages</td><td align="left" rowspan="1" colspan="1">Low characteristic mutation ratios</td><td align="left" rowspan="1" colspan="1">Potential toxicity of ribonucleoside analogs fed to cells</td><td align="left" rowspan="1" colspan="1">Technically more challenging</td></tr></tbody></table></table-wrap></sec><sec id="SEC2-2"><title>Replicates</title><p>In RNA-Seq experiments, it has been shown that increasing the number of biological replicates consistently improves expression level quantifications and increases the statistical power to detect differentially expressed genes (<xref rid="B34" ref-type="bibr">34</xref>). It has become routine for most RNA-Seq experiments to have replicates to improve data quality and reproducibility. For genome-wide CLIP experiments, there is as yet no rigorous study on how the replicates affect the experimental results. Many genome-wide CLIP studies are based on a very limited number of replicated experiments, and replicates are often pooled during analysis (<xref rid="B15" ref-type="bibr">15</xref>,<xref rid="B35" ref-type="bibr">35</xref>). We examined 10 genome-wide CLIP studies published between 2009 and 2014 (<xref rid="B15" ref-type="bibr">15</xref>,<xref rid="B26" ref-type="bibr">26</xref>,<xref rid="B36" ref-type="bibr">36</xref>&#x02013;<xref rid="B43" ref-type="bibr">43</xref>). We found that most experiments conducted 1&#x02013;5 replicates per RBP under each treatment (Table <xref ref-type="table" rid="tbl2">2</xref>) and most of these studies pooled the reads from replicates for the data analysis. The number of replicates that should be obtained depends on many factors, including the goal of the experiments, the variations of experiments, the sequencing depth and also the binding patterns of specific RBPs. For example, if the goal of the study is to conduct a comparative analysis between genome-wide CLIP conditions, then the quantification of within- versus between-group variation is very important and replicates will be of great value. A decision on the number of replicates to conduct can also take into consideration previously published studies for the experimental variations and binding patterns.</p><table-wrap id="tbl2" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Sequencing reads statistics for some genome-wide CLIP studies</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1">Experiment</th><th align="left" rowspan="1" colspan="1"># Total sequencing reads (million by default)</th><th align="left" rowspan="1" colspan="1"># Unique sequencing reads (million by default)</th><th align="left" rowspan="1" colspan="1"># Uniquely mapped reads (million by default)</th><th align="left" rowspan="1" colspan="1"># Replicate</th><th align="left" rowspan="1" colspan="1">Method to handle replicates</th><th align="left" rowspan="1" colspan="1">Year</th><th align="left" rowspan="1" colspan="1">Citation</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">HITS-CLIP</td><td align="left" rowspan="1" colspan="1">26 (all replicates combined)</td><td align="left" rowspan="1" colspan="1">&#x0223c;1.8 of all mapped reads</td><td align="left" rowspan="1" colspan="1">Unclear whether mapping allows non-unique alignment</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">Biologic complexity</td><td align="left" rowspan="1" colspan="1">2009</td><td align="left" rowspan="1" colspan="1">(<xref rid="B26" ref-type="bibr">26</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">PAR-CLIP</td><td align="left" rowspan="1" colspan="1">4.1&#x02013;33 (all replicates combined)</td><td align="left" rowspan="1" colspan="1">0.65&#x02013;7.0</td><td align="left" rowspan="1" colspan="1">20&#x02013;70% of sequencing reads after adaptor removal</td><td align="left" rowspan="1" colspan="1">1&#x02013;7</td><td align="left" rowspan="1" colspan="1">Pooled</td><td align="left" rowspan="1" colspan="1">2010</td><td align="left" rowspan="1" colspan="1">(<xref rid="B38" ref-type="bibr">38</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">iCLIP</td><td align="left" rowspan="1" colspan="1">6.5 (all replicates combined)</td><td align="left" rowspan="1" colspan="1">0.6 out of 4.2M uniquely mapped reads</td><td align="left" rowspan="1" colspan="1">4.2</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Pooled</td><td align="left" rowspan="1" colspan="1">2010</td><td align="left" rowspan="1" colspan="1">(<xref rid="B39" ref-type="bibr">39</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">PAR-CLIP</td><td align="left" rowspan="1" colspan="1">22&#x02013;24 (all replicates combined)</td><td align="left" rowspan="1" colspan="1">Not reported</td><td align="left" rowspan="1" colspan="1">2.6&#x02013;4.1</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Pooled</td><td align="left" rowspan="1" colspan="1">2011</td><td align="left" rowspan="1" colspan="1">(<xref rid="B15" ref-type="bibr">15</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">iCLIP</td><td align="left" rowspan="1" colspan="1">113 (all replicates combined)</td><td align="left" rowspan="1" colspan="1">33 out of 43M uniquely mapped reads</td><td align="left" rowspan="1" colspan="1">43</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Focus on binding sites reproduced in all replicates</td><td align="left" rowspan="1" colspan="1">2012</td><td align="left" rowspan="1" colspan="1">(<xref rid="B40" ref-type="bibr">40</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">HITS-CLIP</td><td align="left" rowspan="1" colspan="1">36&#x02013;37 (second replicate)</td><td align="left" rowspan="1" colspan="1">0.95&#x02013;1.5 out of 11M&#x02013;15M uniquely mapped reads</td><td align="left" rowspan="1" colspan="1">11&#x02013;15</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Analyze the second replicate</td><td align="left" rowspan="1" colspan="1">2012</td><td align="left" rowspan="1" colspan="1">(<xref rid="B36" ref-type="bibr">36</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">PAR-CLIP</td><td align="left" rowspan="1" colspan="1">60 (all replicates combined)</td><td align="left" rowspan="1" colspan="1">1.1</td><td align="left" rowspan="1" colspan="1">0.32</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">Pooled</td><td align="left" rowspan="1" colspan="1">2013</td><td align="left" rowspan="1" colspan="1">(<xref rid="B37" ref-type="bibr">37</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">HITS-CLIP</td><td align="left" rowspan="1" colspan="1">72</td><td align="left" rowspan="1" colspan="1">0.35</td><td align="left" rowspan="1" colspan="1">0.22 out of 0.35M unique sequencing reads</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">2014</td><td align="left" rowspan="1" colspan="1">(<xref rid="B42" ref-type="bibr">42</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">HITS-CLIP</td><td align="left" rowspan="1" colspan="1">250&#x02013;340 (each protein)</td><td align="left" rowspan="1" colspan="1">0.87&#x02013;2.3</td><td align="left" rowspan="1" colspan="1">Not reported</td><td align="left" rowspan="1" colspan="1">4&#x02013;5</td><td align="left" rowspan="1" colspan="1">Pooled</td><td align="left" rowspan="1" colspan="1">2014</td><td align="left" rowspan="1" colspan="1">(<xref rid="B43" ref-type="bibr">43</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">iCLIP</td><td align="left" rowspan="1" colspan="1">169&#x02013;433 (all replicates combined)</td><td align="left" rowspan="1" colspan="1">0.16&#x02013;9.6 out of all mapped reads</td><td align="left" rowspan="1" colspan="1">12&#x02013;48%</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Pooled</td><td align="left" rowspan="1" colspan="1">2015</td><td align="left" rowspan="1" colspan="1">(<xref rid="B41" ref-type="bibr">41</xref>)</td></tr></tbody></table></table-wrap><p>With respect to bioinformatics analysis, it is undesirable to pool the replicates. As each replicate could have a different sequencing depth, pooling will tend to down-weigh the replicates with less-sequenced reads. Moreover, the variation information on binding intensity at each binding site is lost after pooling. A measurement called biologic complexity (BC) has been applied to identifying RBP binding sites using replicates (<xref rid="B26" ref-type="bibr">26</xref>). Other than BC, PARma is the only algorithm that can consider replicates in its statistical algorithm (<xref rid="B44" ref-type="bibr">44</xref>). The DESeq package implements a statistical model that can incorporate replicate information to call differentially expressed regions (<xref rid="B45" ref-type="bibr">45</xref>). It was originally proposed for ChIP-Seq and RNA-Seq data, but could be adapted to CLIP-Seq studies where replicates are available (<xref rid="B46" ref-type="bibr">46</xref>). However, more advanced statistical approaches are also needed to address specific data features from CLIP-Seq experiments to better analyze such data with replicates more efficiently. In summary, no rigorous and comprehensive study has been conducted to investigate the effects of the number of replicates on statistical power and the accuracy of binding site detection for genome-wide CLIP experiments. Future studies and the development of bioinformatics tools for analyzing such experiments with replicates would improve the experimental design and data analysis.</p></sec><sec id="SEC2-3"><title>Control experiments</title><p>Most recently published genome-wide CLIP studies did not use background control experiments for identification of binding sites. Accordingly, few analysis approaches could process the sequencing data with both genome-wide CLIP and control conditions, with the exception of Piranha (<xref rid="B47" ref-type="bibr">47</xref>) in regression mode and dCLIP (<xref rid="B48" ref-type="bibr">48</xref>). Since genome-wide CLIP experiments involve stringent washes, such experiments without controls can still identify high-confident RBP binding sites. However, generating control experiments for CLIP studies would improve the accuracy and interpretation of the results. First, the ranking of identified binding sites from analyzing genome-wide CLIP data is usually biased toward abundantly expressed genes. If the CLIP cluster binding intensities are not normalized by control experiments, some clusters with high apparent binding strength could simply be intermediate-level-binding-strength sites on highly expressed RNA transcripts. Therefore, having background control experiments could help reduce such bias. Secondly, background RNA-Seq experiments could also help to identify SNPs in cell lines or tissue samples, as previously mentioned. In addition, if the study's goal is to understand RBP functions such as splicing, conducting an RNA-Seq experiment will help to discern which sites are functionally relevant. Konig <italic>et</italic>
+<italic>al</italic>. suggested a few ways to conduct background experiments (<xref rid="B28" ref-type="bibr">28</xref>) for iCLIP experiments, such as a no-antibody sample, non-crosslinked cells or immunoprecipitation from a knockout condition. Liu <italic>et&#x000a0;al</italic>. experimentally showed that using input RNA or RNA-Seq in an experiment is also a good control (<xref rid="B49" ref-type="bibr">49</xref>). Again, the type of control experiment to conduct can vary and the choice depends on the specific goal of the study.</p></sec><sec id="SEC2-4"><title>Sequencing depth</title><p>Sequencing depth is a measure of the number of reads that are sequenced in one experiment. There is no consensus on the required sequencing depth for genome-wide CLIP experiments. We selected a few representative genome-wide CLIP studies as examples and summarized the summary sequencing statistics in each study (Table <xref ref-type="table" rid="tbl2">2</xref>). The summary shows big variations in the total number of reads used in different studies, ranging from &#x0003c;10 million reads to more than 300 million reads for one experiment. The early studies generated low numbers of reads, while more recent studies generated much deeper reads for an RBP under one treatment. Due to the generally limited complexities of the cDNA libraries, very deep sequencing may not necessarily capture more unique events of RBP&#x02013;RNA interactions for HITS-CLIP and PAR-CLIP experiments. However, this seems not to be the case for some iCLIP studies. The library complexities vary greatly for different CLIP experiments depending on many factors (<xref rid="B50" ref-type="bibr">50</xref>), such as how many binding sites the RBP under investigation truly binds. If the RBP has very specific binding sites, the expected library complexity would be small. Overall, the type of genome-wide CLIP experiment, the cost of sequencing and the number of true binding sites of the RBP should all be considered in determining the proper sequencing depth for the genome-wide CLIP experiments. Readers may refer to another review that thoroughly discusses the matter of sequencing depth in genomics studies (<xref rid="B51" ref-type="bibr">51</xref>).</p></sec><sec id="SEC2-5"><title>Mapping</title><p>Aligning the reads to a genome or transcriptome is the first step in genome-wide CLIP analysis. Mapping to a genome is usually chosen since there are sometimes many genome-wide CLIP clusters that locate within-reference gene introns. Mapping to a transcriptome or to both genome and transcriptome would be a good choice if the focus of the study is on detecting RBP binding sites on mature RNAs that have already been spliced. Table <xref ref-type="table" rid="tbl3">3</xref> lists commonly-used alignment software (<xref rid="B52" ref-type="bibr">52</xref>&#x02013;<xref rid="B56" ref-type="bibr">56</xref>) for genome-wide CLIP datasets (<xref rid="B26" ref-type="bibr">26</xref>,<xref rid="B44" ref-type="bibr">44</xref>,<xref rid="B47" ref-type="bibr">47</xref>,<xref rid="B57" ref-type="bibr">57</xref>&#x02013;<xref rid="B62" ref-type="bibr">62</xref>). In general, an aligner such as Gsnap that can handle short deletions and spliced-mapping will be a good choice. Gsnap is preferred by the CLIPper software (<xref rid="B61" ref-type="bibr">61</xref>) and it scored high in a systematic comparison of RNA aligners (<xref rid="B63" ref-type="bibr">63</xref>).</p><table-wrap id="tbl3" orientation="portrait" position="float"><label>Table 3.</label><caption><title>Mapping software used in genome-wide CLIP analysis</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1">Aligner</th><th align="left" rowspan="1" colspan="1">Title/Citation</th><th align="left" rowspan="1" colspan="1">Example studies</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Bowtie</td><td align="left" rowspan="1" colspan="1">Ultrafast and memory-efficient alignment of short DNA sequences to the human genome (<xref rid="B52" ref-type="bibr">52</xref>)</td><td align="left" rowspan="1" colspan="1">(<xref rid="B44" ref-type="bibr">44</xref>,<xref rid="B59" ref-type="bibr">59</xref>&#x02013;<xref rid="B60" ref-type="bibr">60</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Novoalign</td><td align="left" rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.novocraft.com/main/index.php">http://www.novocraft.com/main/index.php</ext-link></td><td align="left" rowspan="1" colspan="1">(<xref rid="B57" ref-type="bibr">57</xref>,<xref rid="B58" ref-type="bibr">58</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">BLAT</td><td align="left" rowspan="1" colspan="1">BLAT&#x02014;the BLAST-like alignment tool (<xref rid="B53" ref-type="bibr">53</xref>)</td><td align="left" rowspan="1" colspan="1">(<xref rid="B26" ref-type="bibr">26</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Gsnap</td><td align="left" rowspan="1" colspan="1">Fast and SNP-tolerant detection of complex variants and splicing in short reads (<xref rid="B54" ref-type="bibr">54</xref>)</td><td align="left" rowspan="1" colspan="1">(<xref rid="B61" ref-type="bibr">61</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">BWA</td><td align="left" rowspan="1" colspan="1">Fast and accurate short-read alignment with Burrows&#x02013;Wheeler transform (<xref rid="B55" ref-type="bibr">55</xref>)</td><td align="left" rowspan="1" colspan="1">(<xref rid="B62" ref-type="bibr">62</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">RMAP</td><td align="left" rowspan="1" colspan="1">Updates to the RMAP short-read mapping software (<xref rid="B56" ref-type="bibr">56</xref>)</td><td align="left" rowspan="1" colspan="1">(<xref rid="B47" ref-type="bibr">47</xref>)</td></tr></tbody></table></table-wrap><p>Another issue to consider is whether rRNAs, tRNAs and other types of repetitive sequences are of interest or should be removed by screening them from the pool. If they are not of interest, mapping to a pre-masked genome or removing rRNAs at the experimental stage using kits like Ribo-Zero may be more efficient. But this may not be the case with experiments that are conducted to make a comparative analysis, where 18S rRNAs can be used as a control invariant gene (<xref rid="B64" ref-type="bibr">64</xref>) Also, it is common practice for genome-wide CLIP data mapping to discard reads that can be mapped to multiple locations (<xref rid="B15" ref-type="bibr">15</xref>,<xref rid="B57" ref-type="bibr">57</xref>&#x02013;<xref rid="B58" ref-type="bibr">58</xref>). However, some RBPs may have real binding sites in genes that have multiple copies in the genome. In such cases, discarding non-uniquely mapped reads will result in the loss of some true binding sites.</p></sec><sec id="SEC2-6"><title>PCR duplicates</title><p>Since genome-wide CLIP experiments involve polymerase chain reaction (PCR) amplification from cDNA libraries with limited complexities, removal of PCR duplicates amplified from common unique cDNA fragments is an important step. After duplicate removal, the size of the sequencing data usually drops dramatically (Table <xref ref-type="table" rid="tbl2">2</xref>). There are a few ways to define PCR duplicates in genome-wide CLIP data. (i) Introducing random barcodes into the cDNA adaptor. This approach has been primarily applied to iCLIP experiments and has made it relatively easy to define PCR artifacts from the iCLIP data. Barcoding can give the clearest answer to whether a sequencing read is a PCR duplicate, and in fact it can also be applied to HITS-CLIP and PAR-CLIP, though this is not commonly done yet. PIPE-CLIP (<xref rid="B65" ref-type="bibr">65</xref>) has a bioinformatics procedure that can remove PCR duplicates according to barcodes for genome-wide CLIP data of all three sorts. (ii) For HITS-CLIP and PAR-CLIP, earlier studies defined PCR duplicates as sequencing reads having the same aligned genomic starting sites and duplicates were collapsed to a single sequencing tag (<xref rid="B30" ref-type="bibr">30</xref>). This may be too conservative, which usually leads to a collapsed sequencing read dataset that is &#x0003c;1/10 of its original size. (iii) Another popular approach adopted in many studies (<xref rid="B48" ref-type="bibr">48</xref>,<xref rid="B66" ref-type="bibr">66</xref>&#x02013;<xref rid="B67" ref-type="bibr">67</xref>) is to define reads that have exactly the same mapping coordinates as PCR duplicates. (iv) Alternatively, it is also possible to define PCR duplicates as those having the same nucleotide sequence. Unfortunately, to our knowledge, there hasn't been any strict comparison reported in the literature to help select the best approach from (ii)&#x02013;(iv) for HITS-CLIP and PAR-CLIP, and the scenario is even more complicated for paired-end sequencing reads. One consideration to choose among approaches (ii)&#x02013;(iv) is the number of reads left after duplicate removal. If this step is too stringent, too few reads may be left for downstream analysis.</p></sec><sec id="SEC2-7"><title>Intron-locating clusters and spliced-mapping reads</title><p>Most genome-wide CLIP experiments do not distinguish nucleic RNAs from cytoplasmic RNAs because the RNA is obtained from whole cells. Since libraries could contain cDNAs converted from nascent pre-mRNAs, it is possible that a significant portion of CLIP reads will be mapped to reference gene introns. For example, in a few published studies, the proportions of intron-locating reads or CLIP clusters could be as low as 15% but also as high as 90% (<xref rid="B68" ref-type="bibr">68</xref>&#x02013;<xref rid="B70" ref-type="bibr">70</xref>,<xref rid="B36" ref-type="bibr">36</xref>). This proportion depends on both the compartment of the cell that is being investigated and the property of the RBP under investigation. For example, Chu <italic>et&#x000a0;al</italic>. found through PAR-CLIP that nucleic AGO2 preferentially binds intron regions while cytoplasmic AGO2 mainly binds 3&#x02032; UTR regions (<xref rid="B71" ref-type="bibr">71</xref>).</p><p>On the other hand, there are varying amounts of cDNAs generated from mature mRNAs in the libraries. Therefore, some of the sequencing reads could be mapped across splicing junctions. As a result, it is sometimes important to use an aligner that can handle splice junction mapping, or alternatively, to map the sequencing reads to the transcriptome in addition to the reference genome. However, usually fewer than 5% of all CLIP reads are mapped across splice junctions, due to two possible reasons: (i) only a small fraction of RBP binding sites are close to or on top of splice junctions or (ii) current aligners are not very efficient in mapping reads across splice junctions. CLIPZ (<xref rid="B72" ref-type="bibr">72</xref>) and PARma (<xref rid="B44" ref-type="bibr">44</xref>) are able to internally handle CLIP clusters that span junctions, while other pipelines such as dCLIP (<xref rid="B48" ref-type="bibr">48</xref>) must be fed externally with mapping data on both the genome and transcriptome in order to be splice-junction-aware.</p></sec><sec id="SEC2-8"><title>Peak-calling</title><p>Several statistical algorithms have been developed for peak-calling from genome-wide CLIP seq data and an overview of these algorithms will be detailed in the next section. The read counts are usually the primary measure for peak-calling from most algorithms and some statistical approaches were used to utilize the spatial patterns of the mapped reads. In addition, the characteristic mutations induced by cross-linking procedures have also been utilized to improve peak calling algorithms.</p><sec id="SEC2-8-1"><title>Characteristic mutations</title><p>In HITS-CLIP and PAR-CLIP, the cross-linking procedure induces mismatches in the final sequencing data, which could be used to pinpoint the location of RBP target sites at single-base-pair resolution and have been used to improve the binding target identifications. However, the proportion of sequencing reads with characteristic mutations varies greatly from 20%-80% for PAR-CLIP data (<xref rid="B15" ref-type="bibr">15</xref>,<xref rid="B27" ref-type="bibr">27</xref>,<xref rid="B73" ref-type="bibr">73</xref>,<xref rid="B37" ref-type="bibr">37</xref>). For HITS-CLIP data, the proportion is only around 10% (<xref rid="B35" ref-type="bibr">35</xref>) and even as small as &#x0003c;1% in one case (<xref rid="B46" ref-type="bibr">46</xref>). Another recent study (<xref rid="B74" ref-type="bibr">74</xref>) analyzed data from 20 genome-wide CLIP studies and found similar results. In addition, mutant bases are usually sparsely spread within CLIP clusters, normally leading to small ratios of mutant tags out of total tags on the exact cross-linking sites. Low mutant tag ratios in some experiments could be problematic for bioinformatics pipelines for analyzing HITS-CLIP and PAR-CLIP data that utilize mutation ratios, such as MiClip (<xref rid="B75" ref-type="bibr">75</xref>) and wavClusteR (<xref rid="B31" ref-type="bibr">31</xref>). On the other hand, there may be a small number of bases covered by CLIP clusters that show close to 100% mutant rates, which are likely SNPs in the cell lines or tissue samples instead of true RBP binding sites. To address these issues involving mutations, wavClusteR (<xref rid="B31" ref-type="bibr">31</xref>) introduces a parameter that effectively discards bases with mutation rates higher than a user-defined cutoff. Other ways to solve this problem include conducting control RNA-Seq experiments to detect SNPs or comparing results to databases of known SNPs. These observations, in addition to the obscurity of true characteristic mutations for some HITS-CLIP data, suggest that although characteristic mutation can help pinpoint the binding site and increase peak calling accuracy in most cases, careful examination of mutations from genome-wide CLIP experiments, especially from HITS-CLIP data, are necessary.</p></sec><sec id="SEC2-8-2"><title>Using Hidden Markov Models (HMM) in binding sites detection</title><p>Similar to ChIP-Seq data, genome-wide CLIP reads counts are correlated among neighboring genomic locations, a phenomenon called spatial dependency. This occurs because protein binding regions span a certain length that is longer than the binned unit for counting binding intensity in the bioinformatics pipeline. In ChIP-Seq or ChIP-chip data analysis, it has been recognized that incorporating spatial dependency can greatly improve performance in identifying protein&#x02013;DNA binding sites. Computational algorithms that consider this effect have been developed previously (<xref rid="B76" ref-type="bibr">76</xref>,<xref rid="B77" ref-type="bibr">77</xref>). However, these methods cannot be directly applied to genome-wide CLIP due to the unique features associated with genome-wide CLIP data: these data (i) are strand-specific; (ii) can reach a near-single base pair resolution; and (iii) contain information on cross-linking-induced mutations, which serve as markers for RNA&#x02013;protein binding sites. An Hidden Markov Model (HMM) is a statistical model that could be used to model the observations with spatial dependency. In genome-wide CLIP data, HMM models usually have three main characteristics: (i) each genomic location has an unobserved hidden state indicating whether this location is a binding site, (ii) the hidden states along the genomic locations follow a Markov process, i.e. the hidden state of each location depend on only the states of its immediate neighboring locations; (iii) given the unobserved state, the observed total read/tag counts and mutations counts are independent across genomic locations, i.e. the dependency is in the hidden states. This structure enables the HMM to incorporate the spatial dependency of the genome-wide CLIP data. Among the tools developed for CLIP data, dCLIP and MiClip used HMM while also accounting for the other special properties of the genome-wide CLIP data and they have been shown to improve the identification of RBP-binding targets or differential binding sites.</p></sec></sec><sec id="SEC2-9"><title>Downstream analysis: motif, structure and function</title><p>Following peak-calling, downstream analysis will generally focus on characterization of RBP&#x02013;RNA interaction sites.</p><sec id="SEC2-9-1"><title>Motif discovery</title><p>Some RBP recognition motifs have been previously identified. For example, YCAY elements were found to be the biochemically-defined binding site for NOVA (<xref rid="B78" ref-type="bibr">78</xref>,<xref rid="B79" ref-type="bibr">79</xref>). Another study identified a 29&#x02013;39 nt long AUF1 motif that contained 79% As and Us (<xref rid="B6" ref-type="bibr">6</xref>). HOMER (<xref rid="B80" ref-type="bibr">80</xref>) and MEME (<xref rid="B81" ref-type="bibr">81</xref>) are two popular bioinformatics tools for searching for sequence motifs. Zagros is a software that uses both secondary structure and characteristic mutations to improve motif discovery in genome-wide CLIP data (<xref rid="B74" ref-type="bibr">74</xref>). On the experimental side, an <italic>in vitro</italic> assay called RNAcompete was developed to determine RBP binding motifs from a pool of a complete range of k-mers in a single binding reaction (<xref rid="B82" ref-type="bibr">82</xref>). Much useful information has been gained from RNAcompete experiments, but the <italic>in vivo</italic> binding properties of the RBPs may be different from <italic>in vitro</italic> experiments. Compared with protein-binding motifs on DNAs, RNA sequence motifs tend to have less well-defined nucleotide preferences on each base and have degenerate and repeating elements.</p></sec><sec id="SEC2-9-2"><title>Secondary structure</title><p>Also different from DNA&#x02013;protein interactions, some RBPs recognize their targets mainly through RNA secondary structures or are sensitive to structural context (<xref rid="B83" ref-type="bibr">83</xref>,<xref rid="B84" ref-type="bibr">84</xref>), though paradoxically the RNAcompete method seems to make the contradictory observation that the vast majority of RBPs do not require RNA structures for specific binding. For example, the FUS protein has been shown to bind AU-rich stem-loops but does not seem to recognize any sequence motif (<xref rid="B15" ref-type="bibr">15</xref>). Interestingly, it has also been found that certain RBPs recognize single-strand RNAs, so intramolecular structures formed by the double-strand part of RNAs could actually inhibit RBP binding (<xref rid="B85" ref-type="bibr">85</xref>). Many tools have been developed to predict the secondary structures of RNA, such as CapR (<xref rid="B86" ref-type="bibr">86</xref>), RNAcontext (<xref rid="B87" ref-type="bibr">87</xref>) and RNAfold (<xref rid="B88" ref-type="bibr">88</xref>).</p></sec><sec id="SEC2-9-3"><title>Functional characterization</title><p>Finally, it is important to investigate functions of identified RBP binding sites after peak-calling, since physical bindings may not necessarily lead to phenotypic consequences. The above-mentioned motif and structure information could be utilized to predict functional binding sites, such as in mCarts (<xref rid="B89" ref-type="bibr">89</xref>). Other high-throughput datasets, such as RNA expression, altnernative splicing or even clinical data, may also be integrated with genome-wide CLIP data to reveal functions of RBP&#x02013;RNA interaction events. For example, one recent study (<xref rid="B90" ref-type="bibr">90</xref>) identified 22 735 RBP&#x02013;lncRNA regulatory relationships from &#x0003e;100 public genome-wide CLIP datasets.</p></sec></sec></sec><sec id="SEC3"><title>OVERVIEW OF ANALYSIS METHODS AND DATABASE SERVERS</title><p>The previous section discussed some bioinformatics analysis approaches after high-throughput sequencing data has been aligned. In this section, we will give an overview of bioinformatics analysis software and databases for genome-wide CLIP experiments. Figure <xref ref-type="fig" rid="F2">2</xref> shows a streamlined summary of genome-wide CLIP data analysis. Table <xref ref-type="table" rid="tbl4">4</xref> summarizes the major software programs, pipelines and databases to help readers choose the ones that best fit their purpose&#x000a0;(<xref rid="B65" ref-type="bibr">65</xref>,<xref rid="B31" ref-type="bibr">31</xref>,<xref rid="B44" ref-type="bibr">44</xref>,<xref rid="B46" ref-type="bibr">46</xref>&#x02013;<xref rid="B48" ref-type="bibr">48</xref>,<xref rid="B50" ref-type="bibr">50</xref>,<xref rid="B72" ref-type="bibr">72</xref>,<xref rid="B75" ref-type="bibr">75</xref>,<xref rid="B91" ref-type="bibr">91</xref>&#x02013;<xref rid="B99" ref-type="bibr">99</xref>). We will discuss some of these in more detail in this section.</p><fig id="F2" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Summary of the analysis software, pipelines and databases for CLIP-Seq analysis mentioned in this review.</p></caption><graphic xlink:href="gkv439fig2"/></fig><table-wrap id="tbl4" orientation="portrait" position="float"><label>Table 4.</label><caption><title>Summary of genome-wide CLIP analysis software programs and databases</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1">Software/Database</th><th align="left" rowspan="1" colspan="1">Type</th><th align="left" rowspan="1" colspan="1">Comment</th><th align="left" rowspan="1" colspan="1">Citation</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">CLIPZ</td><td align="left" rowspan="1" colspan="1">Database</td><td align="left" rowspan="1" colspan="1">Can carry out simple bioinformatics analysis</td><td align="left" rowspan="1" colspan="1">(<xref rid="B72" ref-type="bibr">72</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">StarBase v2</td><td align="left" rowspan="1" colspan="1">Database</td><td align="left" rowspan="1" colspan="1">Contains CLASH datasets as well</td><td align="left" rowspan="1" colspan="1">(<xref rid="B91" ref-type="bibr">91</xref>,<xref rid="B92" ref-type="bibr">92</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">doRiNA</td><td align="left" rowspan="1" colspan="1">Database</td><td align="left" rowspan="1" colspan="1">Focuses on miRNA biology</td><td align="left" rowspan="1" colspan="1">(<xref rid="B93" ref-type="bibr">93</xref>,<xref rid="B94" ref-type="bibr">94</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">CLIPdb</td><td align="left" rowspan="1" colspan="1">Database</td><td align="left" rowspan="1" colspan="1">Contain uniformly identified binding sites of publicly available genome-wide CLIP datasets</td><td align="left" rowspan="1" colspan="1">(<xref rid="B50" ref-type="bibr">50</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">PARalyzer</td><td align="left" rowspan="1" colspan="1">Software</td><td align="left" rowspan="1" colspan="1">Peak-finding algorithm for PAR-CLIP dataset only</td><td align="left" rowspan="1" colspan="1">(<xref rid="B95" ref-type="bibr">95</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Piranha</td><td align="left" rowspan="1" colspan="1">Software</td><td align="left" rowspan="1" colspan="1">Peak-finding and differential binding detection algorithm</td><td align="left" rowspan="1" colspan="1">(<xref rid="B47" ref-type="bibr">47</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">dCLIP</td><td align="left" rowspan="1" colspan="1">Software</td><td align="left" rowspan="1" colspan="1">Differential binding detection algorithm</td><td align="left" rowspan="1" colspan="1">(<xref rid="B48" ref-type="bibr">48</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">PIPE-CLIP</td><td align="left" rowspan="1" colspan="1">Software</td><td align="left" rowspan="1" colspan="1">Peak-finding algorithm</td><td align="left" rowspan="1" colspan="1">(<xref rid="B65" ref-type="bibr">65</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">wavClusteR</td><td align="left" rowspan="1" colspan="1">Software</td><td align="left" rowspan="1" colspan="1">Peak-finding algorithm for PAR-CLIP dataset only</td><td align="left" rowspan="1" colspan="1">(<xref rid="B31" ref-type="bibr">31</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">PARma</td><td align="left" rowspan="1" colspan="1">Software</td><td align="left" rowspan="1" colspan="1">Differential binding detection algorithm for AGO PAR-CLIP dataset only</td><td align="left" rowspan="1" colspan="1">(<xref rid="B44" ref-type="bibr">44</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">MiClip</td><td align="left" rowspan="1" colspan="1">Software</td><td align="left" rowspan="1" colspan="1">Peak-finding algorithm wrapped as an R package</td><td align="left" rowspan="1" colspan="1">(<xref rid="B75" ref-type="bibr">75</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">PAR-CLIP HMM</td><td align="left" rowspan="1" colspan="1">Software</td><td align="left" rowspan="1" colspan="1">Peak-finding algorithm employing Hidden Markov Model</td><td align="left" rowspan="1" colspan="1">(<xref rid="B96" ref-type="bibr">96</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">GraphProt</td><td align="left" rowspan="1" colspan="1">Software</td><td align="left" rowspan="1" colspan="1">Peak-finding algorithm that can handle both RNAcompete and genome-wide CLIP data flexibly</td><td align="left" rowspan="1" colspan="1">(<xref rid="B97" ref-type="bibr">97</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pyicos</td><td align="left" rowspan="1" colspan="1">Software</td><td align="left" rowspan="1" colspan="1">Peak-finding algorithm that can handle ChIP-Seq, genome-wide CLIP and RNA-Seq data flexibly</td><td align="left" rowspan="1" colspan="1">(<xref rid="B98" ref-type="bibr">98</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">miRTarCLIP</td><td align="left" rowspan="1" colspan="1">Software</td><td align="left" rowspan="1" colspan="1">Peak-finding algorithm that employs a novel C to T reversion strategy in PAR-CLIP dataset analysis</td><td align="left" rowspan="1" colspan="1">(<xref rid="B99" ref-type="bibr">99</xref>)</td></tr></tbody></table></table-wrap><sec id="SEC3-1"><title>CLIPZ</title><p>CLIPZ is mainly a database for genome-wide CLIP datasets. There were 94 publicly-visible samples stored on CLIPZ as of April 2015. CLIPZ also provides simple bioinformatics analysis for stored samples. It first aligns the sequencing reads to genomes and transcriptomes, allowing alignments with more than one error (substitution, insertion or deletion). Then it generates clusters of sequencing reads and computes statistics like T-&#x0003e;C substitutions for PAR-CLIP dataset. Finally, CLIPZ allows users to sort the clusters based on these computed features.</p></sec><sec id="SEC3-2"><title>StarBase v2</title><p>StarBase v2 is a database designed for decoding pan-cancer and interaction networks of RBPs, mRNAs and various types of non-coding RNAs from genome-wide CLIP datasets and CLASH datasets (<xref rid="B100" ref-type="bibr">100</xref>). As of April 2015, StarBase v2 contained 111 genome-wide CLIP datasets from 37 studies. StarBase v2 processes all the stored datasets and presents the analysis results through disparate portals such as miRNA&#x02013;lncRNA interactions, miRNA&#x02013;target interactions, protein&#x02013;mRNA interactions and function predictions. The analysis conducted by StarBase v2 mostly relies on previously published software, such as PARalzyer for PAR-CLIP dataset analysis and TargetScan (<xref rid="B101" ref-type="bibr">101</xref>) and other similar pipelines for miRNA target site predictions.</p></sec><sec id="SEC3-3"><title>PARalyzer</title><p>PARalyzer is a popular peak-calling algorithm for PAR-CLIP datasets only. PARalyzer employs a non-parametric kernel-density estimation classifier to identify the RNA&#x02013;RBP interaction sites using both total binding intensity information and T-&#x0003e;C mutation information. It provides a dozen parameters, such as minimum number of reads and minimum number of conversions for a cluster, to help users filter the final results.</p></sec><sec id="SEC3-4"><title>Piranha</title><p>Piranha is mainly a peak-calling algorithm, but it also provides a way to detect differential binding across a range of conditions. All reads are binned and each bin represents a genomic interval. Piranha allows the users to flexibly choose an underlying model, including Poisson distribution and Negative Binomial distribution. It permits users to add additional covariates such as mutation data or transcript abundance data in a regression framework. This enables Piranha to incorporate mutation data in peak-finding or to conduct a differential binding analysis.</p></sec><sec id="SEC3-5"><title>dCLIP</title><p>dCLIP is designed specifically for identifying differential binding sites. The majority of the RBP binding sites between the two conditions should have roughly unchanged binding profiles, so dCLIP applies a MA-plot method to first normalize the two conditions. It uses a HMM to solve the common and differential binding sites. The HMM model incorporates the spatial dependency among neighboring locations to improve identification accuracy. Users can choose to input background transcript abundance profiling data as controls. dCLIP summarizes total tag count and mutant tag count data, as well as statistical inference results, into bedGraph and bed files that can be directly uploaded to Genome Browser for visualization.</p></sec><sec id="SEC3-6"><title>PIPE-CLIP</title><p>PIPE-CLIP is a Galaxy-based comprehensive online pipeline for genome-wide CLIP data analysis. It processes BAM files by filtering out reads that do not meet mismatched numbers and/or aligned read-length criteria and by removing PCR duplicates according to reads locations or sequences. Then it applies zero-truncated negative binomial regression to identify the enriched clusters and fits a binomial distribution to assess the significance of featured mutations/truncations. After that, enriched clusters with significant mutations/truncations are reported as binding sites.</p></sec><sec id="SEC3-7"><title>wavClusteR</title><p>wavClusteR is designed for identifying RBP peaks in a single PAR-CLIP experiment. It defines a mixture model where the first component indicates random substitutions, which are not induced by cross-linking and the second component indicates cross-linking-induced substitutions that serve as markers of RBP-protein binding sites. wavClusteR relies on the assumption that all types of non-experimentally-induced substitutions have approximately the same distribution as the first component, while only PAR-CLIP-induced T-&#x0003e;C mutations exist in the second component of the mixture model. However, this may not be the case for tumor cell lines where the background mutation profiles are distinct for each type of substitution (<xref rid="B102" ref-type="bibr">102</xref>).</p></sec><sec id="SEC3-8"><title>MiClip</title><p>MiClip is an R package for identifying RBP binding sites using HITS-CLIP and PAR-CLIP datasets. It leverages the spatial dependency in sequencing tag data by using HMM and it also takes advantage of characteristic mutation counts to increase peak-calling accuracy. It is user-friendly and requires only that users feed in several parameters to optimize the performance of the algorithm. MiClip is freely available on CRAN (The Comprehensive R Archive Network).</p></sec><sec id="SEC3-9"><title>PARma</title><p>PARma is a tool for differential AGO PAR-CLIP data analysis. In PARma, a statistical model and a novel pattern discovery tool are iteratively applied to estimate probabilities and to assign the most probable miRNAs until convergence. The statistical model is composed of three independent parts that consider the T-&#x0003e;C mutation frequencies as well as the properties of the nucleotide compositions at both ends of the sequencing reads. The PARma algorithm addresses several important issues in the data preprocessing step, such as the handling of spliced-mapping reads and consideration of experimental replicates. However, it can only be applied to differential AGO PAR-CLIP datasets.</p></sec></sec><sec id="SEC4"><title>CONCLUSION AND DISCUSSION</title><p>In this review, we discussed the genome-wide CLIP technology from the perspectives of experimental design and bioinformatics analysis. The development of technology and bioinformatics in this field has greatly improved our capacity to study protein&#x02013;RNA interactions and understand the functions of different RNA species in physiological and pathological process. There are several related technologies, such as CLASH and RIP-Seq, which may be complementary to genome-wide CLIP to study the function of RNAs. CLASH is short for cross-linking, ligation and sequencing of hybrids, which was invented for characterizing intramolecular and intermolecular RNA&#x02013;RNA interactions (<xref rid="B100" ref-type="bibr">100</xref>). Recently, this technology was adapted to straightforwardly detect miRNA&#x02013;mRNA pairs as chimeric reads in high-throughput sequencing data (<xref rid="B103" ref-type="bibr">103</xref>). Integrative analysis can be carried out that combines CLASH data that can directly capture reliable miRNA&#x02013;mRNA interactions and genome-wide CLIP data that focuses more on detecting RBP&#x02013;RNA interactions. RNA immunoprecipitation sequencing (RIP-Seq) can also complement genome-wide CLIP for identifying RBP&#x02013;RNA interactions (<xref rid="B104" ref-type="bibr">104</xref>). RIP-Seq bears some similarity to genome-wide CLIP, but lacks high-stringency washes and crosslinking of RBP to RNAs, which leads to high background noise and mis-interpretations in the data analysis. For example, RIP-Seq identifies both direct and indirect RBP&#x02013;RNA interactions, while genome-wide CLIP can accurately identify direct RBP&#x02013;RNA association events (<xref rid="B105" ref-type="bibr">105</xref>). However, genome-wide CLIP is more technically challenging and also requires high-quality antibodies to work properly. Therefore the data from CLIP experiments and RIP-Seq experiments could be complementary in studying RBP&#x02013;RNA bindings.</p><p>The genome-wide CLIP has accumulated extensive knowledge in both experimental procedures and how to process genome-wide CLIP data properly, but it requires fundamental improvements to reach its potential. First, more systematic studies on experimental design issues such as replicates, the use of background controls and the sequencing depth are greatly needed to improve the experimental efficiency, reduce systematic bias and increase the reproducibility of genome-wide CLIP experiments. Another direction for further study is to conduct genome-wide CLIP experiments of different proteins under different treatments simultaneously in an experimental system to methodically understand and model transcriptional events. The MOV10 and UPF1 proteins have recently been shown to bind in close proximity and interact directly (<xref rid="B106" ref-type="bibr">106</xref>), pointing to the importance of studying the coordination pattern of RBPs and its functional impact. A third future direction is to combine genome-wide CLIP with other types of data, including ChIP-Seq, RNA-Seq and proteomics data for integrative analysis. EZH2 was reported to bind lncRNAs (<xref rid="B37" ref-type="bibr">37</xref>), despite its chromatin-binding capability and its role in epigenetic regulation. This intriguing phenomenon suggests that ChIP-Seq data and genome-wide CLIP data can be analyzed together to reveal novel RNA-binding functions of well-characterized DNA-binding proteins. There are a lot of interesting discoveries yet to be made from mining genome-wide CLIP data. All of these efforts will help us better understand transcriptional regulation in biological systems.</p></sec></body><back><ack><p>We would like to thank Beibei Chen for writing the description of the PIPE-CLIP pipeline and Jessie Norris for helping us proofread the manuscript.</p></ack><sec id="SEC5"><title>FUNDING</title><p>NIH [5R01CA152301, 1R01CA172211, MH102616, GM106151]; Cancer Prevention Research Institute of Texas award [RP101251]; Welch Foundation I-1244. Funding for open access charge: NIH [5R01CA152301].</p><p><italic>Conflict of interest statement</italic>. None declared.</p></sec><ref-list><title>REFERENCES</title><ref id="B1"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kechavarzi</surname><given-names>B.</given-names></name><name><surname>Janga</surname><given-names>S.C.</given-names></name></person-group>
+<article-title>Dissecting the expression landscape of RNA-binding proteins in human cancers</article-title>
+<source>Genome Biol.</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>R14</fpage>
+<pub-id pub-id-type="pmid">24410894</pub-id></element-citation></ref><ref id="B2"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bahrami-Samani</surname><given-names>E.</given-names></name><name><surname>Vo</surname><given-names>D.T.</given-names></name><name><surname>de&#x000a0;Araujo</surname><given-names>P.R.</given-names></name><name><surname>Vogel</surname><given-names>C.</given-names></name><name><surname>Smith</surname><given-names>A.D.</given-names></name><name><surname>Penalva</surname><given-names>L.O.</given-names></name><name><surname>Uren</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>Computational challenges, tools, and resources for analyzing co- and post-transcriptional events in high throughput</article-title>
+<source>Wiley Interdiscip. Rev. RNA.</source>
+<year>2014</year>
+<volume>6</volume>
+<fpage>291</fpage>
+<lpage>300</lpage>
+<pub-id pub-id-type="pmid">25515586</pub-id></element-citation></ref><ref id="B3"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Taupin</surname><given-names>J.L.</given-names></name><name><surname>Tian</surname><given-names>Q.</given-names></name><name><surname>Kedersha</surname><given-names>N.</given-names></name><name><surname>Robertson</surname><given-names>M.</given-names></name><name><surname>Anderson</surname><given-names>P.</given-names></name></person-group>
+<article-title>The RNA-binding protein TIAR is translocated from the nucleus to the cytoplasm during Fas-mediated apoptotic cell death</article-title>
+<source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<year>1995</year>
+<volume>92</volume>
+<fpage>1629</fpage>
+<lpage>1633</lpage>
+<pub-id pub-id-type="pmid">7533298</pub-id></element-citation></ref><ref id="B4"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Strasser</surname><given-names>K.</given-names></name><name><surname>Hurt</surname><given-names>E.</given-names></name></person-group>
+<article-title>Yra1p, a conserved nuclear RNA-binding protein, interacts directly with Mex67p and is required for mRNA export</article-title>
+<source>EMBO J.</source>
+<year>2000</year>
+<volume>19</volume>
+<fpage>410</fpage>
+<lpage>420</lpage>
+<pub-id pub-id-type="pmid">10722314</pub-id></element-citation></ref><ref id="B5"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hunt</surname><given-names>S.L.</given-names></name><name><surname>Hsuan</surname><given-names>J.J.</given-names></name><name><surname>Totty</surname><given-names>N.</given-names></name><name><surname>Jackson</surname><given-names>R.J.</given-names></name></person-group>
+<article-title>unr, a cellular cytoplasmic RNA-binding protein with five cold-shock domains, is required for internal initiation of translation of human rhinovirus RNA</article-title>
+<source>Genes Dev.</source>
+<year>1999</year>
+<volume>13</volume>
+<fpage>437</fpage>
+<lpage>448</lpage>
+<pub-id pub-id-type="pmid">10049359</pub-id></element-citation></ref><ref id="B6"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mazan-Mamczarz</surname><given-names>K.</given-names></name><name><surname>Kuwano</surname><given-names>Y.</given-names></name><name><surname>Zhan</surname><given-names>M.</given-names></name><name><surname>White</surname><given-names>E.J.</given-names></name><name><surname>Martindale</surname><given-names>J.L.</given-names></name><name><surname>Lal</surname><given-names>A.</given-names></name><name><surname>Gorospe</surname><given-names>M.</given-names></name></person-group>
+<article-title>Identification of a signature motif in target mRNAs of RNA-binding protein AUF1</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2009</year>
+<volume>37</volume>
+<fpage>204</fpage>
+<lpage>214</lpage>
+<pub-id pub-id-type="pmid">19033365</pub-id></element-citation></ref><ref id="B7"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abdelmohsen</surname><given-names>K.</given-names></name><name><surname>Panda</surname><given-names>A.C.</given-names></name><name><surname>Kang</surname><given-names>M.J.</given-names></name><name><surname>Guo</surname><given-names>R.</given-names></name><name><surname>Kim</surname><given-names>J.</given-names></name><name><surname>Grammatikakis</surname><given-names>I.</given-names></name><name><surname>Yoon</surname><given-names>J.H.</given-names></name><name><surname>Dudekula</surname><given-names>D.B.</given-names></name><name><surname>Noh</surname><given-names>J.H.</given-names></name><name><surname>Yang</surname><given-names>X.</given-names></name><etal/></person-group>
+<article-title>7SL RNA represses p53 translation by competing with HuR</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2014</year>
+<volume>42</volume>
+<fpage>10099</fpage>
+<lpage>10111</lpage>
+<pub-id pub-id-type="pmid">25123665</pub-id></element-citation></ref><ref id="B8"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rossbach</surname><given-names>O.</given-names></name><name><surname>Hung</surname><given-names>L.H.</given-names></name><name><surname>Khrameeva</surname><given-names>E.</given-names></name><name><surname>Schreiner</surname><given-names>S.</given-names></name><name><surname>Konig</surname><given-names>J.</given-names></name><name><surname>Curk</surname><given-names>T.</given-names></name><name><surname>Zupan</surname><given-names>B.</given-names></name><name><surname>Ule</surname><given-names>J.</given-names></name><name><surname>Gelfand</surname><given-names>M.S.</given-names></name><name><surname>Bindereif</surname><given-names>A.</given-names></name></person-group>
+<article-title>Crosslinking-immunoprecipitation (iCLIP) analysis reveals global regulatory roles of hnRNP L</article-title>
+<source>RNA Biol.</source>
+<year>2014</year>
+<volume>11</volume>
+<fpage>146</fpage>
+<lpage>155</lpage>
+<pub-id pub-id-type="pmid">24526010</pub-id></element-citation></ref><ref id="B9"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Keene</surname><given-names>J.D.</given-names></name></person-group>
+<article-title>RNA regulons: coordination of post-transcriptional events</article-title>
+<source>Nat. Rev. Genet.</source>
+<year>2007</year>
+<volume>8</volume>
+<fpage>533</fpage>
+<lpage>543</lpage>
+<pub-id pub-id-type="pmid">17572691</pub-id></element-citation></ref><ref id="B10"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lukong</surname><given-names>K.E.</given-names></name><name><surname>Chang</surname><given-names>K.W.</given-names></name><name><surname>Khandjian</surname><given-names>E.W.</given-names></name><name><surname>Richard</surname><given-names>S.</given-names></name></person-group>
+<article-title>RNA-binding proteins in human genetic disease</article-title>
+<source>Trends Genet.</source>
+<year>2008</year>
+<volume>24</volume>
+<fpage>416</fpage>
+<lpage>425</lpage>
+<pub-id pub-id-type="pmid">18597886</pub-id></element-citation></ref><ref id="B11"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Castello</surname><given-names>A.</given-names></name><name><surname>Fischer</surname><given-names>B.</given-names></name><name><surname>Hentze</surname><given-names>M.W.</given-names></name><name><surname>Preiss</surname><given-names>T.</given-names></name></person-group>
+<article-title>RNA-binding proteins in Mendelian disease</article-title>
+<source>Trends Genet.</source>
+<year>2013</year>
+<volume>29</volume>
+<fpage>318</fpage>
+<lpage>327</lpage>
+<pub-id pub-id-type="pmid">23415593</pub-id></element-citation></ref><ref id="B12"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wurth</surname><given-names>L.</given-names></name></person-group>
+<article-title>Versatility of RNA-binding proteins in cancer</article-title>
+<source>Comp. Funct. Genomics</source>
+<year>2012</year>
+<volume>2012</volume>
+<fpage>178525</fpage>
+<pub-id pub-id-type="pmid">22666083</pub-id></element-citation></ref><ref id="B13"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Glazer</surname><given-names>R.I.</given-names></name><name><surname>Vo</surname><given-names>D.T.</given-names></name><name><surname>Penalva</surname><given-names>L.O.</given-names></name></person-group>
+<article-title>Musashi1: an RBP with versatile functions in normal and cancer stem cells</article-title>
+<source>Front. Biosci.</source>
+<year>2012</year>
+<volume>17</volume>
+<fpage>54</fpage>
+<lpage>64</lpage>
+</element-citation></ref><ref id="B14"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ascano</surname><given-names>M. Jr</given-names></name><name><surname>Mukherjee</surname><given-names>N.</given-names></name><name><surname>Bandaru</surname><given-names>P.</given-names></name><name><surname>Miller</surname><given-names>J.B.</given-names></name><name><surname>Nusbaum</surname><given-names>J.D.</given-names></name><name><surname>Corcoran</surname><given-names>D.L.</given-names></name><name><surname>Langlois</surname><given-names>C.</given-names></name><name><surname>Munschauer</surname><given-names>M.</given-names></name><name><surname>Dewell</surname><given-names>S.</given-names></name><name><surname>Hafner</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>FMRP targets distinct mRNA sequence elements to regulate protein expression</article-title>
+<source>Nature</source>
+<year>2012</year>
+<volume>492</volume>
+<fpage>382</fpage>
+<lpage>386</lpage>
+<pub-id pub-id-type="pmid">23235829</pub-id></element-citation></ref><ref id="B15"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoell</surname><given-names>J.I.</given-names></name><name><surname>Larsson</surname><given-names>E.</given-names></name><name><surname>Runge</surname><given-names>S.</given-names></name><name><surname>Nusbaum</surname><given-names>J.D.</given-names></name><name><surname>Duggimpudi</surname><given-names>S.</given-names></name><name><surname>Farazi</surname><given-names>T.A.</given-names></name><name><surname>Hafner</surname><given-names>M.</given-names></name><name><surname>Borkhardt</surname><given-names>A.</given-names></name><name><surname>Sander</surname><given-names>C.</given-names></name><name><surname>Tuschl</surname><given-names>T.</given-names></name></person-group>
+<article-title>RNA targets of wild-type and mutant FET family proteins</article-title>
+<source>Nat. Struct. Mol. Biol.</source>
+<year>2011</year>
+<volume>18</volume>
+<fpage>1428</fpage>
+<lpage>1431</lpage>
+<pub-id pub-id-type="pmid">22081015</pub-id></element-citation></ref><ref id="B16"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Neumann</surname><given-names>M.</given-names></name><name><surname>Bentmann</surname><given-names>E.</given-names></name><name><surname>Dormann</surname><given-names>D.</given-names></name><name><surname>Jawaid</surname><given-names>A.</given-names></name><name><surname>DeJesus-Hernandez</surname><given-names>M.</given-names></name><name><surname>Ansorge</surname><given-names>O.</given-names></name><name><surname>Roeber</surname><given-names>S.</given-names></name><name><surname>Kretzschmar</surname><given-names>H.A.</given-names></name><name><surname>Munoz</surname><given-names>D.G.</given-names></name><name><surname>Kusaka</surname><given-names>H.</given-names></name><etal/></person-group>
+<article-title>FET proteins TAF15 and EWS are selective markers that distinguish FTLD with FUS pathology from amyotrophic lateral sclerosis with FUS mutations</article-title>
+<source>Brain</source>
+<year>2011</year>
+<volume>134</volume>
+<fpage>2595</fpage>
+<lpage>2609</lpage>
+<pub-id pub-id-type="pmid">21856723</pub-id></element-citation></ref><ref id="B17"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ule</surname><given-names>J.</given-names></name><name><surname>Jensen</surname><given-names>K.B.</given-names></name><name><surname>Ruggiu</surname><given-names>M.</given-names></name><name><surname>Mele</surname><given-names>A.</given-names></name><name><surname>Ule</surname><given-names>A.</given-names></name><name><surname>Darnell</surname><given-names>R.B.</given-names></name></person-group>
+<article-title>CLIP identifies Nova-regulated RNA networks in the brain</article-title>
+<source>Science</source>
+<year>2003</year>
+<volume>302</volume>
+<fpage>1212</fpage>
+<lpage>1215</lpage>
+<pub-id pub-id-type="pmid">14615540</pub-id></element-citation></ref><ref id="B18"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ule</surname><given-names>J.</given-names></name><name><surname>Jensen</surname><given-names>K.</given-names></name><name><surname>Mele</surname><given-names>A.</given-names></name><name><surname>Darnell</surname><given-names>R.B.</given-names></name></person-group>
+<article-title>CLIP: a method for identifying protein-RNA interaction sites in living cells</article-title>
+<source>Methods</source>
+<year>2005</year>
+<volume>37</volume>
+<fpage>376</fpage>
+<lpage>386</lpage>
+<pub-id pub-id-type="pmid">16314267</pub-id></element-citation></ref><ref id="B19"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Z.</given-names></name><name><surname>Gerstein</surname><given-names>M.</given-names></name><name><surname>Snyder</surname><given-names>M.</given-names></name></person-group>
+<article-title>RNA-Seq: a revolutionary tool for transcriptomics</article-title>
+<source>Nat. Rev. Genet.</source>
+<year>2009</year>
+<volume>10</volume>
+<fpage>57</fpage>
+<lpage>63</lpage>
+<pub-id pub-id-type="pmid">19015660</pub-id></element-citation></ref><ref id="B20"><label>20.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>C.</given-names></name><name><surname>Zhang</surname><given-names>M.Q.</given-names></name></person-group>
+<person-group person-group-type="editor"><name><surname>Stamm</surname><given-names>S</given-names></name><name><surname>Smith</surname><given-names>C</given-names></name><name><surname>L&#x000fc;hrmann</surname><given-names>R</given-names></name></person-group>
+<article-title>Identification of splicing factor target genes by high-throughput sequencing</article-title>
+<source>Alternative pre-mRNA Splicing: Theory and Protocols</source>
+<year>2012</year>
+<volume>Chapter 51</volume>
+<publisher-loc>Hoboken, NJ</publisher-loc>
+<publisher-name>Wiley-Blackwell</publisher-name>
+</element-citation></ref><ref id="B21"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baker</surname><given-names>M.</given-names></name></person-group>
+<article-title>MicroRNA profiling: separating signal from noise</article-title>
+<source>Nat. Methods</source>
+<year>2010</year>
+<volume>7</volume>
+<fpage>687</fpage>
+<lpage>692</lpage>
+<pub-id pub-id-type="pmid">20805796</pub-id></element-citation></ref><ref id="B22"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Licatalosi</surname><given-names>D.D.</given-names></name><name><surname>Mele</surname><given-names>A.</given-names></name><name><surname>Fak</surname><given-names>J.J.</given-names></name><name><surname>Ule</surname><given-names>J.</given-names></name><name><surname>Kayikci</surname><given-names>M.</given-names></name><name><surname>Chi</surname><given-names>S.W.</given-names></name><name><surname>Clark</surname><given-names>T.A.</given-names></name><name><surname>Schweitzer</surname><given-names>A.C.</given-names></name><name><surname>Blume</surname><given-names>J.E.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><etal/></person-group>
+<article-title>HITS-CLIP yields genome-wide insights into brain alternative RNA processing</article-title>
+<source>Nature</source>
+<year>2008</year>
+<volume>456</volume>
+<fpage>464</fpage>
+<lpage>469</lpage>
+<pub-id pub-id-type="pmid">18978773</pub-id></element-citation></ref><ref id="B23"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaneko</surname><given-names>S.</given-names></name><name><surname>Bonasio</surname><given-names>R.</given-names></name><name><surname>Saldana-Meyer</surname><given-names>R.</given-names></name><name><surname>Yoshida</surname><given-names>T.</given-names></name><name><surname>Son</surname><given-names>J.</given-names></name><name><surname>Nishino</surname><given-names>K.</given-names></name><name><surname>Umezawa</surname><given-names>A.</given-names></name><name><surname>Reinberg</surname><given-names>D.</given-names></name></person-group>
+<article-title>Interactions between JARID2 and noncoding RNAs regulate PRC2 recruitment to chromatin</article-title>
+<source>Mol. Cell</source>
+<year>2014</year>
+<volume>53</volume>
+<fpage>290</fpage>
+<lpage>300</lpage>
+<pub-id pub-id-type="pmid">24374312</pub-id></element-citation></ref><ref id="B24"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Memczak</surname><given-names>S.</given-names></name><name><surname>Jens</surname><given-names>M.</given-names></name><name><surname>Elefsinioti</surname><given-names>A.</given-names></name><name><surname>Torti</surname><given-names>F.</given-names></name><name><surname>Krueger</surname><given-names>J.</given-names></name><name><surname>Rybak</surname><given-names>A.</given-names></name><name><surname>Maier</surname><given-names>L.</given-names></name><name><surname>Mackowiak</surname><given-names>S.D.</given-names></name><name><surname>Gregersen</surname><given-names>L.H.</given-names></name><name><surname>Munschauer</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>Circular RNAs are a large class of animal RNAs with regulatory potency</article-title>
+<source>Nature</source>
+<year>2013</year>
+<volume>495</volume>
+<fpage>333</fpage>
+<lpage>338</lpage>
+<pub-id pub-id-type="pmid">23446348</pub-id></element-citation></ref><ref id="B25"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>X.</given-names></name><name><surname>Zuo</surname><given-names>X.</given-names></name><name><surname>Yang</surname><given-names>B.</given-names></name><name><surname>Li</surname><given-names>Z.</given-names></name><name><surname>Xue</surname><given-names>Y.</given-names></name><name><surname>Zhou</surname><given-names>Y.</given-names></name><name><surname>Huang</surname><given-names>J.</given-names></name><name><surname>Zhao</surname><given-names>X.</given-names></name><name><surname>Zhou</surname><given-names>J.</given-names></name><name><surname>Yan</surname><given-names>Y.</given-names></name><etal/></person-group>
+<article-title>MicroRNA directly enhances mitochondrial translation during muscle differentiation</article-title>
+<source>Cell</source>
+<year>2014</year>
+<volume>158</volume>
+<fpage>607</fpage>
+<lpage>619</lpage>
+<pub-id pub-id-type="pmid">25083871</pub-id></element-citation></ref><ref id="B26"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chi</surname><given-names>S.W.</given-names></name><name><surname>Zang</surname><given-names>J.B.</given-names></name><name><surname>Mele</surname><given-names>A.</given-names></name><name><surname>Darnell</surname><given-names>R.B.</given-names></name></person-group>
+<article-title>Argonaute HITS-CLIP decodes microRNA-mRNA interaction maps</article-title>
+<source>Nature</source>
+<year>2009</year>
+<volume>460</volume>
+<fpage>479</fpage>
+<lpage>486</lpage>
+<pub-id pub-id-type="pmid">19536157</pub-id></element-citation></ref><ref id="B27"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hafner</surname><given-names>M.</given-names></name><name><surname>Landthaler</surname><given-names>M.</given-names></name><name><surname>Burger</surname><given-names>L.</given-names></name><name><surname>Khorshid</surname><given-names>M.</given-names></name><name><surname>Hausser</surname><given-names>J.</given-names></name><name><surname>Berninger</surname><given-names>P.</given-names></name><name><surname>Rothballer</surname><given-names>A.</given-names></name><name><surname>Ascano</surname><given-names>M.</given-names></name><name><surname>Jungkamp</surname><given-names>A.C.</given-names></name><name><surname>Munschauer</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>PAR-CliP&#x02013;a method to identify transcriptome-wide the binding sites of RNA binding proteins</article-title>
+<source>J. Vis. Exp.</source>
+<year>2010</year>
+<volume>41</volume>
+<comment>doi:10.3791/2034</comment>
+</element-citation></ref><ref id="B28"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Konig</surname><given-names>J.</given-names></name><name><surname>Zarnack</surname><given-names>K.</given-names></name><name><surname>Rot</surname><given-names>G.</given-names></name><name><surname>Curk</surname><given-names>T.</given-names></name><name><surname>Kayikci</surname><given-names>M.</given-names></name><name><surname>Zupan</surname><given-names>B.</given-names></name><name><surname>Turner</surname><given-names>D.J.</given-names></name><name><surname>Luscombe</surname><given-names>N.M.</given-names></name><name><surname>Ule</surname><given-names>J.</given-names></name></person-group>
+<article-title>iCLIP&#x02013;transcriptome-wide mapping of protein-RNA interactions with individual nucleotide resolution</article-title>
+<source>J. Vis. Exp.</source>
+<year>2011</year>
+<volume>50</volume>
+<comment>doi:10.3791/2638</comment>
+</element-citation></ref><ref id="B29"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Xie</surname><given-names>S.</given-names></name><name><surname>Xu</surname><given-names>H.</given-names></name><name><surname>Qu</surname><given-names>L.</given-names></name></person-group>
+<article-title>CLIP: viewing the RNA world from an RNA-protein interactome perspective</article-title>
+<source>Sci. China Life Sci.</source>
+<year>2015</year>
+<volume>58</volume>
+<fpage>75</fpage>
+<lpage>88</lpage>
+<pub-id pub-id-type="pmid">25576455</pub-id></element-citation></ref><ref id="B30"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>C.</given-names></name><name><surname>Darnell</surname><given-names>R.B.</given-names></name></person-group>
+<article-title>Mapping in vivo protein-RNA interactions at single-nucleotide resolution from HITS-CLIP data</article-title>
+<source>Nat. Biotechnol.</source>
+<year>2011</year>
+<volume>29</volume>
+<fpage>607</fpage>
+<lpage>614</lpage>
+<pub-id pub-id-type="pmid">21633356</pub-id></element-citation></ref><ref id="B31"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sievers</surname><given-names>C.</given-names></name><name><surname>Schlumpf</surname><given-names>T.</given-names></name><name><surname>Sawarkar</surname><given-names>R.</given-names></name><name><surname>Comoglio</surname><given-names>F.</given-names></name><name><surname>Paro</surname><given-names>R.</given-names></name></person-group>
+<article-title>Mixture models and wavelet transforms reveal high confidence RNA-protein interaction sites in MOV10 PAR-CLIP data</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2012</year>
+<volume>40</volume>
+<fpage>e160</fpage>
+<pub-id pub-id-type="pmid">22844102</pub-id></element-citation></ref><ref id="B32"><label>32.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>M.Q.</given-names></name></person-group>
+<person-group person-group-type="editor"><name><surname>Rodr&#x000ed;guez-Ezpeleta</surname><given-names>N</given-names></name><name><surname>Hackenberg</surname><given-names>M</given-names></name><name><surname>Aransay</surname><given-names>AM</given-names></name></person-group>
+<article-title>Dissecting splicing regulatory network by integrative analysis of CLIP-Seq data</article-title>
+<source>Bioinformatics for High Throughput Sequencing</source>
+<year>2012</year>
+<publisher-loc>NY</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>209</fpage>
+<lpage>218</lpage>
+</element-citation></ref><ref id="B33"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>ChIP-seq: advantages and challenges of a maturing technology</article-title>
+<source>Nat. Rev. Genet.</source>
+<year>2009</year>
+<volume>10</volume>
+<fpage>669</fpage>
+<lpage>680</lpage>
+<pub-id pub-id-type="pmid">19736561</pub-id></element-citation></ref><ref id="B34"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Zhou</surname><given-names>J.</given-names></name><name><surname>White</surname><given-names>K.P.</given-names></name></person-group>
+<article-title>RNA-seq differential expression studies: more sequence or more replication</article-title>
+<source>Bioinformatics</source>
+<year>2014</year>
+<volume>30</volume>
+<fpage>301</fpage>
+<lpage>304</lpage>
+<pub-id pub-id-type="pmid">24319002</pub-id></element-citation></ref><ref id="B35"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Licatalosi</surname><given-names>D.D.</given-names></name><name><surname>Yano</surname><given-names>M.</given-names></name><name><surname>Fak</surname><given-names>J.J.</given-names></name><name><surname>Mele</surname><given-names>A.</given-names></name><name><surname>Grabinski</surname><given-names>S.E.</given-names></name><name><surname>Zhang</surname><given-names>C.</given-names></name><name><surname>Darnell</surname><given-names>R.B.</given-names></name></person-group>
+<article-title>Ptbp2 represses adult-specific splicing to regulate the generation of neuronal precursors in the embryonic brain</article-title>
+<source>Genes Dev.</source>
+<year>2012</year>
+<volume>26</volume>
+<fpage>1626</fpage>
+<lpage>1642</lpage>
+<pub-id pub-id-type="pmid">22802532</pub-id></element-citation></ref><ref id="B36"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Macias</surname><given-names>S.</given-names></name><name><surname>Plass</surname><given-names>M.</given-names></name><name><surname>Stajuda</surname><given-names>A.</given-names></name><name><surname>Michlewski</surname><given-names>G.</given-names></name><name><surname>Eyras</surname><given-names>E.</given-names></name><name><surname>Caceres</surname><given-names>J.F.</given-names></name></person-group>
+<article-title>DGCR8 HITS-CLIP reveals novel functions for the Microprocessor</article-title>
+<source>Nat. Struct. Mol. Biol.</source>
+<year>2012</year>
+<volume>19</volume>
+<fpage>760</fpage>
+<lpage>766</lpage>
+<pub-id pub-id-type="pmid">22796965</pub-id></element-citation></ref><ref id="B37"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaneko</surname><given-names>S.</given-names></name><name><surname>Son</surname><given-names>J.</given-names></name><name><surname>Shen</surname><given-names>S.S.</given-names></name><name><surname>Reinberg</surname><given-names>D.</given-names></name><name><surname>Bonasio</surname><given-names>R.</given-names></name></person-group>
+<article-title>PRC2 binds active promoters and contacts nascent RNAs in embryonic stem cells</article-title>
+<source>Nat. Struct. Mol. Biol.</source>
+<year>2013</year>
+<volume>20</volume>
+<fpage>1258</fpage>
+<lpage>1264</lpage>
+<pub-id pub-id-type="pmid">24141703</pub-id></element-citation></ref><ref id="B38"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hafner</surname><given-names>M.</given-names></name><name><surname>Landthaler</surname><given-names>M.</given-names></name><name><surname>Burger</surname><given-names>L.</given-names></name><name><surname>Khorshid</surname><given-names>M.</given-names></name><name><surname>Hausser</surname><given-names>J.</given-names></name><name><surname>Berninger</surname><given-names>P.</given-names></name><name><surname>Rothballer</surname><given-names>A.</given-names></name><name><surname>Ascano</surname><given-names>M. Jr</given-names></name><name><surname>Jungkamp</surname><given-names>A.C.</given-names></name><name><surname>Munschauer</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>Transcriptome-wide identification of RNA-binding protein and microRNA target sites by PAR-CLIP</article-title>
+<source>Cell</source>
+<year>2010</year>
+<volume>141</volume>
+<fpage>129</fpage>
+<lpage>141</lpage>
+<pub-id pub-id-type="pmid">20371350</pub-id></element-citation></ref><ref id="B39"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Konig</surname><given-names>J.</given-names></name><name><surname>Zarnack</surname><given-names>K.</given-names></name><name><surname>Rot</surname><given-names>G.</given-names></name><name><surname>Curk</surname><given-names>T.</given-names></name><name><surname>Kayikci</surname><given-names>M.</given-names></name><name><surname>Zupan</surname><given-names>B.</given-names></name><name><surname>Turner</surname><given-names>D.J.</given-names></name><name><surname>Luscombe</surname><given-names>N.M.</given-names></name><name><surname>Ule</surname><given-names>J.</given-names></name></person-group>
+<article-title>iCLIP reveals the function of hnRNP particles in splicing at individual nucleotide resolution</article-title>
+<source>Nat. Struct. Mol. Biol.</source>
+<year>2010</year>
+<volume>17</volume>
+<fpage>909</fpage>
+<lpage>915</lpage>
+<pub-id pub-id-type="pmid">20601959</pub-id></element-citation></ref><ref id="B40"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yao</surname><given-names>C.</given-names></name><name><surname>Biesinger</surname><given-names>J.</given-names></name><name><surname>Wan</surname><given-names>J.</given-names></name><name><surname>Weng</surname><given-names>L.</given-names></name><name><surname>Xing</surname><given-names>Y.</given-names></name><name><surname>Xie</surname><given-names>X.</given-names></name><name><surname>Shi</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Transcriptome-wide analyses of CstF64-RNA interactions in global regulation of mRNA alternative polyadenylation</article-title>
+<source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<year>2012</year>
+<volume>109</volume>
+<fpage>18773</fpage>
+<lpage>18778</lpage>
+<pub-id pub-id-type="pmid">23112178</pub-id></element-citation></ref><ref id="B41"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bradley</surname><given-names>T.</given-names></name><name><surname>Cook</surname><given-names>M.E.</given-names></name><name><surname>Blanchette</surname><given-names>M.</given-names></name></person-group>
+<article-title>SR proteins control a complex network of RNA-processing events</article-title>
+<source>RNA</source>
+<year>2015</year>
+<volume>21</volume>
+<fpage>75</fpage>
+<lpage>92</lpage>
+<pub-id pub-id-type="pmid">25414008</pub-id></element-citation></ref><ref id="B42"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murota</surname><given-names>Y.</given-names></name><name><surname>Ishizu</surname><given-names>H.</given-names></name><name><surname>Nakagawa</surname><given-names>S.</given-names></name><name><surname>Iwasaki</surname><given-names>Y.W.</given-names></name><name><surname>Shibata</surname><given-names>S.</given-names></name><name><surname>Kamatani</surname><given-names>M.K.</given-names></name><name><surname>Saito</surname><given-names>K.</given-names></name><name><surname>Okano</surname><given-names>H.</given-names></name><name><surname>Siomi</surname><given-names>H.</given-names></name><name><surname>Siomi</surname><given-names>M.C.</given-names></name></person-group>
+<article-title>Yb integrates piRNA intermediates and processing factors into perinuclear bodies to enhance piRISC assembly</article-title>
+<source>Cell Rep.</source>
+<year>2014</year>
+<volume>8</volume>
+<fpage>103</fpage>
+<lpage>113</lpage>
+<pub-id pub-id-type="pmid">24953657</pub-id></element-citation></ref><ref id="B43"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weyn-Vanhentenryck</surname><given-names>S.M.</given-names></name><name><surname>Mele</surname><given-names>A.</given-names></name><name><surname>Yan</surname><given-names>Q.</given-names></name><name><surname>Sun</surname><given-names>S.</given-names></name><name><surname>Farny</surname><given-names>N.</given-names></name><name><surname>Zhang</surname><given-names>Z.</given-names></name><name><surname>Xue</surname><given-names>C.</given-names></name><name><surname>Herre</surname><given-names>M.</given-names></name><name><surname>Silver</surname><given-names>P.A.</given-names></name><name><surname>Zhang</surname><given-names>M.Q.</given-names></name><etal/></person-group>
+<article-title>HITS-CLIP and integrative modeling define the Rbfox splicing-regulatory network linked to brain development and autism</article-title>
+<source>Cell Rep.</source>
+<year>2014</year>
+<volume>6</volume>
+<fpage>1139</fpage>
+<lpage>1152</lpage>
+<pub-id pub-id-type="pmid">24613350</pub-id></element-citation></ref><ref id="B44"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Erhard</surname><given-names>F.</given-names></name><name><surname>Dolken</surname><given-names>L.</given-names></name><name><surname>Jaskiewicz</surname><given-names>L.</given-names></name><name><surname>Zimmer</surname><given-names>R.</given-names></name></person-group>
+<article-title>PARma: identification of microRNA target sites in AGO-PAR-CLIP data</article-title>
+<source>Genome Biol.</source>
+<year>2013</year>
+<volume>14</volume>
+<fpage>R79</fpage>
+<pub-id pub-id-type="pmid">23895117</pub-id></element-citation></ref><ref id="B45"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anders</surname><given-names>S.</given-names></name><name><surname>Huber</surname><given-names>W.</given-names></name></person-group>
+<article-title>Differential expression analysis for sequence count data</article-title>
+<source>Genome Biol.</source>
+<year>2010</year>
+<volume>11</volume>
+<fpage>R106</fpage>
+<pub-id pub-id-type="pmid">20979621</pub-id></element-citation></ref><ref id="B46"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sei</surname><given-names>E.</given-names></name><name><surname>Wang</surname><given-names>T.</given-names></name><name><surname>Hunter</surname><given-names>O.V.</given-names></name><name><surname>Xie</surname><given-names>Y.</given-names></name><name><surname>Conrad</surname><given-names>N.K.</given-names></name></person-group>
+<article-title>HITS-CLIP analysis uncovers a link between the Kaposi's sarcoma-associated herpesvirus ORF57 protein and host pre-mRNA metabolism</article-title>
+<source>PLoS Pathog.</source>
+<year>2015</year>
+<volume>11</volume>
+<fpage>e1004652</fpage>
+<pub-id pub-id-type="pmid">25710169</pub-id></element-citation></ref><ref id="B47"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Uren</surname><given-names>P.J.</given-names></name><name><surname>Bahrami-Samani</surname><given-names>E.</given-names></name><name><surname>Burns</surname><given-names>S.C.</given-names></name><name><surname>Qiao</surname><given-names>M.</given-names></name><name><surname>Karginov</surname><given-names>F.V.</given-names></name><name><surname>Hodges</surname><given-names>E.</given-names></name><name><surname>Hannon</surname><given-names>G.J.</given-names></name><name><surname>Sanford</surname><given-names>J.R.</given-names></name><name><surname>Penalva</surname><given-names>L.O.</given-names></name><name><surname>Smith</surname><given-names>A.D.</given-names></name></person-group>
+<article-title>Site identification in high-throughput RNA-protein interaction data</article-title>
+<source>Bioinformatics</source>
+<year>2012</year>
+<volume>28</volume>
+<fpage>3013</fpage>
+<lpage>3020</lpage>
+<pub-id pub-id-type="pmid">23024010</pub-id></element-citation></ref><ref id="B48"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>T.</given-names></name><name><surname>Xie</surname><given-names>Y.</given-names></name><name><surname>Xiao</surname><given-names>G.</given-names></name></person-group>
+<article-title>dCLIP: a computational approach for comparative CLIP-seq analyses</article-title>
+<source>Genome Biol.</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>R11</fpage>
+<pub-id pub-id-type="pmid">24398258</pub-id></element-citation></ref><ref id="B49"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Q.</given-names></name><name><surname>Zhong</surname><given-names>X.</given-names></name><name><surname>Madison</surname><given-names>B.B.</given-names></name><name><surname>Rustgi</surname><given-names>A.K.</given-names></name><name><surname>Shyr</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Assessing computational steps for CLIP-seq data analysis</article-title>
+<source>BioMed. Res. Int</source>
+<year>2015</year>
+</element-citation></ref><ref id="B50"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Y.C.</given-names></name><name><surname>Di</surname><given-names>C.</given-names></name><name><surname>Hu</surname><given-names>B.</given-names></name><name><surname>Zhou</surname><given-names>M.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Song</surname><given-names>N.</given-names></name><name><surname>Li</surname><given-names>Y.</given-names></name><name><surname>Umetsu</surname><given-names>J.</given-names></name><name><surname>Lu</surname><given-names>Z.</given-names></name></person-group>
+<article-title>CLIPdb: a CLIP-seq database for protein-RNA interactions</article-title>
+<source>BMC Genomics</source>
+<year>2015</year>
+<volume>16</volume>
+<fpage>51</fpage>
+<pub-id pub-id-type="pmid">25652745</pub-id></element-citation></ref><ref id="B51"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sims</surname><given-names>D.</given-names></name><name><surname>Sudbery</surname><given-names>I.</given-names></name><name><surname>Ilott</surname><given-names>N.E.</given-names></name><name><surname>Heger</surname><given-names>A.</given-names></name><name><surname>Ponting</surname><given-names>C.P.</given-names></name></person-group>
+<article-title>Sequencing depth and coverage: key considerations in genomic analyses</article-title>
+<source>Nat. Rev. Genet.</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>121</fpage>
+<lpage>132</lpage>
+<pub-id pub-id-type="pmid">24434847</pub-id></element-citation></ref><ref id="B52"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Langmead</surname><given-names>B.</given-names></name><name><surname>Trapnell</surname><given-names>C.</given-names></name><name><surname>Pop</surname><given-names>M.</given-names></name><name><surname>Salzberg</surname><given-names>S.L.</given-names></name></person-group>
+<article-title>Ultrafast and memory-efficient alignment of short DNA sequences to the human genome</article-title>
+<source>Genome Biol.</source>
+<year>2009</year>
+<volume>10</volume>
+<fpage>R25</fpage>
+<pub-id pub-id-type="pmid">19261174</pub-id></element-citation></ref><ref id="B53"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kent</surname><given-names>W.J.</given-names></name></person-group>
+<article-title>BLAT&#x02013;the BLAST-like alignment tool</article-title>
+<source>Genome Res.</source>
+<year>2002</year>
+<volume>12</volume>
+<fpage>656</fpage>
+<lpage>664</lpage>
+<pub-id pub-id-type="pmid">11932250</pub-id></element-citation></ref><ref id="B54"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>T.D.</given-names></name><name><surname>Nacu</surname><given-names>S.</given-names></name></person-group>
+<article-title>Fast and SNP-tolerant detection of complex variants and splicing in short reads</article-title>
+<source>Bioinformatics</source>
+<year>2010</year>
+<volume>26</volume>
+<fpage>873</fpage>
+<lpage>881</lpage>
+<pub-id pub-id-type="pmid">20147302</pub-id></element-citation></ref><ref id="B55"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>H.</given-names></name><name><surname>Durbin</surname><given-names>R.</given-names></name></person-group>
+<article-title>Fast and accurate short read alignment with Burrows-Wheeler transform</article-title>
+<source>Bioinformatics</source>
+<year>2009</year>
+<volume>25</volume>
+<fpage>1754</fpage>
+<lpage>1760</lpage>
+<pub-id pub-id-type="pmid">19451168</pub-id></element-citation></ref><ref id="B56"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>A.D.</given-names></name><name><surname>Chung</surname><given-names>W.Y.</given-names></name><name><surname>Hodges</surname><given-names>E.</given-names></name><name><surname>Kendall</surname><given-names>J.</given-names></name><name><surname>Hannon</surname><given-names>G.</given-names></name><name><surname>Hicks</surname><given-names>J.</given-names></name><name><surname>Xuan</surname><given-names>Z.</given-names></name><name><surname>Zhang</surname><given-names>M.Q.</given-names></name></person-group>
+<article-title>Updates to the RMAP short-read mapping software</article-title>
+<source>Bioinformatics</source>
+<year>2009</year>
+<volume>25</volume>
+<fpage>2841</fpage>
+<lpage>2842</lpage>
+<pub-id pub-id-type="pmid">19736251</pub-id></element-citation></ref><ref id="B57"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sugimoto</surname><given-names>Y.</given-names></name><name><surname>Konig</surname><given-names>J.</given-names></name><name><surname>Hussain</surname><given-names>S.</given-names></name><name><surname>Zupan</surname><given-names>B.</given-names></name><name><surname>Curk</surname><given-names>T.</given-names></name><name><surname>Frye</surname><given-names>M.</given-names></name><name><surname>Ule</surname><given-names>J.</given-names></name></person-group>
+<article-title>Analysis of CLIP and iCLIP methods for nucleotide-resolution studies of protein-RNA interactions</article-title>
+<source>Genome Biol.</source>
+<year>2012</year>
+<volume>13</volume>
+<fpage>R67</fpage>
+<pub-id pub-id-type="pmid">22863408</pub-id></element-citation></ref><ref id="B58"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Webb</surname><given-names>S.</given-names></name><name><surname>Hector</surname><given-names>R.D.</given-names></name><name><surname>Kudla</surname><given-names>G.</given-names></name><name><surname>Granneman</surname><given-names>S.</given-names></name></person-group>
+<article-title>PAR-CLIP data indicate that Nrd1-Nab3-dependent transcription termination regulates expression of hundreds of protein coding genes in yeast</article-title>
+<source>Genome Biol.</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>R8</fpage>
+<pub-id pub-id-type="pmid">24393166</pub-id></element-citation></ref><ref id="B59"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Polymenidou</surname><given-names>M.</given-names></name><name><surname>Lagier-Tourenne</surname><given-names>C.</given-names></name><name><surname>Hutt</surname><given-names>K.R.</given-names></name><name><surname>Huelga</surname><given-names>S.C.</given-names></name><name><surname>Moran</surname><given-names>J.</given-names></name><name><surname>Liang</surname><given-names>T.Y.</given-names></name><name><surname>Ling</surname><given-names>S.C.</given-names></name><name><surname>Sun</surname><given-names>E.</given-names></name><name><surname>Wancewicz</surname><given-names>E.</given-names></name><name><surname>Mazur</surname><given-names>C.</given-names></name><etal/></person-group>
+<article-title>Long pre-mRNA depletion and RNA missplicing contribute to neuronal vulnerability from loss of TDP-43</article-title>
+<source>Nat. Neurosci.</source>
+<year>2011</year>
+<volume>14</volume>
+<fpage>459</fpage>
+<lpage>468</lpage>
+<pub-id pub-id-type="pmid">21358643</pub-id></element-citation></ref><ref id="B60"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stark</surname><given-names>T.J.</given-names></name><name><surname>Arnold</surname><given-names>J.D.</given-names></name><name><surname>Spector</surname><given-names>D.H.</given-names></name><name><surname>Yeo</surname><given-names>G.W.</given-names></name></person-group>
+<article-title>High-resolution profiling and analysis of viral and host small RNAs during human cytomegalovirus infection</article-title>
+<source>J. Virol.</source>
+<year>2012</year>
+<volume>86</volume>
+<fpage>226</fpage>
+<lpage>235</lpage>
+<pub-id pub-id-type="pmid">22013051</pub-id></element-citation></ref><ref id="B61"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lovci</surname><given-names>M.T.</given-names></name><name><surname>Ghanem</surname><given-names>D.</given-names></name><name><surname>Marr</surname><given-names>H.</given-names></name><name><surname>Arnold</surname><given-names>J.</given-names></name><name><surname>Gee</surname><given-names>S.</given-names></name><name><surname>Parra</surname><given-names>M.</given-names></name><name><surname>Liang</surname><given-names>T.Y.</given-names></name><name><surname>Stark</surname><given-names>T.J.</given-names></name><name><surname>Gehman</surname><given-names>L.T.</given-names></name><name><surname>Hoon</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges</article-title>
+<source>Nat. Struct. Mol. Biol.</source>
+<year>2013</year>
+<volume>20</volume>
+<fpage>1434</fpage>
+<lpage>1442</lpage>
+<pub-id pub-id-type="pmid">24213538</pub-id></element-citation></ref><ref id="B62"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jungkamp</surname><given-names>A.C.</given-names></name><name><surname>Stoeckius</surname><given-names>M.</given-names></name><name><surname>Mecenas</surname><given-names>D.</given-names></name><name><surname>Grun</surname><given-names>D.</given-names></name><name><surname>Mastrobuoni</surname><given-names>G.</given-names></name><name><surname>Kempa</surname><given-names>S.</given-names></name><name><surname>Rajewsky</surname><given-names>N.</given-names></name></person-group>
+<article-title>In vivo and transcriptome-wide identification of RNA binding protein target sites</article-title>
+<source>Mol. Cell</source>
+<year>2011</year>
+<volume>44</volume>
+<fpage>828</fpage>
+<lpage>840</lpage>
+<pub-id pub-id-type="pmid">22152485</pub-id></element-citation></ref><ref id="B63"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Engstrom</surname><given-names>P.G.</given-names></name><name><surname>Steijger</surname><given-names>T.</given-names></name><name><surname>Sipos</surname><given-names>B.</given-names></name><name><surname>Grant</surname><given-names>G.R.</given-names></name><name><surname>Kahles</surname><given-names>A.</given-names></name><name><surname>Ratsch</surname><given-names>G.</given-names></name><name><surname>Goldman</surname><given-names>N.</given-names></name><name><surname>Hubbard</surname><given-names>T.J.</given-names></name><name><surname>Harrow</surname><given-names>J.</given-names></name><name><surname>Guigo</surname><given-names>R.</given-names></name><etal/></person-group>
+<article-title>Systematic evaluation of spliced alignment programs for RNA-seq data</article-title>
+<source>Nat. Methods</source>
+<year>2013</year>
+<volume>10</volume>
+<fpage>1185</fpage>
+<lpage>1191</lpage>
+<pub-id pub-id-type="pmid">24185836</pub-id></element-citation></ref><ref id="B64"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bas</surname><given-names>A.</given-names></name><name><surname>Forsberg</surname><given-names>G.</given-names></name><name><surname>Hammarstrom</surname><given-names>S.</given-names></name><name><surname>Hammarstrom</surname><given-names>M.L.</given-names></name></person-group>
+<article-title>Utility of the housekeeping genes 18S rRNA, beta-actin and glyceraldehyde-3-phosphate-dehydrogenase for normalization in real-time quantitative reverse transcriptase-polymerase chain reaction analysis of gene expression in human T lymphocytes</article-title>
+<source>Scand. J. Immunol.</source>
+<year>2004</year>
+<volume>59</volume>
+<fpage>566</fpage>
+<lpage>573</lpage>
+<pub-id pub-id-type="pmid">15182252</pub-id></element-citation></ref><ref id="B65"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>B.</given-names></name><name><surname>Yun</surname><given-names>J.</given-names></name><name><surname>Kim</surname><given-names>M.S.</given-names></name><name><surname>Mendell</surname><given-names>J.T.</given-names></name><name><surname>Xie</surname><given-names>Y.</given-names></name></person-group>
+<article-title>PIPE-CLIP: a comprehensive online tool for CLIP-seq data analysis</article-title>
+<source>Genome Biol.</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>R18</fpage>
+<pub-id pub-id-type="pmid">24451213</pub-id></element-citation></ref><ref id="B66"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ince-Dunn</surname><given-names>G.</given-names></name><name><surname>Okano</surname><given-names>H.J.</given-names></name><name><surname>Jensen</surname><given-names>K.B.</given-names></name><name><surname>Park</surname><given-names>W.Y.</given-names></name><name><surname>Zhong</surname><given-names>R.</given-names></name><name><surname>Ule</surname><given-names>J.</given-names></name><name><surname>Mele</surname><given-names>A.</given-names></name><name><surname>Fak</surname><given-names>J.J.</given-names></name><name><surname>Yang</surname><given-names>C.</given-names></name><name><surname>Zhang</surname><given-names>C.</given-names></name><etal/></person-group>
+<article-title>Neuronal Elav-like (Hu) proteins regulate RNA splicing and abundance to control glutamate levels and neuronal excitability</article-title>
+<source>Neuron</source>
+<year>2012</year>
+<volume>75</volume>
+<fpage>1067</fpage>
+<lpage>1080</lpage>
+<pub-id pub-id-type="pmid">22998874</pub-id></element-citation></ref><ref id="B67"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boudreau</surname><given-names>R.L.</given-names></name><name><surname>Jiang</surname><given-names>P.</given-names></name><name><surname>Gilmore</surname><given-names>B.L.</given-names></name><name><surname>Spengler</surname><given-names>R.M.</given-names></name><name><surname>Tirabassi</surname><given-names>R.</given-names></name><name><surname>Nelson</surname><given-names>J.A.</given-names></name><name><surname>Ross</surname><given-names>C.A.</given-names></name><name><surname>Xing</surname><given-names>Y.</given-names></name><name><surname>Davidson</surname><given-names>B.L.</given-names></name></person-group>
+<article-title>Transcriptome-wide discovery of microRNA binding sites in human brain</article-title>
+<source>Neuron</source>
+<year>2014</year>
+<volume>81</volume>
+<fpage>294</fpage>
+<lpage>305</lpage>
+<pub-id pub-id-type="pmid">24389009</pub-id></element-citation></ref><ref id="B68"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haecker</surname><given-names>I.</given-names></name><name><surname>Gay</surname><given-names>L.A.</given-names></name><name><surname>Yang</surname><given-names>Y.</given-names></name><name><surname>Hu</surname><given-names>J.</given-names></name><name><surname>Morse</surname><given-names>A.M.</given-names></name><name><surname>McIntyre</surname><given-names>L.M.</given-names></name><name><surname>Renne</surname><given-names>R.</given-names></name></person-group>
+<article-title>Ago HITS-CLIP expands understanding of Kaposi's sarcoma-associated herpesvirus miRNA function in primary effusion lymphomas</article-title>
+<source>PLoS Pathog.</source>
+<year>2012</year>
+<volume>8</volume>
+<fpage>e1002884</fpage>
+<pub-id pub-id-type="pmid">22927820</pub-id></element-citation></ref><ref id="B69"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Masuda</surname><given-names>A.</given-names></name><name><surname>Andersen</surname><given-names>H.S.</given-names></name><name><surname>Doktor</surname><given-names>T.K.</given-names></name><name><surname>Okamoto</surname><given-names>T.</given-names></name><name><surname>Ito</surname><given-names>M.</given-names></name><name><surname>Andresen</surname><given-names>B.S.</given-names></name><name><surname>Ohno</surname><given-names>K.</given-names></name></person-group>
+<article-title>CUGBP1 and MBNL1 preferentially bind to 3&#x02032; UTRs and facilitate mRNA decay</article-title>
+<source>Sci. Rep.</source>
+<year>2012</year>
+<volume>2</volume>
+<fpage>209</fpage>
+<pub-id pub-id-type="pmid">22355723</pub-id></element-citation></ref><ref id="B70"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ishigaki</surname><given-names>S.</given-names></name><name><surname>Masuda</surname><given-names>A.</given-names></name><name><surname>Fujioka</surname><given-names>Y.</given-names></name><name><surname>Iguchi</surname><given-names>Y.</given-names></name><name><surname>Katsuno</surname><given-names>M.</given-names></name><name><surname>Shibata</surname><given-names>A.</given-names></name><name><surname>Urano</surname><given-names>F.</given-names></name><name><surname>Sobue</surname><given-names>G.</given-names></name><name><surname>Ohno</surname><given-names>K.</given-names></name></person-group>
+<article-title>Position-dependent FUS-RNA interactions regulate alternative splicing events and transcriptions</article-title>
+<source>Sci. Rep.</source>
+<year>2012</year>
+<volume>2</volume>
+<fpage>529</fpage>
+<pub-id pub-id-type="pmid">22829983</pub-id></element-citation></ref><ref id="B71"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chu</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>T.</given-names></name><name><surname>Dodd</surname><given-names>D.</given-names></name><name><surname>Xie</surname><given-names>Y.</given-names></name><name><surname>Janowski</surname><given-names>B.A.</given-names></name><name><surname>Corey</surname><given-names>D.R.</given-names></name></person-group>
+<article-title>Intramolecular circularization increases efficiency of RNA sequencing and enables CLIP-Seq of nuclear RNA from human cells</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2015</year>
+<comment>pii:gkv213</comment>
+</element-citation></ref><ref id="B72"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khorshid</surname><given-names>M.</given-names></name><name><surname>Rodak</surname><given-names>C.</given-names></name><name><surname>Zavolan</surname><given-names>M.</given-names></name></person-group>
+<article-title>CLIPZ: a database and analysis environment for experimentally determined binding sites of RNA-binding proteins</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2011</year>
+<volume>39</volume>
+<fpage>D245</fpage>
+<lpage>D252</lpage>
+<pub-id pub-id-type="pmid">21087992</pub-id></element-citation></ref><ref id="B73"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Friedersdorf</surname><given-names>M.B.</given-names></name><name><surname>Keene</surname><given-names>J.D.</given-names></name></person-group>
+<article-title>Advancing the functional utility of PAR-CLIP by quantifying background binding to mRNAs and lncRNAs</article-title>
+<source>Genome Biol.</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>R2</fpage>
+<pub-id pub-id-type="pmid">24393468</pub-id></element-citation></ref><ref id="B74"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bahrami-Samani</surname><given-names>E.</given-names></name><name><surname>Penalva</surname><given-names>L.O.</given-names></name><name><surname>Smith</surname><given-names>A.D.</given-names></name><name><surname>Uren</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>Leveraging cross-link modification events in CLIP-seq for motif discovery</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2015</year>
+<volume>43</volume>
+<fpage>95</fpage>
+<lpage>103</lpage>
+<pub-id pub-id-type="pmid">25505146</pub-id></element-citation></ref><ref id="B75"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>T.</given-names></name><name><surname>Chen</surname><given-names>B.</given-names></name><name><surname>Kim</surname><given-names>M.</given-names></name><name><surname>Xie</surname><given-names>Y.</given-names></name><name><surname>Xiao</surname><given-names>G.</given-names></name></person-group>
+<article-title>A model-based approach to identify binding sites in CLIP-seq data</article-title>
+<source>PloS one</source>
+<year>2014</year>
+<volume>9</volume>
+<fpage>e93248</fpage>
+<pub-id pub-id-type="pmid">24714572</pub-id></element-citation></ref><ref id="B76"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xiao</surname><given-names>G.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Quincey</surname><given-names>L.</given-names></name><name><surname>Nestler</surname><given-names>E.J.</given-names></name><name><surname>Xie</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Detection of epigenetic changes using ANOVA with spatially varying coefficients</article-title>
+<source>Stat. Appl. Genet. Mol. Biol.</source>
+<year>2013</year>
+<volume>12</volume>
+<fpage>189</fpage>
+<lpage>205</lpage>
+<pub-id pub-id-type="pmid">23502341</pub-id></element-citation></ref><ref id="B77"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Zang</surname><given-names>M.</given-names></name><name><surname>Xiao</surname><given-names>G.</given-names></name></person-group>
+<article-title>Epigenetic change detection and pattern recognition via Bayesian hierarchical hidden Markov models</article-title>
+<source>Stat. Med.</source>
+<year>2013</year>
+<volume>32</volume>
+<fpage>2292</fpage>
+<lpage>2307</lpage>
+<pub-id pub-id-type="pmid">23097332</pub-id></element-citation></ref><ref id="B78"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lewis</surname><given-names>H.A.</given-names></name><name><surname>Musunuru</surname><given-names>K.</given-names></name><name><surname>Jensen</surname><given-names>K.B.</given-names></name><name><surname>Edo</surname><given-names>C.</given-names></name><name><surname>Chen</surname><given-names>H.</given-names></name><name><surname>Darnell</surname><given-names>R.B.</given-names></name><name><surname>Burley</surname><given-names>S.K.</given-names></name></person-group>
+<article-title>Sequence-specific RNA binding by a Nova KH domain: implications for paraneoplastic disease and the fragile X syndrome</article-title>
+<source>Cell</source>
+<year>2000</year>
+<volume>100</volume>
+<fpage>323</fpage>
+<lpage>332</lpage>
+<pub-id pub-id-type="pmid">10676814</pub-id></element-citation></ref><ref id="B79"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jensen</surname><given-names>K.B.</given-names></name><name><surname>Musunuru</surname><given-names>K.</given-names></name><name><surname>Lewis</surname><given-names>H.A.</given-names></name><name><surname>Burley</surname><given-names>S.K.</given-names></name><name><surname>Darnell</surname><given-names>R.B.</given-names></name></person-group>
+<article-title>The tetranucleotide UCAY directs the specific recognition of RNA by the Nova K-homology 3 domain</article-title>
+<source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<year>2000</year>
+<volume>97</volume>
+<fpage>5740</fpage>
+<lpage>5745</lpage>
+<pub-id pub-id-type="pmid">10811881</pub-id></element-citation></ref><ref id="B80"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heinz</surname><given-names>S.</given-names></name><name><surname>Benner</surname><given-names>C.</given-names></name><name><surname>Spann</surname><given-names>N.</given-names></name><name><surname>Bertolino</surname><given-names>E.</given-names></name><name><surname>Lin</surname><given-names>Y.C.</given-names></name><name><surname>Laslo</surname><given-names>P.</given-names></name><name><surname>Cheng</surname><given-names>J.X.</given-names></name><name><surname>Murre</surname><given-names>C.</given-names></name><name><surname>Singh</surname><given-names>H.</given-names></name><name><surname>Glass</surname><given-names>C.K.</given-names></name></person-group>
+<article-title>Simple combinations of lineage-determining transcription factors prime cis-regulatory elements required for macrophage and B cell identities</article-title>
+<source>Mol. Cell</source>
+<year>2010</year>
+<volume>38</volume>
+<fpage>576</fpage>
+<lpage>589</lpage>
+<pub-id pub-id-type="pmid">20513432</pub-id></element-citation></ref><ref id="B81"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bailey</surname><given-names>T.L.</given-names></name><name><surname>Boden</surname><given-names>M.</given-names></name><name><surname>Buske</surname><given-names>F.A.</given-names></name><name><surname>Frith</surname><given-names>M.</given-names></name><name><surname>Grant</surname><given-names>C.E.</given-names></name><name><surname>Clementi</surname><given-names>L.</given-names></name><name><surname>Ren</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>W.W.</given-names></name><name><surname>Noble</surname><given-names>W.S.</given-names></name></person-group>
+<article-title>MEME SUITE: tools for motif discovery and searching</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2009</year>
+<volume>37</volume>
+<fpage>W202</fpage>
+<lpage>W208</lpage>
+<pub-id pub-id-type="pmid">19458158</pub-id></element-citation></ref><ref id="B82"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ray</surname><given-names>D.</given-names></name><name><surname>Kazan</surname><given-names>H.</given-names></name><name><surname>Cook</surname><given-names>K.B.</given-names></name><name><surname>Weirauch</surname><given-names>M.T.</given-names></name><name><surname>Najafabadi</surname><given-names>H.S.</given-names></name><name><surname>Li</surname><given-names>X.</given-names></name><name><surname>Gueroussov</surname><given-names>S.</given-names></name><name><surname>Albu</surname><given-names>M.</given-names></name><name><surname>Zheng</surname><given-names>H.</given-names></name><name><surname>Yang</surname><given-names>A.</given-names></name><etal/></person-group>
+<article-title>A compendium of RNA-binding motifs for decoding gene regulation</article-title>
+<source>Nature</source>
+<year>2013</year>
+<volume>499</volume>
+<fpage>172</fpage>
+<lpage>177</lpage>
+<pub-id pub-id-type="pmid">23846655</pub-id></element-citation></ref><ref id="B83"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>X.</given-names></name><name><surname>Kazan</surname><given-names>H.</given-names></name><name><surname>Lipshitz</surname><given-names>H.D.</given-names></name><name><surname>Morris</surname><given-names>Q.D.</given-names></name></person-group>
+<article-title>Finding the target sites of RNA-binding proteins</article-title>
+<source>Wiley Interdiscip. Rev. RNA</source>
+<year>2014</year>
+<volume>5</volume>
+<fpage>111</fpage>
+<lpage>130</lpage>
+<pub-id pub-id-type="pmid">24217996</pub-id></element-citation></ref><ref id="B84"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reyes-Herrera</surname><given-names>P.H.</given-names></name><name><surname>Ficarra</surname><given-names>E.</given-names></name></person-group>
+<article-title>Computational methods for CLIP-seq data processing</article-title>
+<source>Bioinform. Biol. Insights</source>
+<year>2014</year>
+<volume>8</volume>
+<fpage>199</fpage>
+<lpage>207</lpage>
+<pub-id pub-id-type="pmid">25336930</pub-id></element-citation></ref><ref id="B85"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lambert</surname><given-names>N.</given-names></name><name><surname>Robertson</surname><given-names>A.</given-names></name><name><surname>Jangi</surname><given-names>M.</given-names></name><name><surname>McGeary</surname><given-names>S.</given-names></name><name><surname>Sharp</surname><given-names>P.A.</given-names></name><name><surname>Burge</surname><given-names>C.B.</given-names></name></person-group>
+<article-title>RNA Bind-n-Seq: quantitative assessment of the sequence and structural binding specificity of RNA binding proteins</article-title>
+<source>Mol. Cell</source>
+<year>2014</year>
+<volume>54</volume>
+<fpage>887</fpage>
+<lpage>900</lpage>
+<pub-id pub-id-type="pmid">24837674</pub-id></element-citation></ref><ref id="B86"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fukunaga</surname><given-names>T.</given-names></name><name><surname>Ozaki</surname><given-names>H.</given-names></name><name><surname>Terai</surname><given-names>G.</given-names></name><name><surname>Asai</surname><given-names>K.</given-names></name><name><surname>Iwasaki</surname><given-names>W.</given-names></name><name><surname>Kiryu</surname><given-names>H.</given-names></name></person-group>
+<article-title>CapR: revealing structural specificities of RNA-binding protein target recognition using CLIP-seq data</article-title>
+<source>Genome Biol.</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>R16</fpage>
+<pub-id pub-id-type="pmid">24447569</pub-id></element-citation></ref><ref id="B87"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kazan</surname><given-names>H.</given-names></name><name><surname>Ray</surname><given-names>D.</given-names></name><name><surname>Chan</surname><given-names>E.T.</given-names></name><name><surname>Hughes</surname><given-names>T.R.</given-names></name><name><surname>Morris</surname><given-names>Q.</given-names></name></person-group>
+<article-title>RNAcontext: a new method for learning the sequence and structure binding preferences of RNA-binding proteins</article-title>
+<source>PLoS Comput. Biol.</source>
+<year>2010</year>
+<volume>6</volume>
+<fpage>e1000832</fpage>
+<pub-id pub-id-type="pmid">20617199</pub-id></element-citation></ref><ref id="B88"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lorenz</surname><given-names>R.</given-names></name><name><surname>Bernhart</surname><given-names>S.H.</given-names></name><name><surname>Honer&#x000a0;Zu&#x000a0;Siederdissen</surname><given-names>C.</given-names></name><name><surname>Tafer</surname><given-names>H.</given-names></name><name><surname>Flamm</surname><given-names>C.</given-names></name><name><surname>Stadler</surname><given-names>P.F.</given-names></name><name><surname>Hofacker</surname><given-names>I.L.</given-names></name></person-group>
+<article-title>ViennaRNA Package 2.0</article-title>
+<source>Algorithms Mol. Biol.</source>
+<year>2011</year>
+<volume>6</volume>
+<fpage>26</fpage>
+<pub-id pub-id-type="pmid">22115189</pub-id></element-citation></ref><ref id="B89"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>C.</given-names></name><name><surname>Lee</surname><given-names>K.Y.</given-names></name><name><surname>Swanson</surname><given-names>M.S.</given-names></name><name><surname>Darnell</surname><given-names>R.B.</given-names></name></person-group>
+<article-title>Prediction of clustered RNA-binding protein motif sites in the mammalian genome</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2013</year>
+<volume>41</volume>
+<fpage>6793</fpage>
+<lpage>6807</lpage>
+<pub-id pub-id-type="pmid">23685613</pub-id></element-citation></ref><ref id="B90"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J.-H.</given-names></name><name><surname>Liu</surname><given-names>S.</given-names></name><name><surname>Zheng</surname><given-names>L.-L.</given-names></name><name><surname>Wu</surname><given-names>J.</given-names></name><name><surname>Sun</surname><given-names>W.-J.</given-names></name><name><surname>Wang</surname><given-names>Z.-L.</given-names></name><name><surname>Zhou</surname><given-names>H.</given-names></name><name><surname>Qu</surname><given-names>L.-H.</given-names></name><name><surname>Yang</surname><given-names>J.-H.</given-names></name></person-group>
+<article-title>Discovery of protein-lncRNA interactions by integrating large-scale CLIP-Seq and RNA-Seq datasets</article-title>
+<source>Front. Bioeng. Biotechnol.</source>
+<year>2015</year>
+<volume>2</volume>
+<fpage>88</fpage>
+<pub-id pub-id-type="pmid">25642422</pub-id></element-citation></ref><ref id="B91"><label>91.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J.H.</given-names></name><name><surname>Liu</surname><given-names>S.</given-names></name><name><surname>Zhou</surname><given-names>H.</given-names></name><name><surname>Qu</surname><given-names>L.H.</given-names></name><name><surname>Yang</surname><given-names>J.H.</given-names></name></person-group>
+<article-title>starBase v2.0: decoding miRNA-ceRNA, miRNA-ncRNA and protein-RNA interaction networks from large-scale CLIP-Seq data</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2014</year>
+<volume>42</volume>
+<fpage>D92</fpage>
+<lpage>D97</lpage>
+<pub-id pub-id-type="pmid">24297251</pub-id></element-citation></ref><ref id="B92"><label>92.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>J.H.</given-names></name><name><surname>Li</surname><given-names>J.H.</given-names></name><name><surname>Shao</surname><given-names>P.</given-names></name><name><surname>Zhou</surname><given-names>H.</given-names></name><name><surname>Chen</surname><given-names>Y.Q.</given-names></name><name><surname>Qu</surname><given-names>L.H.</given-names></name></person-group>
+<article-title>starBase: a database for exploring microRNA-mRNA interaction maps from Argonaute CLIP-Seq and Degradome-Seq data</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2011</year>
+<volume>39</volume>
+<fpage>D202</fpage>
+<lpage>D209</lpage>
+<pub-id pub-id-type="pmid">21037263</pub-id></element-citation></ref><ref id="B93"><label>93.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blin</surname><given-names>K.</given-names></name><name><surname>Dieterich</surname><given-names>C.</given-names></name><name><surname>Wurmus</surname><given-names>R.</given-names></name><name><surname>Rajewsky</surname><given-names>N.</given-names></name><name><surname>Landthaler</surname><given-names>M.</given-names></name><name><surname>Akalin</surname><given-names>A.</given-names></name></person-group>
+<article-title>DoRiNA 2.0-upgrading the doRiNA database of RNA interactions in post-transcriptional regulation</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2015</year>
+<volume>43</volume>
+<fpage>D160</fpage>
+<lpage>D167</lpage>
+<pub-id pub-id-type="pmid">25416797</pub-id></element-citation></ref><ref id="B94"><label>94.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anders</surname><given-names>G.</given-names></name><name><surname>Mackowiak</surname><given-names>S.D.</given-names></name><name><surname>Jens</surname><given-names>M.</given-names></name><name><surname>Maaskola</surname><given-names>J.</given-names></name><name><surname>Kuntzagk</surname><given-names>A.</given-names></name><name><surname>Rajewsky</surname><given-names>N.</given-names></name><name><surname>Landthaler</surname><given-names>M.</given-names></name><name><surname>Dieterich</surname><given-names>C.</given-names></name></person-group>
+<article-title>doRiNA: a database of RNA interactions in post-transcriptional regulation</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2012</year>
+<volume>40</volume>
+<fpage>D180</fpage>
+<lpage>D186</lpage>
+<pub-id pub-id-type="pmid">22086949</pub-id></element-citation></ref><ref id="B95"><label>95.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Corcoran</surname><given-names>D.L.</given-names></name><name><surname>Georgiev</surname><given-names>S.</given-names></name><name><surname>Mukherjee</surname><given-names>N.</given-names></name><name><surname>Gottwein</surname><given-names>E.</given-names></name><name><surname>Skalsky</surname><given-names>R.L.</given-names></name><name><surname>Keene</surname><given-names>J.D.</given-names></name><name><surname>Ohler</surname><given-names>U.</given-names></name></person-group>
+<article-title>PARalyzer: definition of RNA binding sites from PAR-CLIP short-read sequence data</article-title>
+<source>Genome Biol.</source>
+<year>2011</year>
+<volume>12</volume>
+<fpage>R79</fpage>
+<pub-id pub-id-type="pmid">21851591</pub-id></element-citation></ref><ref id="B96"><label>96.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yun</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>T.</given-names></name><name><surname>Xiao</surname><given-names>G.</given-names></name></person-group>
+<article-title>Bayesian hidden Markov models to identify RNA-protein interaction sites in PAR-CLIP</article-title>
+<source>Biometrics</source>
+<year>2014</year>
+<volume>70</volume>
+<fpage>430</fpage>
+<lpage>440</lpage>
+<pub-id pub-id-type="pmid">24571656</pub-id></element-citation></ref><ref id="B97"><label>97.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maticzka</surname><given-names>D.</given-names></name><name><surname>Lange</surname><given-names>S.J.</given-names></name><name><surname>Costa</surname><given-names>F.</given-names></name><name><surname>Backofen</surname><given-names>R.</given-names></name></person-group>
+<article-title>GraphProt: modeling binding preferences of RNA-binding proteins</article-title>
+<source>Genome Biol.</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>R17</fpage>
+<pub-id pub-id-type="pmid">24451197</pub-id></element-citation></ref><ref id="B98"><label>98.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Althammer</surname><given-names>S.</given-names></name><name><surname>Gonzalez-Vallinas</surname><given-names>J.</given-names></name><name><surname>Ballare</surname><given-names>C.</given-names></name><name><surname>Beato</surname><given-names>M.</given-names></name><name><surname>Eyras</surname><given-names>E.</given-names></name></person-group>
+<article-title>Pyicos: a versatile toolkit for the analysis of high-throughput sequencing data</article-title>
+<source>Bioinformatics</source>
+<year>2011</year>
+<volume>27</volume>
+<fpage>3333</fpage>
+<lpage>3340</lpage>
+<pub-id pub-id-type="pmid">21994224</pub-id></element-citation></ref><ref id="B99"><label>99.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chou</surname><given-names>C.H.</given-names></name><name><surname>Lin</surname><given-names>F.M.</given-names></name><name><surname>Chou</surname><given-names>M.T.</given-names></name><name><surname>Hsu</surname><given-names>S.D.</given-names></name><name><surname>Chang</surname><given-names>T.H.</given-names></name><name><surname>Weng</surname><given-names>S.L.</given-names></name><name><surname>Shrestha</surname><given-names>S.</given-names></name><name><surname>Hsiao</surname><given-names>C.C.</given-names></name><name><surname>Hung</surname><given-names>J.H.</given-names></name><name><surname>Huang</surname><given-names>H.D.</given-names></name></person-group>
+<article-title>A computational approach for identifying microRNA-target interactions using high-throughput CLIP and PAR-CLIP sequencing</article-title>
+<source>BMC Genomics</source>
+<year>2013</year>
+<volume>14</volume>
+<issue>Suppl. 1</issue>
+<fpage>S2</fpage>
+<pub-id pub-id-type="pmid">23368412</pub-id></element-citation></ref><ref id="B100"><label>100.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kudla</surname><given-names>G.</given-names></name><name><surname>Granneman</surname><given-names>S.</given-names></name><name><surname>Hahn</surname><given-names>D.</given-names></name><name><surname>Beggs</surname><given-names>J.D.</given-names></name><name><surname>Tollervey</surname><given-names>D.</given-names></name></person-group>
+<article-title>Cross-linking, ligation, and sequencing of hybrids reveals RNA-RNA interactions in yeast</article-title>
+<source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<year>2011</year>
+<volume>108</volume>
+<fpage>10010</fpage>
+<lpage>10015</lpage>
+<pub-id pub-id-type="pmid">21610164</pub-id></element-citation></ref><ref id="B101"><label>101.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Grimson</surname><given-names>A.</given-names></name><name><surname>Farh</surname><given-names>K.K.</given-names></name><name><surname>Johnston</surname><given-names>W.K.</given-names></name><name><surname>Garrett-Engele</surname><given-names>P.</given-names></name><name><surname>Lim</surname><given-names>L.P.</given-names></name><name><surname>Bartel</surname><given-names>D.P.</given-names></name></person-group>
+<article-title>MicroRNA targeting specificity in mammals: determinants beyond seed pairing</article-title>
+<source>Mol. Cell</source>
+<year>2007</year>
+<volume>27</volume>
+<fpage>91</fpage>
+<lpage>105</lpage>
+<pub-id pub-id-type="pmid">17612493</pub-id></element-citation></ref><ref id="B102"><label>102.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iengar</surname><given-names>P.</given-names></name></person-group>
+<article-title>An analysis of substitution, deletion and insertion mutations in cancer genes</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2012</year>
+<volume>40</volume>
+<fpage>6401</fpage>
+<lpage>6413</lpage>
+<pub-id pub-id-type="pmid">22492711</pub-id></element-citation></ref><ref id="B103"><label>103.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Helwak</surname><given-names>A.</given-names></name><name><surname>Kudla</surname><given-names>G.</given-names></name><name><surname>Dudnakova</surname><given-names>T.</given-names></name><name><surname>Tollervey</surname><given-names>D.</given-names></name></person-group>
+<article-title>Mapping the human miRNA interactome by CLASH reveals frequent noncanonical binding</article-title>
+<source>Cell</source>
+<year>2013</year>
+<volume>153</volume>
+<fpage>654</fpage>
+<lpage>665</lpage>
+<pub-id pub-id-type="pmid">23622248</pub-id></element-citation></ref><ref id="B104"><label>104.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>J.</given-names></name><name><surname>Ohsumi</surname><given-names>T.K.</given-names></name><name><surname>Kung</surname><given-names>J.T.</given-names></name><name><surname>Ogawa</surname><given-names>Y.</given-names></name><name><surname>Grau</surname><given-names>D.J.</given-names></name><name><surname>Sarma</surname><given-names>K.</given-names></name><name><surname>Song</surname><given-names>J.J.</given-names></name><name><surname>Kingston</surname><given-names>R.E.</given-names></name><name><surname>Borowsky</surname><given-names>M.</given-names></name><name><surname>Lee</surname><given-names>J.T.</given-names></name></person-group>
+<article-title>Genome-wide identification of polycomb-associated RNAs by RIP-seq</article-title>
+<source>Mol. Cell</source>
+<year>2010</year>
+<volume>40</volume>
+<fpage>939</fpage>
+<lpage>953</lpage>
+<pub-id pub-id-type="pmid">21172659</pub-id></element-citation></ref><ref id="B105"><label>105.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Riley</surname><given-names>K.J.</given-names></name><name><surname>Steitz</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>The &#x02018;Observer Effect&#x02019; in genome-wide surveys of protein-RNA interactions</article-title>
+<source>Mol. Cell</source>
+<year>2013</year>
+<volume>49</volume>
+<fpage>601</fpage>
+<lpage>604</lpage>
+<pub-id pub-id-type="pmid">23438856</pub-id></element-citation></ref><ref id="B106"><label>106.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gregersen</surname><given-names>L.H.</given-names></name><name><surname>Schueler</surname><given-names>M.</given-names></name><name><surname>Munschauer</surname><given-names>M.</given-names></name><name><surname>Mastrobuoni</surname><given-names>G.</given-names></name><name><surname>Chen</surname><given-names>W.</given-names></name><name><surname>Kempa</surname><given-names>S.</given-names></name><name><surname>Dieterich</surname><given-names>C.</given-names></name><name><surname>Landthaler</surname><given-names>M.</given-names></name></person-group>
+<article-title>MOV10 Is a 5&#x02032; to 3&#x02032; RNA helicase contributing to UPF1 mRNA target degradation by translocation along 3&#x02032; UTRs</article-title>
+<source>Mol. Cell</source>
+<year>2014</year>
+<volume>54</volume>
+<fpage>573</fpage>
+<lpage>585</lpage>
+<pub-id pub-id-type="pmid">24726324</pub-id></element-citation></ref></ref-list></back></article>

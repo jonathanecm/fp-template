@@ -1,0 +1,596 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7634</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27060927</article-id><article-id pub-id-type="pmc">4944882</article-id><article-id pub-id-type="doi">10.1002/cam4.697</article-id><article-id pub-id-type="publisher-id">CAM4697</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Cancer Biology</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Regulation of multidrug resistance 1 expression by <styled-content style="fixed-case">CDX</styled-content>2 in ovarian mucinous adenocarcinoma</article-title></title-group><contrib-group><contrib id="cam4697-cr-0001" contrib-type="author" corresp="yes"><name><surname>Koh</surname><given-names>Iemasa</given-names></name><xref ref-type="aff" rid="cam4697-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam4697-cr-0002" contrib-type="author"><name><surname>Hinoi</surname><given-names>Takao</given-names></name><xref ref-type="aff" rid="cam4697-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam4697-cr-0003" contrib-type="author"><name><surname>Sentani</surname><given-names>Kazuhiro</given-names></name><xref ref-type="aff" rid="cam4697-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam4697-cr-0004" contrib-type="author"><name><surname>Hirata</surname><given-names>Eiji</given-names></name><xref ref-type="aff" rid="cam4697-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam4697-cr-0005" contrib-type="author"><name><surname>Nosaka</surname><given-names>Suguru</given-names></name><xref ref-type="aff" rid="cam4697-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam4697-cr-0006" contrib-type="author"><name><surname>Niitsu</surname><given-names>Hiroaki</given-names></name><xref ref-type="aff" rid="cam4697-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam4697-cr-0007" contrib-type="author"><name><surname>Miguchi</surname><given-names>Masashi</given-names></name><xref ref-type="aff" rid="cam4697-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam4697-cr-0008" contrib-type="author"><name><surname>Adachi</surname><given-names>Tomohiro</given-names></name><xref ref-type="aff" rid="cam4697-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam4697-cr-0009" contrib-type="author"><name><surname>Yasui</surname><given-names>Wataru</given-names></name><xref ref-type="aff" rid="cam4697-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam4697-cr-0010" contrib-type="author"><name><surname>Ohdan</surname><given-names>Hideki</given-names></name><xref ref-type="aff" rid="cam4697-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam4697-cr-0011" contrib-type="author"><name><surname>Kudo</surname><given-names>Yoshiki</given-names></name><xref ref-type="aff" rid="cam4697-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="cam4697-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Program for Applied Biomedicine</named-content><named-content content-type="organisation-division">Division of Clinical Medical Science</named-content><named-content content-type="organisation-division">Department of Obstetrics and Gynecology</named-content><named-content content-type="organisation-division">Graduate School of Biomedical Science</named-content><institution>Hiroshima University</institution><named-content content-type="city">Hiroshima</named-content><named-content content-type="post-code">734&#x02010;8551</named-content><country country="JP">Japan</country></aff><aff id="cam4697-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Program for Biomedical Research</named-content><named-content content-type="organisation-division">Division of Frontier Medical Science</named-content><named-content content-type="organisation-division">Department of Gastroenterological and Transplant Surgery</named-content><named-content content-type="organisation-division">Graduate School of Biomedical Science</named-content><institution>Hiroshima University</institution><named-content content-type="city">Hiroshima</named-content><named-content content-type="post-code">734&#x02010;8551</named-content><country country="JP">Japan</country></aff><aff id="cam4697-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Department of Molecular Pathology</named-content><named-content content-type="organisation-division">Institute of Biomedical and Health Sciences</named-content><institution>Hiroshima University</institution><named-content content-type="city">Hiroshima</named-content><named-content content-type="post-code">734&#x02010;8551</named-content><country country="JP">Japan</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Iemasa Koh, Program for Applied Biomedicine, Division of Clinical Medical Science, Department of Obstetrics and Gynecology, Graduate School of Biomedical Science, Hiroshima University, 1&#x02010;2&#x02010;3, Kasumi, Minami&#x02010;ku, Hiroshima 734&#x02010;8551, Japan. Tel: +81&#x02010;82&#x02010;257&#x02010;5262; Fax: +81&#x02010;82&#x02010;257&#x02010;5264; E&#x02010;mail: <email>iemasakoh550317@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>4</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>7</month><year>2016</year></pub-date><volume>5</volume><issue>7</issue><issue-id pub-id-type="doi">10.1002/cam4.2016.5.issue-7</issue-id><fpage>1546</fpage><lpage>1555</lpage><history><date date-type="received"><day>01</day><month>10</month><year>2015</year></date><date date-type="rev-recd"><day>16</day><month>11</month><year>2015</year></date><date date-type="accepted"><day>14</day><month>2</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>Cancer Medicine</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:CAM4-5-1546.pdf"/><abstract id="cam4697-abs-0001"><title>Abstract</title><p>Epithelial ovarian cancer is an aggressive gynecological malignancy with a high mortality rate. Resistance against chemotherapeutic agents often develops in ovarian cancer patients, contributing to high recurrence rates. The multidrug resistance 1 (<italic><styled-content style="fixed-case">MDR</styled-content>1/<styled-content style="fixed-case">ABCB</styled-content>1</italic>) gene encodes P&#x02010;glycoprotein, which affects the pharmacokinetic properties of anticancer agents. We previously reported that the Caudal&#x02010;related homeobox transcription factor <styled-content style="fixed-case">CDX</styled-content>2 transcriptionally regulates <italic><styled-content style="fixed-case">MDR</styled-content>1</italic> expression in colorectal cancer. <styled-content style="fixed-case">CDX</styled-content>2 is a factor that influences cancer cell differentiation, malignancy, and cancer progression. We hypothesized that profiling of <styled-content style="fixed-case">CDX</styled-content>2 and <styled-content style="fixed-case">MDR</styled-content>1 expression could be an effective strategy for predicting anticancer drug resistance. We studied the expression of these factors in clinical samples from ovarian cancer patients. We found that endogenous <italic><styled-content style="fixed-case">MDR</styled-content>1</italic> expression was positively associated with <styled-content style="fixed-case">CDX</styled-content>2 expression in ovarian mucinous adenocarcinoma. Using ovarian mucinous adenocarcinoma cell lines, we also observed decreased <italic><styled-content style="fixed-case">MDR</styled-content>1</italic> expression following inhibition of <styled-content style="fixed-case">CDX</styled-content>2 by <styled-content style="fixed-case">RNA</styled-content> interference. In addition, <styled-content style="fixed-case">CDX</styled-content>2 overexpression in <styled-content style="fixed-case">MN</styled-content>&#x02010;1 cells, which display low endogenous <styled-content style="fixed-case">CDX</styled-content>2, resulted in upregulation of <italic><styled-content style="fixed-case">MDR</styled-content>1</italic> expression. <styled-content style="fixed-case">CDX</styled-content>2 induced <styled-content style="fixed-case">MDR</styled-content>1&#x02010;dependent resistance to vincristine and paclitaxel, which was reversed by treatment with the <styled-content style="fixed-case">MDR</styled-content>1&#x02010;specific inhibitor verapamil. Our findings show that <styled-content style="fixed-case">CDX</styled-content>2 promotes upregulation of <italic><styled-content style="fixed-case">MDR</styled-content>1</italic> expression, leading to drug resistance in ovarian mucinous adenocarcinoma. Therefore, our study demonstrates the potential of novel chemotherapy regimens based on <styled-content style="fixed-case">CDX</styled-content>2 status and <styled-content style="fixed-case">MDR</styled-content>1 expression in ovarian mucinous adenocarcinoma.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cam4697-kwd-0001"><styled-content style="fixed-case">CDX</styled-content>2</kwd><kwd id="cam4697-kwd-0002">chemotherapy</kwd><kwd id="cam4697-kwd-0003"><styled-content style="fixed-case">MDR</styled-content>1</kwd><kwd id="cam4697-kwd-0004">mucinous adenocarcinoma</kwd><kwd id="cam4697-kwd-0005">ovarian cancer</kwd></kwd-group><counts><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cam4697</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.1 mode:remove_FC converted:14.07.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam4697-cit-1001">
+<source>Cancer Medicine</source>
+<year>2016</year>; <volume>5</volume>(<issue>7</issue>):<fpage>1546</fpage>&#x02013;<lpage>1555</lpage>
+</mixed-citation>
+</p></notes></front><body><sec id="cam4697-sec-0001"><title>Introduction</title><p>Ovarian cancer is the most lethal form of gynecological malignancy. Treatment of epithelial ovarian cancers (EOCs) is based on a combination of surgery and chemotherapy. However, the development of resistance against chemotherapeutic agents following initial treatment and cases of disease recurrence are frequent in ovarian cancer. EOCs were historically thought to arise from ovarian surface epithelial cells, with metaplasia leading to four major histological types: serous, endometrioid, clear cell, and mucinous. Ovarian mucinous adenocarcinoma is the third most common type, comprising approximately 10% of all primary EOCs <xref rid="cam4697-bib-0001" ref-type="ref">1</xref>. Currently, combination chemotherapy consisting of carboplatin and paclitaxel is the standard protocol for initial treatment to EOCs, although ovarian mucinous adenocarcinoma is known to be resistant to this regimen <xref rid="cam4697-bib-0002" ref-type="ref">2</xref>, <xref rid="cam4697-bib-0003" ref-type="ref">3</xref>, <xref rid="cam4697-bib-0004" ref-type="ref">4</xref>, <xref rid="cam4697-bib-0005" ref-type="ref">5</xref>, <xref rid="cam4697-bib-0006" ref-type="ref">6</xref>. Ovarian mucinous adenocarcinoma is generally resistant to chemotherapeutic agents. Poorly differentiated mucinous adenocarcinoma shows a resistance to chemotherapeutic agents, but it is important to recognize that well&#x02010;differentiated types also display resistance. Despite the fact that mucinous adenocarcinoma is often diagnosed at an early stage, this histological type has a poorer prognosis compared with that of other histological subgroups <xref rid="cam4697-bib-0002" ref-type="ref">2</xref>, <xref rid="cam4697-bib-0003" ref-type="ref">3</xref>, <xref rid="cam4697-bib-0004" ref-type="ref">4</xref>. Since chemosensitivity is one of the main prognostic factors for patients with advanced EOCs, a low response to conventional platinum&#x02010; and taxane&#x02010;based chemotherapy is associated with a poor prognosis in mucinous adenocarcinoma <xref rid="cam4697-bib-0002" ref-type="ref">2</xref>, <xref rid="cam4697-bib-0003" ref-type="ref">3</xref>, <xref rid="cam4697-bib-0004" ref-type="ref">4</xref>.</p><p>The <italic>MDR1</italic> gene, initially cloned by Roninson and others in 1986, encodes P&#x02010;glycoprotein, also known as multidrug resistance 1 (MDR1/ABCB1), a member of the ATP&#x02010;binding cassette (ABC) family <xref rid="cam4697-bib-0007" ref-type="ref">7</xref>, <xref rid="cam4697-bib-0008" ref-type="ref">8</xref>. The role of MDR1 is clinically significant, as this factor not only confers multidrug resistance, but also affects the pharmacokinetic properties of various drugs <xref rid="cam4697-bib-0007" ref-type="ref">7</xref>. The MDR1 protein has 12 transmembrane domains and two ATP&#x02010;binding domains. <italic>MDR1</italic> is overexpressed in drug&#x02010;resistant cancer cells, suggesting this gene and its product, P&#x02010;glycoprotein, play a critical role in drug resistance <xref rid="cam4697-bib-0007" ref-type="ref">7</xref>, <xref rid="cam4697-bib-0009" ref-type="ref">9</xref>, <xref rid="cam4697-bib-0010" ref-type="ref">10</xref>. MDR1 confers multidrug resistance to cancer cells by promoting cellular excretion of structurally diverse chemotherapeutic compounds, such as vinca alkaloid, anthracycline, and taxane <xref rid="cam4697-bib-0007" ref-type="ref">7</xref>.</p><p>We previously demonstrated that endogenous <italic>MDR1</italic> expression correlates with expression of the intestine&#x02010;specific <italic>caudal</italic>&#x02010;related homeobox transcription factor CDX2, and that <italic>MDR1</italic> is a direct transcriptional target of CDX2 in various colorectal cancer cell lines and human colon cancer tissue <xref rid="cam4697-bib-0011" ref-type="ref">11</xref>. CDX2 expression is observed in the epithelium of the small intestine and colon, as well as in well&#x02010;differentiated colon carcinoma but not in poorly differentiated colon carcinoma <xref rid="cam4697-bib-0012" ref-type="ref">12</xref>, <xref rid="cam4697-bib-0013" ref-type="ref">13</xref>. Moreover, aberrant CDX2 expression was detected in metaplasia of the stomach <xref rid="cam4697-bib-0014" ref-type="ref">14</xref>. Taken together, these findings suggest that CDX2 has critical functions in intestinal development and maintenance of the intestinal phenotype <xref rid="cam4697-bib-0012" ref-type="ref">12</xref>, <xref rid="cam4697-bib-0015" ref-type="ref">15</xref>, <xref rid="cam4697-bib-0016" ref-type="ref">16</xref>. In addition, these findings indicate that CDX2 influences the degree of differentiation, malignancy, and cancer progression in the colon and stomach <xref rid="cam4697-bib-0012" ref-type="ref">12</xref>, <xref rid="cam4697-bib-0013" ref-type="ref">13</xref>, <xref rid="cam4697-bib-0014" ref-type="ref">14</xref>. Since CDX2 regulates <italic>MDR1</italic> expression, we hypothesized that these two factors could be useful markers for predicting drug resistance to anticancer agents in the stomach and possibly other organs <xref rid="cam4697-bib-0011" ref-type="ref">11</xref>.</p><p>In gynecological cancer, immunohistochemical detection of CDX2 can be a useful marker to distinguish metastatic colorectal carcinoma involving the ovary from primary ovarian mucinous adenocarcinoma <xref rid="cam4697-bib-0017" ref-type="ref">17</xref>, <xref rid="cam4697-bib-0018" ref-type="ref">18</xref>. However, high CDX2 expression was observed in ovarian mucinous adenocarcinoma, of which 64% of cases were positive <xref rid="cam4697-bib-0019" ref-type="ref">19</xref>. In ovarian mucinous adenocarcinoma, no reports have described an association between the expression of CDX2 and MDR1 and the degree of cancer cell differentiation.</p><p>Here, we studied the expression of CDX2 and MDR1 in clinical EOC tissue samples. In addition, we investigated <italic>MDR1</italic> regulation by CDX2 and MDR1&#x02010;associated drug resistance in ovarian mucinous adenocarcinoma cells.</p></sec><sec id="cam4697-sec-0002"><title>Materials and Methods</title><sec id="cam4697-sec-0003"><title>Plasmids</title><p>A full&#x02010;length, wild&#x02010;type CDX2 cDNA was amplified by PCR using hexamer&#x02010;primed cDNA from normal human colon tissue as a template. The <italic>CDX2</italic> gene was inserted into the multiple cloning site of the retroviral expression vector pPGS&#x02010;CMV&#x02010;CITE&#x02010;neo (pPGS&#x02010;neo, provided by G. Nabal, NIH, Bethesda, MD) to generate pPGS&#x02010;CDX2.</p></sec><sec id="cam4697-sec-0004"><title>Clinical tissues and immunohistochemistry</title><p>A total of 53 epithelial ovarian cancer cases were diagnosed and resected in our facility between 2005 and 2013. Formalin&#x02010;fixed, paraffin&#x02010;embedded (FFPE) tissues were stained using the avidin&#x02010;biotin complex method, as previously described <xref rid="cam4697-bib-0014" ref-type="ref">14</xref>. Rabbit monoclonal anti&#x02010;CDX2 (clone EPR2764Y; NICHIREI, Tokyo, Japan) and mouse monoclonal anti&#x02010;MDR1 (clone C494; COVANCE, Dedham, MA) antibodies were used at 1:1 and 1:200 dilution, respectively. In accordance with the Ethical Guidelines for Human Genome/Gene Research enacted by the Government of Japan, tissue specimens were collected and used following approval by the Ethical Review Committee of the Hiroshima University School of Medicine and by the ethical review committees of collaborating organizations.</p></sec><sec id="cam4697-sec-0005"><title>Cell lines and cell culture</title><p>The five ovarian mucinous adenocarcinoma cell lines used in this study (MCAS, RMUG&#x02010;S, MN&#x02010;1, OMC&#x02010;1, OMC&#x02010;3) were obtained from the following sources: MN&#x02010;1 from Scienstuff Co. Ltd (Nara, Japan) <xref rid="cam4697-bib-0020" ref-type="ref">20</xref>, OMC&#x02010;1 from Dr. Tsuyoshi Saito (School of Medicine, Sapporo Medical University, Sapporo, Japan) <xref rid="cam4697-bib-0021" ref-type="ref">21</xref>, MCAS and RMUG&#x02010;S from the Japanese Collection of Research Bioresources (JCRB) Cell Bank, and OMC&#x02010;3 from RIKEN Bio Resource Center Cell Bank (Institute of Physical and Chemical Research, Tsukuba, Japan). The DLD&#x02010;1 colorectal cancer cell line used as a positive control was obtained from the American Type Culture Collection. MCAS cells were grown in Eagle's minimal essential medium (Wako, Osaka, Japan) with 20% fetal bovine serum (FBS), 100&#x000a0;units/mL penicillin, and 100&#x000a0;<italic>&#x003bc;</italic>g/mL streptomycin (Invitrogen, Carlsbad, CA). MN&#x02010;1 cells were grown in Dulbecco's minimal essential medium (Wako) with 10% FBS and penicillin/streptomycin. RMUG&#x02010;S and OMC&#x02010;3 cells were grown in Ham's F12 medium (Wako) with 10% FBS and penicillin/streptomycin. OMC&#x02010;1 cells were grown in Minimum essential medium <italic>&#x003b1;</italic> medium (Wako) with 10% FBS and penicillin/streptomycin. All cell lines were maintained at 37&#x000b0;C in 5% CO<sub>2</sub>.</p></sec><sec id="cam4697-sec-0006"><title>Retrovirus infection</title><p>The amphotropic Phoenix packaging cell line provided by G. Nolan (Stanford University, Stanford, CA) was propagated in Dulbecco's minimal essential medium and transfected with retroviral expression constructs using FuGENE6 (Promega, Madison, WI), as previously described <xref rid="cam4697-bib-0014" ref-type="ref">14</xref>. Briefly, cells were seeded in 60&#x000a0;mm dishes 40&#x000a0;h before transfection and were transfected with 2&#x000a0;<italic>&#x003bc;</italic>g of retroviral plasmid DNA and 12&#x000a0;<italic>&#x003bc;</italic>L of FuGENE6. After 24&#x000a0;h, the growth medium was replaced. Then, 48&#x000a0;h after transfection, the supernatant containing nonreplicating amphotropic virus was harvested and filtered <xref rid="cam4697-bib-0014" ref-type="ref">14</xref>. MN&#x02010;1 cells in 60&#x000a0;mm dishes at 70&#x02013;80% confluency were infected with virus supernatant and fresh medium at a ratio of 1:1 in the presence of 4&#x000a0;<italic>&#x003bc;</italic>g/mL polybrene (Sigma, Milwaukee, WI). After 24&#x000a0;h of incubation with the virus, MN&#x02010;1 cells were subcultured at split ratios of 1:5 to 1:10 and selected for 2&#x02013;3&#x000a0;weeks in media containing 1&#x000a0;mg/mL G418 (Wako). Real&#x02010;time PCR and Western blot were used to examine CDX2 expression in MN&#x02010;1 cells stably expressing <italic>CDX2</italic> (MN&#x02010;1/PGS&#x02010;CDX2) and control cells (MN&#x02010;1/PGS&#x02010;neo) maintained in Dulbecco's minimal essential medium supplemented with G418 at a concentration of 400&#x000a0;<italic>&#x003bc;</italic>g/mL.</p></sec><sec id="cam4697-sec-0007"><title>Quantitative real&#x02010;time reverse transcription&#x02010;PCR</title><p>Total RNA was isolated using an RNeasy Mini Kit (Qiagen, Valencia, CA) with DNase I (Sigma) treatment; reverse transcription (RT) was performed using an Omniscript RT Kit (Qiagen), as described in the manufacturer's protocol. Total RNA (1 <italic>&#x003bc;</italic>g) was used for cDNA synthesis. Real&#x02010;time RT&#x02010;PCR was performed using an ABI 7300HT with Power SYBR Green PCR Master Mix (Applied Biosystems, Foster, CA) and sequence&#x02010;specific primers, as indicated in Table&#x000a0;<xref rid="cam4697-tbl-0001" ref-type="table-wrap">1</xref>.</p><table-wrap id="cam4697-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Real&#x02010;time PCR primers</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Gene name</th><th align="left" valign="bottom" rowspan="1" colspan="1">Forward primer 5&#x02032;&#x02010;3&#x02032;</th><th align="left" valign="bottom" rowspan="1" colspan="1">Reverse primer 5&#x02032;&#x02010;3&#x02032;</th><th align="left" valign="bottom" rowspan="1" colspan="1">Fragment size</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>CDX2</italic>
+</td><td align="left" rowspan="1" colspan="1">GAACCTGTGCGAGTGGATG</td><td align="left" rowspan="1" colspan="1">GGTGATGTAGCGACTGTAGTGAA</td><td align="left" rowspan="1" colspan="1">148&#x000a0;bp</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>MDR1</italic>
+</td><td align="left" rowspan="1" colspan="1">GTCCCAGGAGCCCATCCT</td><td align="left" rowspan="1" colspan="1">CCCGGCTGTTGTCTCCATA</td><td align="left" rowspan="1" colspan="1">70&#x000a0;bp</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam4697-sec-0008"><title>Western blot</title><p>Western blot analysis was performed as previously described <xref rid="cam4697-bib-0014" ref-type="ref">14</xref>. Anti&#x02010;CDX2 mouse monoclonal (clone CDX2&#x02010;88, BioGenex Laboratories, Inc. Fremont, CA), and anti&#x02010;human MDR1 monoclonal antibodies (clone C219, Calbiochem, San Diego, CA) were used at 1:100, and 1:50 dilutions, respectively. The membrane was stripped and reprobed with anti&#x02010;GAPDH antibodies (clone 6C5; Santa Cruz Biotechnology, Inc. Dallas, TX) to verify loading and transfer.</p></sec><sec id="cam4697-sec-0009"><title>RNA interference</title><p>Two small interfering RNA (siRNA) duplexes targeting <italic>CDX2</italic> mRNA (5&#x02032;&#x02010;AACCAGGACGAAAGACAAAUA&#x02010;3&#x02032;, CDX2 siRNA; and MISSION endoribonuclease&#x02010;prepared siRNA, <italic>CDX2</italic> esiRNA) and a nonsilencing siRNA duplex (MISSION siRNA Universal Negative Control SIC&#x02010;001) were synthesized by Qiagen&#x02010;Xeragon (Huntsville, AL). MISSON esiRNA is an endoribonuclease&#x02010;prepared siRNA pool comprised of a heterogeneous mixture of siRNAs that all target the same mRNA sequence. Cells were cultured in antibiotic&#x02010;free medium for 24&#x000a0;h before transfection and were then transfected with siRNA (200&#x000a0;pmol) using RNAiMAX (Invitrogen). Silencing was confirmed 72&#x000a0;h after transfection. For validation, quantitative RT&#x02010;PCR was performed.</p></sec><sec id="cam4697-sec-0010"><title>Cytotoxicity assay</title><p>Paclitaxel, doxorubicin, and carboplatin were obtained from Wako. Vincristine and verapamil were purchased from Sigma. An MTS cytotoxicity assay was performed to examine cell survival after exposure to chemotherapeutic agents. Cells were seeded at 3000&#x000a0;cells/100&#x000a0;<italic>&#x003bc;</italic>L per well in 96&#x02010;well microtiter plates. After a 48&#x02010;h incubation period, cells were treated with a range of concentrations of each chemotherapeutic agent. To examine the effect of verapamil, a known MDR1 inhibitor <xref rid="cam4697-bib-0022" ref-type="ref">22</xref>, 1&#x000a0;<italic>&#x003bc;</italic>mol/L was coadministered with each chemotherapeutic agent; a pilot experiment showed that this concentration was not cytotoxic to MN&#x02010;1/PGS&#x02010;CDX2 or MN&#x02010;1/PGS&#x02010;neo cells (data not shown). After 96&#x000a0;h, 20&#x000a0;<italic>&#x003bc;</italic>L of MTS dye (1.9&#x000a0;mg/mL) was added to each well, and plates were incubated for 3&#x000a0;h. Absorbance in individual wells was determined at 490&#x000a0;nm using an ImmunoMini NJ&#x02010;2300 microplate reader (InterMed, Tokyo, Japan). Results were expressed as the concentration required to inhibit cell growth by 50% relative to that of nontreated control cells [IC50 (96&#x000a0;h)].</p></sec></sec><sec id="cam4697-sec-0011"><title>Results</title><sec id="cam4697-sec-0012"><title>Coexpression of CDX2 and MDR1 in human ovarian cancer tissue</title><p>Immunohistochemical staining analysis revealed that expression of the CDX2 transcription factor was localized to nuclei, whereas expression of MDR1, encoding an ABC transporter, was localized to membranes (Fig.&#x000a0;<xref rid="cam4697-fig-0001" ref-type="fig">1</xref>). Of 53 ovarian cancer cases studied, eight cases displayed positive CDX2 expression (15.1%) and 21 displayed positive MDR1 expression (39.6%) (Table&#x000a0;<xref rid="cam4697-tbl-0002" ref-type="table-wrap">2</xref>). CDX2 expression was observed in ovarian mucinous adenocarcinoma with well&#x02010; and moderately differentiated types, whereas expression was negative or faint in other histological types (Table&#x000a0;<xref rid="cam4697-tbl-0002" ref-type="table-wrap">2</xref>, Fig.&#x000a0;<xref rid="cam4697-fig-0001" ref-type="fig">1</xref>A and B). MDR1 expression was observed in well&#x02010;differentiated and moderately differentiated mucinous adenocarcinomas in all seven cases (100%); MDR1 expression was also detected in serous adenocarcinoma and clear cell carcinoma in five of 13 cases (38.5%) and six of 15 cases (40.0%), respectively. These immunohistochemical findings indicate that endogenous MDR1 expression is associated with CDX2 expression in human ovarian cancer tissue as well as mucinous ovarian cancer tissues (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001; in human ovarian cancer, and <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05; in mucinous ovarian cancer, using Fisher's exact test) (Tables S1, S2).</p><fig fig-type="Figure" xml:lang="en" id="cam4697-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>In ovarian cancer, particularly mucinous adenocarcinoma, expression of <styled-content style="fixed-case">CDX</styled-content>2 and <styled-content style="fixed-case">MDR</styled-content>1 correlated with the degree of cell differentiation. Immunohistochemistry was performed on formalin&#x02010;fixed, paraffin&#x02010;embedded tissues with hematoxylin and eosin (A and B, upper), with an anti&#x02010;<styled-content style="fixed-case">CDX</styled-content>2 monoclonal antibody (A and B, middle), and with an anti&#x02010;<styled-content style="fixed-case">MDR</styled-content>1 monoclonal antibody, C494 (A and B, lower) in (A) ovarian mucinous adenocarcinoma, (B) ovarian serous adenocarcinoma, endometrioid adenocarcinoma, and clear cell carcinoma tissue.</p></caption><graphic id="nlm-graphic-3" xlink:href="CAM4-5-1546-g001"/></fig><table-wrap id="cam4697-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>CDX2, MDR1 immunohistochemical staining in epithelial ovarian cancers</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" valign="bottom" rowspan="1">Histological typeDifferentiation degree (<italic>n</italic>&#x000a0;=&#x000a0;53)</th><th align="left" valign="bottom" rowspan="1" colspan="1">CDX2 (%)+</th><th align="left" valign="bottom" rowspan="1" colspan="1">MDR1 (%)+</th></tr></thead><tbody><tr><td align="left" rowspan="3" colspan="1">Ovarian mucinous adenocarcinoma (<italic>n</italic>&#x000a0;=&#x000a0;14)</td><td align="left" rowspan="1" colspan="1">Well&#x02010;differentiated (<italic>n</italic>&#x000a0;=&#x000a0;6)</td><td align="left" rowspan="1" colspan="1">6/6 (100)</td><td align="left" rowspan="1" colspan="1">6/6 (100)</td></tr><tr><td align="left" rowspan="1" colspan="1">Moderately differentiated (<italic>n</italic>&#x000a0;=&#x000a0;1)</td><td align="left" rowspan="1" colspan="1">1/1 (100)</td><td align="left" rowspan="1" colspan="1">1/1 (100)</td></tr><tr><td align="left" rowspan="1" colspan="1">Poorly differentiated (<italic>n</italic>&#x000a0;=&#x000a0;7)</td><td align="left" rowspan="1" colspan="1">0/7 (0)</td><td align="left" rowspan="1" colspan="1">2/7 (28.5)</td></tr><tr><td align="left" colspan="2" rowspan="1">Ovarian serous adenocarcinoma (<italic>n</italic>&#x000a0;=&#x000a0;13)</td><td align="left" rowspan="1" colspan="1">0/13 (0)</td><td align="left" rowspan="1" colspan="1">5/13 (38.5)</td></tr><tr><td align="left" colspan="2" rowspan="1">Ovarian endometrioid adenocarcinoma (<italic>n</italic>&#x000a0;=&#x000a0;11)</td><td align="left" rowspan="1" colspan="1">1/11 (9)</td><td align="left" rowspan="1" colspan="1">1/11 (9)</td></tr><tr><td align="left" colspan="2" rowspan="1">Ovarian clear cell carcinoma (<italic>n</italic>&#x000a0;=&#x000a0;15)</td><td align="left" rowspan="1" colspan="1">0/15 (0)</td><td align="left" rowspan="1" colspan="1">6/15 (40)</td></tr></tbody></table><table-wrap-foot><fn id="cam4697-note-0002"><p>Positive (+): &#x0003e;50% of tumor cells stained.</p></fn><fn id="cam4697-note-0003"><p>Well&#x02010;differentiated: Ratio of solid growth part 0&#x02013;5%.</p></fn><fn id="cam4697-note-0004"><p>Moderately differentiated: Ratio of solid growth part 5&#x02013;50%.</p></fn><fn id="cam4697-note-0005"><p>Poorly differentiated: Ratio of solid growth part 50&#x02013;100%.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam4697-sec-0013"><title>Correlation between CDX2 and MDR1 expression in ovarian mucinous adenocarcinoma cells</title><p>We further investigated the correlation of CDX2 and MDR1 expression in ovarian mucinous adenocarcinoma cell lines. Western blot and RT&#x02010;PCR analyses revealed high expression of CDX2 mRNA and protein in parallel with high levels of MDR1 mRNA and protein in OMC&#x02010;1 cells; expression of CDX2 and MDR1 was not observed in MCAS, RMUG&#x02010;S, or OMC&#x02010;3 cells. In MN&#x02010;1 cells, MDR1 expression was weak, whereas CDX2 expression was not detected (Fig.&#x000a0;<xref rid="cam4697-fig-0002" ref-type="fig">2</xref>A and B). None of the cell lines displaying weak or undetectable MDR1 expression displayed CDX2 protein expression.</p><fig fig-type="Figure" xml:lang="en" id="cam4697-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Expression of <styled-content style="fixed-case">CDX</styled-content>2 and <styled-content style="fixed-case">MDR</styled-content>1 in five ovarian mucinous adenocarcinoma cell lines. (A) In five ovarian mucinous adenocarcinoma cell lines (<styled-content style="fixed-case">MCAS</styled-content>,<styled-content style="fixed-case"> RMUG</styled-content>&#x02010;S, <styled-content style="fixed-case">MN</styled-content>&#x02010;1, <styled-content style="fixed-case">OMC</styled-content>&#x02010;1, <styled-content style="fixed-case">OMC</styled-content>&#x02010;3), Western blot analyses of <styled-content style="fixed-case">MDR</styled-content>1 and <styled-content style="fixed-case">CDX</styled-content>2 expression were performed using a mouse monoclonal antibody against human <styled-content style="fixed-case">MDR</styled-content>1 (170 <styled-content style="fixed-case">kD</styled-content>a) and a mouse monoclonal antibody against human <styled-content style="fixed-case">CDX</styled-content>2 (40 <styled-content style="fixed-case">kD</styled-content>a). <styled-content style="fixed-case">RT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content> analysis of <styled-content style="fixed-case">CDX</styled-content>2 and <styled-content style="fixed-case">MDR</styled-content>1 expression was performed using specific <styled-content style="fixed-case">CDX</styled-content>2 and <styled-content style="fixed-case">MDR</styled-content>1 primers, respectively. A colorectal cancer cell line (<styled-content style="fixed-case">DLD</styled-content>&#x02010;1) was used as a positive control. (B) Relative <styled-content style="fixed-case">MDR</styled-content>1/beta&#x02010;actin <styled-content style="fixed-case">mRNA</styled-content> expression in five ovarian mucinous adenocarcinoma cell lines and the <styled-content style="fixed-case">DLD</styled-content>&#x02010;1 cell line using quantitative real&#x02010;time <styled-content style="fixed-case">RT PCR</styled-content>. (C) Monoclonal anti&#x02010;<styled-content style="fixed-case">CDX</styled-content>2 antibody detects the <styled-content style="fixed-case">CDX</styled-content>2 protein in <styled-content style="fixed-case">MN</styled-content>&#x02010;1/<styled-content style="fixed-case">PGS</styled-content>&#x02010;<styled-content style="fixed-case">CDX</styled-content>2 cells but not in <styled-content style="fixed-case">MN</styled-content>&#x02010;1/<styled-content style="fixed-case">PGS</styled-content>&#x02010;neo cells. Quantitative <styled-content style="fixed-case">RT PCR</styled-content> and Western blot detects <styled-content style="fixed-case">MDR</styled-content>1 transcripts and protein products, respectively, in <styled-content style="fixed-case">MN</styled-content>&#x02010;1/<styled-content style="fixed-case">PGS</styled-content>&#x02010;<styled-content style="fixed-case">CDX</styled-content>2 cells; low <styled-content style="fixed-case">MDR</styled-content>1 expression was observed in <styled-content style="fixed-case">MN</styled-content>&#x02010;1/<styled-content style="fixed-case">PGS</styled-content>&#x02010;neo cells.</p></caption><graphic id="nlm-graphic-5" xlink:href="CAM4-5-1546-g002"/></fig><p>MN&#x02010;1 cells showed very low endogenous CDX2 expression. To confirm whether CDX2 regulates <italic>MDR1</italic> expression in ovarian mucinous adenocarcinoma cells, we generated a polyclonal population of MN&#x02010;1 ovarian cancer cells expressing high levels of CDX2 by infecting these with replication&#x02010;defective retroviruses carrying a full&#x02010;length human <italic>CDX2</italic> cDNA <xref rid="cam4697-bib-0014" ref-type="ref">14</xref>. After expression of CDX2 protein was induced in MN&#x02010;1/PGS&#x02010;CDX2 cells, but not in MN&#x02010;1/PGS&#x02010;neo control cells, a robust induction of <italic>MDR1</italic> transcripts and protein in MN&#x02010;1/PGS&#x02010;CDX2 cells was confirmed by quantitative RT&#x02010;PCR and Western blot analyses, respectively (Fig.&#x000a0;<xref rid="cam4697-fig-0002" ref-type="fig">2</xref>C).</p></sec><sec id="cam4697-sec-0014"><title>Downregulation of <italic>MDR1</italic> expression by inhibition of CDX2 using RNA interference in ovarian mucinous adenocarcinoma cells</title><p>To further confirm the regulation of <italic>MDR1</italic> expression by CDX2 in ovarian mucinous adenocarcinoma cells, we inhibited <italic>CDX2</italic> expression by RNA interference (RNAi) and determined the effect on <italic>MDR1</italic> transcript and protein expression. For this experiment, we used OMC&#x02010;1, an ovarian mucinous adenocarcinoma cell line with high endogenous expression of CDX2 and MDR1. CDX2&#x02010;specific siRNAs significantly suppressed CDX2 protein expression; <italic>MDR1</italic> transcript and protein levels were concomitantly downregulated by approximately 50% in OMC&#x02010;1 cells treated with CDX2 siRNAs compared with levels observed in parental and control siRNA&#x02010;treated cells (Fig.&#x000a0;<xref rid="cam4697-fig-0003" ref-type="fig">3</xref>). These data indicate that CDX2 is involved in maintaining <italic>MDR1</italic> gene and protein expression in OMC&#x02010;1 cells.</p><fig fig-type="Figure" xml:lang="en" id="cam4697-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Inhibition of <styled-content style="fixed-case">CDX</styled-content>2 expression by si<styled-content style="fixed-case">RNA</styled-content> targeting leads to decreased <styled-content style="fixed-case">MDR</styled-content>1 expression in the ovarian mucinous adenocarcinoma cell line <styled-content style="fixed-case">OMC</styled-content>&#x02010;1. Assays were performed in triplicate; columns, mean; bars, <styled-content style="fixed-case">SD</styled-content>.</p></caption><graphic id="nlm-graphic-7" xlink:href="CAM4-5-1546-g003"/></fig></sec><sec id="cam4697-sec-0015"><title>MN&#x02010;1 cells ectopically expressing CDX2 display MDR1&#x02010;dependent drug resistance</title><p>To determine whether MDR1 induced by CDX2 functions as a drug efflux pump, we analyzed the effects of various chemotherapeutic drugs on MN&#x02010;1/PGS&#x02010;CDX2 and MN&#x02010;1/PGS&#x02010;neo cells (Fig.&#x000a0;<xref rid="cam4697-fig-0004" ref-type="fig">4</xref>A). Vincristine and paclitaxel, MDR1 substrates <xref rid="cam4697-bib-0023" ref-type="ref">23</xref>, displayed decreased cytotoxicity, 2.3&#x02010; and 6.2&#x02010;fold increase in IC50 (96&#x000a0;h), respectively, in MN&#x02010;1/PGS&#x02010;CDX2 cells compared with MN&#x02010;1/PGS&#x02010;neo cells. However, the MDR1 nonsubstrates carboplatin and doxorubicin showed similar cytotoxicity in MN&#x02010;1/PGS&#x02010;CDX2 and MN&#x02010;1/PGS&#x02010;neo cells (Fig.&#x000a0;<xref rid="cam4697-fig-0004" ref-type="fig">4</xref>A). To further examine MDR1&#x02010;dependent drug resistance, we repeated the assay in the presence of the MDR1 inhibitor verapamil. Cotreatment with 1&#x000a0;<italic>&#x003bc;</italic>mol/L verapamil increased the cytotoxic activities of vincristine and paclitaxel in MN&#x02010;1/PGSCDX2 cells (Fig.&#x000a0;<xref rid="cam4697-fig-0004" ref-type="fig">4</xref>B and C). Verapamil reduced the differences in drug&#x02010;induced cytotoxicity between MN&#x02010;1/PGS&#x02010;CDX2 and MN&#x02010;1/PGS&#x02010;neo cells (Fig.&#x000a0;<xref rid="cam4697-fig-0004" ref-type="fig">4</xref>B and C). These results suggest that increased resistance to vincristine and paclitaxel in MN&#x02010;1/PGS&#x02010;CDX2 cells is associated with MDR1 upregulation induced by ectopic CDX2 expression.</p><fig fig-type="Figure" xml:lang="en" id="cam4697-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<styled-content style="fixed-case">MN</styled-content>&#x02010;1 cells ectopically expressing <styled-content style="fixed-case">CDX</styled-content>2 display <styled-content style="fixed-case">MDR</styled-content>1&#x02010;dependent drug resistance. (A) Effect of chemotherapeutic drugs on <styled-content style="fixed-case">MN</styled-content>&#x02010;1/<styled-content style="fixed-case">PGS</styled-content>&#x02010;<styled-content style="fixed-case">CDX</styled-content>2 (&#x025a0;) and <styled-content style="fixed-case">MN</styled-content>&#x02010;1/<styled-content style="fixed-case">PGS</styled-content>&#x02010;neo (&#x025cb;) cell lines. (B) Effect of additional verapamil on vincristine and paclitaxel in <styled-content style="fixed-case">MN</styled-content>&#x02010;1/<styled-content style="fixed-case">PGS</styled-content>&#x02010;<styled-content style="fixed-case">CDX</styled-content>2 (&#x025a1;) and <styled-content style="fixed-case">MN</styled-content>&#x02010;1/<styled-content style="fixed-case">PGS</styled-content>&#x02010;neo (&#x02022;) cell lines. (C) [<styled-content style="fixed-case">IC</styled-content>50 (96&#x000a0;h)] determined by <styled-content style="fixed-case">MTS</styled-content> assay on <styled-content style="fixed-case">MN</styled-content>&#x02010;1/<styled-content style="fixed-case">PGS</styled-content>&#x02010;<styled-content style="fixed-case">CDX</styled-content>2 and <styled-content style="fixed-case">MN</styled-content>&#x02010;1/<styled-content style="fixed-case">PGS</styled-content>&#x02010;neo cells. Cotreatment with verapamil significantly recovered the sensitivity of vincristine and paclitaxel on <styled-content style="fixed-case">MN</styled-content>&#x02010;1/<styled-content style="fixed-case">PGS</styled-content>&#x02010;<styled-content style="fixed-case">CDX</styled-content>2 cells. The cytotoxic assays were performed in triplicate; points, mean; bars, <styled-content style="fixed-case">SD</styled-content>.</p></caption><graphic id="nlm-graphic-9" xlink:href="CAM4-5-1546-g004"/></fig></sec></sec><sec id="cam4697-sec-0016"><title>Discussion</title><p>In this study, we observed that CDX2 and MDR1 are expressed in ovarian mucinous adenocarcinoma and correlate with the degree of cancer cell differentiation. MDR1 upregulation by aberrant CDX2 expression could be related to drug resistance observed in ovarian mucinous adenocarcinoma, a conclusion arising from the following observations.</p><p>On the basis of an evaluation of clinical tissues of ovarian cancer cases, we observed overexpression of CDX2 in ovarian mucinous adenocarcinoma but only weak expression in other histological types, including serous adenocarcinoma, endometrioid adenocarcinoma, and clear cell carcinoma. Expression of CDX2 and MDR1 was most pronounced in well&#x02010;differentiated mucinous adenocarcinoma and weakest in poorly differentiated ones. These data suggest that CDX2 and MDR1 expression could be associated with the degree of cancer cell differentiation. Second, <italic>MDR1</italic> transcript expression and MDR1 protein expression were upregulated by CDX2 in MN&#x02010;1/PGS&#x02010;CDX2 cells, and MDR1 expression was concomitantly downregulated in OMC&#x02010;1 cells by CDX2 inhibition using RNAi. Additionally, increased resistance to chemotherapeutic drugs in MN&#x02010;1/PGS&#x02010;CDX2 cells was observed following <italic>MDR1</italic> overexpression. MDR1&#x02010;dependent drug resistance in MN&#x02010;1/PGS&#x02010;CDX2 cells was reversed by addition of the MDR1&#x02010;specific inhibitor verapamil <xref rid="cam4697-bib-0022" ref-type="ref">22</xref>.</p><p>In colorectal cancers, recent multivariate analyses indicate that loss of CDX2 expression is associated with less&#x02010;differentiated carcinomas and advanced cancer stages <xref rid="cam4697-bib-0012" ref-type="ref">12</xref>, <xref rid="cam4697-bib-0024" ref-type="ref">24</xref>. Loss of CDX2 expression is observed in poorly differentiated mucinous adenocarcinoma of the ovary. MDR1 loss induced by CDX2 suppression could exert a beneficial influence on patient survival by reducing drug resistance <xref rid="cam4697-bib-0011" ref-type="ref">11</xref>. However, since CDX2 loss could contribute to aggressive tumor behavior considering the roles of CDX2 in promoting cellular differentiation and inhibiting proliferation <xref rid="cam4697-bib-0013" ref-type="ref">13</xref>, it remains unclear whether CDX2 loss plays a critical role in ovarian cancer progression. In colorectal cancer cell lines, activation of CDX2&#x02010;induced <italic>MDR1</italic> transcription even in the presence of protein synthesis inhibitors, and four putative CDX2&#x02010;binding sites in a 4&#x000a0;kb region upstream of the <italic>MDR1</italic> transcription start site were identified <xref rid="cam4697-bib-0011" ref-type="ref">11</xref>, <xref rid="cam4697-bib-0025" ref-type="ref">25</xref>. Reporter gene analysis showed that two of these elements were critical, and subsequent ChIP assays showed that CDX2 directly binds to this MDR1 promoter region <xref rid="cam4697-bib-0011" ref-type="ref">11</xref>. Thus, CDX2 directly regulates <italic>MDR1</italic> expression in colorectal cancer cells. However, we have not yet confirmed whether CDX2 directly regulates MDR1 expression in ovarian mucinous adenocarcinoma cell lines. There are only few cell lines that could be examined in our study, as the establishment of ovarian mucinous adenocarcinoma cell lines is technically challenging. Therefore, we could only conduct an siRNA experiment using a single cell line (OMC&#x02010;1). It is possible that other factors besides CDX2 are required for activation of <italic>MDR1</italic> transcription in certain settings, such as in MN&#x02010;1 cells, as MDR1&#x02010;positive ovarian mucinous adenocarcinoma cell lines (namely MN&#x02010;1) did not express CDX2 mRNA or protein. To date, additional factors regulating MDR1 expression have been proposed, including Y&#x02010;box&#x02010;binding protein 1 (<italic>YBX&#x02010;1</italic>) <xref rid="cam4697-bib-0026" ref-type="ref">26</xref>, <italic>SP1</italic> and early growth response element 1 (<italic>EGR1</italic>) <xref rid="cam4697-bib-0027" ref-type="ref">27</xref>, NF&#x02010;kB (<italic>NFKB1</italic>) <xref rid="cam4697-bib-0028" ref-type="ref">28</xref>, p53 <xref rid="cam4697-bib-0029" ref-type="ref">29</xref>, and <italic>COX2</italic>
+<xref rid="cam4697-bib-0030" ref-type="ref">30</xref>.</p><p>The expression of MDR1 is one of markers for cancer stem cells. Besides MDR1, REG IV has also been evaluated as a marker for cancer stem cells <xref rid="cam4697-bib-0031" ref-type="ref">31</xref>. Several studies have investigated the functions of REG IV proteins. Results have shown that these proteins increase cell growth via activation of EGF receptor <xref rid="cam4697-bib-0032" ref-type="ref">32</xref>, inhibit apoptosis <xref rid="cam4697-bib-0032" ref-type="ref">32</xref>, promote metastasis in mouse models, and promote resistant to certain chemotherapeutic compound, such as 5&#x02010;fluorouracil (5&#x02010;FU) <xref rid="cam4697-bib-0033" ref-type="ref">33</xref>. Thus, therapies that target REG IV are thought to be potentially effective. In addition, REG IV is secreted into the blood by cancer cells, so they could serve as a tumor marker for assessing the possibility of cancer using blood tests <xref rid="cam4697-bib-0033" ref-type="ref">33</xref>. Additionally, a study on gastric cancer demonstrated that CDX2 regulates REG IV <xref rid="cam4697-bib-0034" ref-type="ref">34</xref>. In ovarian mucinous adenocarcinoma, our immunohistochemical staining results suggested a correlation between CDX2 and REG IV expression (data not shown). Clearly, it will be of some interest in future studies to analyze the mechanism where CDX2 regulates REG IV.</p><p>The current standard combination chemotherapy for epithelial ovarian cancer is carboplatin and paclitaxel <xref rid="cam4697-bib-0035" ref-type="ref">35</xref>. However, the effect of chemotherapeutic drugs is still limited in ovarian mucinous adenocarcinoma <xref rid="cam4697-bib-0002" ref-type="ref">2</xref>, <xref rid="cam4697-bib-0003" ref-type="ref">3</xref>, <xref rid="cam4697-bib-0004" ref-type="ref">4</xref>, <xref rid="cam4697-bib-0005" ref-type="ref">5</xref>, <xref rid="cam4697-bib-0006" ref-type="ref">6</xref>. We found that expression of CDX2 correlated with MDR1 expression and the degree of differentiation of ovarian mucinous adenocarcinoma cells. In addition, we showed that MDR1 protein expression was related to resistance to certain chemotherapeutic compounds, such as paclitaxel. If elevated MDR1 expression induced by CDX2 is associated with resistance to chemotherapeutic agents, there could be value in inhibiting CDX2 expression in addition to MDR1 inhibitors. Therefore, drug resistance and a poor prognosis could be improved by regulating CDX2 and MDR1. Moreover, CDX2 is a transcription factor that participates in inducing the differentiation of intestinal epithelial cells. Thus, in addition to inhibitors, it could be beneficial to take this property into consideration when examining chemotherapy regimens for colon cancer. Combination chemotherapy of oxaliplatin and 5&#x02010;FU has been shown to have positive effects at the cell line <xref rid="cam4697-bib-0036" ref-type="ref">36</xref>. In the future, CDX2 could serve as a therapeutic marker alongside MDR1.</p><p>In conclusion, our findings demonstrated that MDR1 expression is regulated by CDX2 and is related to drug resistance in ovarian mucinous adenocarcinoma. Although further studies on MDR1 function and its regulation by CDX2 are required to elucidate the complex drug resistance mechanism, our results demonstrate the potential of novel chemotherapy regimens based on CDX2 status and MDR1 expression in ovarian mucinous adenocarcinoma.</p></sec><sec id="cam4697-sec-0018"><title>Conflict of interest</title><p>None declared.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Table S1.</bold> CDX2 and MDR1 expression is coupled in human ovarian cancer (<italic>n</italic>&#x000a0;=&#x000a0;53).</p></caption><media xlink:href="CAM4-5-1546-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Table S2.</bold> Coexpression of CDX2 and MDR1 in mucinous ovarian cancer (<italic>n</italic>&#x000a0;=&#x000a0;14).</p></caption><media xlink:href="CAM4-5-1546-s002.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cam4697-sec-0017"><title>Acknowledgments</title><p>We thank Dr. Yuji Takakura for his advice and Drs. Nako Kojima and Yutaka Naito for their expert technical assistance. We also thank the Analysis Center of Life Science, Natural Science Center for Basic Research and Development, Hiroshima University, for use of their facilities.</p></ack><ref-list content-type="cited-references" id="cam4697-bibl-0001"><title>References</title><ref id="cam4697-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam4697-cit-0001">
+<string-name>
+<surname>McGuire</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<given-names>C. A.</given-names>
+<surname>Jesser</surname>
+</string-name>, and <string-name>
+<given-names>A. S.</given-names>
+<surname>Whittemore</surname>
+</string-name>. <year>2002</year>
+<article-title>Survival among U.S. women with invasive epithelial ovarian cancer</article-title>. <source>Gynecol. Oncol.</source>
+<volume>84</volume>:<fpage>399</fpage>&#x02013;<lpage>403</lpage>.<pub-id pub-id-type="pmid">11855877</pub-id></mixed-citation></ref><ref id="cam4697-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam4697-cit-0002">
+<string-name>
+<surname>Hess</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>A'Hern</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Nasiri</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>King</surname>
+</string-name>, <string-name>
+<given-names>P. R.</given-names>
+<surname>Blake</surname>
+</string-name>, <string-name>
+<given-names>D. P. J.</given-names>
+<surname>Barton</surname>
+</string-name>, et&#x000a0;al. <year>2004</year>
+<article-title>Mucinous epithelial ovarian cancer: a separate entity requiring specific treatment</article-title>. <source>J. Clin. Oncol.</source>
+<volume>22</volume>:<fpage>1040</fpage>&#x02013;<lpage>1044</lpage>.<pub-id pub-id-type="pmid">15020606</pub-id></mixed-citation></ref><ref id="cam4697-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam4697-cit-0003">
+<string-name>
+<surname>Cannistra</surname>, <given-names>S. A.</given-names>
+</string-name>
+<year>2004</year>
+<article-title>Cancer of the ovary</article-title>. <source>N. Engl. J. Med.</source>
+<volume>351</volume>:<fpage>2519</fpage>&#x02013;<lpage>2529</lpage>.<pub-id pub-id-type="pmid">15590954</pub-id></mixed-citation></ref><ref id="cam4697-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam4697-cit-0004">
+<string-name>
+<surname>Winter</surname>, <given-names>W. E.</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name>
+<given-names>G. L.</given-names>
+<surname>Maxwell</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Carlson</surname>
+</string-name>, <string-name>
+<given-names>R. F.</given-names>
+<surname>Ozols</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Rose</surname>
+</string-name>, et&#x000a0;al. <year>2007</year>
+<article-title>Prognostic factors for stage III epithelial ovarian cancer: a Gynecologic Oncology Group Study</article-title>. <source>J. Clin. Oncol.</source>
+<volume>25</volume>:<fpage>3621</fpage>&#x02013;<lpage>3627</lpage>.<pub-id pub-id-type="pmid">17704411</pub-id></mixed-citation></ref><ref id="cam4697-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam4697-cit-0005">
+<string-name>
+<surname>Pectasides</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Fountzilas</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Aravantinos</surname>
+</string-name>, <string-name>
+<given-names>H. P.</given-names>
+<surname>Kalofonos</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Efstathiou</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Salamalekis</surname>
+</string-name>, et&#x000a0;al. <year>2005</year>
+<article-title>Advanced stage mucinous epithelial ovarian cancer: the Hellenic Cooperative Oncology Group experience</article-title>. <source>Gynecol. Oncol.</source>
+<volume>97</volume>:<fpage>436</fpage>&#x02013;<lpage>441</lpage>.<pub-id pub-id-type="pmid">15863142</pub-id></mixed-citation></ref><ref id="cam4697-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam4697-cit-0006">
+<string-name>
+<surname>Pisano</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Greggi</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Tambaro</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Losito</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Iodice</surname>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Maio</surname>
+</string-name>, et&#x000a0;al. <year>2005</year>
+<article-title>Activity of chemotherapy in mucinous epithelial ovarian cancer: a retrospective study</article-title>. <source>Anticancer Res.</source>
+<volume>25</volume>:<fpage>3501</fpage>&#x02013;<lpage>3505</lpage>.<pub-id pub-id-type="pmid">16101169</pub-id></mixed-citation></ref><ref id="cam4697-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam4697-cit-0007">
+<string-name>
+<surname>Kimura</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Morita</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Matsuo</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Ueda</surname>
+</string-name>. <year>2007</year>
+<article-title>Mechanism of multidrug recognition by MDR1/ABCB1</article-title>. <source>Cancer Sci.</source>
+<volume>98</volume>:<fpage>1303</fpage>&#x02013;<lpage>1310</lpage>.<pub-id pub-id-type="pmid">17608770</pub-id></mixed-citation></ref><ref id="cam4697-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam4697-cit-0008">
+<string-name>
+<surname>Ambudkar</surname>, <given-names>S. V.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Kimchi&#x02010;Sarfaty</surname>
+</string-name>, <string-name>
+<given-names>Z. E.</given-names>
+<surname>Sauna</surname>
+</string-name>, and <string-name>
+<given-names>M. M.</given-names>
+<surname>Gottesman</surname>
+</string-name>. <year>2003</year>
+<article-title>P&#x02010;glycoprotein: from genomics to mechanism</article-title>. <source>Oncogene</source>
+<volume>22</volume>:<fpage>7468</fpage>&#x02013;<lpage>7485</lpage>.<pub-id pub-id-type="pmid">14576852</pub-id></mixed-citation></ref><ref id="cam4697-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam4697-cit-0009">
+<string-name>
+<surname>Thiebaut</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Tsuruo</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hamada</surname>
+</string-name>, <string-name>
+<given-names>M. M.</given-names>
+<surname>Gottesman</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Pastan</surname>
+</string-name>, and <string-name>
+<given-names>M. C.</given-names>
+<surname>Willingham</surname>
+</string-name>. <year>1987</year>
+<article-title>Cellular localization of the multidrug&#x02010;resistance gene product P&#x02010;glycoprotein in normal human tissues</article-title>. <source>Proc. Natl Acad. Sci. USA</source>
+<volume>84</volume>:<fpage>7735</fpage>&#x02013;<lpage>7738</lpage>.<pub-id pub-id-type="pmid">2444983</pub-id></mixed-citation></ref><ref id="cam4697-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam4697-cit-0010">
+<string-name>
+<surname>Pastan</surname>, <given-names>I.</given-names>
+</string-name>, and <string-name>
+<given-names>M. M.</given-names>
+<surname>Gottesman</surname>
+</string-name>. <year>1991</year>
+<article-title>Multidrug resistance</article-title>. <source>Annu. Rev. Med.</source>
+<volume>42</volume>:<fpage>277</fpage>&#x02013;<lpage>286</lpage>.<pub-id pub-id-type="pmid">2035973</pub-id></mixed-citation></ref><ref id="cam4697-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam4697-cit-0011">
+<string-name>
+<surname>Takakura</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Hinoi</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Oue</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Sasada</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kawaguchi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Okajima</surname>
+</string-name>, et&#x000a0;al. <year>2010</year>
+<article-title>CDX2 regulates multidrug resistance 1 gene expression in malignant intestinal epithelium</article-title>. <source>Cancer Res.</source>
+<volume>70</volume>:<fpage>6767</fpage>&#x02013;<lpage>6778</lpage>.<pub-id pub-id-type="pmid">20699370</pub-id></mixed-citation></ref><ref id="cam4697-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam4697-cit-0012">
+<string-name>
+<surname>Hinoi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tani</surname>
+</string-name>, <string-name>
+<given-names>P. C.</given-names>
+<surname>Lucas</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Caca</surname>
+</string-name>, <string-name>
+<given-names>R. L.</given-names>
+<surname>Dunn</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Macri</surname>
+</string-name>, et&#x000a0;al. <year>2001</year>
+<article-title>Loss of CDX2 expression and microsatellite instability are prominent features of large cell minimally differentiated carcinomas of the colon</article-title>. <source>Am. J. Pathol.</source>
+<volume>159</volume>:<fpage>2239</fpage>&#x02013;<lpage>2248</lpage>.<pub-id pub-id-type="pmid">11733373</pub-id></mixed-citation></ref><ref id="cam4697-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam4697-cit-0013">
+<string-name>
+<surname>Hinoi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Loda</surname>
+</string-name>, and <string-name>
+<given-names>E. R.</given-names>
+<surname>Fearon</surname>
+</string-name>. <year>2003</year>
+<article-title>Silencing of CDX2 expression in colon cancer via a dominant repression pathway</article-title>. <source>J. Biol. Chem.</source>
+<volume>278</volume>:<fpage>44608</fpage>&#x02013;<lpage>44616</lpage>.<pub-id pub-id-type="pmid">12947088</pub-id></mixed-citation></ref><ref id="cam4697-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam4697-cit-0014">
+<string-name>
+<surname>Hinoi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>P. C.</given-names>
+<surname>Lucas</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kuick</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hanash</surname>
+</string-name>, <string-name>
+<given-names>K. R.</given-names>
+<surname>Cho</surname>
+</string-name>, and <string-name>
+<given-names>E. R.</given-names>
+<surname>Fearon</surname>
+</string-name>. <year>2002</year>
+<article-title>CDX2 regulates liver intestine&#x02010;cadherin expression in normal and malignant colon epithelium and intestinal metaplasia</article-title>. <source>Gastroenterology</source>
+<volume>123</volume>:<fpage>1565</fpage>&#x02013;<lpage>1577</lpage>.<pub-id pub-id-type="pmid">12404231</pub-id></mixed-citation></ref><ref id="cam4697-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam4697-cit-0015">
+<string-name>
+<surname>Silberg</surname>, <given-names>D. G.</given-names>
+</string-name>, <string-name>
+<given-names>G. P.</given-names>
+<surname>Swain</surname>
+</string-name>, <string-name>
+<given-names>E. R.</given-names>
+<surname>Suh</surname>
+</string-name>, and <string-name>
+<given-names>P. G.</given-names>
+<surname>Traber</surname>
+</string-name>. <year>2000</year>
+<article-title>Cdx1 and cdx2 expression during intestinal development</article-title>. <source>Gastroenterology</source>
+<volume>119</volume>:<fpage>961</fpage>&#x02013;<lpage>971</lpage>.<pub-id pub-id-type="pmid">11040183</pub-id></mixed-citation></ref><ref id="cam4697-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam4697-cit-0016">
+<string-name>
+<surname>Beck</surname>, <given-names>F.</given-names>
+</string-name>
+<year>2004</year>
+<article-title>The role of Cdx genes in the mammalian gut</article-title>. <source>Gut</source>
+<volume>53</volume>:<fpage>1394</fpage>&#x02013;<lpage>1396</lpage>.<pub-id pub-id-type="pmid">15361482</pub-id></mixed-citation></ref><ref id="cam4697-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam4697-cit-0017">
+<string-name>
+<surname>Seidman</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Kurman</surname>
+</string-name>, and <string-name>
+<given-names>B. M.</given-names>
+<surname>Ronnett</surname>
+</string-name>. <year>2003</year>
+<article-title>Primary and metastatic mucinous adenocarcinomas in the ovaries: incidence in routine practice with a new approach to improve intraoperative diagnosis</article-title>. <source>Am. J. Surg. Pathol.</source>
+<volume>27</volume>:<fpage>985</fpage>&#x02013;<lpage>993</lpage>.<pub-id pub-id-type="pmid">12826891</pub-id></mixed-citation></ref><ref id="cam4697-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam4697-cit-0018">
+<string-name>
+<surname>Kim</surname>, <given-names>M. J.</given-names>
+</string-name>
+<year>2005</year>
+<article-title>The usefulness of CDX&#x02010;2 for differentiating primary and metastatic ovarian carcinoma: an immunohistochemical study using a tissue microarray</article-title>. <source>J. Korean Med. Sci.</source>
+<volume>20</volume>:<fpage>643</fpage>&#x02013;<lpage>648</lpage>.<pub-id pub-id-type="pmid">16100458</pub-id></mixed-citation></ref><ref id="cam4697-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam4697-cit-0019">
+<string-name>
+<surname>Werling</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yaziji</surname>
+</string-name>, <string-name>
+<given-names>C. E.</given-names>
+<surname>Bacchi</surname>
+</string-name>, and <string-name>
+<given-names>A. M.</given-names>
+<surname>Gown</surname>
+</string-name>. <year>2003</year>
+<article-title>CDX2, a highly sensitive and specific marker of adenocarcinoma of intestinal origin</article-title>. <source>Am. J. Surg. Pathol.</source>
+<volume>27</volume>:<fpage>303</fpage>&#x02013;<lpage>310</lpage>.<pub-id pub-id-type="pmid">12604886</pub-id></mixed-citation></ref><ref id="cam4697-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam4697-cit-0020">
+<string-name>
+<surname>Yoshida</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kiyozuka</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Noda</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Imai</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Ichijo</surname>
+</string-name>. <year>1993</year>
+<article-title>Establishment and characterization of human cell line derived from mucinous cystadenocarcinoma of ovary</article-title>. <source>J. Jpn. Soc. Clin. Cytol.</source>
+<volume>32</volume>:<fpage>1</fpage>&#x02013;<lpage>8</lpage>.</mixed-citation></ref><ref id="cam4697-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam4697-cit-0021">
+<string-name>
+<surname>Hayakawa</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Tsumura</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Koizumi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Endo</surname>
+</string-name>, and <string-name>
+<given-names>R.</given-names>
+<surname>Kudo</surname>
+</string-name>. <year>1986</year>
+<article-title>Establishment and characterization of cell line derived from mucinous cystadenocarcinoma of human ovary</article-title>. <source>Sapporo Ishi.</source>
+<volume>55</volume>:<fpage>153</fpage>&#x02013;<lpage>160</lpage>.</mixed-citation></ref><ref id="cam4697-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam4697-cit-0022">
+<string-name>
+<surname>Tsuruo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Iida</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tsukagoshi</surname>
+</string-name>, and <string-name>
+<given-names>Y.</given-names>
+<surname>Sakurai</surname>
+</string-name>. <year>1981</year>
+<article-title>Overcoming of vincristine resistance in P388 leukemia in vivo and in vitro through enhanced cytotoxicity of vincristine and vinblastine by verapamil</article-title>. <source>Cancer Res.</source>
+<volume>41</volume>:<fpage>1967</fpage>&#x02013;<lpage>1972</lpage>.<pub-id pub-id-type="pmid">7214365</pub-id></mixed-citation></ref><ref id="cam4697-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam4697-cit-0023">
+<string-name>
+<surname>Ambudkar</surname>, <given-names>S. V.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dey</surname>
+</string-name>, <string-name>
+<given-names>C. A.</given-names>
+<surname>Hrycyna</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ramachandra</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Pastan</surname>
+</string-name>, and <string-name>
+<given-names>M. M.</given-names>
+<surname>Gottesman</surname>
+</string-name>. <year>1999</year>
+<article-title>Biochemical, cellular, and pharmacological aspects of the multidrug transporter</article-title>. <source>Annu. Rev. Pharmacol. Toxicol.</source>
+<volume>39</volume>:<fpage>361</fpage>&#x02013;<lpage>398</lpage>.<pub-id pub-id-type="pmid">10331089</pub-id></mixed-citation></ref><ref id="cam4697-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam4697-cit-0024">
+<string-name>
+<surname>Baba</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Nosho</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Shima</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Freed</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Irahara</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Philips</surname>
+</string-name>, et&#x000a0;al. <year>2009</year>
+<article-title>Relationship of CDX2 loss with molecular features and prognosis in colorectal cancer</article-title>. <source>Clin. Cancer Res.</source>
+<volume>15</volume>:<fpage>4665</fpage>&#x02013;<lpage>4673</lpage>.<pub-id pub-id-type="pmid">19584150</pub-id></mixed-citation></ref><ref id="cam4697-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam4697-cit-0025">
+<string-name>
+<surname>Labialle</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gayet</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Marthinet</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Rigal</surname>
+</string-name>, and <string-name>
+<given-names>L. G.</given-names>
+<surname>Baggetto</surname>
+</string-name>. <year>2002</year>
+<article-title>Transcriptional regulators of the human multidrug resistance 1 gene: recent views</article-title>. <source>Biochem. Pharmacol.</source>
+<volume>64</volume>:<fpage>943</fpage>&#x02013;<lpage>948</lpage>.<pub-id pub-id-type="pmid">12213590</pub-id></mixed-citation></ref><ref id="cam4697-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam4697-cit-0026">
+<string-name>
+<surname>Kuwano</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Oda</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Izumi</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Uchiumi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Iwamoto</surname>
+</string-name>, et&#x000a0;al. <year>2004</year>
+<article-title>The role of nuclear Y&#x02010;box binding protein 1 as a global marker in drug resistance</article-title>. <source>Mol. Cancer Ther.</source>
+<volume>3</volume>:<fpage>1485</fpage>&#x02013;<lpage>1492</lpage>.<pub-id pub-id-type="pmid">15542787</pub-id></mixed-citation></ref><ref id="cam4697-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam4697-cit-0027">
+<string-name>
+<surname>Cornwell</surname>, <given-names>M. M.</given-names>
+</string-name>, and <string-name>
+<given-names>D. E.</given-names>
+<surname>Smith</surname>
+</string-name>. <year>1993</year>
+<article-title>Sp1 activates the MDR1 promoter through one of two distinct G&#x02010;rich regions that modulate promoter activity</article-title>. <source>J. Biol. Chem.</source>
+<volume>268</volume>:<fpage>19505</fpage>&#x02013;<lpage>19511</lpage>.<pub-id pub-id-type="pmid">8103518</pub-id></mixed-citation></ref><ref id="cam4697-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam4697-cit-0028">
+<string-name>
+<surname>Bentires&#x02010;Alj</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Barbu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fillet</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Chariot</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Relic</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Jacobs</surname>
+</string-name>, et&#x000a0;al. <year>2003</year>
+<article-title>NF&#x02010;<italic>&#x003ba;</italic>B transcription factor induces drug resistance through MDR1 expression in cancer cells</article-title>. <source>Oncogene</source>
+<volume>22</volume>:<fpage>90</fpage>&#x02013;<lpage>97</lpage>.<pub-id pub-id-type="pmid">12527911</pub-id></mixed-citation></ref><ref id="cam4697-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam4697-cit-0029">
+<string-name>
+<surname>Johnson</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<given-names>T. A.</given-names>
+<surname>Ince</surname>
+</string-name>, and <string-name>
+<given-names>K. W.</given-names>
+<surname>Scotto</surname>
+</string-name>. <year>2001</year>
+<article-title>Transcriptional repression by p53 through direct binding to a novel DNA element</article-title>. <source>J. Biol. Chem.</source>
+<volume>276</volume>:<fpage>27716</fpage>&#x02013;<lpage>27720</lpage>.<pub-id pub-id-type="pmid">11350951</pub-id></mixed-citation></ref><ref id="cam4697-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam4697-cit-0030">
+<string-name>
+<surname>Patel</surname>, <given-names>V. A.</given-names>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Dunn</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Sorokin</surname>
+</string-name>. <year>2002</year>
+<article-title>Regulation of MDR&#x02010;1 (P&#x02010;glycoprotein) by cyclooxygenase&#x02010;2</article-title>. <source>J. Biol. Chem.</source>
+<volume>277</volume>:<fpage>38915</fpage>&#x02013;<lpage>38920</lpage>.<pub-id pub-id-type="pmid">12138126</pub-id></mixed-citation></ref><ref id="cam4697-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam4697-cit-0031">
+<string-name>
+<surname>Katsuno</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ehata</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yashiro</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yanagihara</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Hirakawa</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Miyazono</surname>
+</string-name>. <year>2012</year>
+<article-title>Coordinated expression of REG4 and aldehyde dehydrogenase 1 regulating tumourigenic capacity of diffuse&#x02010;type gastric carcinoma&#x02010;initiating cells is inhibited by TGF&#x02010;<italic>&#x003b2;</italic>
+</article-title>. <source>J. Pathol.</source>
+<volume>228</volume>:<fpage>391</fpage>&#x02013;<lpage>404</lpage>.<pub-id pub-id-type="pmid">22430847</pub-id></mixed-citation></ref><ref id="cam4697-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam4697-cit-0032">
+<string-name>
+<surname>Bishnupuri</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Murmu</surname>
+</string-name>, <string-name>
+<given-names>C. W.</given-names>
+<surname>Houchen</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Anant</surname>
+</string-name>, and <string-name>
+<given-names>B. K.</given-names>
+<surname>Dieckqraefe</surname>
+</string-name>. <year>2006</year>
+<article-title>Reg IV activates the epidermal growth factor receptor/Akt/AP&#x02010;1 signaling pathway in colon adenocarcinomas</article-title>. <source>Gastroenterology</source>
+<volume>130</volume>:<fpage>137</fpage>&#x02013;<lpage>149</lpage>.<pub-id pub-id-type="pmid">16401477</pub-id></mixed-citation></ref><ref id="cam4697-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam4697-cit-0033">
+<string-name>
+<surname>Mitani</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Oue</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Matsumura</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yoshida</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Noguchi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ito</surname>
+</string-name>, et&#x000a0;al. <year>2007</year>
+<article-title>Reg IV is a serum biomarker for gastric cancer patients and predicts response to 5&#x02010;fluorouracil&#x02010;based chemotherapy</article-title>. <source>Oncogene</source>
+<volume>26</volume>:<fpage>4383</fpage>&#x02013;<lpage>4393</lpage>.<pub-id pub-id-type="pmid">17237819</pub-id></mixed-citation></ref><ref id="cam4697-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cam4697-cit-0034">
+<string-name>
+<surname>Naito</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Oue</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Hinoi</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Sentani</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ohdan</surname>
+</string-name>, et&#x000a0;al. <year>2012</year>
+<article-title>Reg IV is a direct target of intestinal transcriptional factor CDX2 in gastric cancer</article-title>. <source>PLoS ONE</source>
+<volume>7</volume>:<fpage>e47545</fpage>.<pub-id pub-id-type="pmid">23133598</pub-id></mixed-citation></ref><ref id="cam4697-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam4697-cit-0035">
+<string-name>
+<surname>Ozols</surname>, <given-names>R. F.</given-names>
+</string-name>
+<year>2005</year>
+<article-title>Treatment goals in ovarian cancer</article-title>. <source>Int. J. Gynecol. Cancer</source>
+<volume>15</volume>:<fpage>3</fpage>&#x02013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">15839952</pub-id></mixed-citation></ref><ref id="cam4697-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cam4697-cit-0036">
+<string-name>
+<surname>Sato</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Itamochi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kigawa</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Oishi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Shimada</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Sato</surname>
+</string-name>, et&#x000a0;al. <year>2009</year>
+<article-title>Combination chemotherapy of oxaliplatin and 5&#x02010;fluorouracil may be an effective regimen for mucinous adenocarcinoma of the ovary: a potential treatment strategy</article-title>. <source>Cancer Sci.</source>
+<volume>100</volume>:<fpage>546</fpage>&#x02013;<lpage>551</lpage>.<pub-id pub-id-type="pmid">19154404</pub-id></mixed-citation></ref></ref-list></back></article>
