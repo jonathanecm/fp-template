@@ -16,6 +16,9 @@ source("./scripts/00_functions.R")
 # Variables 
 files <- list.files("./corpus", full.names = TRUE)
 section_vec <- vector()
+article_name_vec <- vector()
+journal_vec <- vector()
+abstract_vec <- vector()
 possible_titles <- c('results', 'results and discussion', 'methods and results', 'results and discussions',
                      'results, discussion and conclusions', 'discussion and results',
                      'study results', 'results and conclusions', 'results and conclusion',

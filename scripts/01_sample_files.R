@@ -21,3 +21,7 @@ files_names <- basename(sampled_files)
 # Creates a corpus of sampled files in the "corpus" directory. 
 destination_files <- file.path(".", "corpus", files_names)
 file.copy(sampled_files, destination_files, overwrite = FALSE)
+
+# Saving memory. 
+rm(files_paths)
+rm(destination_files)
