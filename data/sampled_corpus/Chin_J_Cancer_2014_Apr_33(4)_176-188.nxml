@@ -1,0 +1,429 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Chin J Cancer</journal-id><journal-id journal-id-type="iso-abbrev">Chin J Cancer</journal-id><journal-id journal-id-type="publisher-id">CJC</journal-id><journal-title-group><journal-title>Chinese Journal of Cancer</journal-title></journal-title-group><issn pub-type="ppub">1000-467X</issn><issn pub-type="epub">1944-446X</issn><publisher><publisher-name>Sun Yat-sen University Cancer Center</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">24636232</article-id><article-id pub-id-type="pmc">3975183</article-id><article-id pub-id-type="publisher-id">cjc-33-04-176</article-id><article-id pub-id-type="doi">10.5732/cjc.014.10030</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>A bird's eye view of the air pollution-cancer link in China</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Huang</surname><given-names>Yu-Bei</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Song</surname><given-names>Feng-Ju</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Liu</surname><given-names>Qun</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Wei-Qin</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Wei</given-names></name><xref ref-type="aff" rid="aff4">4</xref></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Ke-Xin</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib></contrib-group><aff id="aff1"><label>1</label><addr-line>Department of Epidemiology and Biostatistics,</addr-line></aff><aff id="aff2"><label>2</label><addr-line>Department of Neurosurgery, Tianjin Medical University Cancer Institute and Hospital, Tianjin 300060, P. R. China;</addr-line></aff><aff id="aff3"><label>3</label><addr-line>Project Office, Tianjin Women's and Children's Health Center, Tianjin 300070, P. R. China;</addr-line></aff><aff id="aff4"><label>4</label><addr-line>Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston, Texas 77030, USA.</addr-line></aff><author-notes><corresp><bold>Corresponding Authors:</bold> Ke-Xin Chen, Department of Epidemiology and Biostatistics, Tianjin Medical University Cancer Hospital and Institute, Tianjin 300060, P. R. China. Tel: <phone>+86-22-23372231</phone>; Fax: <fax>+86-22-23372231</fax>; Email: <email>chenkexin1963@yahoo.com</email>. Wei Zhang, Department of Pathology, Unit 85, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd, Houston, TX 77030, USA. Tel: <phone>+1-713-745-1103</phone>; Fax: <fax>+1-713-792-5549</fax>; Email: <email>wzhang@mdanderson.org</email>.</corresp></author-notes><pub-date pub-type="ppub"><month>4</month><year>2014</year></pub-date><volume>33</volume><issue>4</issue><fpage>176</fpage><lpage>188</lpage><history><date date-type="received"><day>24</day><month>2</month><year>2014</year></date><date date-type="rev-recd"><day>3</day><month>3</month><year>2014</year></date><date date-type="accepted"><day>12</day><month>3</month><year>2014</year></date></history><permissions><copyright-statement>Chinese Journal of Cancer</copyright-statement><copyright-year>2014</copyright-year><license xlink:href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License, which allows readers to alter, transform, or build upon the article and then distribute the resulting work under the same or similar license to this one. The work must be attributed back to the original author and commercial use is not permitted without specific permission.</license-p></license></permissions><abstract><p>Air pollution in China comes from multiple sources, including coal consumption, construction and industrial dust, and vehicle exhaust. Coal consumption in particular directly determines the emissions of three major air pollutants: dust, sulfur dioxide (SO<sub>2</sub>), and nitrogen oxide (NO<sub>x</sub>). The rapidly increasing number of civilian vehicles is expected to bring NO<sub>x</sub> emission to a very high level. Contrary to expectations, however, existing data show that the concentrations of major pollutants [particulate matter-10 (PM<sub>10</sub>), SO<sub>2</sub>, and nitrogen dioxide (NO<sub>2</sub>)] in several large Chinese cities have declined during the past decades, though they still exceed the national standards of ambient air quality. Archived data from China does not fully support that the concentrations of pollutants directly depend on local emissions, but this is likely due to inaccurate measurement of pollutants. Analyses on the cancer registry data show that cancer burden related to air pollution is on the rise in China and will likely increase further, but there is a lack of data to accurately predict the cancer burden. Past experience from other countries has sounded alarm of the link between air pollution and cancer. The quantitative association requires dedicated research as well as establishment of needed monitoring infrastructures and cancer registries. The air pollution-cancer link is a serious public health issue that needs urgent investigation.</p></abstract><kwd-group><kwd>Lung cancer</kwd><kwd>air pollution</kwd><kwd>particulate matter</kwd><kwd>sulfur dioxide</kwd><kwd>nitrogen oxide</kwd></kwd-group></article-meta></front><body><p>Serious air pollution, especially the frequent haze (also called Wu Mai in Chinese) affecting northern China in recent years, has attracted global attention. The widespread fear of this modern day threat of public health is not without precedent. The London Smog Episode in 1952, the biggest air pollution event in the history of the United Kingdom, was reported to be associated with approximately 12,000 premature deaths<xref rid="b1" ref-type="bibr">[1]</xref>. According to the latest assessment of global disease burden, 3.2 million people died from air pollution in 2010, of which 2.1 million were from Asia<xref rid="b2" ref-type="bibr">[2]</xref>. Accumulating evidence suggests that air pollution is associated with increased risk of cancers, including lung cancer<xref rid="b3" ref-type="bibr">[3]</xref>&#x02013;<xref rid="b9" ref-type="bibr">[9]</xref>, nasopharyngeal cancer<xref rid="b10" ref-type="bibr">[10]</xref>&#x02013;<xref rid="b12" ref-type="bibr">[12]</xref>, breast cancer<xref rid="b13" ref-type="bibr">[13]</xref>&#x02013;<xref rid="b16" ref-type="bibr">[16]</xref>, lymphohematopoietic cancer<xref rid="b17" ref-type="bibr">[17]</xref>, <xref rid="b18" ref-type="bibr">[18]</xref>, and bladder cancer<xref rid="b19" ref-type="bibr">[19]</xref>,<xref rid="b20" ref-type="bibr">[20]</xref>. Outdoor air pollution and particulate matter (PM) from outdoor air pollution were established as class I carcinogens by the International Agency of Research on Cancer (IARC)<xref rid="b21" ref-type="bibr">[21]</xref>.</p><p>Nevertheless, because cancer has a long latency (averaging 30 years) and individual exposure has often been inaccurately measured<xref rid="b22" ref-type="bibr">[22]</xref>, the air pollution&#x02013;cancer (APC) link has not gained the same widespread attention as other relationships, such as the link between tobacco use and lung cancer. Frequently reported haze episodes around the world have recently brought the APC link back into the spotlight, especially in China. In January 2013, a hazardous dense haze covered 1.4 million square kilometers of China and affected more than 800 million people<xref rid="b23" ref-type="bibr">[23]</xref>. A heavy haze that winter shrouded northern and eastern China, reducing visibility to less than 50 meters in some regions<xref rid="b24" ref-type="bibr">[24]</xref>.</p><p>Because of fast economic growth over the past three decades, China has become the world's second largest economy in terms of gross domestic product (since 2010) and the world's largest energy consumer (since 2009)<xref rid="b25" ref-type="bibr">[25]</xref>. Although this rapid economic development has improved living conditions, it also introduced a health threat caused by air pollution. In this paper we systematically analyze archived data on air pollution in China and discuss the potential association with cancer burden.</p><sec id="s2"><title>Trends of Major Air Pollution Sources and Pollutant Emission in China</title><p>Modern-day air pollution is much more complex than that in the past, such as that in the London Smog in the 1950s. This is because it is caused by multiple sources, including coal consumption, construction and industrial dust, and vehicle exhaust<xref rid="b25" ref-type="bibr">[25]</xref>,<xref rid="b26" ref-type="bibr">[26]</xref>. Coal is the main source of energy in China. In 2012, coal accounted for 67% of the country's total energy consumption, and the coal consumption in China accounted for 50% of the world's total coal consumption in that year<xref rid="b27" ref-type="bibr">[27]</xref>. In the same year, China's production capacity of cement and steel has reached 2.20 billion tons and 0.95 billion tons, respectively (<xref ref-type="fig" rid="cjc-33-04-176-g001"><bold>Figure 1</bold></xref>)<xref rid="b27" ref-type="bibr">[27]</xref>. The number of civilian vehicles has increased rapidly in China, from 1.36 million in 1978 to 109.33 million in 2012 (<xref ref-type="fig" rid="cjc-33-04-176-g001"><bold>Figure 1</bold></xref>)<xref rid="b27" ref-type="bibr">[27]</xref>,<xref rid="b28" ref-type="bibr">[28]</xref>.</p><p>Unprecedented industrial development, overly coal-dependent energy consumption, and rapidly increasing number of vehicles have inevitably caused air pollutant emission to rise in China. Dust emission has decreased since 1997, the year in which the first emission standard of air pollutants in China was released<xref rid="b29" ref-type="bibr">[29]</xref>, and sulfur dioxide (SO<sub>2</sub>) emission has decreased since 2006, the year in which national management of industrial desulfurization was piloted<xref rid="b30" ref-type="bibr">[30]</xref>. Nevertheless, dust and SO<sub>2</sub> emission is still high, with level of 12.34 million tons and 21.18 million tons in 2012, respectively (<xref ref-type="fig" rid="cjc-33-04-176-g002"><bold>Figure 2</bold></xref>). Nitrogen oxide (NO<sub>x</sub>) emission has steadily increased since monitoring was initiated in 2006, reaching a level of 23.38 million tons in 2012 (<xref ref-type="fig" rid="cjc-33-04-176-g002"><bold>Figure 2</bold></xref>).</p><fig id="cjc-33-04-176-g001" position="float"><label>Figure 1.</label><caption><title>Trends of annual coal consumption, cement production, steel production, and number of civilian vehicles in China from 1978 to 2012.</title><p>Data were incomplete for coal consumption due to the inconsistent data reported from different yearbook. Only data in the latest yearbook was selected. The left vertical axis represents coal consumption, cement production, and steel production. The right vertical axis represents civilian vehicles. Sources of data: China Statistical Yearbook 1983-2013<xref rid="b27" ref-type="bibr">[27]</xref>,<xref rid="b28" ref-type="bibr">[28]</xref>,<xref rid="b31" ref-type="bibr">[31]</xref>,<xref rid="b52" ref-type="bibr">[52]</xref> and China Energy Statistical Yearbook 2012<xref rid="b32" ref-type="bibr">[32]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g001"/></fig><fig id="cjc-33-04-176-g002" position="float"><label>Figure 2.</label><caption><title>Trends of annual emission of sulfur dioxide (SO<sub>2</sub>), nitrogen oxide (NO<sub>X</sub>), and dust in China from 1989 to 2012.</title><p>Dust emission included both the industrial dust and dust from the living environments, but only the industrial dust was reported in 1995 and 1996. NO<sub>x</sub> emission was just monitoring since 2006. Sources of data: Chinese Environment Statistical Yearbook 1998-2012<xref rid="b53" ref-type="bibr">[53]</xref>, <xref rid="b54" ref-type="bibr">[54]</xref> and Chinese National Environment Statistical Report 1995-2012<xref rid="b55" ref-type="bibr">[55]</xref>,<xref rid="b56" ref-type="bibr">[56]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g002"/></fig></sec><sec id="s3"><title>Relationship Between Major Air Pollution Sources and Pollutant Emission in China</title><p>Although the annual emissions of dust, SO<sub>2</sub>, and NO<sub>x</sub> do not appear to parallel with the three potential major pollution sources at the national level, the relationship is clear at the province level. In Hebei Province, both dust emission (1.32 million tons) and NO<sub>x</sub> emission (1.80 million tons) were higher than those in any other provinces in 2011<xref rid="b31" ref-type="bibr">[31]</xref>. At the same time, Hebei Province also produced the largest amount of steel (0.19 million tons)<xref rid="b31" ref-type="bibr">[31]</xref>. In 2011, Shandong Province had the highest SO<sub>2</sub> emission (1.83 million tons), consumed the largest amount of coal (0.39 billion tons), and produced the largest amount of cement (0.15 billion tons)<xref rid="b31" ref-type="bibr">[31]</xref>,<xref rid="b32" ref-type="bibr">[32]</xref>. By contrast, Tibet had the lowest emissions of the three air pollutants because it has the fewest industries and civilian vehicles (<xref ref-type="fig" rid="cjc-33-04-176-g003"><bold>Figure 3</bold></xref>).</p><p>The scatter diagrams in <xref ref-type="fig" rid="cjc-33-04-176-g003"><bold>Figures 3</bold></xref> and <xref ref-type="fig" rid="cjc-33-04-176-g004"><bold>4</bold></xref> show the relationship between four major pollution sources and the emissions of the three major pollutants in 31 provinces/municipalities/autonomous regions in China in 2011. The data show that the emissions of all three major pollutants were significantly associated with the four pollution sources, especially coal consumption<xref rid="b31" ref-type="bibr">[31]</xref>,<xref rid="b32" ref-type="bibr">[32]</xref>. Indeed, coal consumption and NO<sub>x</sub> emission had the strongest positive correlation (<italic>r</italic> = 0.944), and coal consumption was also positively correlated with SO<sub>2</sub> emission (<italic>r</italic> = 0.917) and dust emission (<italic>r</italic> = 0.839). Furthermore, the number of civilian vehicles had a strong positive correlation with NO<sub>x</sub> emission (<italic>r</italic> = 0.746) but not with SO<sub>2</sub> emission (<italic>r</italic> = 0.574) or dust emission (<italic>r</italic> = 0.432). These results suggest that coal consumption may still be the most important pollution source in current China. As the number of civilian vehicles increase, NO<sub>x</sub> emission will increase more significantly compared with SO<sub>2</sub> emission and dust emission.</p><fig id="cjc-33-04-176-g003" position="float"><label>Figure 3.</label><caption><title>Scatter diagram of four air pollution sources and emissions for three major pollutants in 31 provinces/municipalities/autonomous regions in China in 2011.</title><p>Red dot in each sub-graph represents the level of air pollution sources for one province/municipality/autonomous region, and the blue dot represents the corresponding level of air pollutant emission. Sources of data: China Statistical Yearbook 2012<xref rid="b31" ref-type="bibr">[31]</xref> and China Energy Statistical Yearbook 2012<xref rid="b32" ref-type="bibr">[32]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g003"/></fig></sec><sec id="s4"><title>Trends of Annual Mean Concentrations of Major Air Pollutants in China</title><p>Although there is no comprehensive national data to reflect the overall level of air pollution in China, annual monitoring data from selected major cities can nonetheless give us a general estimate of the concentrations of particulate matter-10 (PM<sub>10</sub>), SO<sub>2</sub>, and NO<sub>2</sub> in the country. In Beijing, Shanghai, and Tianjin, the annual mean concentrations of all three pollutants decreased from 2003 to 2012. However, the annual mean concentrations of PM<sub>10</sub> in the three cities still exceeded the class II standard (70 &#x000b5;g/m<sup>3</sup>) in China in 2012 (<xref ref-type="fig" rid="cjc-33-04-176-g005"><bold>Figure 5</bold></xref>)<xref rid="b27" ref-type="bibr">[27]</xref>. The trend for NO<sub>2</sub> was similar to PM<sub>10</sub>. Although the annual mean concentration of SO<sub>2</sub> in all the three cities was in compliance with the class II standard (60 &#x000b5;g/m<sup>3</sup>), the concentrations still exceeded the class I standard (20 &#x000b5;g/m<sup>3</sup>) (<xref ref-type="fig" rid="cjc-33-04-176-g005"><bold>Figure 5</bold></xref>)<xref rid="b27" ref-type="bibr">[27]</xref>.</p><p>By contrast to Beijing, Shanghai, and Tianjin, other cities in China did not experience a similar decrease in pollutant concentration. Between 2003 and 2012, the annual mean concentrations of pollutants actually increased in several cities. As shown in <xref ref-type="fig" rid="cjc-33-04-176-g006"><bold>Figure 6</bold></xref>, PM<sub>10</sub> concentration increased in three cities (Chengdu, Shenyang, and Urumqi), SO<sub>2</sub> concentration increased in five cities (Zhengzhou, Nanjing, Shenyang, Lhasa, and Changchun), and NO<sub>2</sub> concentration increased in eight cities (Nanjing, Wuhan, Kunming, Chengdu, Haikou, Zhengzhou, Urumqi, and Changchun). In 2012, the annual mean concentrations of NO<sub>2</sub> and PM<sub>10</sub> exceeded the national class II standards in six and three cities, respectively (<xref ref-type="fig" rid="cjc-33-04-176-g006"><bold>Figure 6</bold></xref>)<xref rid="b27" ref-type="bibr">[27]</xref>. These results suggest that NO<sub>2</sub> concentration may be more difficult to control than PM<sub>10</sub> or SO<sub>2</sub>. Government regulations must better emphasize the control of NO<sub>2</sub> concentration in the future.</p><p>In 2013, China began to monitor the concentration of PM<sub>2.5</sub> in 74 selected cities<xref rid="b33" ref-type="bibr">[33]</xref>. As shown in <xref ref-type="fig" rid="cjc-33-04-176-g007"><bold>Figure 7</bold></xref>, the monthly mean concentration of PM<sub>2.5</sub> dropped to its lowest level in July (40 &#x000b5;g/m<sup>3</sup>) but increased to high levels by December (130 &#x000b5;g/m<sup>3</sup>). The concentrations of PM<sub>10</sub>, SO<sub>2</sub>, and NO<sub>2</sub> followed similar trends (<xref ref-type="fig" rid="cjc-33-04-176-g007"><bold>Figure 7</bold></xref>). This apparent seasonal distribution of pollutants is probably due to coal burning for heat during winter months. Although we were unable to find detailed information on the distribution of pollutants in northern and southern China, we expect a difference would certainly exist between these locations, as was reported in a recent study that examined the impact of sustained exposure to air pollution on life expectancy around the Huai River in China<xref rid="b34" ref-type="bibr">[34]</xref>.</p></sec><sec id="s5"><title>Relationship Between Concentrations of Major Pollutants and Pollutant Emission in China</title><p>Available data from 31 major cities in China in 2012 showed that the concentrations of PM<sub>10</sub>, SO<sub>2</sub>, and NO<sub>2</sub> were not linearly associated with the emissions of the corresponding air pollutants (<xref ref-type="fig" rid="cjc-33-04-176-g008"><bold>Figure 8</bold></xref>)<xref rid="b27" ref-type="bibr">[27]</xref>. However, there was a weak exponential relationship between the concentrations and the emissions of these air pollutants (<xref ref-type="fig" rid="cjc-33-04-176-g008"><bold>Figure 8</bold></xref>). The relationship between annual mean concentration of SO<sub>2</sub> and SO<sub>2</sub> emission was stronger than that between concentration of PM<sub>10</sub> and dust emission and that between the concentration of NO<sub>2</sub> and NO<sub>X</sub> emission (<xref ref-type="fig" rid="cjc-33-04-176-g008"><bold>Figure 8</bold></xref>).</p><p>On one hand, if this exponential relationship was real, further studies would be needed to confirm whether the concentrations of the pollutants would reach a plateau as the emissions increased and where the plateau would be. On the other hand, the unexpected weak relationship between pollutant concentrations and pollutant emissions in these cities could be a result of where emissions occur, how monitoring locations are selected, what measures are taken to reduce pollutant levels in different regions, and how accurately pollutants are measured. Inaccurate measurement of pollutant emission and concentration is probably the most important determinant of this weak relationship. To be clear about the true relationship, all provincial regions must improve at measuring pollutants. This is also needed to accurately assess the relationship between air pollution and cancer burden.</p><fig id="cjc-33-04-176-g004" position="float"><label>Figure 4.</label><caption><title>Relationship between four air pollution sources and emissions of three major pollutants in 31 provinces/municipalities/autonomous regions in China in 2011.</title><p>Each blue dot in each sub-graph represents one province/municipality/ autonomous region with corresponding level of air pollution source and air pollutant emission. The linear relationship between air pollution source and air pollutant emission is presented with a formula, and the coefficient of determination (<italic>R</italic><sup>2</sup>) for the relationship is also calculated. Sources of data: China Statistical Yearbook 2012<xref rid="b31" ref-type="bibr">[31]</xref> and China Energy Statistical Yearbook 2012<xref rid="b32" ref-type="bibr">[32]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g004"/></fig></sec><sec id="s6"><title>Trends of Cancer Incidence and Mortality in China</title><p>From 1989 to 2008, the crude overall cancer incidence in cancer registration areas increased from 184.81/100,000 to 286.69/100,000 in China, with an annual change of 2.4%. After age standardization, no obvious change was found in overall incidence<xref rid="b35" ref-type="bibr">[35]</xref>. In addition, although the crude overall cancer mortality increased from 156.93/100,000 to 184.67/100,000 (annual percent change = 1.0%), the age-standardized overall cancer mortality significantly decreased, with an annual percent change of &#x02013;1.2% (<xref ref-type="fig" rid="cjc-33-04-176-g009"><bold>Figure 9</bold></xref>)<xref rid="b36" ref-type="bibr">[36]</xref>.</p><p>In 2009, the crude overall cancer incidence and mortality were 285.91/100,000 and 180.54/100,000, respectively, in China<xref rid="b37" ref-type="bibr">[37]</xref>. Lung cancer, gastric cancer, colorectal cancer, liver cancer, and esophageal cancer were the five most common cancers, accounting for 51.8% of all cancer cases<xref rid="b37" ref-type="bibr">[37]</xref>. Among the 72 cancer registration areas, Dalian, Shanghai, and Yangzhong reported the highest overall cancer incidence (410.95/100,000, 410.936/100,000, and 383.39/100,000); Dalian, Haimen, and An'shan reported the highest lung cancer incidence (85.69/100,000, 79.90/100,000, and 77.46/100,000); and Qidong, Fusui, and Haimen reported the highest liver cancer incidence (75.61/100,000, 69.99/100,000, and 53.53/100,000) (<xref ref-type="fig" rid="cjc-33-04-176-g010"><bold>Figure 10</bold></xref>)<xref rid="b37" ref-type="bibr">[37]</xref>.</p><fig id="cjc-33-04-176-g005" position="float"><label>Figure 5.</label><caption><title>Trends for the annual mean concentrations of PM<sub>10</sub>, SO<sub>2</sub>, and NO<sub>2</sub> in Beijing, Shanghai, and Tianjin from 2003 to 2012.</title><p>Sources of data: China Statistical Yearbook 2004-2013<xref rid="b27" ref-type="bibr">[27]</xref>, <xref rid="b52" ref-type="bibr">[52]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g005"/></fig></sec><sec id="s7"><title>Relationship Between Cancer Burden and Concentrations of Major Pollutants in China</title><p>Several factors may account for the increasing cancer incidence and mortality in China, including the aging population, high rate of smoking among males, limited time for physical exercise, changing diet patterns, and increased numbers of obese and overweight individuals<xref rid="b38" ref-type="bibr">[38]</xref>. Notably, these factors were observed not only in urban China but also in rural China<xref rid="b38" ref-type="bibr">[38]</xref>. Assessing other specific risk factors may provide more information on the cause of certain cancers in China. As shown in <xref ref-type="fig" rid="cjc-33-04-176-g011"><bold>Figure 11</bold></xref>, an obviously opposite urban-rural distribution was observed between the incidences of lung cancer and liver cancer in China. For lung cancer, the incidence in urban China was consistently higher than that in rural China over the past 20 years, but the opposite pattern was observed for liver cancer. This urban-rural distribution of liver cancer probably implies that diet factors are the major determinant. Differences in the distribution of lung cancer between urban and rural areas are probably due to air pollution.</p><p>To better clarify the APC link, the annual mean concentrations of PM<sub>10</sub>, SO<sub>2</sub>, and NO<sub>2</sub> were linked with cancer incidence in selected cities (10 for which there are matched data). As shown in <xref ref-type="fig" rid="cjc-33-04-176-g012"><bold>Figure 12</bold></xref>, neither the overall cancer incidence nor lung/liver cancer incidence in 2009 in these areas was strongly associated with mean concentration of PM<sub>10</sub> or SO<sub>2</sub> from 2003 to 2009. However, the annual mean concentration of NO<sub>2</sub> was associated with overall cancer incidence and lung cancer incidence (<xref ref-type="fig" rid="cjc-33-04-176-g012"><bold>Figure 12</bold></xref>). The relationship between pollutant concentration and cancer mortality followed a similar trend as that between pollutant concentration and cancer incidence.</p><p>After excluding the data from Shenyang (as shown in the scatter diagram, data from Shenyang seems to be an outlier), the correlation became stronger. Moreover, the incidence and mortality of overall cancer and lung cancer were correlated with both the current and past annual mean concentrations of NO<sub>2</sub>. For example, the overall cancer incidence in 2009 was most strongly correlated with the concentration of NO<sub>2</sub> in 2005 (<italic>r</italic> = 0.784), and lung cancer incidence in 2009 with the concentration of NO<sub>2</sub> in 2008 (<italic>r</italic> = 0.836). Stronger correlation was found between lung cancer mortality in 2009 and the concentration of NO<sub>2</sub> in 2004 (<italic>r</italic> = 0.923) (<xref ref-type="table" rid="cjc-33-04-176-t01"><bold>Table 1</bold></xref>). These results support the assumption of latency between exposure to air pollution and development of cancer. However, it should be noted that the latency may be not as long as the reported 30 years<xref rid="b39" ref-type="bibr">[39]</xref>. Lung cancer may manifest more quickly because of exposure to a lasting, unprecedented, high level of complex pollutants resulting from coal consumption, cement and steel production, and civilian vehicle use. Even if a 30-year latency exists, the jump in cancer burden related to air pollution will likely occur in China in the near future, given that the remarkable economic transformation started 20&#x02013;30 years ago.</p><fig id="cjc-33-04-176-g006" position="float"><label>Figure 6.</label><caption><title>Changes in the annual mean concentrations of PM<sub>10</sub>, SO<sub>2</sub>, and NO<sub>2</sub> in 14 selected cities in China in 2003 and 2012.</title><p>The blue and red bars represent the annual mean concentrations of air pollutants in 2003 and 2012, respectively. And the green bar represent the change of annual mean concentrations of air pollutant between the two years. A green bar with negative value indicates a decrease in the level of air pollutant, and a positive value indicates an increase. Sources of data: China Statistical Yearbook 2004-2013<xref rid="b27" ref-type="bibr">[27]</xref>, <xref rid="b52" ref-type="bibr">[52]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g006"/></fig><fig id="cjc-33-04-176-g007" position="float"><label>Figure 7.</label><caption><title>Trends of the monthly mean concentrations (&#x000b5;g/m<sup>3</sup>) of PM<sub>2.5</sub>, PM<sub>10</sub>, SO<sub>2</sub>, and NO<sub>2</sub> from January to December 2013 in 74 cities with monitored air quality in China.</title><p>Sources of data: Monthly reports of air quality monitoring in 74 cities in China (January to December in 2013)<xref rid="b33" ref-type="bibr">[33]</xref>, <xref rid="b57" ref-type="bibr">[57]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g007"/></fig><fig id="cjc-33-04-176-g008" position="float"><label>Figure 8.</label><caption><title>Scatter diagram (A) and relationship (B) between annual mean concentrations and emissions of PM<sub>10</sub>, SO<sub>2</sub>, and NO<sub>2</sub> in 31 major cities in China in 2012.</title><p>Red dot in each sub-graph of part A represents the level of air pollutant concentration for one city, and the blue dot represents the corresponding level of air pollutant emission. Each blue dot in each sub-graph of part B represents one city with corresponding level of air pollutant concentration and air pollutant emission. The exponential relationship between air pollutant concentration and air pollutant emission is presented with a formula, and the coefficient of determination (<italic>R</italic><sup>2</sup>) for the relationship is also calculated. Sources of data: China Statistical Yearbook 2013<xref rid="b27" ref-type="bibr">[27]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g008"/></fig></sec><sec id="s8"><title>Challenges in Pollution Control for China</title><p>Controlling air pollution and understanding the real APC link in China are very challenging because the sources of pollution and types of pollutants are very different from European countries and the US, and they are also diverse and vary across different regions in China<xref rid="b40" ref-type="bibr">[40]</xref>. The government has demonstrated strong intent to tackle this problem; nevertheless, there are deficiencies in pollution monitoring systems, and there are only a few well established cancer registries in selected cities in China. At the other hand, reduction of air pollution will possibly impact the economy and the modern lifestyle to which Chinese people have become accustomed, but past experience from other parts of the world points to a grim picture of cancer burden and personal suffering. Some hard choices have to be made. We hereby suggest a few measures that should be taken.</p><p>First, establish and enforce the rules of the Clear Air Acts in China. No doubt, this will be challenging; but the Clean Air Acts would be the most direct and effective strategy for controlling air pollution. Such enforcement has already been undertaken in other countries<xref rid="b41" ref-type="bibr">[41]</xref>,<xref rid="b42" ref-type="bibr">[42]</xref>, with the Clean Air Act of 1956 after the London Smog Episode and the Pollution-Related Health Damage Special Measures Law after the Yokkaichi Asthma Episode in Japan. In recent years, the Chinese government has increased the emission standards<xref rid="b43" ref-type="bibr">[43]</xref>, launched a National Plan on Air Pollution Control in Key Regions during the 12th Five-Year Plan (2011&#x02013;2015) in 2012, and released the first National Action Plan on Air Pollution Prevention and Control (2013&#x02013;2017) in September 2013<xref rid="b25" ref-type="bibr">[25]</xref>. The emphasis has to be enforcement of the laws and implementation of the standards. More detailed regulations are also needed in the areas of the deamination, dedusting, and desulfurization processes in coal consumption. Clear regulations to reduce NO<sub>x</sub> emission in vehicle exhaust should be established and enforced.</p><fig id="cjc-33-04-176-g009" position="float"><label>Figure 9.</label><caption><title>Trends of overall cancer incidence and mortality in China, 1989&#x02013;2008.</title><p>Sources of data: Chinese Cancer Registry Report<xref rid="b35" ref-type="bibr">[35]</xref>, <xref rid="b36" ref-type="bibr">[36]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g009"/></fig><fig id="cjc-33-04-176-g010" position="float"><label>Figure 10.</label><caption><title>Cancer (overall, lung, and liver) incidence and mortality in 72 cancer registration areas in China in 2009.</title><p>Sources of data: Chinese Cancer Registry Report<xref rid="b37" ref-type="bibr">[37]</xref>,<xref rid="b58" ref-type="bibr">[58]</xref>,<xref rid="b59" ref-type="bibr">[59]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g010"/></fig><fig id="cjc-33-04-176-g011" position="float"><label>Figure 11.</label><caption><title>Trends of the incidence of lung cancer and liver cancer in urban and rural China from 1989 to 2008.</title><p>Sources of data: Chinese Cancer Registry Report<xref rid="b35" ref-type="bibr">[35]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g011"/></fig><fig id="cjc-33-04-176-g012" position="float"><label>Figure 12.</label><caption><title>Scatter diagram of cancer incidence (overall, lung, and liver) in 2009 and annual mean concentrations of major pollutants (PM<sub>10</sub>, SO<sub>2</sub>, and NO<sub>2</sub>) from 2003 to 2009 in select Chinese cities.</title><p>Blue dot in each sub-graph represents the cancer incidence (overall, lung, and liver) for one city in 2009, and other color dots represent the corresponding level of air pollutant concentration for one city from 2003 to 2009. Sources of data: Chinese Cancer Registry Report<xref rid="b37" ref-type="bibr">[37]</xref>,<xref rid="b58" ref-type="bibr">[58]</xref>,<xref rid="b59" ref-type="bibr">[59]</xref> and China Statistical Yearbook 2004&#x02013;2010<xref rid="b27" ref-type="bibr">[27]</xref>,<xref rid="b52" ref-type="bibr">[52]</xref>.</p></caption><graphic xlink:href="cjc-33-04-176-g012"/></fig><table-wrap id="cjc-33-04-176-t01" position="float"><label>Table 1.</label><caption><title>Correlation between cancer (overall and lung) incidence and mortality in 2009 and annual mean concentrations of nitrogen dioxide (NO<sub>2</sub>) from 2003 to 2009 in selected cities in China</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col width="191*" align="left" span="1"/><col width="84*" align="center" span="1"/><col width="86*" align="center" span="1"/><col width="85*" align="center" span="1"/><col width="85*" align="center" span="1"/><col width="85*" align="center" span="1"/><col width="84*" align="center" span="1"/><col width="86*" align="center" span="1"/></colgroup><thead><tr valign="bottom"><td rowspan="2" align="left" colspan="1">Cancer incidence/mortality</td><td colspan="7" align="center" rowspan="1">Pearson correlation (<italic>r</italic>)<hr/></td></tr><tr valign="bottom"><td align="center" rowspan="1" colspan="1">2003</td><td align="center" rowspan="1" colspan="1">2004</td><td align="center" rowspan="1" colspan="1">2005</td><td align="center" rowspan="1" colspan="1">2006</td><td align="center" rowspan="1" colspan="1">2007</td><td align="center" rowspan="1" colspan="1">2008</td><td rowspan="1" colspan="1">2009</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Data with Shenyang</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Overall cancer incidence</td><td align="center" rowspan="1" colspan="1">0.527</td><td align="center" rowspan="1" colspan="1">0.375</td><td align="center" rowspan="1" colspan="1">0.650*</td><td align="center" rowspan="1" colspan="1">0.656*</td><td align="center" rowspan="1" colspan="1">0.517</td><td align="center" rowspan="1" colspan="1">0.637*</td><td align="center" rowspan="1" colspan="1">0.626</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Lung cancer incidence</td><td align="center" rowspan="1" colspan="1">0.337</td><td align="center" rowspan="1" colspan="1">0.281</td><td align="center" rowspan="1" colspan="1">0.381</td><td align="center" rowspan="1" colspan="1">0.375</td><td align="center" rowspan="1" colspan="1">0.250</td><td align="center" rowspan="1" colspan="1">0.421</td><td align="center" rowspan="1" colspan="1">0.357</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Liver cancer incidence</td><td align="center" rowspan="1" colspan="1">0.413</td><td align="center" rowspan="1" colspan="1">0.169</td><td align="center" rowspan="1" colspan="1">0.375</td><td align="center" rowspan="1" colspan="1">0.311</td><td align="center" rowspan="1" colspan="1">0.434</td><td align="center" rowspan="1" colspan="1">0.515</td><td align="center" rowspan="1" colspan="1">0.479</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Overall cancer mortality</td><td align="center" rowspan="1" colspan="1">0.392</td><td align="center" rowspan="1" colspan="1">0.435</td><td align="center" rowspan="1" colspan="1">0.570</td><td align="center" rowspan="1" colspan="1">0.574</td><td align="center" rowspan="1" colspan="1">0.324</td><td align="center" rowspan="1" colspan="1">0.506</td><td align="center" rowspan="1" colspan="1">0.414</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Lung cancer mortality</td><td align="center" rowspan="1" colspan="1">0.303</td><td align="center" rowspan="1" colspan="1">0.440</td><td align="center" rowspan="1" colspan="1">0.417</td><td align="center" rowspan="1" colspan="1">0.522</td><td align="center" rowspan="1" colspan="1">0.180</td><td align="center" rowspan="1" colspan="1">0.276</td><td align="center" rowspan="1" colspan="1">0.153</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Liver cancer mortality</td><td align="center" rowspan="1" colspan="1">0.453</td><td align="center" rowspan="1" colspan="1">0.502</td><td align="center" rowspan="1" colspan="1">0.563</td><td align="center" rowspan="1" colspan="1">0.561</td><td align="center" rowspan="1" colspan="1">0.407</td><td align="center" rowspan="1" colspan="1">0.566</td><td align="center" rowspan="1" colspan="1">0.395</td></tr><tr><td align="left" rowspan="1" colspan="1">Data without Shenyang</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Overall cancer incidence</td><td align="center" rowspan="1" colspan="1">0.648</td><td align="center" rowspan="1" colspan="1">0.493</td><td align="center" rowspan="1" colspan="1">0.784*</td><td align="center" rowspan="1" colspan="1">0.716*</td><td align="center" rowspan="1" colspan="1">0.681*</td><td align="center" rowspan="1" colspan="1">0.780*</td><td align="center" rowspan="1" colspan="1">0.759*</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Lung cancer incidence</td><td align="center" rowspan="1" colspan="1">0.711*</td><td align="center" rowspan="1" colspan="1">0.678*</td><td align="center" rowspan="1" colspan="1">0.766*</td><td align="center" rowspan="1" colspan="1">0.602</td><td align="center" rowspan="1" colspan="1">0.684*</td><td align="center" rowspan="1" colspan="1">0.836**</td><td align="center" rowspan="1" colspan="1">0.738*</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Liver cancer incidence</td><td align="center" rowspan="1" colspan="1">0.372</td><td align="center" rowspan="1" colspan="1">0.089</td><td align="center" rowspan="1" colspan="1">0.329</td><td align="center" rowspan="1" colspan="1">0.276</td><td align="center" rowspan="1" colspan="1">0.398</td><td align="center" rowspan="1" colspan="1">0.489</td><td align="center" rowspan="1" colspan="1">0.447</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Overall cancer mortality</td><td align="center" rowspan="1" colspan="1">0.531</td><td align="center" rowspan="1" colspan="1">0.600</td><td align="center" rowspan="1" colspan="1">0.730*</td><td align="center" rowspan="1" colspan="1">0.652</td><td align="center" rowspan="1" colspan="1">0.495</td><td align="center" rowspan="1" colspan="1">0.668*</td><td align="center" rowspan="1" colspan="1">0.556</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Lung cancer mortality</td><td align="center" rowspan="1" colspan="1">0.698*</td><td align="center" rowspan="1" colspan="1">0.923**</td><td align="center" rowspan="1" colspan="1">0.844**</td><td align="center" rowspan="1" colspan="1">0.801**</td><td align="center" rowspan="1" colspan="1">0.622</td><td align="center" rowspan="1" colspan="1">0.680*</td><td align="center" rowspan="1" colspan="1">0.502</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02003;Liver cancer mortality</td><td align="center" rowspan="1" colspan="1">0.508</td><td align="center" rowspan="1" colspan="1">0.574</td><td align="center" rowspan="1" colspan="1">0.629</td><td align="center" rowspan="1" colspan="1">0.583</td><td align="center" rowspan="1" colspan="1">0.481</td><td align="center" rowspan="1" colspan="1">0.639</td><td align="center" rowspan="1" colspan="1">0.443</td></tr></tbody></table><table-wrap-foot><fn id="nt101"><p>*, Correlation is significant at the 0.05 level (two-tailed). **, correlation is significant at the 0.01 level (two-tailed). Sources of data: Chinese Cancer Registry Report<xref rid="b37" ref-type="bibr">[37]</xref>,<xref rid="b58" ref-type="bibr">[58]</xref>,<xref rid="b59" ref-type="bibr">[59]</xref> and China Statistical Yearbook 2004-2010<xref rid="b27" ref-type="bibr">[27]</xref>,<xref rid="b52" ref-type="bibr">[52]</xref>.</p></fn></table-wrap-foot></table-wrap><p>Second, improve the monitoring network for air pollutants. As discussed earlier, distribution of air pollutants in China exhibits obvious regional and time differences. A careful study is needed to determine the optimal number of monitoring stations in different regions of China to gain accurate information on current pollution levels and any changes as a measure of the effectiveness of new laws and regulations. The data from the monitoring network need to be maintained in a centralized database and reported to the public in a timely fashion.</p><p>Third, establish an effective national cancer registry that accurately reports cancer burden on a yearly basis. A difficulty in establishing a clear APC link in China is a lack of comprehensive cancer incidence data from many provinces and cities. As a result, only two cohort studies<xref rid="b40" ref-type="bibr">[40]</xref>,<xref rid="b44" ref-type="bibr">[44]</xref> and very limited case-control studies<xref rid="b45" ref-type="bibr">[45]</xref>&#x02013;<xref rid="b48" ref-type="bibr">[48]</xref> have been reported to support the association between air pollution and cancer burden among the Chinese population. And most studies investigated indoor air pollution; only Cao's cohort study found that every 10 &#x000b5;g/m<sup>3</sup> increase in outdoor PM<sub>2.5</sub>, SO<sub>2</sub>, and NO<sub>x</sub> was associated with a 3.4%, 4.2%, and 2.7% increased risk of lung cancer mortality in China<xref rid="b44" ref-type="bibr">[44]</xref>. However, this APC link was likely to be underestimated according to the studies from other parts of the world<xref rid="b3" ref-type="bibr">[3]</xref>,<xref rid="b49" ref-type="bibr">[49]</xref>&#x02013;<xref rid="b51" ref-type="bibr">[51]</xref>. For example, the latest European Study of Cohorts for Air Pollution Effects (ESCAPE), including 312,944 subjects from 17 European cohort studies, showed a 22% increased risk of lung cancer associated with every 10 &#x000b5;g/m<sup>3</sup> increase of PM<sub>10</sub><xref rid="b3" ref-type="bibr">[3]</xref>. The same increments of PM<sub>10</sub> and PM<sub>2.5</sub> were associated with hazard ratios for lung adenocarcinomas of 1.51 (1.10&#x02013;2.08) and 1.55 (1.05&#x02013;2.29), respectively<xref rid="b3" ref-type="bibr">[3]</xref>. The Harvard Six Cities study showed that each increase in PM<sub>2.5</sub> (10 &#x000b5;g/m<sup>3</sup>) was associated with a 37% (95% CI: 7%&#x02013;75%) adjusted increased risk of lung cancer mortality<xref rid="b49" ref-type="bibr">[49]</xref>.</p></sec><sec id="s9"><title>Future Directions on Air Pollution and Cancer Research</title><p>Although the APC link is largely unclear and very limited evidence has been provided to support the link in China, the high level of multicomponent air pollution in large cities provides a unique opportunity and natural laboratory for studying this relationship. To study the pathologic role of air pollution among the Chinese, large longitudinal studies with extensive and accurate measurement of outdoor air pollution, as well as controls for potential confounding factors, are urgently needed in the future. Improving the measurement of exposure to air pollution at the individual level will be a common challenge in all studies focused on this link. Biomarkers for exposure, such as DNA adducts and molecular alterations (e.g., loss of heterozygosity, gene mutations, and aberrant gene promoter methylation), will be very useful for understanding the mechanisms of the APC link and for facilitating early detection and treatment of high-risk groups.</p></sec><sec sec-type="conclusions" id="s10"><title>Conclusions</title><p>As another demonstration of the Chinese Yin-and-Yang philosophy, China's rapid economic growth has also brought about a rapid increase in air pollutant emissions, which is expected to augment the cancer burden on Chinese people. Because of the latency for cancer development, this great threat has not gained the deserved attention. However, it is clear that a surge in cancer cases is emergent, if not happening already. All are feeling the urgency. Although the population looks to the government to solve the upcoming crisis, it is essential for the academic community to work with the government to establish a system with which the severity of the problem can be objectively measured and monitored. Only when Chinese people clearly see the danger of the cancer burden can they make appropriate choices. Without the public's buy in, Clean Air Act laws in China will be difficult to enforce.</p></sec></body><back><ref-list><title>References</title><ref id="b1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bell</surname><given-names>ML</given-names></name><name><surname>Davis</surname><given-names>DL</given-names></name><name><surname>Fletcher</surname><given-names>T</given-names></name></person-group>
+<article-title>A retrospective assessment of mortality from the London smog episode of 1952: the role of influenza and pollution</article-title>
+<source>Environ Health Perspect</source>
+<year>2004</year>
+<volume>112</volume>
+<fpage>6</fpage>
+<lpage>8</lpage>
+<pub-id pub-id-type="pmid">14698923</pub-id></element-citation></ref><ref id="b2"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lim</surname><given-names>SS</given-names></name><name><surname>Vos</surname><given-names>T</given-names></name><name><surname>Flaxman</surname><given-names>AD</given-names></name><etal/></person-group>
+<article-title>A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010</article-title>
+<source>Lancet</source>
+<year>2012</year>
+<volume>380</volume>
+<fpage>2224</fpage>
+<lpage>2260</lpage>
+<pub-id pub-id-type="pmid">23245609</pub-id></element-citation></ref><ref id="b3"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raaschou-Nielsen</surname><given-names>O</given-names></name><name><surname>Andersen</surname><given-names>ZJ</given-names></name><name><surname>Beelen</surname><given-names>R</given-names></name><etal/></person-group>
+<article-title>Air pollution and lung cancer incidence in 17 European cohorts: prospective analyses from the European Study of Cohorts for Air Pollution Effects (ESCAPE)</article-title>
+<source>Lancet Oncol</source>
+<year>2013</year>
+<volume>14</volume>
+<fpage>813</fpage>
+<lpage>822</lpage>
+<pub-id pub-id-type="pmid">23849838</pub-id></element-citation></ref><ref id="b4"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vineis</surname><given-names>P</given-names></name><name><surname>Hoek</surname><given-names>G</given-names></name><name><surname>Krzyzanowski</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Air pollution and risk of lung cancer in a prospective study in Europe</article-title>
+<source>Int J Cancer</source>
+<year>2006</year>
+<volume>119</volume>
+<fpage>169</fpage>
+<lpage>174</lpage>
+<pub-id pub-id-type="pmid">16463382</pub-id></element-citation></ref><ref id="b5"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raaschou-Nielsen</surname><given-names>O</given-names></name><name><surname>Bak</surname><given-names>H</given-names></name><name><surname>Sorensen</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Air pollution from traffic and risk for lung cancer in three Danish cohorts</article-title>
+<source>Cancer Epidemiol Biomarkers Prev</source>
+<year>2010</year>
+<volume>19</volume>
+<fpage>1284</fpage>
+<lpage>1291</lpage>
+<pub-id pub-id-type="pmid">20447920</pub-id></element-citation></ref><ref id="b6"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Turner</surname><given-names>MC</given-names></name><name><surname>Krewski</surname><given-names>D</given-names></name><name><surname>Pope</surname><given-names>CR</given-names></name><etal/></person-group>
+<article-title>Long-term ambient fine particulate matter air pollution and lung cancer in a large cohort of never-smokers</article-title>
+<source>Am J Respir Crit Care Med</source>
+<year>2011</year>
+<volume>184</volume>
+<fpage>1374</fpage>
+<lpage>1381</lpage>
+<pub-id pub-id-type="pmid">21980033</pub-id></element-citation></ref><ref id="b7"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beelen</surname><given-names>R</given-names></name><name><surname>Hoek</surname><given-names>G</given-names></name><name><surname>van den Brandt</surname><given-names>PA</given-names></name><etal/></person-group>
+<article-title>Long-term exposure to traffic-related air pollution and lung cancer risk</article-title>
+<source>Epidemiology</source>
+<year>2008</year>
+<volume>19</volume>
+<fpage>702</fpage>
+<lpage>710</lpage>
+<pub-id pub-id-type="pmid">18633326</pub-id></element-citation></ref><ref id="b8"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nafstad</surname><given-names>P</given-names></name><name><surname>Haheim</surname><given-names>LL</given-names></name><name><surname>Oftedal</surname><given-names>B</given-names></name><etal/></person-group>
+<article-title>Lung cancer and air pollution: a 27 year follow up of 16 209 Norwegian men</article-title>
+<source>Thorax</source>
+<year>2003</year>
+<volume>58</volume>
+<fpage>1071</fpage>
+<lpage>1076</lpage>
+<pub-id pub-id-type="pmid">14645978</pub-id></element-citation></ref><ref id="b9"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fajersztajn</surname><given-names>L</given-names></name><name><surname>Veras</surname><given-names>M</given-names></name><name><surname>Barrozo</surname><given-names>LV</given-names></name><etal/></person-group>
+<article-title>Air pollution: a potentially modifiable risk factor for lung cancer</article-title>
+<source>Nat Rev Cancer</source>
+<year>2013</year>
+<volume>13</volume>
+<fpage>674</fpage>
+<lpage>678</lpage>
+<pub-id pub-id-type="pmid">23924644</pub-id></element-citation></ref><ref id="b10"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Armstrong</surname><given-names>RW</given-names></name><name><surname>Imrey</surname><given-names>PB</given-names></name><name><surname>Lye</surname><given-names>MS</given-names></name><etal/></person-group>
+<article-title>Nasopharyngeal carcinoma in Malaysian Chinese: occupational exposures to particles, formaldehyde and heat</article-title>
+<source>Int J Epidemiol</source>
+<year>2000</year>
+<volume>29</volume>
+<fpage>991</fpage>
+<lpage>998</lpage>
+<pub-id pub-id-type="pmid">11101539</pub-id></element-citation></ref><ref id="b11"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pintos</surname><given-names>J</given-names></name><name><surname>Franco</surname><given-names>EL</given-names></name><name><surname>Kowalski</surname><given-names>LP</given-names></name><etal/></person-group>
+<article-title>Use of wood stoves and risk of cancers of the upper aero-digestive tract: a case-control study</article-title>
+<source>Int J Epidemiol</source>
+<year>1998</year>
+<volume>27</volume>
+<fpage>936</fpage>
+<lpage>940</lpage>
+<pub-id pub-id-type="pmid">10024184</pub-id></element-citation></ref><ref id="b12"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>MC</given-names></name><name><surname>Ho</surname><given-names>JH</given-names></name><name><surname>Henderson</surname><given-names>BE</given-names></name><etal/></person-group>
+<article-title>Epidemiology of nasopharyngeal carcinoma in Malaysia and Hong Kong</article-title>
+<source>Natl Cancer Inst Monogr</source>
+<year>1985</year>
+<volume>69</volume>
+<fpage>203</fpage>
+<lpage>207</lpage>
+<pub-id pub-id-type="pmid">3834333</pub-id></element-citation></ref><ref id="b13"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Crouse</surname><given-names>DL</given-names></name><name><surname>Goldberg</surname><given-names>MS</given-names></name><name><surname>Ross</surname><given-names>NA</given-names></name><etal/></person-group>
+<article-title>Postmenopausal breast cancer is associated with exposure to traffic-related air pollution in Montreal, Canada: a case-control study</article-title>
+<source>Environ Health Perspect</source>
+<year>2010</year>
+<volume>118</volume>
+<fpage>1578</fpage>
+<lpage>1583</lpage>
+<pub-id pub-id-type="pmid">20923746</pub-id></element-citation></ref><ref id="b14"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>F</given-names></name><name><surname>Bina</surname><given-names>WF</given-names></name></person-group>
+<article-title>Correlation of white female breast cancer incidence trends with nitrogen dioxide emission levels and motor vehicle density patterns</article-title>
+<source>Breast Cancer Res Treat</source>
+<year>2012</year>
+<volume>132</volume>
+<fpage>327</fpage>
+<lpage>333</lpage>
+<pub-id pub-id-type="pmid">22076479</pub-id></element-citation></ref><ref id="b15"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nie</surname><given-names>J</given-names></name><name><surname>Beyea</surname><given-names>J</given-names></name><name><surname>Bonner</surname><given-names>MR</given-names></name><etal/></person-group>
+<article-title>Exposure to traffic emissions throughout life and risk of breast cancer: the Western New York Exposures and Breast Cancer (WEB) study</article-title>
+<source>Cancer Causes Control</source>
+<year>2007</year>
+<volume>18</volume>
+<fpage>947</fpage>
+<lpage>955</lpage>
+<pub-id pub-id-type="pmid">17632764</pub-id></element-citation></ref><ref id="b16"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wei</surname><given-names>Y</given-names></name><name><surname>Davis</surname><given-names>J</given-names></name><name><surname>Bina</surname><given-names>WF</given-names></name></person-group>
+<article-title>Ambient air pollution is associated with the increased incidence of breast cancer in US</article-title>
+<source>Int J Environ Health Res</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>12</fpage>
+<lpage>21</lpage>
+<pub-id pub-id-type="pmid">21644128</pub-id></element-citation></ref><ref id="b17"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whitworth</surname><given-names>KW</given-names></name><name><surname>Symanski</surname><given-names>E</given-names></name><name><surname>Coker</surname><given-names>AL</given-names></name></person-group>
+<article-title>Childhood lympho-hematopoietic cancer incidence and hazardous air pollutants in southeast Texas, 1995-2004</article-title>
+<source>Environ Health Perspect</source>
+<year>2008</year>
+<volume>116</volume>
+<fpage>1576</fpage>
+<lpage>1580</lpage>
+<pub-id pub-id-type="pmid">19057714</pub-id></element-citation></ref><ref id="b18"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weng</surname><given-names>HH</given-names></name><name><surname>Tsai</surname><given-names>SS</given-names></name><name><surname>Chiu</surname><given-names>HF</given-names></name><etal/></person-group>
+<article-title>Childhood leukemia and traffic air pollution in Taiwan: petrol station density as an indicator</article-title>
+<source>J Toxicol Environ Health A</source>
+<year>2009</year>
+<volume>72</volume>
+<fpage>83</fpage>
+<lpage>87</lpage>
+<pub-id pub-id-type="pmid">19034797</pub-id></element-citation></ref><ref id="b19"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vineis</surname><given-names>P</given-names></name><name><surname>Veglia</surname><given-names>F</given-names></name><name><surname>Garte</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Genetic susceptibility according to three metabolic pathways in cancers of the lung and bladder and in myeloid leukemias in nonsmokers</article-title>
+<source>Ann Oncol</source>
+<year>2007</year>
+<volume>18</volume>
+<fpage>1230</fpage>
+<lpage>1242</lpage>
+<pub-id pub-id-type="pmid">17496311</pub-id></element-citation></ref><ref id="b20"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tsai</surname><given-names>SS</given-names></name><name><surname>Tiao</surname><given-names>MM</given-names></name><name><surname>Kuo</surname><given-names>HW</given-names></name><etal/></person-group>
+<article-title>Association of bladder cancer with residential exposure to petrochemical air pollutant emissions in Taiwan</article-title>
+<source>J Toxicol Environ Health A</source>
+<year>2009</year>
+<volume>72</volume>
+<fpage>53</fpage>
+<lpage>59</lpage>
+<pub-id pub-id-type="pmid">19034794</pub-id></element-citation></ref><ref id="b21"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Loomis</surname><given-names>D</given-names></name><name><surname>Grosse</surname><given-names>Y</given-names></name><name><surname>Lauby-Secretan</surname><given-names>BA</given-names></name><etal/></person-group>
+<article-title>The carcinogenicity of outdoor air pollution</article-title>
+<source>Lancet Oncol</source>
+<year>2013</year>
+<volume>14</volume>
+<fpage>1262</fpage>
+<lpage>1263</lpage>
+</element-citation></ref><ref id="b22"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nyberg</surname><given-names>F</given-names></name><name><surname>Gustavsson</surname><given-names>P</given-names></name><name><surname>Jarup</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>Urban air pollution and lung cancer in Stockholm</article-title>
+<source>Epidemiology</source>
+<year>2000</year>
+<volume>11</volume>
+<fpage>487</fpage>
+<lpage>495</lpage>
+<pub-id pub-id-type="pmid">10955399</pub-id></element-citation></ref><ref id="b23"><label>23</label><element-citation publication-type="other">
+<person-group person-group-type="author"><collab>Caijing</collab></person-group>
+<article-title>China's haze &#x0201c;more horrible&#x0201d; than SARs epidemic, expert warns</article-title>
+<comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://english.caijing.com.cn/2013-01-31/112478574.html">http://english.caijing.com.cn/2013-01-31/112478574.html</ext-link>. Accessed: Feb 16, 2014</comment>
+</element-citation></ref><ref id="b24"><label>24</label><element-citation publication-type="other">
+<person-group person-group-type="author"><collab>Xinhua</collab></person-group>
+<article-title>Haze continues to shroud east, north</article-title>
+<comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://usa.chinadaily.com.cn/china/2013-12/08/content_17159665.htm">http://usa.chinadaily.com.cn/china/2013-12/08/content_17159665.htm</ext-link>. Accessed: Feb 16, 2014</comment>
+</element-citation></ref><ref id="b25"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>Z</given-names></name><name><surname>Wang</surname><given-names>JN</given-names></name><name><surname>Ma</surname><given-names>GX</given-names></name><etal/></person-group>
+<article-title>China tackles the health effects of air pollution</article-title>
+<source>Lancet</source>
+<year>2013</year>
+<volume>382</volume>
+<fpage>1959</fpage>
+<lpage>1960</lpage>
+<pub-id pub-id-type="pmid">24332069</pub-id></element-citation></ref><ref id="b26"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>P</given-names></name><name><surname>Chen</surname><given-names>Y</given-names></name><name><surname>Ye</surname><given-names>X</given-names></name></person-group>
+<article-title>Haze, air pollution, and health in China</article-title>
+<source>Lancet</source>
+<year>2013</year>
+<volume>382</volume>
+<fpage>2067</fpage>
+<pub-id pub-id-type="pmid">24360386</pub-id></element-citation></ref><ref id="b27"><label>27</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>The National Bureau of Statistics, the People's Republic of China</collab></person-group>
+<article-title>China Statistical Yearbook (1983)</article-title>
+<publisher-loc>Beijing</publisher-loc>
+<publisher-name>China Statistics Press</publisher-name>
+<year>2013</year>
+<comment>[in Chinese]</comment>
+</element-citation></ref><ref id="b28"><label>28</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>The National Bureau of Statistics, the People's Republic of China</collab></person-group>
+<article-title>China Statistical Yearbook (1983)</article-title>
+<publisher-loc>Beijing</publisher-loc>
+<publisher-name>China Statistics Press</publisher-name>
+<year>1983</year>
+<comment>[in Chinese]</comment>
+</element-citation></ref><ref id="b29"><label>29</label><element-citation publication-type="other">
+<person-group person-group-type="author"><collab>The National Bureau of Statistics, the People's Republic of China</collab></person-group>
+<article-title>Integrated emission standard of air pollutants</article-title>
+<comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://www.mep.gov.cn/image20010518/5302.pdf">http://www.mep.gov.cn/image20010518/5302.pdf</ext-link>. Accessed: Feb 16, 2014. [in Chinese]</comment>
+</element-citation></ref><ref id="b30"><label>30</label><element-citation publication-type="other">
+<person-group person-group-type="author"><collab>The National Bureau of Statistics, the People's Republic of China</collab></person-group>
+<article-title>Wet flue gas desulfurization project technical specification of industrial boiler/kiln and furnace</article-title>
+<comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://www.zhb.gov.cn/info/gw/bgth/200712/W020071228279509830865.pdf">http://www.zhb.gov.cn/info/gw/bgth/200712/W020071228279509830865.pdf</ext-link>. Accessed: Feb 16, 2014. [in Chinese]</comment>
+</element-citation></ref><ref id="b31"><label>31</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>The National Bureau of Statistics, the People's Republic of China</collab></person-group>
+<article-title>China Statistical Yearbook (2012)</article-title>
+<publisher-loc>Beijing</publisher-loc>
+<publisher-name>China Statistics Press</publisher-name>
+<year>2012</year>
+<comment>[in Chinese]</comment>
+</element-citation></ref><ref id="b32"><label>32</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>Department of Energy Statistics, the National Bureau of Statistics, the People's Republic of China</collab></person-group>
+<article-title>China Energy Statistical Yearbook (2012)</article-title>
+<publisher-loc>Beijing</publisher-loc>
+<publisher-name>China Statistics Press</publisher-name>
+<year>2012</year>
+<comment>[in Chinese]</comment>
+</element-citation></ref><ref id="b33"><label>33</label><element-citation publication-type="other">
+<article-title>Monthly reports of air quality monitoring in 74 cities in China (January, 2013)</article-title>
+<comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://www.cnpm25.cn/article/201309115944.html">http://www.cnpm25.cn/article/201309115944.html</ext-link>. Accessed: Feb 16, 2014. [in Chinese]</comment>
+</element-citation></ref><ref id="b34"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>Y</given-names></name><name><surname>Ebenstein</surname><given-names>A</given-names></name><name><surname>Greenstone</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Evidence on the impact of sustained exposure to air pollution on life expectancy from China's Huai River policy</article-title>
+<source>Proc Natl Acad Sci</source>
+<year>2013</year>
+<volume>110</volume>
+<fpage>12936</fpage>
+<lpage>12941</lpage>
+<pub-id pub-id-type="pmid">23836630</pub-id></element-citation></ref><ref id="b35"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>WQ</given-names></name><name><surname>Zheng</surname><given-names>RS</given-names></name><name><surname>Zeng</surname><given-names>HM</given-names></name><etal/></person-group>
+<article-title>Trend analysis and projection of cancer incidence in China between 1989 and 2008</article-title>
+<source>Zhonghua Zhong Liu Za Zhi</source>
+<year>2012</year>
+<volume>34</volume>
+<fpage>517</fpage>
+<lpage>524</lpage>
+<comment>[in Chinese]</comment>
+<pub-id pub-id-type="pmid">22967471</pub-id></element-citation></ref><ref id="b36"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zeng</surname><given-names>HM</given-names></name><name><surname>Zheng</surname><given-names>RS</given-names></name><name><surname>Zhang</surname><given-names>SW</given-names></name><etal/></person-group>
+<article-title>Trend analysis of cancer mortality in China between 1989 and 2008</article-title>
+<source>Zhonghua Zhong Liu Za Zhi</source>
+<year>2012</year>
+<volume>34</volume>
+<fpage>525</fpage>
+<lpage>531</lpage>
+<comment>[in Chinese]</comment>
+<pub-id pub-id-type="pmid">22967472</pub-id></element-citation></ref><ref id="b37"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>W</given-names></name><name><surname>Zheng</surname><given-names>R</given-names></name><name><surname>Zhang</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Report of incidence and mortality in China cancer registries, 2009</article-title>
+<source>Chin J Cancer Res</source>
+<year>2013</year>
+<volume>25</volume>
+<fpage>10</fpage>
+<lpage>21</lpage>
+<pub-id pub-id-type="pmid">23372337</pub-id></element-citation></ref><ref id="b38"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Kong</surname><given-names>L</given-names></name><name><surname>Wu</surname><given-names>F</given-names></name><etal/></person-group>
+<article-title>Preventing chronic diseases in China</article-title>
+<source>Lancet</source>
+<year>2005</year>
+<volume>366</volume>
+<fpage>1821</fpage>
+<lpage>1824</lpage>
+<pub-id pub-id-type="pmid">16298221</pub-id></element-citation></ref><ref id="b39"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Welss</surname><given-names>W</given-names></name></person-group>
+<article-title>Cigarette smoking and lung cancer trends: A light at the end of the tunnel?</article-title>
+<source>Chest</source>
+<year>1997</year>
+<volume>111</volume>
+<fpage>1414</fpage>
+<lpage>1416</lpage>
+<pub-id pub-id-type="pmid">9149602</pub-id></element-citation></ref><ref id="b40"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barone-Adesi</surname><given-names>F</given-names></name><name><surname>Chapman</surname><given-names>RS</given-names></name><name><surname>Silverman</surname><given-names>DT</given-names></name><etal/></person-group>
+<article-title>Risk of lung cancer associated with domestic use of coal in Xuanwei, China: retrospective cohort study</article-title>
+<source>BMJ</source>
+<year>2012</year>
+<volume>345</volume>
+<fpage>e5414</fpage>
+<pub-id pub-id-type="pmid">22936785</pub-id></element-citation></ref><ref id="b41"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chauhan</surname><given-names>AJ</given-names></name><name><surname>Johnston</surname><given-names>SL</given-names></name></person-group>
+<article-title>Air pollution and infection in respiratory illness</article-title>
+<source>Br Med Bull</source>
+<year>2003</year>
+<volume>68</volume>
+<fpage>95</fpage>
+<lpage>112</lpage>
+<pub-id pub-id-type="pmid">14757711</pub-id></element-citation></ref><ref id="b42"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>P</given-names></name><name><surname>Yokoyama</surname><given-names>K</given-names></name><name><surname>Suenaga</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Mortality and life expectancy of yokkaichi asthma patients, Japan:late effects of air pollution in 1960-705</article-title>
+<source>Environ Health</source>
+<year>2008</year>
+<volume>7</volume>
+<fpage>8</fpage>
+<pub-id pub-id-type="pmid">18302742</pub-id></element-citation></ref><ref id="b43"><label>43</label><element-citation publication-type="other">
+<person-group person-group-type="author"><collab>The Ministry of Environmental Protection, the People's Republic of China</collab></person-group>
+<article-title>Ambient air quality standards</article-title>
+<comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://kjs.mep.gov.cn/hjbhbz/bzwb/dqhjbh/dqhjzlbz/201203/W020120410330232398521.pdf">http://kjs.mep.gov.cn/hjbhbz/bzwb/dqhjbh/dqhjzlbz/201203/W020120410330232398521.pdf</ext-link>. Accessed: Feb 16, 2014. [in Chinese]</comment>
+</element-citation></ref><ref id="b44"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cao</surname><given-names>J</given-names></name><name><surname>Yang</surname><given-names>C</given-names></name><name><surname>Li</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>Association between long-term exposure to outdoor air pollution and mortality in China: a cohort study</article-title>
+<source>J Hazard Mater</source>
+<year>2011</year>
+<volume>186</volume>
+<fpage>1594</fpage>
+<lpage>1600</lpage>
+<pub-id pub-id-type="pmid">21194838</pub-id></element-citation></ref><ref id="b45"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>ZY</given-names></name><name><surname>Blot</surname><given-names>WJ</given-names></name><name><surname>Xiao</surname><given-names>HP</given-names></name><etal/></person-group>
+<article-title>Smoking, air pollution, and the high rates of lung cancer in Shenyang, China</article-title>
+<source>J Natl Cancer Inst</source>
+<year>1989</year>
+<volume>81</volume>
+<fpage>1800</fpage>
+<lpage>1806</lpage>
+<pub-id pub-id-type="pmid">2555531</pub-id></element-citation></ref><ref id="b46"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Q</given-names></name><name><surname>Sasco</surname><given-names>AJ</given-names></name><name><surname>Riboli</surname><given-names>E</given-names></name><etal/></person-group>
+<article-title>Indoor air pollution and lung cancer in Guangzhou, People's Republic of China</article-title>
+<source>Am J Epidemiol</source>
+<year>1993</year>
+<volume>137</volume>
+<fpage>145</fpage>
+<lpage>154</lpage>
+<pub-id pub-id-type="pmid">8452118</pub-id></element-citation></ref><ref id="b47"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Luo</surname><given-names>RX</given-names></name><name><surname>Wu</surname><given-names>B</given-names></name><name><surname>Yi</surname><given-names>YN</given-names></name><etal/></person-group>
+<article-title>Indoor burning coal air pollution and lung cancer&#x02014;a case-control study in Fuzhou, China</article-title>
+<source>Lung Cancer</source>
+<year>1996</year>
+<volume>14</volume>
+<issue>Suppl. 1</issue>
+<fpage>S113</fpage>
+<lpage>S119</lpage>
+<pub-id pub-id-type="pmid">8785657</pub-id></element-citation></ref><ref id="b48"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Galeone</surname><given-names>C</given-names></name><name><surname>Pelucchi</surname><given-names>C</given-names></name><name><surname>La Vecchia</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Indoor air pollution from solid fuel use, chronic lung diseases and lung cancer in Harbin, Northeast China</article-title>
+<source>Eur J Cancer Prev</source>
+<year>2008</year>
+<volume>17</volume>
+<fpage>473</fpage>
+<lpage>478</lpage>
+<pub-id pub-id-type="pmid">18714191</pub-id></element-citation></ref><ref id="b49"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lepeule</surname><given-names>J</given-names></name><name><surname>Laden</surname><given-names>F</given-names></name><name><surname>Dockery</surname><given-names>D</given-names></name><etal/></person-group>
+<article-title>Chronic exposure to fine particles and mortality: an extended follow-up of the Harvard Six Cities study from 1974 to 2009</article-title>
+<source>Environ Health Perspect</source>
+<year>2012</year>
+<volume>120</volume>
+<fpage>965</fpage>
+<lpage>970</lpage>
+<pub-id pub-id-type="pmid">22456598</pub-id></element-citation></ref><ref id="b50"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heinrich</surname><given-names>J</given-names></name><name><surname>Thiering</surname><given-names>E</given-names></name><name><surname>Rzehak</surname><given-names>P</given-names></name><etal/></person-group>
+<article-title>Long-term exposure to NO<sub>2</sub> and PM<sub>10</sub> and all-cause and cause-specific mortality in a prospective cohort of women</article-title>
+<source>Occup Environ Med</source>
+<year>2013</year>
+<volume>70</volume>
+<fpage>179</fpage>
+<lpage>186</lpage>
+<pub-id pub-id-type="pmid">23220504</pub-id></element-citation></ref><ref id="b51"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Katanoda</surname><given-names>K</given-names></name><name><surname>Sobue</surname><given-names>T</given-names></name><name><surname>Satoh</surname><given-names>H</given-names></name><etal/></person-group>
+<article-title>An association between long-term exposure to ambient air pollution and mortality from lung cancer and respiratory diseases in Japan</article-title>
+<source>J Epidemiol</source>
+<year>2011</year>
+<volume>21</volume>
+<fpage>132</fpage>
+<lpage>143</lpage>
+<pub-id pub-id-type="pmid">21325732</pub-id></element-citation></ref><ref id="b52"><label>52</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>The National Bureau of Statistics, the People's Republic of China</collab></person-group>
+<source>China Statistical Yearbook (2004)</source>
+<publisher-loc>Beijing</publisher-loc>
+<publisher-name>China Statistics Press</publisher-name>
+<year>2004</year>
+<comment>[in Chinese]</comment>
+</element-citation></ref><ref id="b53"><label>53</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>The National Bureau of Statistics, the People's Republic of China</collab></person-group>
+<source>Chinese Environment Statistical Yearbook (1998)</source>
+<publisher-loc>Beijing</publisher-loc>
+<publisher-name>China Statistics Press</publisher-name>
+<year>1998</year>
+<comment>[in Chinese]</comment>
+</element-citation></ref><ref id="b54"><label>54</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>The National Bureau of Statistics, the People's Republic of China</collab></person-group>
+<source>Chinese Environment Statistical Yearbook (2012)</source>
+<publisher-loc>Beijing</publisher-loc>
+<publisher-name>China Statistics Press</publisher-name>
+<year>2012</year>
+<comment>[in Chinese]</comment>
+</element-citation></ref><ref id="b55"><label>55</label><element-citation publication-type="other">
+<person-group person-group-type="author"><collab>The Ministry of Environmental Protection, the People's Republic of China</collab></person-group>
+<article-title>Chinese National Environment Statistical Report (1995)</article-title>
+<comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://zls.mep.gov.cn/hjtj/qghjtjgb/199606/t19960605_83101.htm">http://zls.mep.gov.cn/hjtj/qghjtjgb/199606/t19960605_83101.htm</ext-link>. Accessed: Feb 16, 2014. [in Chinese]</comment>
+</element-citation></ref><ref id="b56"><label>56</label><element-citation publication-type="other">
+<person-group person-group-type="author"><collab>The Ministry of Environmental Protection, the People's Republic of China</collab></person-group>
+<article-title>Chinese National Environment Statistical Report (2012)</article-title>
+<comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://zls.mep.gov.cn/hjtj/qghjtjgb/201311/t20131104_262805.htm">http://zls.mep.gov.cn/hjtj/qghjtjgb/201311/t20131104_262805.htm</ext-link>. Accessed: Feb 16, 2014. [in Chinese]</comment>
+</element-citation></ref><ref id="b57"><label>57</label><element-citation publication-type="other">
+<article-title>Monthly reports of air quality monitoring in 74 cities in China (December, 2013)</article-title>
+<comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://www.cnpm25.cn/article/201402040130.html">http://www.cnpm25.cn/article/201402040130.html</ext-link>. Accessed: Feb 16, 2014. [in Chinese]</comment>
+</element-citation></ref><ref id="b58"><label>58</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>WQ</given-names></name><name><surname>Zheng</surname><given-names>RS</given-names></name><name><surname>Zhang</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Lung cancer incidence and mortality in China, 2009</article-title>
+<source>Thoracic Cancer</source>
+<year>2013</year>
+<volume>4</volume>
+<fpage>102</fpage>
+<lpage>108</lpage>
+</element-citation></ref><ref id="b59"><label>59</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>WQ</given-names></name><name><surname>Zheng</surname><given-names>RS</given-names></name><name><surname>Zhang</surname><given-names>SW</given-names></name></person-group>
+<article-title>Liver cancer incidence and mortality in China, 2009</article-title>
+<source>Chin J Cancer</source>
+<year>2013</year>
+<volume>32</volume>
+<fpage>162</fpage>
+<lpage>169</lpage>
+<pub-id pub-id-type="pmid">23489585</pub-id></element-citation></ref></ref-list></back></article>

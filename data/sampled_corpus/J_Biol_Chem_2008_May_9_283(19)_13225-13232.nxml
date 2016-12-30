@@ -1,0 +1,739 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Biol Chem</journal-id><journal-id journal-id-type="publisher-id">jbc</journal-id><journal-title-group><journal-title>The Journal of Biological Chemistry</journal-title></journal-title-group><issn pub-type="ppub">0021-9258</issn><issn pub-type="epub">1083-351X</issn><publisher><publisher-name>American Society for Biochemistry and Molecular Biology</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">18308722</article-id><article-id pub-id-type="pmc">3259572</article-id><article-id pub-id-type="publisher-id">13225</article-id><article-id pub-id-type="doi">10.1074/jbc.M704532200</article-id><article-categories><subj-group subj-group-type="heading"><subject>Membrane Transport, Structure, Function, and Biogenesis</subject></subj-group></article-categories><title-group><article-title>Regulation of the Epithelial Na<sup>+</sup> Channel by the Protein Kinase
+ CK2<xref ref-type="fn" rid="fn1">*</xref><xref ref-type="fn" rid="fn2">&#x00053;&#x020de;</xref></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Bachhuber</surname><given-names>Tanja</given-names></name><xref ref-type="aff" rid="d31e115">&#x02021;</xref><xref ref-type="fn" rid="fn3">1</xref></contrib><contrib contrib-type="author"><name><surname>Alma&#x000e7;a</surname><given-names>Joana</given-names></name><xref ref-type="aff" rid="d31e115">&#x02021;</xref><xref ref-type="aff" rid="d31e115">&#x000a7;</xref><xref ref-type="fn" rid="fn3">1</xref><xref ref-type="fn" rid="fn4">2</xref></contrib><contrib contrib-type="author"><name><surname>Aldehni</surname><given-names>Fadi</given-names></name><xref ref-type="aff" rid="d31e115">&#x02021;</xref></contrib><contrib contrib-type="author"><name><surname>Mehta</surname><given-names>Anil</given-names></name><xref ref-type="aff" rid="d31e115">&#x000b6;</xref></contrib><contrib contrib-type="author"><name><surname>Amaral</surname><given-names>Margarida D.</given-names></name><xref ref-type="aff" rid="d31e115">&#x000b6;</xref><xref ref-type="aff" rid="d31e115">&#x02225;</xref></contrib><contrib contrib-type="author"><name><surname>Schreiber</surname><given-names>Rainer</given-names></name><xref ref-type="aff" rid="d31e115">&#x02021;</xref></contrib><contrib contrib-type="author"><name><surname>Kunzelmann</surname><given-names>Karl</given-names></name><xref ref-type="aff" rid="d31e115">&#x02021;</xref><xref ref-type="corresp" rid="cor1">3</xref></contrib></contrib-group><aff id="d31e115"><label><sup>&#x02021;</sup></label>Institut f&#x000fc;r Physiologie,
+ Universit&#x000e4;t Regensburg, Universit&#x000e4;tsstra&#x003b2;e 31, D-93053
+ Regensburg, Germany, the <label><sup>&#x000b6;</sup></label>Department
+ of Maternal and Child Health Sciences, University of Dundee, Ninewells
+ Hospital, Dundee DD1 9SY, United Kingdom, the
+ <label><sup>&#x000a7;</sup></label>Faculdade de Ci&#x000ea;ncias,
+ Universidade de Lisboa, 1749-016 Lisboa, Portugal, and the
+ <label><sup>&#x02225;</sup></label>Centre of Human Genetics, National
+ Institute of Health, 1649-016 Lisboa, Portugal</aff><author-notes><corresp id="cor1"><label>3</label>
+ To whom correspondence should be addressed. Tel.: 49-0-941-943-4302; Fax:
+ 49-0-941-943-4315; E-mail:
+ <email>uqkkunze@mailbox.uq.edu.au</email>.
+ </corresp><fn id="fn3"><label>1</label><p>Both authors contributed equally to the present work.</p></fn><fn id="fn4"><label>2</label><p>Recipient of the SFRH/BD/29134/2006 PhD fellowship from FCT (Portugal).</p></fn></author-notes><pub-date pub-type="ppub"><day>9</day><month>5</month><year>2008</year></pub-date><pub-date pub-type="pmc-release"><day>9</day><month>5</month><year>2008</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on 
+			/art/copyright. --><volume>283</volume><issue>19</issue><fpage>13225</fpage><lpage>13232</lpage><history><date date-type="received"><day>1</day><month>6</month><year>2007</year></date><date date-type="rev-recd"><day>7</day><month>2</month><year>2008</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2008, The American Society for Biochemistry and
+ Molecular Biology, Inc.</copyright-statement><copyright-year>2008</copyright-year><license license-type="open-access"><license-p><italic>Author's Choice</italic></license-p><license-p><ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution Non-Commercial License</ext-link> applies to Author Choice Articles</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="zbc01908013225.pdf"/><abstract><p>CK2 is a ubiquitous, pleiotropic, and constitutively active Ser/Thr protein
+ kinase that controls protein expression, cell signaling, and ion channel
+ activity. Phosphorylation sites for CK2 are located in the C terminus of both
+ &#x003b2;- and &#x003b3;-subunits of the epithelial Na<sup>+</sup> channel (ENaC).
+ We examined the role of CK2 on the regulation of both endogenous ENaC in
+ native murine epithelia and in <italic>Xenopus</italic> oocytes expressing rENaC. In
+ Ussing chamber experiments with mouse airways, colon, and cultured
+ M1-collecting duct cells, amiloride-sensitive Na<sup>+</sup> transport was
+ inhibited dose-dependently by the selective CK2 inhibitor
+ 4,5,6,7-tetrabromobenzotriazole (TBB). In oocytes, ENaC currents were also
+ inhibited by TBB and by the structurally unrelated inhibitors heparin and
+ poly(E:Y). Expression of a trimeric channel lacking both CK2 sites
+ (&#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T599A</sub>) produced a largely
+ attenuated amiloride-sensitive whole cell conductance and rendered the mutant
+ channel insensitive to CK2. In <italic>Xenopus</italic> oocytes, CK2 was translocated
+ to the cell membrane upon expression of wt-ENaC but not of
+ &#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T599A</sub>-ENaC. Phosphorylation by
+ CK2 is essential for ENaC activation, and to a lesser degree, it also controls
+ membrane expression of &#x003b1;&#x003b2;&#x003b3;-ENaC. Channels lacking the Nedd4-2
+ binding motif in &#x003b2;-ENaC (R561X, Y618A) no longer required the CK2 site
+ for channel activity and siRNA-knockdown of Nedd4-2 eliminated the effects of
+ TBB. This implies a role for CK2 in inhibiting the Nedd4-2 pathway. We propose
+ that the C terminus of &#x003b2;-ENaC is targeted by this essential, conserved
+ pleiotropic kinase that directs its constitutive activity toward many cellular
+ protein complexes.</p></abstract></article-meta><notes><fn-group><fn id="fn1"><label>*</label><p>This work was supported in part by <funding-source>Deutsche
+ Forschungsgemeinschaft</funding-source> <award-id>SFB699 A6</award-id>, the
+ <funding-source>Wellcome Trust</funding-source> (to A. M.),
+ and <funding-source>Fundacao para a Ciencia e a Tecnologia</funding-source>
+ grants (Portugal) (to M. D. A.). The costs of publication of this article were
+ defrayed in part by the payment of page charges. This article must therefore
+ be hereby marked &#x0201c;<italic>advertisement</italic>&#x0201d; in accordance with 18
+ U.S.C. Section 1734 solely to indicate this fact.</p></fn><fn id="fn2"><label/><p>The on-line version of this article (available at
+ <ext-link ext-link-type="uri" xlink:href="http://www.jbc.org">http://www.jbc.org</ext-link>)
+ contains supplemental Fig. S1.</p></fn></fn-group></notes></front><body><p>Electrogenic Na<sup>+</sup> absorption across the apical membrane of
+ epithelia utilizes an amiloride-sensitive channel
+ (ENaC)<xref ref-type="fn" rid="fn5">4</xref> composed of
+ three (&#x003b1;&#x003b2;&#x003b3;) subunits produced from different genes
+ (<xref ref-type="bibr" rid="ref6">6</xref>). In kidney-collecting duct,
+ distal colon, airway, secretory ducts from a variety of organs, and the
+ absorptive sweat duct, ENaC is regulated by an interaction between the &#x003b2;-
+ and &#x003b3;-subunits (at their C terminus) and the E3-ubiquitin ligase
+ Nedd4-2. The WW domains of Nedd4-2 bind proline-rich PY (P<italic>XX</italic>Y) motifs
+ in each ENaC subunit leading to channel ubiquitination, internalization, and
+ degradation and hence channel inactivation
+ (<xref ref-type="bibr" rid="ref7">7</xref>,
+ <xref ref-type="bibr" rid="ref17">17</xref>). Nedd4-2 interaction with
+ ENaC is positively and negatively controlled by phosphorylation of either
+ Nedd4-2, or the C termini of both &#x003b2;- and &#x003b3;-ENaC. Accordingly, the
+ aldosterone-induced serum and glucocorticoid-dependent kinase, Sgk-1,
+ phosphorylates Nedd4-2 on serines (Ser) 444 and 338, thereby reducing its
+ interaction with the channel and causing enhanced ENaC activity
+ (<xref ref-type="bibr" rid="ref7">7</xref>,
+ <xref ref-type="bibr" rid="ref23">23</xref>). Apart from this, Sgk-1
+ also phosphorylates &#x003b1;-ENaC directly at Ser-621, causing a stimulatory
+ effect on the channel, which appears to be Nedd-4-2-independent
+ (<xref ref-type="bibr" rid="ref8">8</xref>). Protein kinase A (PKA),
+ which is known to activate ENaC in alveolar epithelial cells, sweat duct, and
+ kidney, was also shown to phosphorylate Nedd4-2 (at serine residues 221, 246,
+ and 327) and to reduce binding to ENaC
+ (<xref ref-type="bibr" rid="ref22">22</xref>). Moreover, PKA prevents
+ inhibition of ENaC by preventing &#x003b2;-ENaC phosphorylation at threonine
+ (Thr) 613 by the extracellular-regulated kinase (Erk)
+ (<xref ref-type="bibr" rid="ref26">26</xref>). Indeed, phosphorylation
+ of Thr-613 in &#x003b2;-ENaC and Thr-623 in &#x003b3;-ENaC were previously shown to
+ increase channel affinity toward Nedd4-2, thereby down-regulating channel
+ activity (<xref ref-type="bibr" rid="ref20">20</xref>).</p><p>Thus, differential phosphorylation of both &#x003b2;- and &#x003b3;-ENaC
+ subunits can either enhance or reduce its affinity for Nedd4-2, thereby
+ controlling its degradation and hence the channel activity. Along this line,
+ the G protein-coupled receptor kinase 2 (Grk2) was found recently to
+ upregulate the activity of ENaC in salivary duct cells
+ (<xref ref-type="bibr" rid="ref9">9</xref>). Grk2 acts at the C
+ terminus of &#x003b2;-ENaC phosphorylating Ser-633, <italic>i.e.</italic> twenty amino
+ acids downstream of Erk. Grk2 increases the activity of ENaC by rendering the
+ channel insensitive to Nedd4-2
+ (<xref ref-type="bibr" rid="ref9">9</xref>). Notably, an increased Grk2
+ activity has been reported to be associated with hypertension in humans and in
+ animal models (<xref ref-type="bibr" rid="ref11">11</xref>). Therefore,
+ imbalance in ENaC channel regulation by activatory or inhibitory pathways may
+ lead to inappropriate Na<sup>+</sup> absorption, hypertension, or cystic
+ fibrosis (<xref ref-type="bibr" rid="ref15">15</xref>).</p><p>Additional phosphorylation sites at the C terminus of the &#x003b2;- and
+ &#x003b3;-subunits of ENaC include those for the pleiotropic but essential
+ protein casein kinase 2 (CK2)
+ (<xref ref-type="bibr" rid="ref21">21</xref>). It has been demonstrated
+ that CK2 specifically binds to and phosphorylates the C termini of both these
+ ENaC subunits. As found for the Grk2 site (Ser-633) in &#x003b2;-ENaC, a pair of
+ CK2 phosphorylation sites (&#x003b2;Ser-631 and &#x003b3;Thr-599) are located in
+ close proximity to their respective PY motifs. CK2 is not easy to study, as
+ siRNA approaches invariably impact on a number of targets in multiple
+ pathways, some of which coupled to its essential function for cell survival.
+ In a previous study, no contribution of CK2 to regulation of ENaC was observed
+ following the mutation of single putative CK2 sites
+ (<xref ref-type="bibr" rid="ref21">21</xref>). Notwithstanding, we
+ investigated a role for CK2 on ENaC function in native epithelia from airway
+ and colon as well as in <italic>Xenopus</italic> oocytes expressing rat ENaC. We found
+ that constitutive CK2 phosphorylation not only maintains ENaC active, but it
+ also controls the membrane expression of its subunits.</p><sec sec-type="materials|methods"><title>MATERIALS AND METHODS</title><p><italic>Ussing Chamber Experiments</italic>&#x02014;Tracheas and distal colon were
+ removed from mice euthanized by ethically approved institutional procedures
+ (C57BL/6, Charles Rivers, Germany). Tissues were put immediately into ice-cold
+ buffer solution of the following composition (mmol/liter): NaCl 145, KCI 3.8,
+ <sc>d</sc>-glucose 5, MgCI<sub>2</sub> 1, HEPES 5, Ca<sup>2+</sup> gluconate
+ 1.3. After stripping the colonic mucosa and opening tracheas by a longitudinal
+ cut, tissues were mounted into a micro Ussing chamber with a circular aperture
+ of 0.95 mm<sup>2</sup>. Mouse M-1 kidney cortex-collecting duct cells (kindly
+ provided by C. Korbmacher, Physiologisches Institut, Universit&#x000e4;t
+ Erlangen, Germany) were grown to confluence on permeable supports and mounted
+ into the Ussing chamber (<xref ref-type="bibr" rid="ref2">2</xref>).
+ Luminal and basolateral sides of the epithelium were perfused continuously at
+ a rate of 5 ml/min. The bath solution containing (mmol/liter) NaCl 145,
+ KH<sub>2</sub>PO<sub>4</sub> 0.4, K<sub>2</sub>HPO<sub>4</sub> 1.6,
+ <sc>d</sc>-glucose 5, MgCI<sub>2</sub> 1, HEPES 5, and calcium gluconate
+ 1.3, was heated to 37 &#x000b0;C, and the pH was adjusted to 7.4. Experiments were
+ carried out under open circuit conditions. Values for transepithelial voltages
+ (V<sub>te</sub>) were referred to the serosal side of the epithelium.
+ Transepithelial resistance (R<sub>te</sub>) was determined by applying short
+ (1 s) current pulses (&#x00394;l = 0.5 &#x003bc;A) and after subtracting the
+ resistance of the empty chamber, using Ohm's law (R<sub>te</sub>
+ =&#x00394;V<sub>te</sub>/&#x00394;I). Transepithelial resistances were 63 &#x000b1;
+ 3.8 &#x003a9;cm<sup>2</sup>; <italic>n</italic> = 12 (trachea), 31 &#x000b1; 2.1;
+ <italic>n</italic> = 13 (colon), and 669 &#x000b1; 45 &#x003a9;cm<sup>2</sup>; <italic>n</italic>
+ = 38 (M1).</p><p><italic>cRNAs for ENaC Subunits and CFTR</italic>&#x02014;cDNAs-encoding rat
+ (FLAG-tagged or non-tagged) &#x003b1;&#x003b2;&#x003b3;-ENaC (kindly provided by
+ Prof. Dr. B. Rossier, Pharmacological Institute of Lausanne, Switzerland, Ref.
+ <xref ref-type="bibr" rid="ref12">12</xref>) and the Cl<sup>-</sup>
+ channels CFTR were linearized in pBluescript with Notl or Mlul, and <italic>in
+ vitro</italic> transcribed using T7, T3, or SP6 promotor and polymerase (Promega).
+ Isolation and microinjection of oocytes have been described in detail
+ elsewhere (<xref ref-type="bibr" rid="ref2">2</xref>). The ENaC mutants
+ &#x003b2;<sub>S631A</sub>, &#x003b3;<sub>T599A</sub>, &#x003b2;<sub>R561X</sub>,
+ &#x003b2;<sub>Y618A</sub>, and &#x003b2;<sub>S633A</sub> were generated by PCR, and
+ correct sequences were verified by sequencing.</p><p><italic>Double Electrode Voltage Clamp</italic>&#x02014;Oocytes were injected with
+ cRNA (10 ng, 47 nl double-distilled water). Water-injected oocytes served as
+ controls. 2-4 days after injection, oocytes were impaled with two electrodes
+ (Clark Instruments Ltd, Salisbury, UK), which had a resistance of &#x0003c;1
+ <sc>m</sc>&#x003a9; when filled with 2.7 mol/liter KCI. Using two bath
+ electrodes and a virtual ground head stage, the voltage drop across
+ R<sub>serial</sub> was effectively zero. Membrane currents were measured by
+ voltage clamping (oocyte clamp amplifier, Warner Instruments LLC, Hamden CT)
+ in intervals from -90 to +30 mV, in steps of 10 mV, each 1 s. The bath was
+ continuously perfused at a rate of 5 ml/min. All experiments were conducted at
+ room temperature (22 &#x000b0;C).</p><p><italic>Chemiluminescence Measurements</italic>&#x02014;Oocytes were fixed for 60 min
+ at room temperature with 3% paraformaldehyde (in Tris-buffered saline (TBS),
+ pH 8.0) and washed with TBS; (m<sc>m</sc>) 50 Tris, 138 NaCl, 2.7 KCl, pH
+ 8.0 at room temperature. Then oocytes were incubated for 60 min in TBS with 1%
+ (w/v) bovine serum albumin (BSA), another 60 min with 1 &#x003bc;g/ml mouse
+ monoclonal anti-FLAG M2 antibody in 1% BSA/TBS at 4 &#x000b0;C (Sigma-Aldrich),
+ washed at 4 &#x000b0;C with 1% BSA/TBS and incubated with sheep anti-mouse IgG
+ peroxidase-linked whole antibody (Amersham Biosciences) diluted 1:20,000 in 1%
+ BSA/TBS for 40 min at 4 &#x000b0;C. Afterward oocytes were washed for 60 min at 4
+ &#x000b0;C in 1% BSA/TBS and finally in TBS (60 min, 4 &#x000b0;C). Oocytes were
+ placed separately in 50 &#x003bc;l of ECL Plus Western blotting detection reagents
+ (Amersham Biosciences). After incubation for 5 min at room temperature,
+ chemiluminescence was measured in a BioOrbit 1250 Luminometer (Turku,
+ Finland), and an integration period of 1 s was allowed.</p><p><italic>Oocyte Staining</italic>&#x02014;Oocytes were incubated for 60 min in ND96
+ solution (in m<sc>m</sc>: 96 NaCl, 2.0 KCl, 1.8 CaCl<sub>2</sub>, 1.0
+ MgCl<sub>2</sub>, 5.0 HEPES, pH 7.4), fixed for 60 min with 3%
+ paraformaldehyde (in TBS, pH 8.0) and washed in TBS. After embedding in
+ optimum cutting temperature compound (Sakura Finetek Europe, Zoeterwoude, NL),
+ oocytes were cut to 20-&#x003bc;m slices with a cryostat (Leica CM3050 S, Wetzlar,
+ Germany). Sections were put in either TBS or phosphate-buffered saline (PBS;
+ (m<sc>m</sc>) 137 NaCl, 1.8 KH<sub>2</sub>PO<sub>4</sub>, 10.3
+ Na<sub>2</sub>HPO<sub>4</sub>, pH 7.4), incubated for 5 min in 0.1% (w/v) SDS
+ in PBS and washed two times with either TBS or PBS. Sections were incubated
+ for 60 min in TBS or PBS (5% BSA) and for 60 min at 37 &#x000b0;C with the
+ anti-FLAG M2 antibody diluted 1:50 in 2% BSA/TBS or a goat polyclonal casein
+ kinase II&#x003b1; antibody (Santa Cruz Biotechnology, Heidelberg, Germany)
+ diluted 1:25 in 2% BSA/PBS. Afterward sections were washed twice in PBS and
+ incubated for 1 h with secondary antibodies (donkey anti-mouse IgG-Alexa Fluor
+ 488 conjugated and donkey anti-goat IgG-Alexa Fluor 546 conjugated; Molecular
+ Probes, Eugene, OR) at a dilution of 1:1000 in 2% BSA/PBS. Sections were
+ washed two times with PBS for 5 min and covered with DakoCytomation
+ fluorescent mounting medium (DakoCytomation, Inc., Carpinteria, CA). Images
+ were obtained using a Zeiss Axiovert 200 m microscope with a &#x000d7;63
+ objective (Carl Zeiss, Inc., Jena, Germany).</p><p><italic>Materials and Statistical Analysis</italic>&#x02014;All compounds used were
+ of highest available grade of purity. Amiloride,
+ 2-dimethylamino-4,5,6,7-tetrabromo-1<italic>H</italic>-benzimidazole (DMAT),
+ forskolin, IBMX (3-isobutyl-1-methylxanthine), heparin, okadaic acid,
+ poly(E:Y) peptide, and poly(K) were from Sigma. TBB was a generous gift from
+ Prof. L. Pinna (Department of Biological Chemistry, University of Padua,
+ Italy). The Nedd4-2 antibody was a generous gift from Prof. Dr. J. Loffing
+ (University of Z&#x000fc;rich, Switzerland). mNedd4-2-RNAi (5&#x02032;-CCA UUU GUC
+ CUA UUU CAC CUU CAU U-3&#x02032;), xNedd4-2-RNAi (5&#x02032;-GCG UGC CUA UGA AUG
+ GAU U-3&#x02032;), and mCK2-RNAi (5&#x02032;-UUG UCA AGA AGA UCU AGG GCC UCC
+ G-3&#x02032;) were from Invitrogen (Paisley, UK). Scrambled RNA is a mixture of
+ double-stranded RNA sequences that has no match to any of the known
+ <italic>Xenopus</italic> mRNA sequences. Student's <italic>t</italic> test was used for
+ statistical analysis. A <italic>p</italic> value of &#x0003c;0.05 was regarded as
+ significant.</p><p><fig position="float" id="fig1"><label>FIGURE 1.</label><caption><p><bold>CK2 activates ENaC in native epithelia and in epithelial cells.</bold>
+ Original Ussing chamber recordings of the transepithelial voltages
+ V<sub>te</sub> detected in mouse trachea (<italic>A</italic>), mouse colon
+ (<italic>C</italic>), and M1 cells (<italic>E</italic>). Effects of amiloride (<italic>A</italic>, 10
+ &#x003bc;<sc>m</sc>) and the CK2 inhibitor TBB (10 &#x003bc;<sc>m</sc>).
+ Concentration-dependence of the effects of TBB on amiloride-sensitive
+ transport in trachea (<italic>B</italic>), colon (<italic>D</italic>), and M1 cells
+ (<italic>F</italic>). The <italic>asterisk</italic> (<sup>*</sup>) indicates significant
+ effects of TBB (paired <italic>t</italic>-tests, number of experiments: 9-13 for each
+ series).</p></caption><graphic xlink:href="zbc0200835040001"/></fig></p><p><fig position="float" id="fig2"><label>FIGURE 2.</label><caption><p><bold>CK2 activates ENaC in Xenopus oocytes.</bold> <italic>A</italic>, current recording
+ from a <italic>Xenopus</italic> oocyte expressing &#x003b1;&#x003b2;&#x003b3;-ENaC and
+ effects of amiloride (10 &#x003bc;<sc>m</sc>) and TBB (10 &#x003bc;<sc>m</sc>).
+ Oocytes were voltage-clamped from -90 mV to +10 mV in steps of 10 mV, and the
+ resulting currents were recorded. <italic>B</italic>, summary of the effects of
+ amiloride and TBB on whole cell conductance in ENaC-expressing oocytes.
+ <italic>C</italic>, summary of the change of amiloride-sensitive conductance
+ (<italic>G</italic><sub>amil</sub>) after injection of water, the CK2 inhibitor
+ poly(E:Y) (50 &#x003bc;<sc>m</sc>) and CK2 activator poly(K) (50
+ &#x003bc;<sc>m</sc>), respectively. <italic>D</italic>, current recording of an
+ ENaC-expressing oocyte and the effects of amiloride (<italic>A</italic>, 10
+ &#x003bc;<sc>m</sc>) and okadaic acid (100 n<sc>m</sc>). <italic>E</italic>, summary of
+ the effect of okadaic acid on the amiloride-sensitive whole cell conductance
+ measured in oocytes. The <italic>asterisk</italic> (<sup>*</sup>) indicates
+ significant effects (paired <italic>t</italic>-test). The <italic>number sign</italic> (#)
+ indicates a significant difference for the effects of amiloride before and
+ after incubation with TBB (paired <italic>t</italic>-test, 6-25 experiments for each
+ series).</p></caption><graphic xlink:href="zbc0200835040002"/></fig></p></sec><sec><title>RESULTS</title><p><italic>CK2 Blocker Inhibits ENaC Activity</italic>&#x02014;We examined the
+ contribution of CK2 to the regulation of epithelial Na<sup>+</sup> channels in
+ native epithelia from mouse trachea and colon. In Ussing chamber experiments,
+ we explored CK2-selective concentrations of the specific inhibitor TBB, which
+ was shown to have no effect on over 30 other kinases. TBB selectivity depends
+ on its ability to bind an unusual hydrophobic ATP binding site that differs
+ from the equivalent in conventional kinases. Electrogenic Na<sup>+</sup>
+ transport in mouse trachea was assessed by inhibition of ENaC with amiloride
+ (10 &#x003bc;<sc>m</sc>) (<xref ref-type="fig" rid="fig1">Fig.
+ 1<italic>A</italic></xref>). TBB (10 &#x003bc;<sc>m</sc>) reduced the
+ transepithelial voltage V<sub>te</sub> and attenuated amiloride-sensitive
+ short-circuit currents (I<sub>sc-amil</sub>) in a dose-dependent manner
+ (<xref ref-type="fig" rid="fig1">Fig. 1, <italic>A</italic> and
+ <italic>B</italic></xref>). Similarly, TBB significantly blocked
+ amiloride-sensitive Na<sup>+</sup> transport in mouse distal colon
+ (<xref ref-type="fig" rid="fig1">Fig. 1, <italic>C</italic> and
+ <italic>D</italic></xref>). This effect could be reproduced in cultured mouse
+ M1-collecting duct cells, grown on permeable supports
+ (<xref ref-type="fig" rid="fig1">Fig. 1, <italic>E</italic> and
+ <italic>F</italic></xref>). These combined results suggest that endogenous
+ epithelial Na<sup>+</sup> channels expressed in epithelial tissues are
+ maintained in an active state by constitutively active CK2.</p><p>To further confirm regulation of epithelial Na<sup>+</sup> channels by CK2,
+ the three (&#x003b1;&#x003b2;&#x003b3;)-ENaC subunits were expressed in
+ <italic>Xenopus</italic> oocytes and examined in double electrode voltage clamp
+ experiments. As shown in the original recording in
+ <xref ref-type="fig" rid="fig2">Fig. 2<italic>A</italic></xref>, the
+ simultaneous expression of the three ENaC subunits produced a large current,
+ which was inhibited by amiloride (A, 10 &#x003bc;<sc>m</sc>). The CK2 structure
+ is virtually identical in <italic>Xenopus</italic> compared with mammals. Thus, TBB
+ (10 &#x003bc;<sc>m</sc>) also significantly reduced amiloride-sensitive whole
+ cell currents and conductance (<italic>G</italic><sub>amil</sub>), respectively
+ (<xref ref-type="fig" rid="fig2">Fig. 2, <italic>A</italic> and
+ <italic>B</italic></xref>) in oocytes. Another compound, DMAT, has recently been
+ shown to inhibit CK2 with higher inhibitory potency, but it has limited
+ efficacy <italic>in vivo</italic> due to its rapid
+ turnover.<xref ref-type="fn" rid="fn6">5</xref> At 2
+ &#x003bc;<sc>m</sc>, we did not observe inhibition of ENaC currents by DMAT in
+ <italic>Xenopus</italic> oocytes; however, 5 &#x003bc;<sc>m</sc> reduced
+ amiloride-sensitive ENaC conductance significantly from 31.9 &#x000b1; 6.8 to
+ 25.7 &#x000b1; 4.1 &#x003bc;S(<italic>n</italic> = 5). Regulation of ENaC by CK2 was further
+ validated using the structurally unrelated peptide inhibitor of CK2, poly(E:Y)
+ and conversely, by activating CK2 with polylysine (poly(K))
+ (<xref ref-type="bibr" rid="ref16">16</xref>,
+ <xref ref-type="bibr" rid="ref24">24</xref>). The peptides were
+ injected into oocytes at final concentrations between 10 and 100
+ &#x003bc;<sc>m</sc>, and amiloride-sensitive Na<sup>+</sup> conductances were
+ compared before and 1-5 h after injection. During these few hours, ENaC
+ conductance increased, almost doubling initial values in water-injected
+ controls (<xref ref-type="fig" rid="fig2">Fig. 2</xref>), This
+ time-enhanced Na<sup>+</sup> conductance was nevertheless inhibited by
+ poly(E:Y) and was further activated through stimulation of CK2 by poly(K)
+ (<xref ref-type="fig" rid="fig2">Fig. 2<italic>C</italic></xref>). CK2 is
+ known to associate with protein phosphatase 2A (PP2A). To confirm
+ phosphorylation-dependent activation of ENaC, ooctyes were exposed to okadaic
+ acid at a PP2A-specific concentration (10 n<sc>m</sc>), which further
+ increased amiloride-sensitive Na<sup>+</sup> transport
+ (<xref ref-type="fig" rid="fig2">Fig. 2, <italic>D</italic> and
+ <italic>E</italic></xref>). Thus ENaC appears to be stimulated by constitutively
+ active CK2 with counter-regulation by PP2A-like inhibition. To further confirm
+ this activation by CK2, injection of the nonspecific CK2 inhibitor heparin (10
+ &#x003bc;<sc>m</sc>) also reduced Na<sup>+</sup> conductance in <italic>Xenopus</italic>
+ oocytes (<xref ref-type="fig" rid="fig4">Fig. 4<italic>C</italic></xref>).</p><p><fig position="float" id="fig3"><label>FIGURE 3.</label><caption><p><bold>Elimination of CK2 phosphorylation sites on ENaC inhibits channel
+ activity.</bold> <italic>A</italic>, current recording from a <italic>Xenopus</italic> oocyte
+ expressing &#x003b1;&#x003b2;&#x003b3;-ENaC and effects of amiloride
+ (10&#x003bc;<sc>m</sc>) and TBB (10&#x003bc;<sc>m</sc>). Oocytes were
+ voltage-clamped from -90 mV to +10 mV in steps of 10 mV, and the resulting
+ currents were recorded. <italic>B</italic>, current recording from a <italic>Xenopus</italic>
+ oocyte expressing &#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T559A</sub>-ENaC
+ and effects of amiloride (10 &#x003bc;<sc>m</sc>) and TBB (10 &#x003bc;<sc>m</sc>).
+ <italic>C</italic> and <italic>D</italic>, summaries of the effects of amiloride and TBB on
+ <italic>G</italic><sub>amil</sub> generated by &#x003b1;&#x003b2;&#x003b3;-ENaC and
+ &#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T559A</sub>-ENaC. <italic>E</italic>,
+ comparison of <italic>G</italic><sub>amil</sub> produced by
+ wt-(&#x003b1;&#x003b2;&#x003b3;)-, single mutants
+ (&#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;, &#x003b1;&#x003b2;&#x003b3;<sub>T559A</sub>)-,
+ and a doublemutant
+ (&#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T559A</sub>)-ENaC.<italic>F</italic>,
+ summaries of <italic>G</italic><sub>amil</sub> produced by dimeric wt-(&#x003b1;&#x003b2;,
+ &#x003b1;&#x003b3;)- and mutant (&#x003b1;&#x003b2;<sub>S631A</sub>,
+ &#x003b1;&#x003b3;<sub>T559</sub>)-ENaC channels. The <italic>asterisk</italic>
+ (<sup>*</sup>) and <italic>number sign</italic> (#) indicate a significant difference
+ (paired <italic>t</italic>-test, 13-25 experiments for each series).</p></caption><graphic xlink:href="zbc0200835040003"/></fig></p><p><fig position="float" id="fig4"><label>FIGURE 4.</label><caption><p><bold>CK2 controls membrane expression of ENaC in <italic>Xenopus</italic>
+ oocytes.</bold> Time course for <italic>G</italic><sub>amil</sub> (<italic>A, C, E</italic>) and
+ membrane expression of &#x003b1;<sub>Flag</sub>-ENaC (<italic>B, D, F</italic>). Ooctyes
+ were kept in ND97 or in ND97 containing TBB (10 &#x003bc;<sc>m</sc>), or were
+ injected with heparin (10 &#x003bc;<sc>m</sc>), poly(E:Y) (50 &#x003bc;<sc>m</sc>),
+ or equal amounts (30 nl) of water. The <italic>asterisk</italic> (<sup>*</sup>)
+ indicates significant differences when compared with ND96 or water (unpaired
+ <italic>t</italic>-tests, 6-13 experiments for each series).</p></caption><graphic xlink:href="zbc0200835040004"/></fig></p><p><italic>Removal of CK2 Sites from</italic> &#x003b2;<italic>- and</italic> &#x003b3;<italic>-ENaC
+ Inhibits Amiloride-sensitive Na</italic><sup>+</sup> <italic>Conductance and Renders
+ It Insensitive to TBB</italic>&#x02014;Similar to endogenous Na<sup>+</sup> currents
+ present in epithelial tissues (<xref ref-type="fig" rid="fig1">Fig.
+ 1</xref>), ENaC expressed exogenously in <italic>Xenopus</italic> oocytes was
+ inhibited by TBB in a dose-dependent manner
+ (<xref ref-type="fig" rid="fig3">Fig. 3, <italic>A</italic> and
+ <italic>C</italic></xref>). ENaC contains two phosphorylation sites for CK2, in
+ &#x003b2;-ENaC (serine 631) and &#x003b3;-ENaC (threonine 599). Changing both CK2
+ sites to alanines (&#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T599A</sub>)
+ virtually eliminated Na<sup>+</sup> conductance and rendered residual
+ conductance of the double mutant channel insensitive to TBB
+ (<xref ref-type="fig" rid="fig3">Fig. 3, <italic>B</italic> and
+ <italic>D</italic></xref>). Trimeric Na<sup>+</sup> channels carrying only one
+ mutation in either &#x003b2;-ENaC (&#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;) or
+ &#x003b3;-ENaC (&#x003b1;&#x003b2;&#x003b3;<sub>T599A</sub>), produced more measurable
+ but still significantly attenuated Na<sup>+</sup> conductances when compared
+ with wt-ENaC (<xref ref-type="fig" rid="fig3">Fig.
+ 3<italic>E</italic></xref>). Moreover, the remaining amiloride-sensitive
+ Na<sup>+</sup> conductances formed by dimeric &#x003b1;&#x003b2;-ENaC and
+ &#x003b1;&#x003b3;-ENaC channels were further reduced by &#x003b2;<sub>S631A</sub>
+ and &#x003b3;<sub>T599A</sub>, respectively
+ (<xref ref-type="fig" rid="fig3">Fig. 3<italic>F</italic></xref>). Finally,
+ coexpression of hCK2 together with wt-ENaC increased <italic>G</italic><sub>amil</sub>
+ (65.9 &#x000b1; 9.0 &#x003bc;S; <italic>n</italic> = 7), when compared with injection of
+ wt-ENaC alone (47.2 &#x000b1; 8.1 &#x003bc;S; <italic>n</italic> = 7). Co-expression of hCK2
+ did not augment <italic>G</italic><sub>amil</sub> of
+ &#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T599A</sub>-ENaC (3.3 &#x000b1; 0.7
+ &#x003bc;S; <italic>n</italic> = 11 <italic>versus</italic> 3.4 &#x000b1; 0.5 &#x003bc;S; <italic>n</italic> =
+ 11). Taken together, these results demonstrate that phosphorylation of
+ &#x003b2;<sub>S631</sub> and &#x003b3;<sub>T599</sub> is essential for ENaC.</p><p><italic>CK2 Controls ENaC Activity and Membrane Expression of</italic>
+ &#x003b1;<italic>-ENaC</italic>&#x02014;To examine whether CK2 phosphorylation controls
+ membrane expression of ENaC, FLAG-tagged &#x003b1;-ENaC was co-expressed with
+ non-flagged &#x003b2;&#x003b3;-ENaC in <italic>Xenopus</italic> oocytes. The appearance of
+ &#x003b1;<sub>Flag</sub>-ENaC in the cell membrane was monitored by
+ chemiluminescence, during an observation period of 40-48 h
+ (<xref ref-type="fig" rid="fig4">Fig. 4, <italic>B, D</italic>, and
+ <italic>F</italic></xref> and <xref ref-type="fig" rid="fig5">Fig.
+ 5<italic>A</italic></xref>, see &#x0201c;Materials and Methods&#x0201d;). Control
+ injection with non-flagged ENaC did not produce a chemiluminescence different
+ from background (data not shown). In parallel, amiloride-sensitive
+ Na<sup>+</sup> conductance was assessed at corresponding intervals
+ (<xref ref-type="fig" rid="fig4">Fig. 4, <italic>A, C</italic>, and
+ <italic>E</italic></xref>). When &#x003b1;<sub>Flag</sub>&#x003b2;&#x003b3;-ENaC was
+ expressed in control oocytes, both <italic>G</italic><sub>amil</sub> and membrane
+ expression continuously increased (<xref ref-type="fig" rid="fig4">Fig. 4,
+ <italic>A</italic> and <italic>B</italic></xref>). In contrast, when oocytes were kept in
+ 10 &#x003bc;<sc>m</sc> TBB-containing buffer, amiloride-sensitive Na<sup>+</sup>
+ conductance was completely abolished, and membrane expression was
+ significantly reduced, albeit not completely. Moreover, co-injection of
+ &#x003b1;&#x003b2;&#x003b3;-ENaC-cRNAs together with the CK2 inhibitors heparin
+ (final concentration 10 &#x003bc;<sc>m</sc>) or the peptide inhibitor poly(E:Y)
+ (final concentration 50 &#x003bc;<sc>m</sc>) also inhibited Na<sup>+</sup>
+ conductance along with membrane expression of &#x003b1;-ENaC
+ (<xref ref-type="fig" rid="fig4">Fig. 4, <italic>C-F</italic></xref>).
+ Finally, M1 cells were grown on permeable supports, in the absence or presence
+ of 10 &#x003bc;<sc>m</sc> TBB. As observed in oocytes, TBB reduced
+ amiloride-sensitive transport from 2.05 &#x000b1; 0.35 &#x003bc;A/cm<sup>2</sup>
+ (<italic>n</italic> = 19) to 1.52 &#x000b1; 0.25 &#x003bc;A/cm<sup>2</sup> (<italic>n</italic> =
+ 16). Thus, CK2 phosphorylation differentially controls membrane expression of
+ &#x003b1;-ENaC and ENaC activity. Of note, the inhibitory effect on conductance
+ (3-5-fold) was significantly greater than on membrane expression (typically
+ 2-fold).</p><p><fig position="float" id="fig5"><label>FIGURE 5.</label><caption><p><bold>CK2 is essential for ENaC activity and antagonizes the inhibitory effect
+ of Nedd4-2 on ENaC.</bold> <italic>A</italic>, summary of &#x003b1;-ENaC membrane
+ expression and <italic>G</italic><sub>amil</sub> after 40 h. TBB inhibited membrane
+ expression of &#x003b1;-ENaC via single mutants
+ (&#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;,&#x003b1;&#x003b2;&#x003b3;<sub>T559A</sub>)
+ but not that of the double mutant
+ (&#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T559A</sub>).
+ <italic>G</italic><sub>amil</sub> was largely reduced for all mutants, and
+ <italic>G</italic><sub>amil</sub> produced by the double mutant was no longer
+ inhibited by TBB. <italic>Dashed lines</italic> indicate membrane expression and
+ <italic>G</italic><sub>amil</sub> of wt-ENaC. <italic>B</italic>, whole cell conductances
+ relative to wt-ENaC. A mutation in the PY motif (Y618A) of &#x003b2;-ENaC
+ increased Na<sup>+</sup> conductance, and S631A no longer inhibited ENaC
+ conductance. The Grk2 mutant S633A inhibited ENaC, but not as a double mutant
+ S631A/S633A. <italic>C</italic>, inhibition of xNedd4-2 expression by siRNA-xNedd4-2
+ but not scrambled siRNA. The abundant poly(A)-binding protein indicates equal
+ loading. Summary of ENaC whole cell conductances measured in the absence or
+ presence of siRNA-xNedd4-2 or scrambled siRNA (see &#x0201c;Materials and
+ Methods&#x0201d;). <italic>D</italic>, summary of the amiloride-sensitive short-circuit
+ current and effects of TBB (10 &#x003bc;<sc>m</sc>) in control M1 cells and M1
+ cell treated with scrambled RNAi, mNedd4-2-RNAi, and mCK2-RNAi (see
+ &#x0201c;Materials and Methods&#x0201d;). The <italic>asterisk</italic> (<sup>*</sup>)
+ indicates significant effects of TBB (paired <italic>t</italic>-tests). The <italic>number
+ sign</italic> (#) indicates a significant difference compared with control
+ (unpaired <italic>t</italic>-test, 6-24 experiments for each series).</p></caption><graphic xlink:href="zbc0200835040005"/></fig></p><p><italic>CK2 Is Essential for ENaC Activity, but Has a Small Effect on Membrane
+ Expression of</italic> &#x003b1;<italic>-ENaC</italic>&#x02014;The contribution of both CK2
+ phosphorylation sites in &#x003b2;-ENaC and &#x003b3;-ENaC, to membrane expression
+ of &#x003b1;-ENaC was further examined by expressing single mutants
+ (&#x003b1;<sub>Flag</sub>&#x003b2;<sub>S631A</sub>&#x003b3;-ENaC or
+ &#x003b1;<sub>Flag</sub>&#x003b2;&#x003b3;<sub>T599A</sub>-ENaC) or the double mutant
+ (&#x003b1;<sub>Flag</sub>&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T599A</sub>-ENaC) in
+ oocytes. For the sake of simplicity, we only show a summary of the data
+ obtained for membrane expression and ENaC conductance after 40 h of expression
+ of those ENaC variants (relative to wild type). Importantly, single mutations
+ in &#x003b2;-ENaC or &#x003b3;-ENaC largely reduced the Na<sup>+</sup> conductance
+ but had only a small effect on membrane expression. Elimination of both CK2
+ sites in &#x003b2;-ENaC and &#x003b3;-ENaC also strongly reduced
+ <italic>G</italic><sub>amil</sub>, with a minor effect on membrane expression
+ (<xref ref-type="fig" rid="fig5">Fig. 5<italic>A</italic></xref>). Of note,
+ TBB reduced &#x003b1;-ENaC expression only when one CK2 site was intact.</p><p>The nearby located Grk2 phosphorylation site Ser-633 was reported to
+ control Nedd4-2 binding to ENaC
+ (<xref ref-type="bibr" rid="ref9">9</xref>). We explored whether the
+ same might hold true for CK2 phosphorylation sites. To this end, we compared
+ whole cell conductances of several ENaC mutants to that of wt-ENaC. A mutation
+ in the Nedd4-2 binding site (&#x003b2;<sub>Y618A</sub>) increased ENaC whole cell
+ conductance relative to the wild type and eliminated the inhibitory effect of
+ S631A on ENaC conductance (<xref ref-type="fig" rid="fig5">Fig.
+ 5<italic>B</italic></xref>). This strongly suggests that CK2 phosphorylation at
+ Ser-631 antagonizes the inhibitory action of Nedd4-2 in ENaC
+ (<xref ref-type="bibr" rid="ref20">20</xref>)
+ (<xref ref-type="fig" rid="fig8">Fig. 8</xref>). Similarly, when we
+ expressed the truncated &#x003b1;&#x003b2;<sub>R561X</sub>&#x003b3;-ENaC channel, we
+ found that amiloride-sensitive whole cell conductance was largely increased
+ (64.5 &#x000b1; 5.9 &#x003bc;S; <italic>n</italic> = 14) when compared with
+ &#x003b1;&#x003b2;&#x003b3;-ENaC, and was now unaffected by 10 &#x003bc;<sc>m</sc> TBB
+ (64.1 &#x000b1; 6.1 &#x003bc;S). Interestingly, mutating the Grk2 site also reduced
+ ENaC conductance; however, eliminating both CK2 and Grk2 sites in &#x003b2;-ENaC
+ produced a channel with similar activity to that of wt-ENaC
+ (<xref ref-type="fig" rid="fig5">Fig. 5<italic>B</italic></xref>). This
+ suggests that the closely located phosphorylation sites of CK2 and Grk2
+ (Ser-631, Ser-633) influence each other.</p><p>The role of Nedd4-2 on CK2 regulation of ENaC was further examined by
+ siRNA-knockdown of xNedd4-2, similar to a recent study
+ (<xref ref-type="fig" rid="fig5">Fig. 5<italic>C</italic></xref>)
+ (<xref ref-type="bibr" rid="ref18">18</xref>). Two remarkable results
+ were obtained, namely: (i) wt-ENaC was no longer inhibited by TBB. (ii)
+ &#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;-rENaC, which normally produced only small
+ amiloride-sensitive Na<sup>+</sup> conductance, generated a whole cell
+ conductance that was indistinguishable to that obtained for wt
+ &#x003b1;&#x003b2;&#x003b3;-rENaC (<xref ref-type="fig" rid="fig5">Fig.
+ 5<italic>C</italic></xref>). These effects were not observed when scrambled RNAi
+ was injected. The contribution of Nedd4-2 to CK2 regulation of ENaC was
+ further examined in mammalian cells. M1 cells were grown on permeable supports
+ after treatment with RNAi for mCK2, mNedd4-2, or scrambled RNAi, or as
+ nontransfected control cells (<xref ref-type="fig" rid="fig5">Fig.
+ 5<italic>D</italic></xref>). Knockdown of CK2 and Nedd4-2 was verified by Western
+ blotting (supplemental Fig. S1). I<sub>sc-amil</sub> was enhanced in M1 cells
+ following Nedd4-2 knockdown, and inhibition by TBB was largely reduced
+ (<xref ref-type="fig" rid="fig5">Fig. 5<italic>D</italic></xref>). In
+ contrast, CK2 knockdown reduced I<sub>sc-amil</sub> and also abolished the
+ effect of TBB on I<sub>sc-amil</sub> (<xref ref-type="fig" rid="fig5">Fig.
+ 5<italic>D</italic></xref>). Taken together, these results suggest that CK2
+ phosphorylation of ENaC antagonizes the inhibitory effects of Nedd4-2.</p><p><fig position="float" id="fig6"><label>FIGURE 6.</label><caption><p><bold>CK2 is not essential for membrane expression of</bold> &#x003b2;<bold>-ENaC
+ and</bold> &#x003b3;<bold>-ENaC.</bold> <italic>A</italic>, inhibition of membrane expression of
+ &#x003b2;<sub>Flag</sub>-ENaC and &#x003b3;<sub>Flag</sub>-ENaC and
+ <italic>G</italic><sub>amil</sub> by 10 &#x003bc;<sc>m</sc> TBB. <italic>B</italic> and
+ <italic>C</italic>, TBB inhibited membrane expression of &#x003b2;<sub>Flag</sub>-ENaC
+ and &#x003b3;<sub>Flag</sub>-ENaC in single mutants
+ (&#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;, &#x003b1;&#x003b2;&#x003b3;<sub>T559A</sub>),
+ but not in double mutants
+ (&#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T559A</sub>).
+ <italic>G</italic><sub>amil</sub> was largely reduced for all mutants, and
+ <italic>G</italic><sub>amil</sub> produced by the double mutants was no longer
+ inhibited by TBB. <italic>Dashed lines</italic> indicate membrane expression and
+ <italic>G</italic><sub>amil</sub> of wt-ENaC. The <italic>asterisk</italic> (<sup>*</sup>)
+ indicates a significant effect of TBB (paired <italic>t</italic>-tests, 6-12
+ experiments for each series).</p></caption><graphic xlink:href="zbc0200835040006"/></fig></p><p><italic>CK2 Controls Membrane Expression of</italic> &#x003b2;<italic>-ENaC and</italic>
+ &#x003b3;<italic>-ENaC</italic>&#x02014;The activity of epithelial Na<sup>+</sup> channels
+ largely depends on co-expression of both &#x003b2;- and &#x003b3;-subunits.
+ Membrane expression of &#x003b2;-ENaC and &#x003b3;-ENaC was monitored by injecting
+ &#x003b1;&#x003b2;<sub>Flag</sub>&#x003b3;-ENaC or
+ &#x003b1;&#x003b2;&#x003b3;<sub>Flag</sub>-ENaC, respectively, and Na<sup>+</sup>
+ conductances were measured in parallel. Na<sup>+</sup> conductances generated
+ by either &#x003b1;&#x003b2;<sub>Flag</sub>&#x003b3;-ENaC or
+ &#x003b1;&#x003b2;&#x003b3;<sub>Flag</sub>-ENaC, respectively, were almost completely
+ abolished when oocytes were exposed to 10 &#x003bc;<sc>m</sc> TBB, while membrane
+ expression of &#x003b2;<sub>Flag</sub> and &#x003b3;<sub>Flag</sub> were reduced by
+ about 50% (<xref ref-type="fig" rid="fig6">Fig. 6<italic>A</italic></xref>).
+ We further examined whether &#x003b2;<sub>Flag</sub> and &#x003b3;<sub>Flag</sub>
+ behave in a similar fashion in the absence of &#x003b1;-ENaC. Dimeric channels
+ formed by &#x003b2;<sub>Flag</sub>&#x003b3;-ENaC or
+ &#x003b2;&#x003b3;<sub>Flag</sub>-ENaC produced small but detectable
+ amiloride-sensitive whole cell conductances (0.74 &#x000b1; 0.2 &#x003bc;S;
+ <italic>n</italic> = 8 and 0.2 &#x000b1; 0.1 &#x003bc;S; <italic>n</italic> = 7, respectively).
+ Interestingly expression of &#x003b2;<sub>Flag</sub>-ENaC and
+ &#x003b3;<sub>Flag</sub>-ENaC in dimeric and trimeric channels was similar, but
+ expression of both subunits in the dimeric channel was not affected by TBB
+ (data not shown). This suggests a complex role of &#x003b1;-ENaC for expression
+ of &#x003b2;&#x003b3;-ENaC.</p><p>To further assess the impact of CK2 phosphorylation on membrane expression
+ of &#x003b2;-ENaC and &#x003b3;-ENaC in trimeric
+ (&#x003b1;&#x003b2;<sub>Flag</sub>&#x003b3;-ENaC and
+ &#x003b1;&#x003b2;&#x003b3;<sub>Flag</sub>-ENaC) channels, we expressed single
+ mutants (&#x003b1;&#x003b2;<sub>S631A-Flag</sub>&#x003b3;-ENaC or
+ &#x003b1;&#x003b2;&#x003b3;<sub>T599A-Flag</sub>-ENaC) and double mutants
+ (&#x003b1;&#x003b2;<sub>S631A-Flag</sub>&#x003b3;<sub>T599A</sub>-ENaC or
+ &#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T599A-Flag</sub>-ENaC) in the absence
+ or presence of 10 &#x003bc;<sc>m</sc> TBB. For all mutant combinations,
+ Na<sup>+</sup> conductances were largely reduced in comparison to that of
+ wt-ENaC, and residual conductances generated by the double mutants were
+ insensitive to TBB (<xref ref-type="fig" rid="fig6">Fig. 6, <italic>B</italic> and
+ <italic>C</italic></xref>). In contrast, the membrane expression of &#x003b2;-ENaC
+ and &#x003b3;-ENaC was not affected by any of the mutations individually, and
+ membrane expression of the double mutants
+ (&#x003b1;&#x003b2;<sub>S631A-Flag</sub>&#x003b3;<sub>T599A</sub>-ENaC;
+ &#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T599A-Flag</sub>-ENaC) was no longer
+ inhibited by TBB (<xref ref-type="fig" rid="fig6">Fig. 6, <italic>B</italic> and
+ <italic>C</italic></xref>). These data suggest that when CK2 sites are present in
+ &#x003b2;-ENaC and &#x003b3;-ENaC, they need to be phosphorylated to allow proper
+ membrane expression of all three subunits.</p><p><italic>ENaC Translocates CK2 to the Cell Membrane</italic>&#x02014;It has been
+ reported that CK2 binds directly to ENaC
+ (<xref ref-type="bibr" rid="ref21">21</xref>). This suggests that CK2
+ may be translocated by ENaC to the cell membrane as found for CFTR
+ (<xref ref-type="bibr" rid="ref24">24</xref>). Oocytes expressing ENaC
+ and non-injected control oocytes were immunolabeled, after embedding and
+ cutting into 20-&#x003bc;m sections. Using an anti-FLAG antibody, &#x003b1;-ENaC
+ could be visualized in membranes of <italic>Xenopus</italic> oocytes expressing
+ &#x003b1;<sub>Flag</sub>&#x003b2;&#x003b3;-ENaC
+ (<xref ref-type="fig" rid="fig7">Fig. 7<italic>A</italic></xref>). Moreover,
+ upon expression of &#x003b1;&#x003b2;<sub>Flag</sub>&#x003b3;-ENaC or
+ &#x003b1;&#x003b2;&#x003b3;<sub>Flag</sub>-ENaC, &#x003b2;- and &#x003b3;-subunits could
+ be immunolabeled in the oocyte membrane
+ (<xref ref-type="fig" rid="fig7">Fig. 7<italic>B</italic></xref>, <italic>left
+ panels</italic>). Expression of the three subunits was similar in
+ &#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T559A</sub>-ENaC-injected oocytes
+ (<xref ref-type="fig" rid="fig7">Fig. 7<italic>B</italic></xref>, <italic>right
+ panels</italic>). However, while CK2 was detected in membranes of oocytes
+ expressing wt-ENaC, no membrane staining of CK2 was detectable in
+ &#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T559A</sub>-ENaC-injected oocytes
+ (<xref ref-type="fig" rid="fig7">Fig. 7<italic>B</italic></xref>, <italic>lower
+ panels</italic>). These results suggest that CK2 may be translocated to oocyte
+ membranes by binding to ENaC &#x003b2;- and &#x003b3;-subunits.</p></sec><sec><title>DISCUSSION</title><p><italic>CK2 Regulates Ion Channels</italic>&#x02014;CK2 is an essential,
+ constitutively regulated multifunctional protein kinase whose functions are
+ not fully understood (<xref ref-type="bibr" rid="ref21">21</xref>). CK2
+ is believed to insert into protein complexes bringing its constitutive
+ activity to many signaling complexes (p53, ion channels, actin capping at
+ membranes, lipid flippases, etc). Notably, CK2 controls trafficking and
+ sorting of trans-Golgi proteins. CK2 affects a number of membrane channels and
+ pumps, among them is polycystin-2 (PC2), a divalent cation-selective channel.
+ CK2 was shown to maintain the Ca<sup>2+</sup> sensitivity of PC2. Elimination
+ of a CK2 site in PC2 reduced its Ca<sup>2+</sup> sensitivity, without changing
+ membrane expression (<xref ref-type="bibr" rid="ref5">5</xref>). Others
+ reported the importance of phosphorylation of PC2 by CK2, for proper ciliary
+ localization of the channel
+ (<xref ref-type="bibr" rid="ref13">13</xref>). CK2 also phosphorylates
+ three critical serine residues within nephrocystin, another ciliary protein.
+ CK2 phosphorylation is essential for co-localization of nephrocystin with the
+ sorting protein PACS-1 at the base of cilia. Inhibition of CK2 was shown to
+ eliminate interaction of PACS-1 and nephrocystin and to induce defective
+ nephrocystin targeting (<xref ref-type="bibr" rid="ref19">19</xref>).
+ CK2 may thus be relevant to the common autosomal form of polycystic kidney
+ disease.</p><p><fig position="float" id="fig7"><label>FIGURE 7.</label><caption><p><bold>wt-ENaC translocates CK2 to the cell membrane.</bold> <italic>A</italic>, DIC image
+ of the oocyte membrane (<italic>left panels</italic>) and immunostaining of
+ &#x003b1;<sub>Flag</sub>-ENaC in an ENaC-expressing (<italic>right upper panel</italic>)
+ and a non-injected (<italic>right lower panel</italic>) oocyte. <italic>B</italic>,
+ immunostaining of the three ENaC subunits (<italic>green</italic>) and CK2
+ (<italic>red</italic>) in wt-ENaC (<italic>left panel</italic>) and
+ &#x003b1;&#x003b2;<sub>S631A</sub>&#x003b3;<sub>T559A</sub>-ENaC (<italic>right
+ panel</italic>)-expressing oocytes. <italic>Bars</italic> indicate 10 &#x003bc;m. Experiments
+ were performed in at least triplicates.</p></caption><graphic xlink:href="zbc0200835040007"/></fig></p><p>We found here that ENaC is regulated by CK2 in a related manner,
+ <italic>i.e.</italic> CK2 regulates ENaC activity as well as membrane expression. Lack
+ of CK2 phosphorylation appears to reduce Nedd4-2 binding to ENaC, thereby
+ enhancing channel activity and membrane expression. Notably, phosphorylation
+ of ENaC by ERK inhibits both channel activity and membrane expression, and
+ both effects are mediated by Nedd4-2 binding to ENaC
+ (<xref ref-type="bibr" rid="ref10">10</xref>).</p><p>CK2 has also been described to influence other ion channels, namely by
+ regulating the current amplitude of voltage-dependent Ca<sup>2+</sup> channels
+ (<xref ref-type="bibr" rid="ref14">14</xref>), as well as the
+ Ca<sup>2+</sup>-dependent gating of small conductance
+ Ca<sup>2+</sup>-activated K<sup>+</sup> channels
+ (<xref ref-type="bibr" rid="ref4">4</xref>). SK channels are organized
+ in multiprotein complexes together with CK2 and PP2A, located in the
+ postsynaptic pole of cochlear outer hair cells
+ (<xref ref-type="bibr" rid="ref4">4</xref>). Furthermore, CK2 has
+ recently been found to regulate CFTR, the chloride channel that is defective
+ in cystic fibrosis and, as in this study, CK2 becomes membrane-associated with
+ CFTR (<xref ref-type="bibr" rid="ref24">24</xref>). Once again both CK2
+ and PP2A co-localize with different domains of CFTR
+ (<xref ref-type="bibr" rid="ref16">16</xref>,
+ <xref ref-type="bibr" rid="ref24">24</xref>). Importantly, CK2 binding
+ may be disease relevant because phenylalanine 508 (F508), the common missing
+ residue in most patients with CF, is critical in promoting the interaction
+ with CFTR. In both CFTR-expressing <italic>Xenopus</italic> oocytes and cell-attached
+ mammalian cells, inhibition of CK2 induced prompt closure of CFTR in less than
+ 80 s (<xref ref-type="bibr" rid="ref24">24</xref>). However, direct
+ phosphorylation of CFTR by CK2 at Ser-511 close to F508 has not been confirmed
+ by radiolabeling cells and direct phosphopeptide mapping, and the exact
+ mechanism remains unknown. Moreover, CFTR expression determines the cellular
+ localization of CK2, which in turn could affect other membrane conductances
+ such as amiloride-sensitive Na<sup>+</sup> absorption. It is interesting to
+ note that the effect of CK2 is not stimulatory of the function of all proteins
+ studied to date. Indeed, CK2 is inhibitory of another ABC family member,
+ ABCA1; thus, constitutively suppressing the lipid flippase activity of this
+ CFTR-related protein.</p><p><italic>C Terminus of</italic> &#x003b2;<italic>-ENaC, a Target for Kinase Regulation of
+ ENaC</italic>&#x02014;Phosphorylation-dependent regulation of ENaC by CK2 is
+ demonstrated in the present study by several agents, namely, heparin, a
+ nonspecific inhibitor of CK2 directed against acidic motifs; the peptide
+ inhibitor of CK2; poly(E:Y); and the specific CK2 inhibitors TBB and DMAT.
+ Inhibition of protein phosphatases with okadaic acid further increased
+ Na<sup>+</sup> conductance, indicating the importance of basal CK2-dependent
+ phosphorylation for ENaC regulation
+ (<xref ref-type="bibr" rid="ref3">3</xref>). Furthermore, elimination
+ of CK2 phosphorylation sites (Ser-6331) abrogated Na<sup>+</sup> conductance
+ in <italic>Xenopus</italic> oocytes. Thus, together with results obtained in native
+ epithelia and in epithelial cells, these data show that ENaC is compellingly
+ regulated by CK2 (<xref ref-type="fig" rid="fig8">Fig. 8</xref>).
+ Notably, CK1 was shown recently to control intracellular trafficking of ENaC
+ (<xref ref-type="bibr" rid="ref25">25</xref>). Yet, in a previous
+ report such regulation could not be detected in salivary duct cells
+ (<xref ref-type="bibr" rid="ref9">9</xref>). Instead, activation of
+ ENaC by the G protein-coupled receptor kinase 2 Grk2 was found. Because of
+ phosphorylation of Ser-633 by Grk2 in the C terminus of &#x003b2;-ENaC, the
+ affinity of Nedd4-2 binding to ENaC is apparently reduced, thus enhancing ENaC
+ currents. According to the present data
+ (<xref ref-type="fig" rid="fig5">Fig. 5<italic>B</italic></xref>), a similar
+ scenario may hold true for CK2-dependent regulation of ENaC, because both
+ phosphorylation sites for Grk2 and CK2 are located in close proximity to one
+ other. Because CK2 classically engages in hierarchical phosphorylation with
+ other kinases, phosphorylation through either Grk2 or CK2 could control EnaC
+ activity and membrane expression depending on the cell type and expression
+ levels of the kinases involved. Moreover, phosphorylation by CK2 is likely to
+ affect regulation by Grk2 and <italic>vice versa</italic>
+ (<xref ref-type="fig" rid="fig5">Fig. 5<italic>B</italic></xref>). Further
+ experiments will be needed to unravel this complex regulatory network and
+ should focus on the inhibitory phosphorylation by Erk and its counteraction by
+ activation through PKA, Grk2, and CK2, with Nedd4-2 as the central control
+ switch (<xref ref-type="bibr" rid="ref1">1</xref>,
+ <xref ref-type="bibr" rid="ref9">9</xref>,
+ <xref ref-type="bibr" rid="ref20">20</xref>,
+ <xref ref-type="bibr" rid="ref26">26</xref>). As suggested in a
+ previous report and supported by the present data, acute and chronic
+ regulation may be different, inasmuch as acute regulation is changing the open
+ probability of the channel, while chronic regulation by Nedd4-2 controls
+ membrane expression (<xref ref-type="bibr" rid="ref10">10</xref>).</p><p><fig position="float" id="fig8"><label>FIGURE 8.</label><caption><p><bold>Model for CK2 action on ENaC.</bold> Binding of the ubiquitin ligase
+ Nedd4-2 leads to ubiquitination of ENaC and subsequent degradation of the
+ channel and/or channel inactivation. Phosphorylation of ENaC at Ser-631
+ reduces affinity of ENaC for Nedd4-2, thereby maintaining membrane
+ localization and ENaC activity.</p></caption><graphic xlink:href="zbc0200835040008"/></fig></p></sec>
+      <sec sec-type="supplementary-material">
+         <title>Supplementary Material</title>
+         <supplementary-material id="PMC_1" content-type="local-data">
+            <caption>
+               <title>[Supplemental Data]</title>
+            </caption>
+            <media mimetype="text" mime-subtype="html" xlink:href="M704532200_index.html"/>
+            <media xlink:role="associated-file" mimetype="application" mime-subtype="pdf"
+                   xlink:href="M704532200_1.pdf"/>
+         </supplementary-material>
+      </sec>
+   </body><back><ack><p>We thank E. Tartler and A. Paech for expert technical assistance. TBB and
+ DMAT were generous gifts from Prof. Dr. L. Pinna (Dept. of Biological
+ Chemistry, University of Padova, Italy).</p></ack><ref-list><ref id="ref1"><label>1</label><mixed-citation publication-type="journal">Awayda, M. S., Ismailov, I. I., Berdiev, B. K., Fuller, C. M., and
+ Benos, D. J. (<year>1996</year>) <source>J. Gen. Physiol.</source>
+ <volume>108</volume> <fpage>49</fpage>-65<pub-id pub-id-type="pmid">8817384</pub-id></mixed-citation></ref><ref id="ref2"><label>2</label><mixed-citation publication-type="journal">Bachhuber, T., K&#x000f6;nig, J., Voelcker, T., M&#x000fc;rle, B.,
+ Schreiber, R., and Kunzelmann, K. (<year>2005</year>) <source>J. Biol.
+ Chem.</source> <volume>280</volume>
+ <fpage>31587</fpage>-31594<pub-id pub-id-type="pmid">16027156</pub-id></mixed-citation></ref><ref id="ref3"><label>3</label><mixed-citation publication-type="journal">Becchetti, A., Malik, B., Yue, G., Duchatelle, P., Al Khalili, O.,
+ Kleyman, T. R., and Eaton, D. C. (<year>2002</year>) <source>Am. J.
+ Physiol. Renal Physiol.</source> <volume>283</volume>
+ <fpage>F1030</fpage>-F1045<pub-id pub-id-type="pmid">12372779</pub-id></mixed-citation></ref><ref id="ref4"><label>4</label><mixed-citation publication-type="journal">Bildl, W., Strassmaier, T., Thurm, H., Andersen, J., Eble, S.,
+ Oliver, D., Knipper, M., Mann, M., Schulte, U., Adelman, J. P., and Fakler, B.
+ (<year>2004</year>) <source>Neuron</source>
+ <volume>43</volume> <fpage>847</fpage>-858<pub-id pub-id-type="pmid">15363395</pub-id></mixed-citation></ref><ref id="ref5"><label>5</label><mixed-citation publication-type="journal">Cai, Y., Anyatonwu, G., Okuhara, D., Lee, K. B., Yu, Z., Onoe, T.,
+ Mei, C. L., Qian, Q., Geng, L., Wiztgall, R., Ehrlich, B. E., and Somlo, S.
+ (<year>2004</year>) <source>J. Biol. Chem.</source>
+ <volume>279</volume>
+ <fpage>19987</fpage>-19995<pub-id pub-id-type="pmid">14742446</pub-id></mixed-citation></ref><ref id="ref6"><label>6</label><mixed-citation publication-type="journal">Canessa, C. M., Schild, L., Buell, G., Thorens, B., Gautschl, I.,
+ Horisberger, J. D., and Rossier, B. C. (<year>1994</year>)
+ <source>Nature</source> <volume>367</volume>
+ <fpage>463</fpage>-467<pub-id pub-id-type="pmid">8107805</pub-id></mixed-citation></ref><ref id="ref7"><label>7</label><mixed-citation publication-type="journal">Debonneville, C., Flores, S. Y., Kamynina, E., Plant, P. J., Tauxe,
+ C., Thomas, M. A., Munster, C., Chraibi, A., Pratt, J. H., Horisberger, J. D.,
+ Pearce, D., Loffing, J., and Staub, O. (<year>2001</year>) <source>EMBO
+ J.</source> <volume>20</volume>
+ <fpage>7052</fpage>-7059<pub-id pub-id-type="pmid">11742982</pub-id></mixed-citation></ref><ref id="ref8"><label>8</label><mixed-citation publication-type="journal">Diakov, A., and Korbmacher, C. (<year>2004</year>). <source>J.
+ Biol. Chem.</source> <volume>279</volume>
+ <fpage>38134</fpage>-38142<pub-id pub-id-type="pmid">15234985</pub-id></mixed-citation></ref><ref id="ref9"><label>9</label><mixed-citation publication-type="journal">Dinudom, A., Fotia, A. B., Lefkowitz, R. J., Young, J. A., Kumar,
+ S., and Cook, D. I. (<year>2004</year>) <source>Proc. Natl. Acad. Sci. U.
+ S. A.</source> <volume>101</volume>
+ <fpage>11886</fpage>-11890<pub-id pub-id-type="pmid">15284439</pub-id></mixed-citation></ref><ref id="ref10"><label>10</label><mixed-citation publication-type="journal">Falin, R. A., and Cotton, C. U. (<year>2007</year>) <source>J.
+ Gen. Physiol.</source> <volume>130</volume>
+ <fpage>313</fpage>-328<pub-id pub-id-type="pmid">17724164</pub-id></mixed-citation></ref><ref id="ref11"><label>11</label><mixed-citation publication-type="journal">Feldman, R. D. (<year>2002</year>) <source>Mol.
+ Pharmacol.</source> <volume>61</volume>
+ <fpage>707</fpage>-709<pub-id pub-id-type="pmid">11901207</pub-id></mixed-citation></ref><ref id="ref12"><label>12</label><mixed-citation publication-type="journal">Firsov, D., Schild, L., Gautschi, I., Merillat, A. M.,
+ Schneeberger, E., and Rossier, B. C. (<year>1996</year>) <source>Proc.
+ Natl. Acad. Sci. U. S. A.</source> <volume>93</volume>
+ <fpage>15370</fpage>-15375<pub-id pub-id-type="pmid">8986818</pub-id></mixed-citation></ref><ref id="ref13"><label>13</label><mixed-citation publication-type="journal">Hu, J., Bae, Y. K., Knobel, K. M., and Barr, M. M.
+ (<year>2006</year>) <source>Mol. Biol. Cell</source>
+ <volume>17</volume>
+ <fpage>2200</fpage>-2211<pub-id pub-id-type="pmid">16481400</pub-id></mixed-citation></ref><ref id="ref14"><label>14</label><mixed-citation publication-type="journal">Kimura, T., and Kubo, T. (<year>2003</year>) <source>Neurosci.
+ Res.</source> <volume>46</volume>
+ <fpage>105</fpage>-117<pub-id pub-id-type="pmid">12725917</pub-id></mixed-citation></ref><ref id="ref15"><label>15</label><mixed-citation publication-type="journal">Kunzelmann, K., Schreiber, R., Nitschke, R., and Mall, M.
+ (<year>2000</year>) <source>Pfl&#x000fc;gers Arch.</source>
+ <volume>440</volume>
+ <fpage>193</fpage>-201</mixed-citation></ref><ref id="ref16"><label>16</label><mixed-citation publication-type="journal">Meggio, F., Boldyreff, B., Issinger, O. G., and Pinna, L. A.
+ (<year>1994</year>) <source>Biochemistry</source>
+ <volume>33</volume>
+ <fpage>4336</fpage>-4342<pub-id pub-id-type="pmid">8155651</pub-id></mixed-citation></ref><ref id="ref17"><label>17</label><mixed-citation publication-type="journal">Michlig, S., Harris, M., Loffing, J., Rossier, B. C., and Firsov,
+ D. (<year>2005</year>) <source>J. Biol. Chem.</source>
+ <volume>280</volume>
+ <fpage>38264</fpage>-38270<pub-id pub-id-type="pmid">16172119</pub-id></mixed-citation></ref><ref id="ref18"><label>18</label><mixed-citation publication-type="journal">Rajamanickam, J., Palmada, M., Lang, F., and Boehmer, C.
+ (<year>2007</year>) <source>J. Neurochem.</source>
+ <volume>102</volume>
+ <fpage>858</fpage>-866<pub-id pub-id-type="pmid">17442044</pub-id></mixed-citation></ref><ref id="ref19"><label>19</label><mixed-citation publication-type="journal">Schermer, B., Hopker, K., Omran, H., Ghenoiu, C., Fliegauf, M.,
+ Fekete, A., Horvath, J., Kottgen, M., Hackl, M., Zschiedrich, S., Huber, T.
+ B., Kramer-Zucker, A., Zentgraf, H., Blaukat, A., Walz, G., and Benzing, T.
+ (<year>2005</year>) <source>EMBO J.</source>
+ <volume>24</volume>
+ <fpage>4415</fpage>-4424<pub-id pub-id-type="pmid">16308564</pub-id></mixed-citation></ref><ref id="ref20"><label>20</label><mixed-citation publication-type="journal">Shi, H., Asher, C., Chigaev, A., Yung, Y., Reuveny, E., Seger, R.,
+ and Garty, H. (<year>2002</year>) <source>J. Biol. Chem.</source>
+ <volume>277</volume>
+ <fpage>13539</fpage>-13547<pub-id pub-id-type="pmid">11805112</pub-id></mixed-citation></ref><ref id="ref21"><label>21</label><mixed-citation publication-type="journal">Shi, H., Asher, C., Yung, Y., Kligman, L., Reuveny, E., Seger, R.,
+ and Garty, H. (<year>2002</year>) <source>Eur. J. Biochem.</source>
+ <volume>269</volume>
+ <fpage>4551</fpage>-4558<pub-id pub-id-type="pmid">12230567</pub-id></mixed-citation></ref><ref id="ref22"><label>22</label><mixed-citation publication-type="journal">Snyder, P. M., Olson, D. R., Kabra, R., Zhou, R., and Steines, J.
+ C. (<year>2004</year>) <source>J. Biol. Chem.</source>
+ <volume>279</volume>
+ <fpage>45753</fpage>-45758<pub-id pub-id-type="pmid">15328345</pub-id></mixed-citation></ref><ref id="ref23"><label>23</label><mixed-citation publication-type="journal">Snyder, P. M., Olson, D. R., and Thomas, B. C. (<year>2002</year>)
+ <source>J. Biol. Chem.</source> <volume>277</volume>
+ <fpage>5</fpage>-8<pub-id pub-id-type="pmid">11696533</pub-id></mixed-citation></ref><ref id="ref24"><label>24</label><mixed-citation publication-type="journal">Treharne, K. J., Crawford, R. M., Best, O. G., Schulte, E. A.,
+ Chen, J.-H., Gruenert, D. C., Wilson, S. M., Kunzelmann, K., Sheppard, D. N.,
+ and Mehta, A. (<year>2007</year>) <source>J. Biol. Chem.</source>
+ <volume>282</volume>
+ <fpage>10804</fpage>-10813<pub-id pub-id-type="pmid">17289674</pub-id></mixed-citation></ref><ref id="ref25"><label>25</label><mixed-citation publication-type="journal">Yan, W., Spruce, L., Rosenblatt, M. M., Kleyman, T. R., and
+ Rubenstein, R. C. (<year>2007</year>) <source>Am. J. Physiol. Renal
+ Physiol.</source> <volume>293</volume>
+ <fpage>F868</fpage>-F876<pub-id pub-id-type="pmid">17596527</pub-id></mixed-citation></ref><ref id="ref26"><label>26</label><mixed-citation publication-type="journal">Yang, L. M., Rinke, R., and Korbmacher, C. (<year>2006</year>)
+ <source>J. Biol. Chem.</source> <volume>281</volume>
+ <fpage>9859</fpage>-9868<pub-id pub-id-type="pmid">16476738</pub-id></mixed-citation></ref></ref-list><fn-group><fn id="fn5"><label>4</label><p>The abbreviations used are: ENaC, epithelial Na<sup>+</sup> channel; ERK,
+ extracellular signal-regulated kinase; CK, casein kinase; BSA, bovine serum
+ albumin; PBS, phosphate-buffered saline; wt, wild type; TBB,
+ 4,5,6,7-tetrabromobenzotriazole; DMAT,
+ 2-dimethylamino-4,5,6,7-tetrabromo-1<italic>H</italic>-benzimidazole; Grk2, G
+ protein-coupled receptor kinase 2; siRNA, small interfering RNA.</p></fn><fn id="fn6"><label>5</label><p>L. A. Pinna, personal communication.</p></fn></fn-group></back></article>

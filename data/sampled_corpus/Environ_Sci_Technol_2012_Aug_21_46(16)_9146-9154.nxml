@@ -1,0 +1,720 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Environ Sci Technol</journal-id><journal-id journal-id-type="iso-abbrev">Environ. Sci. Technol</journal-id><journal-id journal-id-type="publisher-id">es</journal-id><journal-id journal-id-type="coden">esthag</journal-id><journal-title-group><journal-title>Environmental Science &#x00026; Technology</journal-title></journal-title-group><issn pub-type="ppub">0013-936X</issn><issn pub-type="epub">1520-5851</issn><publisher><publisher-name>American
+Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22881452</article-id><article-id pub-id-type="pmc">3424834</article-id><article-id pub-id-type="doi">10.1021/es2043257</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Estimates of Embodied
+Global Energy and Air-Emission
+Intensities of Japanese Products for Building a Japanese Input&#x02013;Output
+Life Cycle Assessment Database with a Global System Boundary</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><name><surname>Nansai</surname><given-names>Keisuke</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Kondo</surname><given-names>Yasushi</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Kagawa</surname><given-names>Shigemi</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Suh</surname><given-names>Sangwon</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Nakajima</surname><given-names>Kenichi</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Inaba</surname><given-names>Rokuta</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Tohno</surname><given-names>Susumu</given-names></name><xref rid="aff6" ref-type="aff">#</xref></contrib><aff id="aff1"><label>&#x02020;</label>Center for
+Material Cycles and
+Waste Management Research, <institution>National Institute for Environmental
+Studies</institution>, 16-2 Onogawa, Tsukuba, 305-8506, Japan</aff><aff id="aff2"><label>&#x02021;</label>Integrated Sustainability Analysis,
+School of Physics, <institution>The University of Sydney</institution>, NSW, 2006, Australia</aff><aff id="aff3"><label>&#x000a7;</label>Faculty
+of Political Science and
+Economics, <institution>Waseda University</institution>, 1-6-1 Nishi-waseda,
+Shinjuku-ku, Tokyo, 169-8050, Japan</aff><aff id="aff4"><label>&#x02225;</label>Faculty of Economics, <institution>Kyushu University</institution>, 6-19-1 Hakozaki, Higashi-ku, Fukuoka,
+812-8581, Japan</aff><aff id="aff5"><label>&#x022a5;</label>Bren School
+of Environmental
+Science and Management, <institution>University of California Santa
+Barbara</institution>, 3422 Bren Hall, CA, USA</aff><aff id="aff6"><label>#</label>Graduate School of Energy Science, <institution>Kyoto
+University</institution>, Yoshida Honmachi, Sakyo-ku, Kyoto
+606-8501, Japan</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Tel.: <phone>+81 29-850-2889</phone>, fax: <fax>+81 29-850-2917</fax>, e-mail: <email>nansai.keisuke@nies.go.jp</email>.</corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>08</month><year>2012</year></pub-date><pub-date pub-type="ppub"><day>21</day><month>08</month><year>2012</year></pub-date><volume>46</volume><issue>16</issue><fpage>9146</fpage><lpage>9154</lpage><history><date date-type="received"><day>09</day><month>12</month><year>2011</year></date><date date-type="accepted"><day>23</day><month>07</month><year>2012</year></date><date date-type="rev-recd"><day>04</day><month>07</month><year>2012</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2012 American Chemical Society</copyright-statement><copyright-year>2012</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org" license-type="open-access"><license-p>This is an open-access article distributed under the ACS AuthorChoice Terms &#x00026; Conditions. Any use of this article, must conform to the terms of that license which are available at <uri xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es-2011-043257_0005" id="ab-tgr1"/></p><p>To build a life cycle assessment (LCA) database of Japanese
+products
+embracing their global supply chains in a manner requiring lower time
+and labor burdens, this study estimates the intensity of embodied
+global environmental burden for commodities produced in Japan. The
+intensity of embodied global environmental burden is a measure of
+the environmental burden generated globally by unit production of
+the commodity and can be used as life cycle inventory data in LCA.
+The calculation employs an input&#x02013;output LCA method with a global
+link input&#x02013;output model that defines a global system boundary
+grounded in a simplified multiregional input&#x02013;output framework.
+As results, the intensities of embodied global environmental burden
+for 406 Japanese commodities are determined in terms of energy consumption,
+greenhouse-gas emissions (carbon dioxide, methane, nitrous oxide,
+perfluorocarbons, hydrofluorocarbons, sulfur hexafluoride, and their
+summation), and air-pollutant emissions (nitrogen oxide and sulfur
+oxide). The uncertainties in the intensities of embodied global environmental
+burden attributable to the simplified structure of the global link
+input&#x02013;output model are quantified using Monte Carlo simulation.
+In addition, by analyzing the structure of the embodied global greenhouse-gas
+intensities we characterize Japanese commodities in the context of
+LCA embracing global supply chains.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>es2043257</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>es-2011-043257</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><!--with a head--><sec id="sec1"><label>1</label><title>Introduction</title><p>Life cycle assessment
+(LCA) practitioners can adopt three types
+of approach to compile a Life Cycle Inventory (LCI): a process approach,
+an input&#x02013;output approach, or a combination of the two: a hybrid
+approach.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> Each has its strengths and weaknesses in
+terms of data resolution and the completeness and clarity of the system
+boundaries. In practice, and to a varying extent, all three approaches
+make use of existing LCA databases to reduce the time and resources
+required to collect raw data from the field. Today, there are a wide
+range of extensive LCA databases available suitable for use either
+in process-based LCA<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> or input&#x02013;output
+LCA<sup><xref ref-type="bibr" rid="ref4">4</xref>&#x02212;<xref ref-type="bibr" rid="ref11">11</xref></sup> (also a recent discussion on international guidance on LCA data<sup><xref ref-type="bibr" rid="ref12">12</xref></sup>).</p><p>Process-based LCA allows sequential
+inclusion of data on the greenhouse
+gas (GHG) emissions associated with the imports used in a supply chain
+in order of data availability. Some of the existing process-based
+LCA databases<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> can therefore be used to estimate
+the emissions due to global supply chains. However, process-based
+LCA has difficulty guaranteeing the completeness of global supply
+chain descriptions and may sometimes even fail to detect key emission
+sources meriting preferential control in the supply chain</p><p>Input&#x02013;output
+LCA, on the other hand, theoretically guarantees
+the completeness of global supply chain descriptions by adopting the
+framework of a multiregional input&#x02013;output (MRIO) model.<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref17">17</xref></sup> Input&#x02013;output
+LCA with MRIO is therefore more suitable for identifying global supply
+chains with high GHG emissions and for prioritizing processes for
+which inventory data should be elaborated. Several case studies employing
+such a hybrid methodology have recently been published.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup></p><p>In reality, however, as can be surmised from recent empirical
+analyses
+using MRIO,<sup><xref ref-type="bibr" rid="ref20">20</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup> it is no simple matter to build an input&#x02013;output LCA database
+with MRIO in which the system boundary is globally extended to encompass
+the detailed sectoral classifications readily available for LCA. As
+explained in our previous article,<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> two
+approaches are available for overcoming the dilemma of high sectoral
+resolution and the attendant large labor burden. One is to develop
+a methodology and software that automates as far as possible the process
+of preparing the economic and environmental data;<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> the other is to employ a simplified MRIO modeling framework tailored
+to the specific purpose of the analysis. Adopting the latter approach,
+a global link input&#x02013;output (GLIO) model was developed.<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup></p><p>In this article, the aim of which is to build an input&#x02013;output
+LCA database of Japanese products based on a global system boundary
+in a manner involving lower time and labor burdens, we calculate the
+intensities of embodied global environmental burden (hereafter, global
+intensities) of commodities produced in Japan using the GLIO model.
+The environmental burdens considered here newly include energy consumption
+and air-pollutant emissions in addition to GHG emissions complied
+in the previous article.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> Furthermore,
+given that the GLIO model is built around a simplified MRIO structure,
+uncertainties in the global intensities deriving from this simplification
+are quantified using Monte Carlo simulation. Finally, we analyze the
+characteristics of the derived global intensities focusing particularly
+on GHG emissions from the perspective of use in LCA embracing global
+supply chains.</p></sec><!--with a head--><sec id="sec2"><label>2</label><title>Methods and Data</title><!--with a head--><sec id="sec2.1"><label>2.1</label><title>Derivation of an Intensity of Embodied Global
+Environmental Burden</title><p>This study applied the GLIO model specifying
+the global supply chains of Japanese commodities (goods and services)
+to calculate the intensity of embodied global environmental burden
+(energy consumption, GHG, and air-pollutant emissions) of these commodities.
+For instance, the embodied global GHG emission intensity (tCO<sub>2</sub>eq/one million Yen: M-JPY) is a measure of the global GHG
+emissions (in Japan and abroad) induced by unit production activity
+in Japan equivalent to one million yen of the commodity in question.
+Because the global intensity of each commodity is derived using input&#x02013;output
+analysis based on the same system boundary, this approach permits
+intercommodity comparison of these global intensities. Calculating
+these global intensities is conceptually identical to conducting an
+LCI of the commodity. Here, the life cycle stages considered are from
+cradle to gate, that is from resource mining through to manufacturing,
+and the functional unit of LCI is defined as unit production activity
+of the commodity in question.</p><p>As the structure of the GLIO model
+has already been described in a previous article,<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> and given space constraints here, the accounting framework and model
+formulation are set out in detail in the <xref rid="notes-1" ref-type="notes">Supporting
+Information</xref>. Here, suffice it to say that from eq <xref rid="eq1" ref-type="disp-formula">1</xref> below we can ultimately obtain the vectors <bold>e</bold><sup><italic>JD</italic>(<italic>i</italic><sub>1</sub>=&#x003b1;)</sup> = <italic>(e</italic><sub><italic>j</italic><sub>1</sub></sub><sup arrange="stack"><italic>JD</italic>(<italic>i</italic><sub>1</sub>=&#x003b1;)</sup>) and <bold>e</bold><sup><italic>G</italic>(<italic>i</italic><sub>1</sub>=&#x003b1;)</sup> = (<italic>e</italic><sub><italic>p</italic></sub><sup arrange="stack"><italic>G</italic>(<italic>i</italic><sub>1</sub>=&#x003b1;)</sup>),
+in which elements <italic>e</italic><sub><italic>j</italic><sub>1</sub></sub><sup arrange="stack"><italic>JD</italic>(<italic>i</italic><sub>1</sub>=&#x003b1;)</sup> and <italic>e</italic><sub><italic>p</italic></sub><sup arrange="stack"><italic>G</italic>(<italic>i</italic><sub>1</sub>=&#x003b1;)</sup>
+represent the environmental burden of sector <italic>j</italic><sub>1</sub> = 1...<italic>n</italic><sup><italic>JD</italic></sup> in
+Japan and in foreign country <italic>p</italic> = 1...<italic>n</italic><sup>G</sup> induced by Japanese commodity <italic>i</italic><sub>1</sub> = &#x003b1;. Eq <xref rid="eq2" ref-type="disp-formula">2</xref>, summing these elements,
+then yields the intensity of embodied global environmental burden
+of the commodity <italic>e</italic><sup>(<italic>i</italic><sub>1</sub>&#x000a0;=&#x000a0;&#x003b1;)</sup> indicating the global environmental burden induced
+by unit production (M-JPY) of commodity &#x003b1; in Japan.<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es-2011-043257_m001" position="anchor"/><label>1</label></disp-formula><disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es-2011-043257_m002" position="anchor"/><label>2</label></disp-formula>where <bold>A</bold><sub>11</sub>[ <italic>n</italic><sup><italic>JD</italic></sup> &#x000d7; <italic>n</italic><sup><italic>JD</italic></sup>] is an input coefficient matrix defining
+the supply chains pertaining to Japanese domestic commodities <italic>i</italic><sub>1</sub> and <italic>j</italic><sub>1</sub> and <bold>&#x000c3;</bold><sub>13</sub>[<italic>n</italic><sup><italic>JD</italic></sup> &#x000d7; <italic>n</italic><sup><italic>G</italic></sup>] is
+an input coefficient matrix defining the export structure of Japanese
+domestic commodity <italic>i</italic><sub>1</sub> to overseas country <italic>q</italic>. Matrix <bold>&#x000c3;</bold><sub>31</sub><sup arrange="stack">(<italic>k</italic>)</sup>[ <italic>n</italic><sup><italic>G</italic></sup> &#x000d7; <italic>n</italic><sup><italic>JD</italic></sup>] is an input coefficient matrix describing the
+export structure of commodity <italic>k</italic> from overseas country <italic>p</italic> used in production of Japanese domestic commodity <italic>j</italic><sub>1</sub>, <bold>&#x000c3;</bold><sub>32</sub><sup arrange="stack">(<italic>k</italic>)</sup> [ <italic>n</italic><sup><italic>G</italic></sup> &#x000d7; <italic>n</italic><sup><italic>JD</italic></sup>] represents the export structure of
+commodity <italic>k</italic> from overseas country <italic>p</italic> supplied directly to Japanese final demand as import commodity <italic>j</italic><sub>2</sub>, and <bold>&#x000c3;</bold><sub>33</sub><sup arrange="stack">(<italic>k</italic>)</sup> [<italic>n</italic><sup><italic>G</italic></sup> &#x000d7; <italic>n</italic><sup><italic>G</italic></sup>] represents international trade of
+overseas commodity <italic>k</italic> between overseas countries <italic>p</italic> and <italic>q</italic>. Vector <bold>d</bold><sup><italic>JD</italic></sup>[<italic>n</italic><sup><italic>JD</italic></sup> &#x000d7; 1] consists of elements indicating the direct environmental
+burden per unit production of the Japanese commodities, and <bold>i</bold><sup><italic>JD</italic>(<italic>i</italic><sub>1</sub>&#x000a0;<italic>=&#x000a0;&#x003b1;</italic>)</sup>[<italic>n</italic><sup><italic>JD</italic></sup> &#x000d7; 1] is a vector with an element of unity solely for
+Japanese commodity <italic>i</italic><sub>1</sub> = &#x003b1; and an
+element of zero for other commodities. <bold>i</bold><sup><italic>G</italic></sup>[<italic>n</italic><sup><italic>G</italic></sup> &#x000d7;
+1] is vector of which all of the elements are unity. <bold>I</bold> [(2<italic>n</italic><sup><italic>JD</italic></sup> + <italic>n</italic><sup><italic>G</italic></sup>) &#x000d7; (2<italic>n</italic><sup><italic>JD</italic></sup> + <italic>n</italic><sup><italic>G</italic></sup>)] is the identity matrix. The symbol diag in eq <xref rid="eq1" ref-type="disp-formula">1</xref> means diagonalization of the vector.</p></sec><!--with a head--><sec id="sec2.2"><label>2.2</label><title>Economic, Energy, and Environmental Data Compilation</title><p>To set the matrices <bold>A</bold><sub>11</sub> and <bold>&#x000c3;</bold><sub>13</sub> in eq <xref rid="eq1" ref-type="disp-formula">1</xref>, we used the same economic
+data as in our previous article.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> The
+numbers of sectors <italic>n</italic><sup><italic>JD</italic></sup> and <italic>n</italic><sup><italic>G</italic></sup> in eq <xref rid="eq2" ref-type="disp-formula">2</xref> are thus 406 and 230. One hundred and eleven foreign
+commodities (<italic>k</italic> = 1...111) were considered. With respect
+to the total domestic GHG emissions per unit production captured in
+vector <bold>d</bold><sup><italic>JD</italic></sup> and the total
+overseas GHG emissions embedded in international trade given by <bold>&#x000c3;</bold><sub>31</sub><sup arrange="stack">(<italic>k</italic>)</sup>, <bold>&#x000c3;</bold><sub>32</sub><sup arrange="stack">(<italic>k</italic>)</sup>, and <bold>&#x000c3;</bold><sub>33</sub><sup arrange="stack">(<italic>k</italic>)</sup>, we also used the GHG emission data compiled
+in the same previous article.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> With respect
+to individual GHGs, that is carbon dioxide (CO<sub>2</sub>, both fuel-derived
+and nonfuel-derived), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), perfluorocarbons (PFCs), hydrofluorocarbons (HFCs), and
+sulfur hexafluoride (SF<sub>6</sub>), this study referred to the Embodied
+Energy and Emission Intensity Data for Japan Using Input-Output Tables
+(3EID)<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> for vector <bold>d</bold><sup><italic>JD</italic></sup> and the United Nation Framework Convention on Climate Change
+(UNFCCC) inventory,<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> International Energy
+Agency (IEA) data,<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> Enerdata,<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> the Emissions Database for Global Atmospheric
+Research (EDGAR) ver. 4.1,<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> and the Carbon
+Dioxide Information Analysis Center (CDIAC)<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> for matrices <bold>&#x000c3;</bold><sub>31</sub><sup arrange="stack">(<italic>k</italic>)</sup>, <bold>&#x000c3;</bold><sub>32</sub><sup arrange="stack">(<italic>k</italic>)</sup>, and <bold>&#x000c3;</bold><sub>33</sub><sup arrange="stack">(<italic>k</italic>)</sup>. The global warming potentials
+for a 100-year time horizon defined in the Intergovernmental Panel
+on Climate Change (IPCC) Fourth Assessment Report<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> were applied to convert emissions of GHGs other than CO<sub>2</sub> into CO<sub>2</sub> equivalents.</p><p>As to energy consumption,
+vector <bold>d</bold><sup><italic>JD</italic></sup> was estimated
+by converting the energy consumption on a gross calorific value (GCV)
+basis provided in 3EID to consumption on a net calorific value (NCV)
+basis. Values for matrices <bold>&#x000c3;</bold><sub>31</sub><sup arrange="stack">(<italic>k</italic>)</sup>, <bold>&#x000c3;</bold><sub>32</sub><sup arrange="stack">(<italic>k</italic>)</sup>, and <bold>&#x000c3;</bold><sub>33</sub><sup arrange="stack">(<italic>k</italic>)</sup> were estimated using IEA
+data<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> and Enerdata.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup></p><p>In the case of air pollutants (nitrogen oxide, NO<sub><italic>x</italic></sub>, and sulfur oxide, SO<sub><italic>x</italic></sub>), vector <bold>d</bold><sup><italic>JD</italic></sup> was
+calculated by multiplying
+the sectoral energy consumption data by fuel type reported in 3EID
+by the respective emission factors for each sector and fuel type.
+EDGAR was used to estimate matrices <bold>&#x000c3;</bold><sub>31</sub><sup arrange="stack">(<italic>k</italic>)</sup>, <bold>&#x000c3;</bold><sub>32</sub><sup arrange="stack">(<italic>k</italic>)</sup>, and <bold>&#x000c3;</bold><sub>33</sub><sup arrange="stack">(<italic>k</italic>)</sup>. Whereas the energy consumption and emissions associated with international
+transportation can also be embedded in matrices <bold>&#x000c3;</bold><sub>31</sub><sup arrange="stack">(<italic>k</italic>)</sup>, <bold>&#x000c3;</bold><sub>32</sub><sup arrange="stack">(<italic>k</italic>)</sup>, and <bold>&#x000c3;</bold><sub>33</sub><sup arrange="stack">(<italic>k</italic>)</sup>, these have not been included in the present study. Although
+the method to be used for national allocation of GHG emissions from
+bunker fuels for international transportation is not specified in
+the UNFCCC inventory reporting guidelines,<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> if such emissions were factored in, the values of embodied global
+GHG intensities (hereafter, global GHG intensities) would naturally
+increase, but the additional contribution to each commodity&#x02019;s
+global GHG intensity would be relatively insignificant.<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> The same would hold for embodied global energy intensity, too, because
+fuel consumption stands in direct proportion to CO<sub>2</sub> emissions.
+When it comes to NO<sub><italic>x</italic></sub> and SO<sub><italic>x</italic></sub> emissions, however, including those associated with
+international transportation would have a significant knock-on effect
+because the share of shipping air-pollutant emissions in the total
+is far greater.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup></p></sec><!--with a head--><sec id="sec2.3"><label>2.3</label><title>Uncertainties in Intensities of Embodied Global
+Environmental Burden Attributable to the Model Structure</title><p>The GLIO is designed to reduce the time and labor burdens of LCI
+data compilation with a global system boundary by using aggregated
+multiregional input&#x02013;output structures for countries other than
+Japan, the economy of which is the specific focus here. However, this
+aggregated description affects the robustness of the global intensities
+derived in this way.<sup><xref ref-type="bibr" rid="ref40">40</xref>&#x02212;<xref ref-type="bibr" rid="ref42">42</xref></sup> By means of Monte Carlo simulation,<sup><xref ref-type="bibr" rid="ref41">41</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup> we therefore estimated the coefficients of variation (%) <italic>vc</italic><sup>(<italic>i</italic><sub>1</sub>&#x000a0;=&#x000a0;&#x003b1;)</sup> of
+the global intensities <italic>e</italic><sup>(<italic>i</italic><sub>1</sub>&#x000a0;=&#x000a0;&#x003b1;)</sup> to quantify the uncertainties in the global
+intensities resulting from that description. Given space constraints,
+here too the procedures to determine <italic>vc</italic><sup>(<italic>i</italic><sub>1</sub>&#x000a0;=&#x000a0;&#x003b1;)</sup> are set out in detail in
+the <xref rid="notes-1" ref-type="notes">Supporting Information</xref> taking the case
+of total GHG emissions as an example.</p></sec></sec><!--with a head--><sec sec-type="results" id="sec3"><label>3</label><title>Results</title><!--with a head--><sec id="sec3.1"><label>3.1</label><title>Embodied Global GHG Intensities of Japanese
+Products</title><p>Figure <xref rid="fig1" ref-type="fig">1</xref> depicts the embodied
+global GHG intensities (global GHG intensity) [tCO<sub>2</sub>eq/M-JPY]
+of commodities produced domestically in Japan in 2005, with the sector
+numbers (JD1&#x02013;JD406) representing the commodities set out on
+the horizontal axis. The color composition of each emission indicates
+the phases in the commodity&#x02019;s supply chain during which GHG
+emissions occur: (D) Direct emissions in Japan during production,
+(S) induced emissions in Japan through the supply chain, and (F) induced
+emissions in foreign countries&#x02019; supply chains. Here, the induced
+emissions mean emissions generated indirectly in the upstream supply
+chain behind the commodity&#x02019;s production. As Figure <xref rid="fig1" ref-type="fig">1</xref> shows, the global GHG intensities of the vast majority
+of sectors are below about 30 tCO<sub>2</sub>eq/M-JPY. For most sectors,
+it is clearly the contributions of emission categories (S) and (F)
+that push global GHG intensity values upward, but the magnitude of
+these contributions varies among sectors.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Embodied global GHG intensity
+of goods and services produced in
+Japan in 2005 and breakdown by emission category (direct emissions
+(D), induced emissions in Japan (S), induced emissions abroad (F)).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es-2011-043257_0001" id="gr1" position="float"/></fig><p>The sector numbers and corresponding sector names
+and global GHG
+intensities as well as figures for the emission categories (D), (S),
+and (F) are listed in Table A2 of the <xref rid="notes-1" ref-type="notes">Supporting
+Information</xref>. Given space constraints, here we restrict ourselves
+to describing the characteristics of the global GHG intensities; the
+sectoral intensities for the other environmental pressures considered
+are listed in Tables A1 and A3&#x02013;A10 of the <xref rid="notes-1" ref-type="notes">Supporting Information</xref>.</p></sec><!--with a head--><sec id="sec3.2"><label>3.2</label><title>Sectors with the Most Characteristic Embodied
+Global GHG Intensity</title><!--with a head--><sec id="sec3.2.1"><label>3.2.1</label><title>Sectors with the Highest Embodied Global
+GHG Intensity</title><p>Table <xref rid="tbl1" ref-type="other">1</xref> presents the
+10 sectors with the highest embodied global GHG intensity showing
+the respective contributions of (D), (S), and (F). The sector with
+by far the highest global GHG intensity is cement (JD152), followed
+by pig iron (JD161), on-site power generation (JD294), and crude steel
+(converters) (JD163). These are the only sectors with a global GHG
+intensity exceeding 30 tCO<sub>2</sub>eq/M-JPY. With the exception
+of JD163, it is the high value of category (D) emissions, direct emissions
+in Japan, which engenders the high overall global GHG intensity. In
+the case of JD163, the production of JD161 induced in the supply chain
+is a key emission source, that is the global GHG intensity value is
+large because of the contribution of category (S) emissions, induced
+emissions in Japan. The global GHG intensities of ready-mixed concrete
+(JD153) and hot rolled steel (JD166) are also due largely to the share
+of category (S) emissions, contributing 95% and 80%, respectively.
+Whereas ocean transport (JD318) and coal products (JD139) have similar
+global GHG intensities to JD153 and JD166, these derive mainly from
+emission categories (D) and (F).</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Ten Japanese Domestic Products with
+the Greatest Embodied Global GHG Emission Intensity and the Shares
+of Direct Emissions, Induced Emissions in Japan, and Induced Emissions
+in Foreign Countries</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="center"/><col align="left"/><col align="right"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">rank</th><th style="border:none;" align="center">sector number
+and name</th><th style="border:none;" align="center">embodied
+global GHG intensity</th><th style="border:none;" align="center" char=".">(D) share
+of direct emissions in Japan</th><th style="border:none;" align="center" char=".">(S) share
+of induced emissions in Japan</th><th style="border:none;" align="center" char=".">(F) share
+of induced emissions in foreign country</th></tr></thead><tbody><tr><td style="border:none;" align="center">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="center">[t-CO<sub>2</sub>eq/M-JPY]</td><td style="border:none;" align="center" char=".">[%]</td><td style="border:none;" align="center" char=".">[%]</td><td style="border:none;" align="center" char=".">[%]</td></tr><tr><td style="border:none;" align="center">1</td><td style="border:none;" align="left">JD152: cement</td><td style="border:none;" align="char" char=".">138</td><td style="border:none;" align="char" char=".">92</td><td style="border:none;" align="char" char=".">6</td><td style="border:none;" align="char" char=".">2</td></tr><tr><td style="border:none;" align="center">2</td><td style="border:none;" align="left">JD161: pig iron</td><td style="border:none;" align="char" char=".">72.6</td><td style="border:none;" align="char" char=".">84</td><td style="border:none;" align="char" char=".">6</td><td style="border:none;" align="char" char=".">10</td></tr><tr><td style="border:none;" align="center">3</td><td style="border:none;" align="left">JD294: on-site power generation</td><td style="border:none;" align="char" char=".">68.8</td><td style="border:none;" align="char" char=".">92</td><td style="border:none;" align="char" char=".">3</td><td style="border:none;" align="char" char=".">5</td></tr><tr><td style="border:none;" align="center">4</td><td style="border:none;" align="left">JD163: crude steel
+(converters)</td><td style="border:none;" align="char" char=".">45.5</td><td style="border:none;" align="char" char=".">6</td><td style="border:none;" align="char" char=".">82</td><td style="border:none;" align="char" char=".">13</td></tr><tr><td style="border:none;" align="center">5</td><td style="border:none;" align="left">JD293: electricity</td><td style="border:none;" align="char" char=".">29.1</td><td style="border:none;" align="char" char=".">85</td><td style="border:none;" align="char" char=".">6</td><td style="border:none;" align="char" char=".">9</td></tr><tr><td style="border:none;" align="center">6</td><td style="border:none;" align="left">JD318: ocean transport</td><td style="border:none;" align="char" char=".">27.3</td><td style="border:none;" align="char" char=".">52</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">46</td></tr><tr><td style="border:none;" align="center">7</td><td style="border:none;" align="left">JD153: ready-mixed concrete</td><td style="border:none;" align="char" char=".">27.3</td><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="char" char=".">95</td><td style="border:none;" align="char" char=".">4</td></tr><tr><td style="border:none;" align="center">8</td><td style="border:none;" align="left">JD166: hot rolled
+steel</td><td style="border:none;" align="char" char=".">26.8</td><td style="border:none;" align="char" char=".">4</td><td style="border:none;" align="char" char=".">80</td><td style="border:none;" align="char" char=".">16</td></tr><tr><td style="border:none;" align="center">9</td><td style="border:none;" align="left">JD139: coal products</td><td style="border:none;" align="char" char=".">21.5</td><td style="border:none;" align="char" char=".">40</td><td style="border:none;" align="char" char=".">6</td><td style="border:none;" align="char" char=".">54</td></tr><tr><td style="border:none;" align="center">10</td><td style="border:none;" align="left">JD108: industrial soda chemicals</td><td style="border:none;" align="char" char=".">21.2</td><td style="border:none;" align="char" char=".">18</td><td style="border:none;" align="char" char=".">66</td><td style="border:none;" align="char" char=".">16</td></tr></tbody></table></table-wrap></sec><!--with a head--><sec id="sec3.2.2"><label>3.2.2</label><title>Sectors with the Highest Percentage Share
+of Induced Emissions in Foreign Countries</title><p>Table <xref rid="tbl2" ref-type="other">2</xref> identifies the commodities with the highest percentage share
+of category (F) emissions (induced emissions in foreign countries)
+in their global GHG intensity. At the top of the list is rolled and
+drawn aluminum (JD183), with 86% of global GHG intensity due to overseas
+emissions, indicating that production of aluminum products in Japan
+induces substantial emissions abroad. This sector is followed by other
+nonferrous metal products (JD186) with 83%, animal feed (JD72) with
+82%, vegetable oils and meal (JD56) with 76%, and other nonferrous
+metals (JD178) with 76%. These sectors, too, cause substantial emissions
+in global supply chains through consumption of metal resources and
+crops for animal feed and forage.</p><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Ten Japanese Domestic Products with
+the Greatest Share of Induced Foreign Emissions in Their Embodied
+Global GHG Emission Intensity</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="center"/><col align="left"/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">rank</th><th style="border:none;" align="center">sector number
+and name</th><th style="border:none;" align="center" char=".">share of
+foreign emissions in embodied global GHG intensity [%]</th></tr></thead><tbody><tr><td style="border:none;" align="center">1</td><td style="border:none;" align="left">JD183: rolled and drawn
+aluminum</td><td style="border:none;" align="char" char=".">86</td></tr><tr><td style="border:none;" align="center">2</td><td style="border:none;" align="left">JD186: other nonferrous
+metal products</td><td style="border:none;" align="char" char=".">83</td></tr><tr><td style="border:none;" align="center">3</td><td style="border:none;" align="left">JD72: feeds</td><td style="border:none;" align="char" char=".">82</td></tr><tr><td style="border:none;" align="center">4</td><td style="border:none;" align="left">JD56: vegetable oils and
+meal</td><td style="border:none;" align="char" char=".">76</td></tr><tr><td style="border:none;" align="center">5</td><td style="border:none;" align="left">JD178:
+other nonferrous
+metals</td><td style="border:none;" align="char" char=".">76</td></tr><tr><td style="border:none;" align="center">6</td><td style="border:none;" align="left">JD175:
+copper</td><td style="border:none;" align="char" char=".">75</td></tr><tr><td style="border:none;" align="center">7</td><td style="border:none;" align="left">JD38:
+processed meat products</td><td style="border:none;" align="char" char=".">75</td></tr><tr><td style="border:none;" align="center">8</td><td style="border:none;" align="left">JD185: nuclear fuels</td><td style="border:none;" align="char" char=".">75</td></tr><tr><td style="border:none;" align="center">9</td><td style="border:none;" align="left">JD47: flour and other grain
+milled products</td><td style="border:none;" align="char" char=".">72</td></tr><tr><td style="border:none;" align="center">10</td><td style="border:none;" align="left">JD295: gas supply</td><td style="border:none;" align="char" char=".">71</td></tr></tbody></table></table-wrap><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Ten Japanese Domestic Products with
+the Greatest Difference between the Embodied Global GHG Emission Intensity
+Calculated in This Study and That Calculated under the Domestic Technology
+Assumption</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="center"/><col align="left"/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">rank</th><th style="border:none;" align="center">sector number
+and name</th><th style="border:none;" align="center" char=".">difference
+of GHG emissions with use of the domestic technology assumption [%]</th></tr></thead><tbody><tr><td style="border:none;" align="center">1</td><td style="border:none;" align="left">JD183: rolled and
+drawn
+aluminum</td><td style="border:none;" align="char" char=".">&#x02013;66</td></tr><tr><td style="border:none;" align="center">2</td><td style="border:none;" align="left">JD11: seeds and seedlings</td><td style="border:none;" align="char" char=".">&#x02013;57</td></tr><tr><td style="border:none;" align="center">3</td><td style="border:none;" align="left">JD47: flour and other grain
+mill products</td><td style="border:none;" align="char" char=".">&#x02013;52</td></tr><tr><td style="border:none;" align="center">4</td><td style="border:none;" align="left">JD90: timber</td><td style="border:none;" align="char" char=".">&#x02013;52</td></tr><tr><td style="border:none;" align="center">5</td><td style="border:none;" align="left">JD72: feeds</td><td style="border:none;" align="char" char=".">&#x02013;51</td></tr><tr><td style="border:none;" align="center">6</td><td style="border:none;" align="left">JD186: other nonferrous
+metal products</td><td style="border:none;" align="char" char=".">&#x02013;49</td></tr><tr><td style="border:none;" align="center">7</td><td style="border:none;" align="left">JD56: vegetable oils and
+meal</td><td style="border:none;" align="char" char=".">&#x02013;48</td></tr><tr><td style="border:none;" align="center">8</td><td style="border:none;" align="left">JD277: tatami (straw matting)
+and straw products</td><td style="border:none;" align="char" char=".">&#x02013;47</td></tr><tr><td style="border:none;" align="center">9</td><td style="border:none;" align="left">JD185: nuclear fuels</td><td style="border:none;" align="char" char=".">&#x02013;44</td></tr><tr><td style="border:none;" align="center">10</td><td style="border:none;" align="left">JD54: starch</td><td style="border:none;" align="char" char=".">&#x02013;42</td></tr></tbody></table></table-wrap></sec><!--with a head--><sec id="sec3.2.3"><label>3.2.3</label><title>Sectors with the Greatest Difference from
+the Embodied GHG Intensity under the Domestic Technology Assumption</title><p>An embodied GHG intensity under the domestic technology assumption
+(DTA) means that the emissions associated with imports are assumed
+to be the same as those of equivalent domestic products (for calculation
+of this intensity, see the <xref rid="notes-1" ref-type="notes">Supporting Information</xref>). The commodities with the greatest difference between the global
+GHG intensity and intensity under DTA are presented in Table <xref rid="tbl3" ref-type="other">3</xref>. With DTA, the greatest underestimation of sector,
+&#x02212;66%, is for rolled and drawn aluminum (JD183). The main reason
+is that this sector induces large overseas emissions for aluminum
+primary smelting, but that these emissions are largely avoided under
+the DTA, for although Japan carries out secondary aluminum smelting
+for recycling, there is no domestic primary aluminum smelting, whereas
+it is this process that requires major inputs of electricity. Calculating
+with DTA thus assumes the use of secondary smelting technology for
+primary smelting leading to a major underestimation for the sector.</p><p>This sector is followed by several food- and agriculture-related
+sectors such as seeds and seedlings (JD11) (&#x02212;57%), flour and
+other grain mill products (JD47) (&#x02212;52%), timber (JD90) (&#x02212;52%),
+and Feeds (JD72) (&#x02212;51%). In contrast, in certain sectors use
+of domestic data may lead to overestimation of global GHG emissions,
+as with tea and roasted coffee (JD69) (14%), and plasticizers (JD120)
+(3.4%).</p></sec><!--with a head--><sec id="sec3.2.4"><label>3.2.4</label><title>Sectors with the Greatest Uncertainty in
+Embodied Global GHG Intensity</title><p>Table <xref rid="tbl4" ref-type="other">4</xref> presents the top 10 sectors with a particularly large coefficient
+of variation. Heading the list is seeds and seedlings (JD11) (22%).
+The global GHG intensity of this sector was estimated as 4.36 tCO<sub>2</sub>eq/M-JPY, so that with its coefficient of variation of 22%
+the true emissions lie between 4.36 &#x000d7; (1 + 0.22) = 5.32 and 4.36
+&#x000d7; (1&#x02013;0.22) = 3.40 tCO<sub>2</sub>eq/M-JPY. This is followed
+by ocean transport (JD318) (17%), aircraft repair (JD262) (17%), vegetable
+oils and meal (JD56) (16%), and petroleum refinery products (incl.
+greases) (JD138) (16%).</p><table-wrap id="tbl4" position="float"><label>Table 4</label><caption><title>Ten Japanese Domestic Products with
+the Greatest Coefficient of Variation of Their Embodied Global GHG
+Emission Intensity</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="center"/><col align="left"/><col align="right"/></colgroup><thead><tr><th style="border:none;" align="center">rank</th><th style="border:none;" align="center">sector number
+and name</th><th style="border:none;" align="center">coefficient
+of variation of embodied global GHG intensity [%]</th></tr></thead><tbody><tr><td style="border:none;" align="center">1</td><td style="border:none;" align="left">JD11: seeds and seedlings</td><td style="border:none;" align="char" char=".">22.1</td></tr><tr><td style="border:none;" align="center">2</td><td style="border:none;" align="left">JD318: ocean transport</td><td style="border:none;" align="char" char=".">16.8</td></tr><tr><td style="border:none;" align="center">3</td><td style="border:none;" align="left">JD262: aircraft repair</td><td style="border:none;" align="char" char=".">16.6</td></tr><tr><td style="border:none;" align="center">4</td><td style="border:none;" align="left">JD56: vegetable oils and
+meal</td><td style="border:none;" align="char" char=".">16.2</td></tr><tr><td style="border:none;" align="center">5</td><td style="border:none;" align="left">JD138: petroleum refinery
+products (incl. greases)</td><td style="border:none;" align="char" char=".">15.7</td></tr><tr><td style="border:none;" align="center">6</td><td style="border:none;" align="left">JD72: feeds</td><td style="border:none;" align="char" char=".">15.6</td></tr><tr><td style="border:none;" align="center">7</td><td style="border:none;" align="left">JD54: starch</td><td style="border:none;" align="char" char=".">14.6</td></tr><tr><td style="border:none;" align="center">8</td><td style="border:none;" align="left">JD47: flour and other grain
+mill products</td><td style="border:none;" align="char" char=".">13.8</td></tr><tr><td style="border:none;" align="center">9</td><td style="border:none;" align="left">JD38: processed meat products</td><td style="border:none;" align="char" char=".">11.7</td></tr><tr><td style="border:none;" align="center">10</td><td style="border:none;" align="left">JD342: image information
+production and distribution</td><td style="border:none;" align="char" char=".">10.4</td></tr></tbody></table></table-wrap></sec></sec><!--with a head--><sec id="sec3.3"><label>3.3</label><title>Overall Trends of the Structural Characteristics
+of Embodied Global GHG Intensity</title><!--with a head--><sec id="sec3.3.1"><label>3.3.1</label><title>Trend of Magnitude of Embodied Global GHG
+Intensity</title><p>As a first step, we examined the relationship between
+the global GHG intensity and the key economic indicators (domestic
+output and value added) of each sector. Part a of Figure <xref rid="fig2" ref-type="fig">2</xref> (an enlarged version of which is included in the <xref rid="notes-1" ref-type="notes">Supporting Information</xref>) is a scatter diagram
+in which the horizontal axis represents the percentage share of each
+sector in total Japanese domestic output and the vertical axis the
+global GHG intensity (tCO<sub>2</sub>eq/M-JPY). From this figure,
+it is immediately apparent that the data points are essentially distributed
+transversely, and the correlation coefficient is as low as &#x02212;0.083.
+There is thus no linear relationship between the level of domestic
+output and embodied emission intensity. However, the Spearman rank
+correlation coefficient or Spearman&#x02019;s &#x003c1; of the variables
+is &#x02212;0.238 pointing to a decreasing monotonic relationship.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Relation
+between the share of sector&#x02019;s output in total
+Japanese output and embodied global GHG intensity, (b) relation between
+sector&#x02019;s value added ratio and embodied global GHG intensity,
+(c) relation between sector&#x02019;s direct GHG emission and embodied
+GHG intensity, (d) relation between direct GHG emission per unit sectoral
+output and induced foreign GHG emission per unit sectoral output,
+(e) relation between induced domestic emission per unit sectoral output
+and induced foreign GHG emission per unit sectoral output, (f) relation
+between share of induced foreign emissions in embodied global GHG
+intensity and comparison of GHG emissions with and without domestic
+technology assumption, (g) relation between share of induced foreign
+emissions in embodied global GHG intensity and coefficient of variation
+of embodied global GHG intensity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es-2011-043257_0002" id="gr2" position="float"/></fig><p>Part b of Figure <xref rid="fig2" ref-type="fig">2</xref> shows
+the relationship
+between the value added ratio (M-JPY/M-JPY) of each sector (the horizontal
+axis) and its global GHG intensity (tCO<sub>2</sub>-eq/M-JPY) (the
+vertical axis). From this figure, it is apparent that the global GHG
+intensity gradually decreases with increasing value added ratio. The
+correlation coefficient is &#x02212;0.293 reflecting a weakly negative
+correlation. Spearman&#x02019;s &#x003c1; of the variables, &#x02212;0.399,
+means a decreasing monotonic relationship. Because value added is
+a constituent element of total domestic output, the greater its ratio,
+the lower the relative costs of intermediate inputs such as raw materials.
+These lower costs of intermediate inputs are presumably associated
+with lower GHG emissions, so that the higher the value added ratio
+of a commodity, the lower its embodied emission intensity.</p><p>However,
+part c of Figure <xref rid="fig2" ref-type="fig">2</xref> presents the
+relationship between the share (%) of the sector&#x02019;s direct emissions
+in total Japanese emissions (the horizontal axis) and its global GHG
+intensity (tCO<sub>2</sub>eq/M-JPY) (the vertical axis). As the figure
+shows, as the share of direct emission in Japan increases, so too
+does the global GHG intensity. The correlation coefficient is 0.403,
+signifying a positive correlation. Spearman&#x02019;s &#x003c1; of the
+variables, 0.359, shows an increasing monotonic relationship. Referring
+to Figure <xref rid="fig1" ref-type="fig">1</xref>, among sectors with a higher global
+GHG intensity the relatively high contribution of direct emissions
+(category (D)) can indeed be confirmed for many sectors. Higher overall
+emissions are thus a factor pushing up unit direct emissions, as reflected
+in the trend of part c of Figure <xref rid="fig2" ref-type="fig">2</xref>.</p></sec><!--with a head--><sec id="sec3.3.2"><label>3.3.2</label><title>Trend of Induced Foreign GHG Emissions in
+Embodied Global GHG Intensity</title><p>This article focuses on the
+relationship between the induced foreign GHG emissions in the global
+GHG intensity and the emission characteristics (direct emissions and
+induced domestic emissions) of each sector. Part d of Figure <xref rid="fig2" ref-type="fig">2</xref> is a scatter diagram with the horizontal axis representing
+the volume (tCO<sub>2</sub>eq/M-JPY) of the unit direct emissions
+(D) of each sector and the vertical axis representing the induced
+foreign emissions (F) (tCO<sub>2</sub>eq/M-JPY) component of the global
+GHG intensity. Although the trend is only slight, as the unit direct
+emission increases so too does the induced foreign emission. In other
+words, it appears that sectors with higher unit direct emissions in
+Japan do not necessarily avoid similar or greater emissions overseas.
+The correlation coefficient is 0.192, signifying a weakly positive
+correlation, but too weak to establish any definite linear relationship.
+Spearman&#x02019;s &#x003c1; of the variables, 0.365, confirms an increasing
+monotonic relationship.</p><p>Part e of Figure <xref rid="fig2" ref-type="fig">2</xref> portrays, for each sector, the relationship between the induced
+domestic emission (S) (tCO<sub>2</sub>eq/M-JPY) component of the global
+GHG intensity (the horizontal axis) and the induced foreign emission
+(F) component (tCO<sub>2</sub>eq/M-JPY) (the vertical axis). The correlation
+coefficient is 0.224 indicating a positive correlation that is stronger
+than in the case of direct emissions described in the previous section.
+Spearman&#x02019;s &#x003c1; of the variables is 0.522 signifying an
+increasing monotonic relationship.</p><p>The input coefficient describing
+the production process of each
+sector includes inputs of imported commodities. For this reason, if
+production activities of other sectors are induced in the production
+supply chainthen the input amounts of imported commodities are simultaneously
+increased. Because GHG are emitted by almost all sectors, the same
+characteristics will appear even if production activity is expressed
+based on GHG emissions. A sector inducing greater indirect GHG emissions
+within the country thus tends to induce greater emissions abroad,
+too.</p></sec><!--with a head--><sec id="sec3.3.3"><label>3.3.3</label><title>Trend of Difference in Embodied GHG Intensity
+under the Domestic Technology Assumption</title><p>Part f of Figure <xref rid="fig2" ref-type="fig">2</xref> is a scatter diagram with the horizontal axis representing
+the share of induced foreign emissions (F) in the global GHG intensity
+of each sector and the vertical axis representing the difference (%)
+between the global GHG intensity calculated in the present study and
+the embodied GHG intensity derived under the DTA. If the difference
+is negative, then the global GHG intensity derived using GLIO is greater
+than the intensity under the DTA; if it is positive, the opposite
+holds. The coefficient of correlation between the share of emissions
+abroad and the absolute value of the difference is 0.828 signifying
+a strong correlation. Spearman&#x02019;s &#x003c1; of the variables is
+0.813 signifying a markedly increasing monotonic relationship. In
+other words, even if Japanese domestic technology is assumed for imported
+commodities, it is unable to accurately duplicate the features of
+the GHG emissions of imported commodities. The difference from the
+intensity calculated under the DTA is particularly striking in those
+sectors showing the highest share of induced foreign emissions associated
+with imported commodities.</p></sec><!--with a head--><sec id="sec3.3.4"><label>3.3.4</label><title>Trend of Uncertainty in Embodied Global
+GHG Intensity</title><p>In part g of Figure <xref rid="fig2" ref-type="fig">2</xref>, the horizontal axis represents the percentage share (%) of overseas
+(category (F)) emissions in the global GHG intensity and the vertical
+axis the coefficient of variation (%). As is readily apparent, an
+increase in the share of overseas emissions in the global GHG intensity
+tends to increase the coefficient of variation. The correlation coefficient
+is 0.821 indicating a strong positive correlation. Spearman&#x02019;s
+&#x003c1; of the variables is 0.920, a definite sign of an increasing
+monotonic relationship. However, although the maximum share of overseas
+emissions is 86% (Table <xref rid="tbl2" ref-type="other">2</xref>), the maximum value
+of the coefficient of variation is 22% while remaining below 5% in
+many sectors. No overall linear relation can consequently be established
+between the share of induced foreign emissions and the coefficient
+of variation (magnitude of uncertainty).</p><p>In addition, the impact
+of sectoral aggregation on the uncertainty of global GHG intensities
+was analyzed. Table S1 of the <xref rid="notes-1" ref-type="notes">Supporting Information</xref> summarizes the weighted average (WA) of the global intensities aggregated
+to 21 broad commodity categories using a weighting coefficient based
+on the total domestic output of each sector. The table also shows
+the minimum and maximum global GHG intensity recorded in each category.
+Because the two-capital-letter codes used for the commodity categories
+in Table S1 are the same as those in Figure <xref rid="fig1" ref-type="fig">1</xref>, it can readily be seen from the latter which categories are associated
+with which global intensities. The range columns in Table S1 of the <xref rid="notes-1" ref-type="notes">Supporting Information</xref> show the values obtained
+by dividing the minimum and the maximum by the weighted average and
+expressing this as a percentage, and this may be taken as the range
+in which the weighted average is valid. The greater the similarity
+between the global GHG intensities within a given broad commodity
+category, the smaller this range becomes. This range is thus an index
+of the similarity in global intensity within the broad commodity category.</p><p>The range of the global GHG intensity of ICT devices (IT) and precision
+machinery (PM) is relatively narrow: 85%&#x02013;112% and 90%&#x02013;119%
+respectively, which indicates broad similarity in the global GHG intensities
+of the sectors belonging to these two categories. However, certain
+categories such as services (SR) and ceramic, stone and clay products
+(CR) exhibit a far wider range: 5%&#x02013;1350% and 32%&#x02013;726%,
+respectively. In terms of this range, 10 categories have a lower bound
+of less than 50% (half the weighted average) and 9 categories have
+an upper bound of more than 200% (twice the weighted average). These
+results are broadly similar to the spread of global GHG intensities
+to emerge from process-based LCA on the same sector categories as
+defined here in an input&#x02013;output table.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup></p><p>The range of induced foreign emissions in the global GHG intensity
+was also computed. Similarly to above, ICT devices (IT) and precision
+machinery (PM) again show a relatively narrow range in this respect
+of 83%&#x02013;115% and 69%&#x02013;123%, respectively. Here, there
+is indeed similarity with the situation for overall global GHG intensity.
+At the same time though, certain categories such as electric power,
+gas supply and steam, water supply, and waste disposal (EL), corresponding
+to utilities, exhibit an expanded range of 39%&#x02013;710% with regard
+to the share of foreign emissions. For eight commodity categories,
+the lower bound of the range is less than 50%, whereas for six categories
+the upper bound is over 200%. There are thus fewer categories with
+a variation extending down to less than half or up to more than twice
+the weighted average than in the case of overall global GHG intensity.
+This implies that the emission structure of the global GHG intensity
+of products belonging to the same broad category do not exhibit any
+great similarity.</p><p>Finally, we also calculated the range of the
+coefficient of variation
+of the global intensity. In this respect, IT showed a narrower range
+of 75%&#x02013;130%, whereas PM showed a wider range of 59%&#x02013;249%.
+The lower bound of the range is less than 50% for nine categories,
+whereas the upper bound is over 200% for 11 categories leading to
+the conclusion that uncertainty of global GHG intensity tends to increase
+with sectoral aggregation because there is even less similarity in
+the uncertainty in global GHG intensity of products belonging to the
+same commodity category than in the case of emission structure just
+described.</p></sec></sec></sec><!--with a head--><sec sec-type="discussion" id="sec4"><label>4</label><title>Discussion</title><!--with a head--><sec id="sec4.1"><label>4.1</label><title>Implications of the Characteristics of Embodied
+Global GHG Intensities for Use in LCA</title><!--with a head--><sec id="sec4.1.1"><label>4.1.1</label><title>Commodities with a High Embodied Global
+GHG Intensity</title><p>For the purposes of input&#x02013;output LCA
+and hybrid LCA, if the LCA practitioner knows the 2005 producer price
+(M-JPY) of the commodity under study this price can be multiplied
+by the global intensity (tCO<sub>2</sub>eq/M-JPY) of that commodity
+to obtain its cradle-to-gate LCI with respect to GHG (tCO<sub>2</sub>eq) based on a global system boundary. The producer price can be
+estimated from the physical quantity (e.g., kilogram) of the commodity
+and its unit price (e.g., M-JPY/kg) in 2005. In input&#x02013;output
+LCA and hybrid LCA on manufacturing processes and technologies with
+input of high global-GHG-intensity commodities, such as presented
+in Table <xref rid="tbl1" ref-type="other">1</xref>, or with lower value added (but
+no relation to sectoral output level: parts a and b of Figure <xref rid="fig2" ref-type="fig">2</xref>), the accuracy of the price or physical amounts
+of these commodities thus has a significant bearing on the life cycle
+emissions calculated and, consequently, on the overall reliability
+of the LCI result. In such cases, the LCA practitioner should therefore
+take extra care in quantifying prices and physical quantities giving
+due consideration to year-to-year differences in prices and/or technologies.</p><p>In process LCA, such high-global GHG intensity commodities should
+be identified in the screening phase as deserving particularly high
+priority in terms of collecting detailed process data. For most such
+commodities, it is direct emissions that are the main contributor
+to the high global GHG intensity (part c of Figure <xref rid="fig2" ref-type="fig">2</xref>), and the on-site emissions occurring at the commodity&#x02019;s
+production site should therefore be given greater emphasis than those
+associated with its global supply chain.</p></sec><!--with a head--><sec id="sec4.1.2"><label>4.1.2</label><title>Commodities with a Large Share of Foreign
+Emissions and Use of the Domestic Technology Assumption</title><p>A
+commodity with a high proportion of overseas emissions generates large
+GHG emissions in the foreign supply chain associated with the imported
+materials and services used in the domestic supply chain in Japan.
+For commodities with a large share of foreign emissions, as presented
+in Table <xref rid="tbl2" ref-type="other">2</xref>, the LCA practitioner should give
+priority to collecting process and emission data on the imports used
+in the supply chain. In process LCA, because commodities with large
+domestic emissions (both direct and indirect) tend to show large foreign
+emissions (parts d and e of Figure <xref rid="fig2" ref-type="fig">2</xref>) due effort
+should be made to identify the foreign emissions associated with such
+commodities.</p><p>However, data on processes and emissions in foreign
+countries are often scarce as well as costly to retrieve. Hence, in
+the case of such commodities, too, input&#x02013;output LCA and hybrid
+LCA using the data described as a result of this study have major
+benefits over process LCA, which generally has no option but to ignore
+the foreign emissions associated with a commodity for reasons of cost
+and data availability.</p><p>For such commodities, an alternative
+to process LCA is to apply
+domestic (Japanese) process and emission data for imported materials
+and services. This substitution assumes that the production technology
+of an imported commodity is equivalent to that of the corresponding
+domestic commodity. If an LCA of the commodity using domestic emission
+data rather than those of the imports in question yields a similar
+result to an LCA, that does give due consideration to global supply
+chain emissions, and then the process LCA of the commodity can provide
+a rough estimate of its global GHG emissions using only domestic data,
+which are readily obtainable.</p><p>From the comparison of the global
+GHG intensities with the intensities
+under the DTA, this study has confirmed that, with relatively few
+exceptions, presented in Table <xref rid="tbl3" ref-type="other">3</xref>, most sectors
+show differences between about &#x02212;40% and 20% (part f of Figure <xref rid="fig2" ref-type="fig">2</xref>). If an LCA practitioner defines what degree of
+under/overestimation is acceptable for the global GHG of a commodity,
+then use of domestic data as a surrogate for the data on imported
+commodities used in the supply chain might be deemed a suitable alternative
+in a process LCA.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup></p></sec><!--with a head--><sec id="sec4.1.3"><label>4.1.3</label><title>Consideration of Uncertainty in Embodied
+Global GHG Intensity</title><p>Although a simplified method was used
+to calculate global GHG intensities, the majority of sectors show
+a coefficient of variation of less than 10% in their global GHG intensity,
+as presented in part g of Figure <xref rid="fig2" ref-type="fig">2</xref>, and can
+thus be deemed well amenable to LCI data based on an input&#x02013;output
+analysis. Only relatively few commodities, shown in Table <xref rid="tbl4" ref-type="other">4</xref>, exhibit greater variation. Use of these data thus
+permits simple estimation of the uncertainty in the results of applying
+the global GHG intensities obtained in this study to yield an LCI.
+As Table S1 of the <xref rid="notes-1" ref-type="notes">Supporting Information</xref> shows, however, it should be noted that this uncertainty in global
+GHG intensity increases markedly if sectors are aggregated.</p><p>In input&#x02013;output LCA, the coefficient of variation of the sector
+can itself be interpreted as being the uncertainty of the LCI. With
+hybrid LCA and particularly tiered hybrid LCA,<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> assuming no correlation among the coefficients of variation in the
+sectors, the possible range of each intensity is calculated from the
+coefficients of variation and the emissions are calculable for the
+highest global GHG intensity value and for the lowest. This enables
+estimation of the range of uncertainty of emissions through the connection
+with input&#x02013;output analysis in hybrid LCA.</p><p>In this study,
+however, the uncertainty was estimated using the
+input structure of Japan&#x02019;s domestic commodities, which does
+not reflect the characteristics of commodities produced elsewhere
+(particularly energy and mineral resources). In addition, supply chains
+that enjoy a geographical advantage to eastern Asia, including China as a high carbon emitter,<sup><xref ref-type="bibr" rid="ref46">46</xref>&#x02212;<xref ref-type="bibr" rid="ref48">48</xref></sup> start weighing in on
+the results, implying a possible overestimation
+of uncertainty. At the same time, estimating the variation in the
+input coefficients of overseas sectors in the GLIO model using Monte
+Carlo simulation rested on the extreme assumption that each country
+except for Japan has a production structure in which it produces only
+one type of commodity (for details, <xref rid="notes-1" ref-type="notes">Supporting
+Information</xref>). Consequently, this methodology may also engender
+an overestimate of uncertainty. However, the GLIO model aggregates
+foreign commodities into 111 types leading to a potential underestimate
+of uncertainty.<sup><xref ref-type="bibr" rid="ref40">40</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup></p></sec></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>Enlarged versions of the constituent
+graphs of Figure <xref rid="fig2" ref-type="fig">2</xref>, additional descriptions
+of methodologies of all the sectoral global intensities (energy consumption,
+GHGs and air pollutant emissions) of Japanese products in PDF and
+Unicode Text (.txt) formats. It also describes further discussion
+on policy implication and limitations of the global intensities, and
+methodological applicability to other countries of the GLIO model.
+This material is available free of charge via the Internet at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es2043257_si_001.pdf"><caption><p>es2043257_si_001.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile2"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es2043257_si_002.zip"><caption><p>es2043257_si_002.zip</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile3"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es2043257_si_003.pdf"><caption><p>es2043257_si_003.pdf</p></caption></media></supplementary-material></sec><notes id="NOTES-d1156e2200-autogenerated" notes-type="conflict-of-interest"><p>The authors declare
+no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This research was partially supported by Environment Research
+&#x00026; Technology Development Fund (S-6-4) of the Ministry of Environment,
+Japan, and Grant-in-Aid for Scientific Research in Innovative Areas
+(KAKENHI: Grant No. 4003-20120005) of the Ministry of Education, Culture,
+Sports, Science and Technology, Japan. We are grateful to Nigel Harle
+of Gronsveld, The Netherlands, for his careful revision of our English.</p></ack><notes id="notes-3" notes-type="after-asap"><p>There was an error in the second paragraph of the Methods and Data section in the version of this paper published August 10, 2012. The correct version published August 21, 2012.</p></notes><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Suh</surname><given-names>S.</given-names></name>; <name><surname>Lenzen</surname><given-names>M.</given-names></name>; <name><surname>Treloar</surname><given-names>G. J.</given-names></name>; <name><surname>Hondo</surname><given-names>H.</given-names></name>; <name><surname>Horvath</surname><given-names>A.</given-names></name>; <name><surname>Huppes</surname><given-names>G.</given-names></name>; <name><surname>Jolliet</surname><given-names>O.</given-names></name>; <name><surname>Klann</surname><given-names>U.</given-names></name>; <name><surname>Krewitt</surname><given-names>W.</given-names></name>; <name><surname>Moriguchi</surname><given-names>Y.</given-names></name>; <name><surname>Munksgaard</surname><given-names>J.</given-names></name>; <name><surname>Norris</surname><given-names>G.</given-names></name>
+<article-title>System boundary selection
+in life-cycle inventories using hybrid approaches</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2004</year>, <volume>38</volume>(<issue>3</issue>), <fpage>657</fpage>&#x02013;<lpage>664</lpage>.<pub-id pub-id-type="pmid">14968848</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Suh</surname><given-names>S.</given-names></name>
+<article-title>Functions,
+commodities and environmental impacts in an ecological-economic model</article-title>. <source>Ecological Economics</source>
+<year>2004</year>, <volume>48</volume>(<issue>4</issue>), <fpage>451</fpage>&#x02013;<lpage>467</lpage>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="weblink" id="cit3">ecoinvent. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ecoinvent.ch/">http://www.ecoinvent.ch/</uri></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Nansai</surname><given-names>K.</given-names></name>; <name><surname>Moriguchi</surname><given-names>Y.</given-names></name>; <name><surname>Tohno</surname><given-names>S.</given-names></name>
+<article-title>Compilation and application of Japanese
+inventories for energy consumption and air pollutant emissions using
+input-output tables</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2003</year>, <volume>37</volume>(<issue>9</issue>), <fpage>2005</fpage>&#x02013;<lpage>2015</lpage>.<pub-id pub-id-type="pmid">12775078</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Lave</surname><given-names>L. B.</given-names></name>; <name><surname>Cobasflores</surname><given-names>E.</given-names></name>; <name><surname>Hendrickson</surname><given-names>C. T.</given-names></name>; <name><surname>Mcmichael</surname><given-names>F. C.</given-names></name>
+<article-title>Using Input-Output-Analysis
+to Estimate Economy-Wide Discharges</article-title>. <source>Environ.
+Sci. Technol.</source>
+<year>1995</year>, <volume>29</volume>(<issue>9</issue>), <fpage>A420</fpage>&#x02013;<lpage>A426</lpage>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Suh</surname><given-names>S.</given-names></name>; <name><surname>Huppes</surname><given-names>G.</given-names></name>
+<article-title>Missing inventory
+estimation tool using extended input-output
+analysis</article-title>. <source>Int. J. Life Cycle Ass.</source>
+<year>2002</year>, <volume>7</volume>(<issue>3</issue>), <fpage>134</fpage>&#x02013;<lpage>140</lpage>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Hendrickson</surname><given-names>C.</given-names></name>; <name><surname>Horvath</surname><given-names>A.</given-names></name>; <name><surname>Joshi</surname><given-names>S.</given-names></name>; <name><surname>Lave</surname><given-names>L.</given-names></name>
+<article-title>Economic input-output
+models for environmental life-cycle assessment</article-title>. <source>Environ. Sci. Technol.</source>
+<year>1998</year>, <volume>32</volume>(<issue>7</issue>), <fpage>184a</fpage>&#x02013;<lpage>191a</lpage>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="weblink" id="cit8">CEDA
+CEDA:
+Comprehensive Environmental Data Archive. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.cedainformation.net/home.asp">http://www.cedainformation.net/home.asp</uri></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="weblink" id="cit9">EIO-LCA
+Economic Input-Output Life Cycle Assessment (EIO-LCA). <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eiolca.net/">http://www.eiolca.net/</uri></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="book" id="cit10"><source>3EID Embodied Energy and Emission Intensity Data
+for Japan Using
+Input-Output Tables (3EID)</source>; <publisher-name>Center for Global
+Environmental Research, National Institute for Environmental Studies</publisher-name>: <publisher-loc>Ibaraki</publisher-loc>, <year>2002</year>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="weblink" id="cit11">ISA, The University of Sydney. Balancing Act: A Triple bottom line analysis of the Australian
+economy. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.isa.org.usyd.edu.au/publications/balance.shtml#accessing">http://www.isa.org.usyd.edu.au/publications/balance.shtml#accessing</uri></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="weblink" id="cit12">DB2010
+International Open Workshop &#x02033;Wolrdwide efforts on LCA Database&#x02033;
+&#x00026; International Stakeholder Engagement Meeting &#x02033;Towards
+Global Guidance for LCA Databases&#x02033;. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.sntt.or.jp/DB2010/">http://www.sntt.or.jp/DB2010/</uri></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="undeclared" id="cit13"><person-group person-group-type="allauthors"><name><surname>Weidema</surname><given-names>B. P.</given-names></name></person-group> In <source>The ecoinvent database
+- linking to the global market</source>, The 9th International Conference
+on EcoBalance (EcoBalance2010), Tokyo, Japan, November 9&#x02013;12,
+2010; Tokyo, Japan, <year>2010</year>; pp <fpage>338</fpage>-<lpage>339</lpage>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="undeclared" id="cit14"><person-group person-group-type="allauthors"><name><surname>Kobayashi</surname><given-names>K.</given-names></name>; <name><surname>Tahara</surname><given-names>K.</given-names></name>; <name><surname>Wei</surname><given-names>B.</given-names></name></person-group> In <source>Method developed for
+simplified
+inventory-data estimation of foreign-made products</source>, The 9th
+International Conference on EcoBalance (EcoBalance2010), Tokyo, Japan,
+November 9&#x02013;12, 2010; Tokyo, Japan, <year>2010</year>; pp <fpage>346</fpage>-<lpage>349</lpage>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Leontief</surname><given-names>W.</given-names></name>; <name><surname>Duchin</surname><given-names>F.</given-names></name>; <name><surname>Szyld</surname><given-names>D. B.</given-names></name>
+<article-title>New approaches in economic-analysis</article-title>. <source>Science</source>
+<year>1985</year>, <volume>228</volume>(<issue>4698</issue>), <fpage>419</fpage>&#x02013;<lpage>422</lpage>.<pub-id pub-id-type="pmid">17746871</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Lenzen</surname><given-names>M.</given-names></name>; <name><surname>Pade</surname><given-names>L.-L.</given-names></name>; <name><surname>Munksgaard</surname><given-names>J.</given-names></name>
+<article-title>CO<sub>2</sub> multipliers in multi-region
+input-output models</article-title>. <source>Econ. Syst. Res.</source>
+<year>2004</year>, <volume>16</volume>(<issue>4</issue>), <fpage>11</fpage>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Daniels</surname><given-names>P. L.</given-names></name>; <name><surname>Lenzen</surname><given-names>M.</given-names></name>; <name><surname>Kenway</surname><given-names>S. J.</given-names></name>
+<article-title>The ins
+and outs of water use - a
+review of multi-region input-output analysis and water footprints
+for regional sustainability analysis and policy</article-title>. <source>Econ. Syst. Res.</source>
+<year>2011</year>, <volume>23</volume>(<issue>4</issue>), <fpage>353</fpage>&#x02013;<lpage>370</lpage>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Wiedmann</surname><given-names>T. O.</given-names></name>; <name><surname>Suh</surname><given-names>S.</given-names></name>; <name><surname>Feng</surname><given-names>K. S.</given-names></name>; <name><surname>Lenzen</surname><given-names>M.</given-names></name>; <name><surname>Acquaye</surname><given-names>A.</given-names></name>; <name><surname>Scott</surname><given-names>K.</given-names></name>; <name><surname>Barrett</surname><given-names>J. R.</given-names></name>
+<article-title>Application of hybrid life cycle approaches to emerging
+energy technologies - the case of wind power in the UK</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2011</year>, <volume>45</volume>(<issue>13</issue>), <fpage>5900</fpage>&#x02013;<lpage>5907</lpage>.<pub-id pub-id-type="pmid">21649442</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Acquaye</surname><given-names>A. A.</given-names></name>; <name><surname>Wiedmann</surname><given-names>T.</given-names></name>; <name><surname>Feng</surname><given-names>K. S.</given-names></name>; <name><surname>Crawford</surname><given-names>R. H.</given-names></name>; <name><surname>Barrett</surname><given-names>J.</given-names></name>; <name><surname>Kuylenstierna</surname><given-names>J.</given-names></name>; <name><surname>Duffy</surname><given-names>A. P.</given-names></name>; <name><surname>Koh</surname><given-names>S. C. L.</given-names></name>; <name><surname>McQueen-Mason</surname><given-names>S.</given-names></name>
+<article-title>Identification
+of &#x02019;carbon hot-spots&#x02019; and quantification of GHG intensities
+in the biodiesel supply chain using hybrid LCA and structural path
+analysis</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2011</year>, <volume>45</volume>(<issue>6</issue>), <fpage>2471</fpage>&#x02013;<lpage>2478</lpage>.<pub-id pub-id-type="pmid">21319814</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Davis</surname><given-names>S. J.</given-names></name>; <name><surname>Caldeira</surname><given-names>K.</given-names></name>
+<article-title>Consumption-based accounting
+of CO<sub>2</sub> emissions</article-title>. <source>Proc. Natl. Acad.
+Sci. U.S.A.</source>
+<year>2010</year>, <volume>107</volume>(<issue>12</issue>), <fpage>5687</fpage>&#x02013;<lpage>5692</lpage>.<pub-id pub-id-type="pmid">20212122</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Hertwich</surname><given-names>E. G.</given-names></name>; <name><surname>Peters</surname><given-names>G. P.</given-names></name>
+<article-title>Carbon footprint of nations: A global, trade-linked
+analysis</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2009</year>, <volume>43</volume>(<issue>16</issue>), <fpage>6414</fpage>&#x02013;<lpage>6420</lpage>.<pub-id pub-id-type="pmid">19746745</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="book" id="cit22"><person-group person-group-type="allauthors"><name><surname>Nakano</surname><given-names>S.</given-names></name>; <name><surname>Okamura</surname><given-names>A.</given-names></name>; <name><surname>Sakurai</surname><given-names>N.</given-names></name>; <name><surname>Suzuki</surname><given-names>M.</given-names></name>; <name><surname>Tojo</surname><given-names>Y.</given-names></name>; <name><surname>Yamano</surname><given-names>N.</given-names></name></person-group><source>The Measurement of CO<sub>2</sub> Embodiments
+in International Trade: Evidence from the Harmonised Input-Output
+and Bilateral Trade Database</source>; <publisher-name>OECD</publisher-name>: <publisher-loc>Paris</publisher-loc>, <year>2009</year>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Wiedmann</surname><given-names>T.</given-names></name>; <name><surname>Wood</surname><given-names>R.</given-names></name>; <name><surname>Minx</surname><given-names>J. C.</given-names></name>; <name><surname>Lenzen</surname><given-names>M.</given-names></name>; <name><surname>Guan</surname><given-names>D. B.</given-names></name>; <name><surname>Harris</surname><given-names>R.</given-names></name>
+<article-title>A carbon footprint time series of
+the UK - Results
+from a multi-region input-output model</article-title>. <source>Econ.
+Syst. Res.</source>
+<year>2010</year>, <volume>22</volume>(<issue>1</issue>), <fpage>19</fpage>&#x02013;<lpage>42</lpage>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Baiocchi</surname><given-names>G.</given-names></name>; <name><surname>Minx</surname><given-names>J. C.</given-names></name>
+<article-title>Understanding changes in the UK&#x02019;s CO<sub>2</sub> emissions: A global perspective</article-title>. <source>Environ.
+Sci. Technol.</source>
+<year>2010</year>, <volume>44</volume>(<issue>4</issue>), <fpage>1177</fpage>&#x02013;<lpage>1184</lpage>.<pub-id pub-id-type="pmid">20095574</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Peters</surname><given-names>G. P.</given-names></name>; <name><surname>Minx</surname><given-names>J. C.</given-names></name>; <name><surname>Weber</surname><given-names>C. L.</given-names></name>; <name><surname>Edenhofer</surname><given-names>O.</given-names></name>
+<article-title>Growth in
+emission transfers via international trade from 1990 to 2008</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<year>2011</year>, <volume>108</volume>(<issue>21</issue>), <fpage>8903</fpage>&#x02013;<lpage>8908</lpage>.<pub-id pub-id-type="pmid">21518879</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Peters</surname><given-names>G. P.</given-names></name>; <name><surname>Andrew</surname><given-names>R.</given-names></name>; <name><surname>Lennox</surname><given-names>J.</given-names></name>
+<article-title>Constructing
+an environmentally-extended
+multi-regional input-output table using the GTAP database</article-title>. <source>Econ. Syst. Res.</source>
+<year>2011</year>, <volume>23</volume>(<issue>2</issue>), <fpage>131</fpage>&#x02013;<lpage>152</lpage>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Hertwich</surname><given-names>E. G.</given-names></name>
+<article-title>The life
+cycle environmental impacts of consumption</article-title>. <source>Econ. Syst. Res.</source>
+<year>2011</year>, <volume>23</volume>(<issue>1</issue>), <fpage>27</fpage>&#x02013;<lpage>47</lpage>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Wiebeab</surname><given-names>K. S.</given-names></name>; <name><surname>Brucknerc</surname><given-names>M.</given-names></name>; <name><surname>Giljumc</surname><given-names>S.</given-names></name>; <name><surname>Lutza</surname><given-names>C.</given-names></name>
+<article-title>Calculating Energy-Related
+CO<sub>2</sub> Emissions Embodied in International Trade Using a Global
+Input-Output Model</article-title>. <source>Econ. Syst. Res.</source>
+<year>2012</year>, <volume>24</volume>(<issue>2</issue>), <fpage>113</fpage>&#x02013;<lpage>139</lpage>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Nansai</surname><given-names>K.</given-names></name>; <name><surname>Kagawa</surname><given-names>S.</given-names></name>; <name><surname>Kondo</surname><given-names>Y.</given-names></name>; <name><surname>Suh</surname><given-names>S.</given-names></name>; <name><surname>Nakajima</surname><given-names>K.</given-names></name>; <name><surname>Inaba</surname><given-names>R.</given-names></name>; <name><surname>Oshita</surname><given-names>Y.</given-names></name>; <name><surname>Morimoto</surname><given-names>T.</given-names></name>; <name><surname>Kawashima</surname><given-names>K.</given-names></name>; <name><surname>Terakawa</surname><given-names>T.</given-names></name>; <name><surname>Tohno</surname><given-names>S.</given-names></name>
+<article-title>Characterization of
+economic requirements
+for a &#x02033;carbon-debt-free country&#x02033;</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2012</year>, <volume>46</volume>(<issue>1</issue>), <fpage>155</fpage>&#x02013;<lpage>163</lpage>.<pub-id pub-id-type="pmid">22132818</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="undeclared" id="cit30"><person-group person-group-type="allauthors"><name><surname>Lenzen</surname><given-names>M.</given-names></name>; <name><surname>Kanemoto</surname><given-names>K.</given-names></name>; <name><surname>Geschke</surname><given-names>A.</given-names></name>; <name><surname>Moran</surname><given-names>D.</given-names></name>; <name><surname>Ugon</surname><given-names>P. M. J.</given-names></name>; <name><surname>Wood</surname><given-names>R.</given-names></name>; <name><surname>Yu</surname><given-names>T.</given-names></name></person-group><article-title>A global multi-region input-output time series at
+high country and sector detail</article-title>. In <italic>18th International
+Conference on Input-Output Analysis</italic>, Sydney, <year>2010</year>; p <fpage>30</fpage>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Lenzen</surname><given-names>M.</given-names></name>; <name><surname>Moran</surname><given-names>D.</given-names></name>; <name><surname>Kanemoto</surname><given-names>K.</given-names></name>; <name><surname>Foran</surname><given-names>B.</given-names></name>; <name><surname>Lobefaro</surname><given-names>L.</given-names></name>; <name><surname>Geschke</surname><given-names>A.</given-names></name>
+<article-title>International trade
+drives biodiversity threats in
+developing nations</article-title>. <source>Nature</source>
+<year>2012</year>, <volume>486</volume>(<issue>7401</issue>), <fpage>109</fpage>&#x02013;<lpage>112</lpage>.<pub-id pub-id-type="pmid">22678290</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Nansai</surname><given-names>K.</given-names></name>; <name><surname>Kagawa</surname><given-names>S.</given-names></name>; <name><surname>Kondo</surname><given-names>Y.</given-names></name>; <name><surname>Suh</surname><given-names>S.</given-names></name>; <name><surname>Inaba</surname><given-names>R.</given-names></name>; <name><surname>Nakajima</surname><given-names>K.</given-names></name>
+<article-title>Improving the completeness of product
+carbon footprints
+using a global link input-output model: The case of Japan</article-title>. <source>Econ. Syst. Res.</source>
+<year>2009</year>, <volume>21</volume>(<issue>3</issue>), <fpage>267</fpage>&#x02013;<lpage>290</lpage>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="weblink" id="cit33">UNFCCC
+GHG Data. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://unfccc.int/2860.php">http://unfccc.int/2860.php</uri></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="book" id="cit34"><collab>IEA</collab><italic>CO<sub>2</sub> emissions from fuel combustion
+1971- 2005</italic>; <publisher-name>International Energy Agency</publisher-name>: <publisher-loc>Paris</publisher-loc>, <year>2007</year>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="weblink" id="cit35">Enerdata
+Enerdata. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.enerdata.net/">http://www.enerdata.net/</uri></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="undeclared" id="cit36"><collab>EDGAR, The Emissions
+Database for Global Atmospheric Research (EDGAR)</collab>. In European
+Commission - JRC Joint Research Centre: <year>2011</year>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="weblink" id="cit37">CDIAC
+Carbon Dioxide Information Analysis Center. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://cdiac.ornl.gov/">http://cdiac.ornl.gov/</uri> (04/15),</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="book" id="cit38"><person-group person-group-type="allauthors"><name><surname>Forster</surname><given-names>P.</given-names></name>, <name><surname>Ramaswamy</surname><given-names>V.</given-names></name>, <name><surname>Artaxo</surname><given-names>P.</given-names></name>, <name><surname>Berntsen</surname><given-names>T.</given-names></name>, <name><surname>Betts</surname><given-names>R.</given-names></name>, <name><surname>Fahey</surname><given-names>D.
+W.</given-names></name>, <name><surname>Haywood</surname><given-names>J.</given-names></name>, <name><surname>Lean</surname><given-names>J.</given-names></name>, <name><surname>Lowe</surname><given-names>D. C.</given-names></name>, <name><surname>Myhre</surname><given-names>G.</given-names></name>, <name><surname>Nganga</surname><given-names>J.</given-names></name>, <name><surname>Prinn</surname><given-names>R.</given-names></name>, <name><surname>Raga</surname><given-names>G.</given-names></name>, <name><surname>Schulz</surname><given-names>M.</given-names></name>; <name><surname>Dorland</surname><given-names>R. V.</given-names></name></person-group><article-title>Changes in
+atmospheric constituents and in radiative forcing</article-title>.
+In: Climate Change 2007: The Physical Science Basis. Contribution
+of Working Group I to the Fourth Assessment Report of the Intergovernmental
+Panel on Climate Change; <person-group person-group-type="editor"><name><surname>Solomon</surname><given-names>S.</given-names></name>, <name><surname>Qin</surname><given-names>D.</given-names></name>; <name><surname>Manning</surname><given-names>M.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Marquis</surname><given-names>M.</given-names></name>; <name><surname>Averyt</surname><given-names>K. B.</given-names></name>; <name><surname> Tignor</surname><given-names>M</given-names></name><name><surname>Miller</surname><given-names>H.L.</given-names></name></person-group>, eds; <publisher-name>Cambridge
+University Press</publisher-name>: <publisher-loc>Cambridge, United
+Kingdom and New York, NY, USA</publisher-loc>, <year>2007</year>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Weber</surname><given-names>C. L.</given-names></name>; <name><surname>Matthews</surname><given-names>H. S.</given-names></name>
+<article-title>Food-miles and the relative climate
+impacts of food
+choices in the united states</article-title>. <source>Environ. Sci.
+Technol.</source>
+<year>2008</year>, <volume>42</volume>(<issue>10</issue>), <fpage>3508</fpage>&#x02013;<lpage>3513</lpage>.<pub-id pub-id-type="pmid">18546681</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Su</surname><given-names>B.</given-names></name>; <name><surname>Huang</surname><given-names>H. C.</given-names></name>; <name><surname>Ang</surname><given-names>B. W.</given-names></name>; <name><surname>Zhou</surname><given-names>P.</given-names></name>
+<article-title>Input-output analysis
+of CO<sub>2</sub> emissions embodied in trade: The effects of sector
+aggregation</article-title>. <source>Energ. Econ.</source>
+<year>2010</year>, <volume>32</volume>(<issue>1</issue>), <fpage>166</fpage>&#x02013;<lpage>175</lpage>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Lenzen</surname><given-names>M.</given-names></name>; <name><surname>Wood</surname><given-names>R.</given-names></name>; <name><surname>Wiedmann</surname><given-names>T.</given-names></name>
+<article-title>Uncertainty
+analysis for multi-region
+input-output models - a case study of the UK&#x02019;s carbon footprint</article-title>. <source>Econ. Syst. Res.</source>
+<year>2010</year>, <volume>22</volume>(<issue>1</issue>), <fpage>43</fpage>&#x02013;<lpage>63</lpage>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Lenzen</surname><given-names>M.</given-names></name>
+<article-title>Aggregation
+versus disaggregation in input-output analysis of the environment</article-title>. <source>Econ. Syst. Res.</source>
+<year>2011</year>, <volume>23</volume>(<issue>1</issue>), <fpage>73</fpage>&#x02013;<lpage>89</lpage>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Wiltinga</surname><given-names>H. C.</given-names></name>
+<article-title>Sensitivity
+and Uncertainty Analysis in MRIO Modelling; Some Empirical Results
+with Regard to the Dutch Carbon Footprint</article-title>. <source>Econ.
+Syst. Res.</source>
+<year>2012</year>, <volume>24</volume>(<issue>2</issue>), <fpage>147</fpage>&#x02013;<lpage>171</lpage>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Majeau-Bettez</surname><given-names>G.</given-names></name>; <name><surname>Str&#x000f8;mman</surname><given-names>A. H.</given-names></name>; <name><surname>Hertwich</surname><given-names>E. G.</given-names></name>
+<article-title>Evaluation of process- and input-output-based
+life cycle inventory data with regard to truncation and aggregation
+issues</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2011</year>, <volume>45</volume>, <fpage>10170</fpage>&#x02013;<lpage>10177</lpage>.<pub-id pub-id-type="pmid">22060273</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Andrew</surname><given-names>R.</given-names></name>; <name><surname>Peters</surname><given-names>G. P.</given-names></name>; <name><surname>Lennox</surname><given-names>J.</given-names></name>
+<article-title>Approximation
+and regional aggregation
+in multi-regional input-output analysis for national carbon footprint
+accounting</article-title>. <source>Econ. Syst. Res.</source>
+<year>2009</year>, <volume>21</volume>(<issue>3</issue>), <fpage>311</fpage>&#x02013;<lpage>335</lpage>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Minx</surname><given-names>J. C.</given-names></name>; <name><surname>Baiocchi</surname><given-names>G.</given-names></name>; <name><surname>Peters</surname><given-names>G. P.</given-names></name>; <name><surname>Weber</surname><given-names>C. L.</given-names></name>; <name><surname>Guan</surname><given-names>D.</given-names></name>; <name><surname>Hubacek</surname><given-names>K.</given-names></name>
+<article-title>A carbonizing dragon:
+China&#x02019;s fast growing CO<sub>2</sub> emissions revisited</article-title>. <source>Environ. Sci.
+Technol.</source>
+<year>2011</year>, <volume>45</volume>(<issue>21</issue>), <fpage>9144</fpage>&#x02013;<lpage>9153</lpage>.<pub-id pub-id-type="pmid">21888374</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Guan</surname><given-names>D.</given-names></name>; <name><surname>Peters</surname><given-names>G. P.</given-names></name>; <name><surname>Weber</surname><given-names>C. L.</given-names></name>; <name><surname>Hubacek</surname><given-names>K.</given-names></name>
+<article-title>Journey to world top
+emitter: An analysis of the driving forces of China&#x02019;s recent
+CO(2) emissions surge</article-title>. <source>Geophys. Res. Lett.</source>
+<year>2009</year>, <fpage>36</fpage>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Weber</surname><given-names>C. L.</given-names></name>; <name><surname>Peters</surname><given-names>G. P.</given-names></name>; <name><surname>Guan</surname><given-names>D.</given-names></name>; <name><surname>Hubacek</surname><given-names>K.</given-names></name>
+<article-title>The contribution of
+Chinese exports to climate change</article-title>. <source>Energy Policy</source>
+<year>2008</year>, <volume>36</volume>(<issue>9</issue>), <fpage>3572</fpage>&#x02013;<lpage>3577</lpage>.</mixed-citation></ref></ref-list></back></article>

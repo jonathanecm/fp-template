@@ -21,7 +21,7 @@ library(stringr)
 source("./scripts/00_functions.R")
 
 # Variables #### 
-files <- list.files("./corpus", full.names = TRUE)
+files <- list.files("./data/sampled_corpus", full.names = TRUE)
 autors_number_vec <- vector()
 section_vec <- vector()
 article_name_vec <- vector()
@@ -167,7 +167,7 @@ p_values_df <-p_values_df %>%
         `p-values` = as.double(map_chr(`p-values`, symbols_remover)))
 
 # safe data frame.
-write.csv(p_values_df, "./data/p-values_df.csv")
+write.csv(p_values_df, "./data/processed/p-values_df.csv")
 
 
 

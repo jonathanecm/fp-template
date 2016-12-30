@@ -1,0 +1,267 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="rapid-communication" xml:lang="EN"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Chem Lett</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Chem Lett</journal-id><journal-id journal-id-type="publisher-id">jz</journal-id><journal-id journal-id-type="coden">jpclcd</journal-id><journal-title-group><journal-title>The Journal of Physical Chemistry Letters</journal-title></journal-title-group><issn pub-type="ppub">1948-7185</issn><issn pub-type="epub">1948-7185</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25126386</article-id><article-id pub-id-type="pmc">4126703</article-id><article-id pub-id-type="doi">10.1021/jz500967d</article-id><article-categories><subj-group><subject>Biophysical Chemistry and Biomolecules</subject></subj-group></article-categories><title-group><article-title>The 2-Methoxy Group Orientation Regulates the
+Redox Potential Difference between the Primary (Q<sub>A</sub>) and
+Secondary (Q<sub>B</sub>) Quinones of Type II Bacterial Photosynthetic
+Reaction Centers</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><name><surname>de Almeida</surname><given-names>Wagner B.</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff4" ref-type="aff">#</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Taguchi</surname><given-names>Alexander
+T.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Dikanov</surname><given-names>Sergei A.</given-names></name><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Wraight</surname><given-names>Colin A.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff1" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><name><surname>O&#x02019;Malley</surname><given-names>Patrick J.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff3" ref-type="aff">&#x022a5;</xref></contrib><aff id="aff4"><label>#</label>LQC-MM, Departamento
+de Qu&#x000ed;mica, <institution>ICEx, Universidade
+Federal de Minas Gerais (UFMG)</institution>, Campus
+Pampulh, Belo Horizonte, MG 31.910-270, <country>Brazil</country></aff><aff id="aff1"><sup>&#x02020;</sup>Center for Biophysics and Computational Biology, <sup>&#x02021;</sup>Department of Veterinary Clinical
+Medicine, and <sup>&#x000a7;</sup>Department of Biochemistry<institution>University of
+Illinois at Urbana&#x02212;Champaign</institution>, Urbana, Illinois 61801, <country>United States</country></aff><aff id="aff3"><label>&#x022a5;</label>School
+of Chemistry, <institution>The University of Manchester</institution>, Manchester M13 9PL, <country>United Kingdom</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>patrick.omalley@manchester.ac.uk</email> (P.J.O.).</corresp><corresp id="cor2"><label>*</label>E-mail: <email>wbdealmeida@gmail.com</email> (W.B.d.A.).</corresp></author-notes><pub-date pub-type="pmc-release"><day>24</day><month>06</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>24</day><month>06</month><year>2014</year></pub-date><pub-date pub-type="ppub"><day>07</day><month>08</month><year>2014</year></pub-date><volume>5</volume><issue>15</issue><fpage>2506</fpage><lpage>2509</lpage><history><date date-type="received"><day>15</day><month>05</month><year>2014</year></date><date date-type="accepted"><day>24</day><month>06</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2014 American Chemical Society</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">Terms of Use</ext-link></license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz-2014-00967d_0005" id="ab-tgr1"/></p><p>Recent studies have shown that only quinones with a 2-methoxy group
+can act simultaneously as the primary (Q<sub>A</sub>) and secondary
+(Q<sub>B</sub>) electron acceptors in photosynthetic reaction centers
+from purple bacteria such as <italic>Rb. sphaeroides</italic>. <sup>13</sup>C HYSCORE measurements of the 2-methoxy group in the semiquinone
+states, SQ<sub>A</sub> and SQ<sub>B</sub>, were compared with DFT
+calculations of the <sup>13</sup>C hyperfine couplings as a function
+of the 2-methoxy dihedral angle. X-ray structure comparisons support
+2-methoxy dihedral angle assignments corresponding to a redox potential
+gap (&#x00394;<italic>E</italic><sub>m</sub>) between Q<sub>A</sub> and
+Q<sub>B</sub> of 175&#x02013;193 mV. A model having a methyl group
+substituted for the 2-methoxy group exhibits no electron affinity
+difference. This is consistent with the failure of a 2-methyl ubiquinone
+analogue to function as Q<sub>B</sub> in mutant reaction centers with
+a &#x00394;<italic>E</italic><sub>m</sub> of &#x0223c;160&#x02013;195
+mV. The conclusion reached is that the 2-methoxy group is the principal
+determinant of electron transfer from Q<sub>A</sub> to Q<sub>B</sub> in type II photosynthetic reaction centers with ubiquinone serving
+as both acceptor quinones.</p></abstract><funding-group><funding-statement><funding-source>National Institutes of Health, United States</funding-source></funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jz500967d</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jz-2014-00967d</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta><notes id="ls900"><title>Notes</title><p>This
+article has an <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/iapps/liveslides/pages/index.htm?mscNo=jz500967d" id="ls1"><italic>ACS LiveSlides</italic> presentation available</ext-link>. Visit the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/jpclcd/acsliveslides.html" id="ls2"><italic>ACS LiveSlides</italic> catalog</ext-link> to view the entire
+collection.</p></notes></front><body><p>Type II reaction centers (RCs)
+from anoxygenic and oxygenic photosynthetic RCs contain two quinones
+Q<sub>A</sub> and Q<sub>B</sub> that function in series as electron
+acceptors (Figure <xref rid="fig1" ref-type="fig">1</xref>).<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> Following
+charge separation in the RC, Q<sub>A</sub> is one-electron-reduced,
+generating the semiquinone radical form SQ<sub>A</sub>, which then
+transfers the electron to Q<sub>B</sub>, forming SQ<sub>B</sub>. In
+the anoxygenic species <italic>Rhodobacter (Rb.) sphaeroides</italic>, and many others, Q<sub>A</sub> and Q<sub>B</sub> are chemically
+identical ubiquinones, and yet forward electron transfer is thermodynamically
+favorable by 60&#x02013;75 mV.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup></p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Q<sub>A</sub> and Q<sub>B</sub> quinones in the <italic>Rb. sphaeroides</italic> RC (coordinates from PDB ID: 3I4D). Hydrogen bond
+acceptance by the O4 atom of each quinone from the imidazole group
+N<sub>&#x003b4;</sub> of His-M219 (Q<sub>A</sub>) and His-L190 (Q<sub>B</sub>) is illustrated, as well as the Fe(II) atom that bridges
+the imidazoles. The 2-methoxy group of each quinone is circled in
+red.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz-2014-00967d_0002" id="gr1" position="float"/></fig><p>The tuning of cofactor redox potentials is critically important
+to biological function and can often be accounted for by the electrostatic
+environment provided by the protein solvation.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> This appears to be sufficient for electron transfer in oxygenic
+Photosystem II (PS II), where plastoquinone is active in both quinone
+sites. However, it cannot account for the unique ability of ubiquinone
+and other 2-methoxy-containing quinones to simultaneously fulfill
+Q<sub>A</sub> and Q<sub>B</sub> activity in <italic>Rb. sphaeroides</italic> RCs.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> This was clearly demonstrated using
+two synthetic analogues of ubiquinone in which one or the other of
+the two methoxy groups was replaced by a methyl group, 2-methoxy-3,5-dimethyl-6-tetraisoprenyl-1,4-benzoquinone
+(2-MeO-Q) and 3-methoxy-2,5-dimethyl-6-tetraisoprenyl-1,4-benzoquinone
+(3-MeO-Q). Both can fully reconstitute Q<sub>A</sub> function, but
+only 2-MeO-Q was also active as Q<sub>B</sub>; 3-MeO-Q was completely
+inactive.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> This points to a factor unique
+to the 2-methoxy group in determining functionality in the Q<sub>B</sub> site.</p><p>The orientation that a methoxy group makes with the quinone ring
+plane has been previously investigated with regard to its influence
+on the quinone electron affinity and resultant redox potential (<italic>E</italic><sub>m</sub>) value.<sup><xref ref-type="bibr" rid="ref7">7</xref>&#x02212;<xref ref-type="bibr" rid="ref9">9</xref></sup> Qualitatively, it can be reasoned
+that when the methoxy group is out of the plane of the quinone ring,
+the main influence is the electron-withdrawing nature of the electronegative
+oxygen, leading to a relatively increased electron affinity. When
+the methoxy is in plane, the oxygen <italic>p</italic> orbitals can
+conjugate with the &#x003c0;-system of the quinone, causing electron
+donation to the ring, leading to a decreased electron affinity. The
+orientations of the methoxy groups for the Q<sub>A</sub> and Q<sub>B</sub> sites should, in principle, be obtainable from the atomic-level
+structural information available from crystal structure determinations
+on RC preparations. However, this is precluded by a lack of conformity
+on the methoxy orientations in Q<sub>A</sub> and Q<sub>B</sub> in
+the numerous available X-ray structures.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup></p><p>We have recently introduced an additional method of estimating
+methoxy group orientation by using hyperfine sublevel correlation
+(HYSCORE) measurements of the semiquinone radicals (SQ<sub>A</sub> and SQ<sub>B</sub>) in RCs containing ubiquinone <sup>13</sup>C-labeled
+at the two methoxy groups.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> The 2-methoxy groups
+in Q<sub>A</sub> and Q<sub>B</sub> were shown to give rise to quite
+distinct <sup>13</sup>C isotropic hyperfine coupling (hfc) values
+with the magnitude of SQ<sub>B</sub> exceeding that of SQ<sub>A</sub>. Comparison of these couplings with quantum mechanically predicted
+values for a small model (6-methyl-ubisemiquinone) as a function of
+the methoxy orientation demonstrated that the larger value for SQ<sub>B</sub> could be at least qualitatively explained by a more out-of-plane
+orientation of the 2-methoxy group compared with that of SQ<sub>A</sub>. As this was also associated with a higher electron affinity value,
+the higher redox potential of the Q<sub>B</sub> ubiquinone was easily
+rationalized.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> However, other computational
+approaches have indicated that the midpoint potential difference between
+Q<sub>A</sub> and Q<sub>B</sub> can be accounted for by classical
+electrostatics,<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> such that the added effect
+of the 2-methoxy group orientation would be in excess of the experimental
+difference of 60&#x02013;75 mV.</p><p>To address this, in this Letter we carry out a full quantitative
+analysis of the methoxy group orientation using a larger model (Figure
+S1a, <xref rid="notes-1" ref-type="notes">Supporting Information</xref>), computed
+over the full range of &#x000b1;180&#x000b0;. This allows us to fully explore
+the complete orientation dependence of the methoxy group and directly
+compare with experimental determinations. We also investigate models
+for 2-MeO-Q and 3-MeO-Q (Figures S1b and S1c, <xref rid="notes-1" ref-type="notes">Supporting Information</xref>), which have been instrumental in experimentally
+demonstrating the key role played by the 2-methoxy group in controlling
+the redox potential of the ubiquinone.</p><p>The theoretical dependence of the 2-methoxy isotropic <sup>13</sup>C hfc on the methoxy orientation for our ubisemiquinone model is
+shown in Figure <xref rid="fig2" ref-type="fig">2</xref>. The <sup>13</sup>C couplings
+(<italic>A</italic><sub>iso</sub>) for the 2-methoxy group in SQ<sub>A</sub> (1.3 MHz) and SQ<sub>B</sub> (5.7 MHz, adjusted to the same
+unpaired spin density (0.11) on C<sub>2</sub>)<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> are indicated by the solid horizontal lines. This defines
+four possible dihedral angles in the two SQs (see Figure <xref rid="fig2" ref-type="fig">2</xref> legend). In a survey of X-ray structures at resolutions
+of at least 2.8 &#x000c5;, the average values for the 2-methoxy dihedral
+angles (C<sub><italic>m</italic></sub>O<sub><italic>m</italic></sub>C<sub>2</sub>C<sub>1</sub>) of Q<sub>A</sub> and Q<sub>B</sub> were
+Q<sub>A</sub> = +139 &#x000b1; 25&#x000b0; and Q<sub>B</sub> = &#x02212;90
+&#x000b1; 9&#x000b0;, showing that the 2-methoxy group is located on opposite
+sides of the ring for the two quinone sites and that the Q<sub>A</sub> site quinone has a 2-methoxy orientation relatively closer to the
+ring plane.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> One can see that the best
+agreement when comparing our estimated dihedral angles with the experimental
+X-ray range is +155&#x000b0; for SQ<sub>A</sub> and &#x02212;82&#x000b0;
+for SQ<sub>B</sub>. These are shown in Figure <xref rid="fig2" ref-type="fig">2</xref> by the solid vertical arrows.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Variation in the 2-methoxy <sup>13</sup>C<sub><italic>m</italic></sub> isotropic hfc as a function of the C<sub><italic>m</italic></sub>O<sub><italic>m</italic></sub>C<sub>2</sub>C<sub>1</sub> dihedral
+angle for the model shown in Figure S1a (<xref rid="notes-1" ref-type="notes">Supporting
+Information</xref>). The estimates for the 2-methoxy dihedral angles,
+giving agreement with experimental determinations, are indicated by
+green (Q<sub>A</sub>) and pink (Q<sub>B</sub>) vertical arrows, Q<sub>A</sub> (&#x02212;155&#x000b0;, &#x02212;50&#x000b0;, 50&#x000b0;, 155&#x000b0;)
+and Q<sub>B</sub> (&#x02212;130&#x000b0;,-82&#x000b0;, 82&#x000b0;,130&#x000b0;).
+The best agreement with X-ray C<sub><italic>m</italic></sub>O<sub><italic>m</italic></sub>C<sub>2</sub>C<sub>1</sub> dihedral angle
+values are highlighted in bold vertical arrows. Experimental Q<sub>A</sub> and Q<sub>B</sub> 2-methoxy <sup>13</sup>C hfc values for
+the ubsemiquinone radical are indicated as solid horizontal lines.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz-2014-00967d_0003" id="gr2" position="float"/></fig><p>Figure <xref rid="fig3" ref-type="fig">3</xref> gives the variation in electron
+affinity value as a function of the 2-methoxy dihedral angle. Again,
+the orientations corresponding most closely to the crystal structure
+analysis are indicated by the vertical arrows. For the dihedral angles
+given above, the Q<sub>B</sub> site quinone is estimated to have an
+electron affinity 175 meV higher than that of Q<sub>A</sub>. This
+is similar to our previous calculated value using a smaller model
+and restricted scan.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> Also included in Table <xref rid="tbl1" ref-type="other">1</xref> is the &#x00394;EA value calculated when the 3-methoxy
+group (C<sub><italic>m</italic></sub>O<sub><italic>m</italic></sub>C<sub>3</sub>C<sub>4</sub>) is fixed at its midrange value from the
+crystal structure analysis, &#x02212;77&#x000b0; for Q<sub>A</sub> and
++88&#x000b0; for Q<sub>B</sub>.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> This leads
+to an elevation of the &#x00394;EA value to 193 meV compared with 175
+meV using the optimized 3-methoxy dihedral angle values. This illustrates,
+as expected, that the 3-methoxy orientation influences the electron
+affinity as well but that the orientation of this group is similar
+for both Q<sub>A</sub> and Q<sub>B</sub>, in contrast to the 2-methoxy
+group where each has a significantly different orientation.</p><p>The favorable electron affinity difference (&#x00394;EA), resulting
+from the 2-methoxy orientation difference in Q<sub>A</sub> and Q<sub>B</sub>, is significantly larger than the experimentally measured
+&#x00394;<italic>E</italic><sub>m</sub> of 60&#x02013;75 mV in wild-type
+RCs. This implies, somewhat surprisingly, that the protein-solvation
+contribution to the electron-transfer reaction may be at least 100
+mV, unfavorable for Q<sub>A</sub> to Q<sub>B</sub> electron transfer
+in the wild type. This is in striking contrast to electrostatic calculations,
+which imply a favorable solvation influence.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> This could be due to either an overestimation of the EA difference
+using our theoretical model or incorrect parametrization in the electrostatic
+calculations. To further explore this, we have calculated the electron
+affinity values for 2-MeO-Q and 3-MeO-Q quinone models (Figures S1b
+and S1c, <xref rid="notes-1" ref-type="notes">Supporting Information</xref>). The values
+are given in Table <xref rid="tbl1" ref-type="other">1</xref>. Replacement of the 3-methoxy
+group by a methyl group (2-MeO-Q) leads to the same EA difference
+value, 175 meV, while replacement of the 2-methoxy group by methyl
+(3-MeO-Q) effectively eliminates the EA difference, demonstrating
+its crucial contribution. The essentially same electron affinity for
+Q<sub>A</sub> and Q<sub>B</sub> (&#x00394;EA = 0 or 10 meV) predicted
+for the 3-MeO-Q model explains the lack of Q<sub>B</sub> reduction
+observed experimentally for this quinone upon substitution in wild-type
+RCs. In contrast, the maintenance of electron transfer for 2-MeO-Q
+in wild-type RCs is readily accounted for by an electron affinity
+difference very similar to that exhibited by the native ubiquinone
+(&#x00394;EA = 175 or 193 mV).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Variation in EA as a function of the C<sub><italic>m</italic></sub>O<sub><italic>m</italic></sub>C<sub>2</sub>C<sub>1</sub> dihedral
+angle for the model shown in Figure S1a (<xref rid="notes-1" ref-type="notes">Supporting
+Information</xref>). Bold vertical arrows indicate dihedral angle
+values for SQ<sub>A</sub> and SQ<sub>B</sub> estimated from Figure <xref rid="fig2" ref-type="fig">2</xref>. The 3-methoxy dihedral angles (C<sub><italic>m</italic></sub>O<sub><italic>m</italic></sub>C<sub>3</sub>C<sub>4</sub>) for
+the Q<sub>A</sub> and Q<sub>B</sub> points are, respectively, &#x02212;63.5
+and &#x02212;66.1&#x000b0;. The horizontal lines are the EA values (Q<sub>A</sub> and Q<sub>B</sub>) for ubiquinone.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz-2014-00967d_0004" id="gr3" position="float"/></fig><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Electron Affinity Difference (&#x00394;EA,
+Q<sub>B</sub> &#x02013; Q<sub>A</sub>) for Model Ubisemiquinone (2,3-diMeO-Q:
+2,3-dimethoxy-5-methyl-6-isoprenyl-1,4-benzoquinone) and Corresponding
+Monomethoxy Structures 3-MeO-Q (3-methoxy-2,5-dimethyl-6-isoprenyl-1,4-benzoquinone)
+and 2-MeO-Q (2-methoxy-3,5-dimethyl-6-isoprenyl-1,4-benzoquinone)<xref rid="tbl1-fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th colspan="2" align="center" char=".">Electron Affinity Difference<xref rid="tbl1-fn2" ref-type="table-fn">b</xref><break/>(&#x00394;EA/meV)<hr/></th></tr><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char="."><bold>A</bold></th><th style="border:none;" align="center" char="."><bold>B</bold></th></tr></thead><tbody><tr><td style="border:none;" align="left">2,3-diMeO-Q</td><td style="border:none;" align="char" char=".">175</td><td style="border:none;" align="char" char=".">193</td></tr><tr><td style="border:none;" align="left">2-MeO-Q</td><td style="border:none;" align="char" char=".">175</td><td style="border:none;" align="char" char=".">175</td></tr><tr><td style="border:none;" align="left">3-MeO-Q</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">10</td></tr></tbody></table><table-wrap-foot><fn id="tbl1-fn1"><label>a</label><p>See Figure S1, <xref rid="notes-1" ref-type="notes">Supporting Information</xref>.</p></fn><fn id="tbl1-fn2"><label>b</label><p>These electron affinities were
+obtained by re-optimizing the geometry while keeping the 2-methoxy
+dihedral angles fixed at their values from Figure <xref rid="fig2" ref-type="fig">2</xref> (Q<sub>A</sub>: 2-MeO (C<sub>m</sub>O<sub>m</sub>C<sub>2</sub>C<sub>1</sub>) = +155&#x000b0;; Q<sub>B</sub>: 2-MeO (C<sub>m</sub>O<sub>m</sub>C<sub>2</sub>C<sub>1</sub>) = &#x02212;82&#x000b0;) and the 3-methoxy
+dihedral angles (3-MeO (C<sub>m</sub>O<sub>m</sub>C<sub>3</sub>C<sub>4</sub>)) kept at either their optimized values (column <bold>A</bold>: 3-MeO &#x02212;63.5&#x000b0; (Q<sub>A</sub>) and &#x02212;66.1&#x000b0;
+(Q<sub>B</sub>)) or at the mid-range crystal structure values (column <bold>B</bold>: 3-MeO &#x02212;77&#x000b0; (Q<sub>A</sub>) and +88&#x000b0; (Q<sub>B</sub>)). </p></fn></table-wrap-foot></table-wrap><p>Of special relevance are the data obtained for a mutant with isoleucine
+replaced by threonine at residue M265 in the Q<sub>A</sub> site. Here,
+the <italic>E</italic><sub>m</sub> of Q<sub>A</sub> is decreased by
+100&#x02013;120 mV by a mechanism that does not involve the methoxy
+groups.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> No electron transfer from Q<sub>A</sub> to Q<sub>B</sub> is observed experimentally for the 3-MeO-Q
+substituted form.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> Thus, even though a
+favorable site &#x00394;<italic>E</italic><sub>m</sub> value of 100&#x02013;120
+mV has been engineered to facilitate Q<sub>A</sub> to Q<sub>B</sub> electron transfer, the quinone lacking the 2-methoxy group is still
+unable to manifest electron transfer. Only an out-of-plane-oriented
+2-methoxy group can elevate the electron affinity of Q<sub>B</sub> sufficiently to overcome a net unfavorable site solvation effect
+and render electron transfer from Q<sub>A</sub> thermodynamically
+favorable. Strong corroboration comes from a recent experimental study
+in which naphthoquinones were tested for Q<sub>B</sub> activity.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> These quinones, lacking methoxy groups, were
+found to exhibit Q<sub>B</sub> redox potentials 60&#x02013;100 mV more
+negative than expected by comparison with the native ubiquinone and
+were only reducible when a low-potential quinone was present in the
+Q<sub>A</sub> site.</p><p>The heterodimeric RCs present in PS II and purple bacteria are
+believed to have evolved from a common homodimeric system, with efficient
+Q<sub>A</sub> to Q<sub>B</sub> electron transfer providing a key driving
+force.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> For bacteria, this was accomplished
+using the 2-methoxy group of its ubiquinone. In PS II, which uses
+plastoquinone, lacking methoxy groups, an alternative mechanism is
+required. Most simply, this would be the local electrostatic environment,
+as proposed in previous electrostatic calculations.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> A recent theoretical study suggested that a complex switching
+mechanism using tyrosine residues and bicarbonate may also influence
+Q<sub>A</sub> to Q<sub>B</sub> electron transfer in PS II.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup></p></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>Computational models and methods.
+This material is available free of charge via the Internet at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="d31e283"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz500967d_si_002.htm"><caption><p>jz500967d_si_002.htm</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz500967d_si_001.pdf"><caption><p>jz500967d_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="NOTES-d191e1032-autogenerated" notes-type="conflict-of-interest"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work was supported by NSF Grant MCB-0818121 (C.A.W.),
+DE-FG02-08ER15960 Grant from the Chemical Sciences, Geosciences and
+Biosciences Division, Office of Basic Energy Sciences, Office of Sciences,
+U.S Department of Energy, and NIH Grant G.M062954 (S.A.D.), and NCRR/NIH
+Grants S10-RR15878 and S10-RR025438 for pulsed EPR instrumentation.
+P.J.O&#x02019;M. acknowledges the use of computer resources granted
+by the EPSRC U.K. national service for computational chemistry software
+(NSCCS). A.T.T. gratefully acknowledges support as a NIH trainee of
+the Molecular Biophysics Training Program (5T32-GM008276). W.B.d.A.
+would like to thank FAPEMIG (Funda&#x000e7;&#x000e3;o de Amparo a Pesquisa
+no Estado de Minas Gerais) for financial support during his stay at
+The University of Manchester, U.K., and CNPq (Conselho Nacional de
+Desenvolvimento Cient&#x000ed;fico e Tecnol&#x000f3;gico) for
+a research grant. He also thanks his home university (Departamento
+de Qu&#x000ed;mica, UFMG) for a leave of absence. We also thank
+the University of Manchester Computer Share Facilities (CSF) for providing
+computational resources to develop this work.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Cardona</surname><given-names>T.</given-names></name>; <name><surname>Sedoud</surname><given-names>A.</given-names></name>; <name><surname>Cox</surname><given-names>N.</given-names></name>; <name><surname>Rutherford</surname><given-names>A. W.</given-names></name>
+<article-title>Charge
+Separation in Photosystem II: A Comparative and Evolutionary Overview</article-title>. <source>Biochim. Biophys. Acta</source>
+<year>2012</year>, <volume>1817</volume><issue>1</issue><fpage>26</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">21835158</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Heathcote</surname><given-names>P.</given-names></name>; <name><surname>Fyfe</surname><given-names>P. K.</given-names></name>; <name><surname>Jones</surname><given-names>M. R.</given-names></name>
+<article-title>Reaction Centres: The Structure and
+Evolution of Biological Solar Power</article-title>. <source>Trends
+Biochem. Sci.</source>
+<year>2002</year>, <volume>27</volume><issue>2</issue><fpage>79</fpage>&#x02013;<lpage>87</lpage>.<pub-id pub-id-type="pmid">11852245</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Takahashi</surname><given-names>E.</given-names></name>; <name><surname>Wells</surname><given-names>T. A.</given-names></name>; <name><surname>Wraight</surname><given-names>C. A.</given-names></name>
+<article-title>Protein Control of the Redox Potential
+of the Primary Quinone Acceptor in Reaction Centers from <italic>Rhodobacter
+sphaeroides</italic></article-title>. <source>Biochemistry</source>
+<year>2001</year>, <volume>40</volume><issue>4</issue><fpage>1020</fpage>&#x02013;<lpage>1028</lpage>.<pub-id pub-id-type="pmid">11170424</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Zhu</surname><given-names>Z. Y.</given-names></name>; <name><surname>Gunner</surname><given-names>M. R.</given-names></name>
+<article-title>Energetics of Quinone-Dependent Electron and Proton
+Transfers in <italic>Rhodobacter sphaeroides</italic> Photosynthetic
+Reaction Centers</article-title>. <source>Biochemistry</source>
+<year>2005</year>, <volume>44</volume><issue>1</issue><fpage>82</fpage>&#x02013;<lpage>96</lpage>.<pub-id pub-id-type="pmid">15628848</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>McComb</surname><given-names>J. C.</given-names></name>; <name><surname>Stein</surname><given-names>R. R.</given-names></name>; <name><surname>Wraight</surname><given-names>C. A.</given-names></name>
+<article-title>Investigations on the Influence of
+Headgroup Substitution and Isoprene Side Chain Length in the Function
+of Primary and Secondary Quinones of Bacterial Reaction Centers</article-title>. <source>Biochim. Biophys. Acta</source>
+<year>1990</year>, <volume>1015</volume><issue>1</issue><fpage>156</fpage>&#x02013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">2404516</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Wraight</surname><given-names>C. A.</given-names></name>; <name><surname>Vakkasoglu</surname><given-names>A. S.</given-names></name>; <name><surname>Poluektov</surname><given-names>Y.</given-names></name>; <name><surname>Mattis</surname><given-names>A. J.</given-names></name>; <name><surname>Nihan</surname><given-names>D.</given-names></name>; <name><surname>Lipshutz</surname><given-names>B. H.</given-names></name>
+<article-title>The 2-Methoxy Group of Ubiquinone Is Essential for
+Function of the Acceptor Quinones in Reaction Centers from <italic>Rb. sphaeroides</italic></article-title>. <source>Biochim. Biophys.
+Acta</source>
+<year>2008</year>, <volume>1777</volume><issue>7&#x02013;8</issue><fpage>631</fpage>&#x02013;<lpage>636</lpage>.<pub-id pub-id-type="pmid">18474215</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Robinson</surname><given-names>H. H.</given-names></name>; <name><surname>Kahn</surname><given-names>S. D.</given-names></name>
+<article-title>Interplay of Substituent Conformation and Electron
+Affinity in Quinone Models of Quinone Reductases</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1990</year>, <volume>112</volume><issue>12</issue><fpage>4728</fpage>&#x02013;<lpage>4731</lpage>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Prince</surname><given-names>R. C.</given-names></name>; <name><surname>Dutton</surname><given-names>P. L.</given-names></name>; <name><surname>Bruce</surname><given-names>J. M.</given-names></name>
+<article-title>Electrochemistry of Ubiquinones,
+Menaquinones and Plastoquinones in Aprotic Solvents</article-title>. <source>FEBS Letters</source>
+<year>1983</year>, <volume>160</volume><issue>1&#x02013;2</issue><fpage>273</fpage>&#x02013;<lpage>276</lpage>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="book" id="cit9"><person-group person-group-type="allauthors"><name><surname>Prince</surname><given-names>R. C.</given-names></name>; <name><surname>Halbert</surname><given-names>T. R.</given-names></name>; <name><surname>Upton</surname><given-names>T. H.</given-names></name></person-group> In <source>Advances in Membrane
+Biochemistry and Bioenergetics</source>; <person-group person-group-type="editor"><name><surname>Kim</surname><given-names>C. H.</given-names></name>, <name><surname>Tedeschi</surname><given-names>H.</given-names></name>, <name><surname>Diwan</surname><given-names>J.
+J.</given-names></name>, <name><surname>Salerno</surname><given-names>J. C.</given-names></name></person-group>, Eds.; <publisher-name>Plenum
+Press</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>1988</year>; pp <fpage>469</fpage>&#x02013;<lpage>478</lpage>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="book" id="cit10"><person-group person-group-type="allauthors"><name><surname>Wraight</surname><given-names>C. A.</given-names></name>; <name><surname>Gunner</surname><given-names>M. R.</given-names></name></person-group> In <source>The Purple Photosynthetic
+Bacteria</source>; <person-group person-group-type="editor"><name><surname>Hunter</surname><given-names>C. N.</given-names></name>, <name><surname>Daldal</surname><given-names>F.</given-names></name>, <name><surname>Thurnauer</surname><given-names>M. C.</given-names></name>, <name><surname>Beatty</surname><given-names>J. T.</given-names></name></person-group>, Eds.; <publisher-name>Springer</publisher-name>: <publisher-loc>The Netherlands</publisher-loc>, <year>2009</year>; pp <fpage>379</fpage>&#x02013;<lpage>405</lpage>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Taguchi</surname><given-names>A. T.</given-names></name>; <name><surname>Mattis</surname><given-names>A. J.</given-names></name>; <name><surname>O&#x02019;Malley</surname><given-names>P. J.</given-names></name>; <name><surname>Dikanov</surname><given-names>S. A.</given-names></name>; <name><surname>Wraight</surname><given-names>C. A.</given-names></name>
+<article-title>Tuning
+Cofactor Redox Potentials: The 2-Methoxy Dihedral Angle Generates
+a Redox Potential Difference of &#x0003e;160 mV between the Primary Q<sub>A</sub> and Secondary Q<sub>B</sub> Quinones of the Bacterial Photosynthetic
+Reaction Center</article-title>. <source>Biochemistry</source>
+<year>2013</year>, <volume>52</volume><issue>41</issue><fpage>7164</fpage>&#x02013;<lpage>7166</lpage>.<pub-id pub-id-type="pmid">24079813</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Taguchi</surname><given-names>A. T.</given-names></name>; <name><surname>O&#x02019;Malley</surname><given-names>P. J.</given-names></name>; <name><surname>Wraight</surname><given-names>C. A.</given-names></name>; <name><surname>Dikanov</surname><given-names>S. A.</given-names></name>
+<article-title>Conformational Differences
+between the Methoxy Groups of Q<sub>A</sub> and Q<sub>B</sub> Site
+Ubisemiquinones in Bacterial Reaction Centers: A Key Role for Methoxy
+Group Orientation in Modulating Ubiquinone Redox Potential</article-title>. <source>Biochemistry</source>
+<year>2013</year>, <volume>52</volume><issue>27</issue><fpage>4648</fpage>&#x02013;<lpage>4655</lpage>.<pub-id pub-id-type="pmid">23745576</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Alexov</surname><given-names>E. G.</given-names></name>; <name><surname>Gunner</surname><given-names>M. R.</given-names></name>
+<article-title>Calculated Protein and Proton Motions Coupled to Electron
+Transfer: Electron Transfer from Q<sub>A</sub> to Q<sub>B</sub> in
+Bacterial Photosynthetic Reaction Centers</article-title>. <source>Biochemistry</source>
+<year>1999</year>, <volume>38</volume><issue>26</issue><fpage>8253</fpage>&#x02013;<lpage>8270</lpage>.<pub-id pub-id-type="pmid">10387071</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Gunner</surname><given-names>M. R.</given-names></name>
+<article-title>Affinity and Activity of Non-Native Quinones at the
+Q<sub>B</sub> Site of Bacterial Photosynthetic Reaction Centers</article-title>. <source>Photosynth. Res.</source>
+<year>2014</year>, <volume>120</volume>, <fpage>181</fpage>&#x02013;<lpage>196</lpage>.<pub-id pub-id-type="pmid">23715773</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Ishikita</surname><given-names>H.</given-names></name>; <name><surname>Knapp</surname><given-names>E.-W.</given-names></name>
+<article-title>Control of Quinone Redox Potentials in Photosystem
+II: Electron Transfer and Photoprotection</article-title>. <source>J.
+Am. Chem. Soc.</source>
+<year>2005</year>, <volume>127</volume>, <fpage>14714</fpage>&#x02013;<lpage>14720</lpage>.<pub-id pub-id-type="pmid">16231925</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Saito</surname><given-names>K.</given-names></name>; <name><surname>Rutherford</surname><given-names>A. W.</given-names></name>; <name><surname>Ishikita</surname><given-names>H.</given-names></name>
+<article-title>Mechanism of Proton-Coupled Quinone
+Reduction in Photosystem II</article-title>. <source>Proc. Natl. Acad.
+Sci. U.S.A.</source>
+<year>2013</year>, <volume>110</volume><issue>3</issue><fpage>954</fpage>&#x02013;<lpage>959</lpage>.<pub-id pub-id-type="pmid">23277574</pub-id></mixed-citation></ref></ref-list></back></article>
