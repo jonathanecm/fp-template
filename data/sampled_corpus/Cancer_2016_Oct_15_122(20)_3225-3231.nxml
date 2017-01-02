@@ -1,0 +1,516 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer</journal-id><journal-id journal-id-type="iso-abbrev">Cancer</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1097-0142</journal-id><journal-id journal-id-type="publisher-id">CNCR</journal-id><journal-title-group><journal-title>Cancer</journal-title></journal-title-group><issn pub-type="ppub">0008-543X</issn><issn pub-type="epub">1097-0142</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27351298</article-id><article-id pub-id-type="pmc">5094521</article-id><article-id pub-id-type="doi">10.1002/cncr.30050</article-id><article-id pub-id-type="publisher-id">CNCR30050</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group subj-group-type="heading"><subject>Discipline</subject><subj-group subj-group-type="heading"><subject>Radiation Oncology</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Significant impact of biochemical recurrence on overall mortality in patients with high&#x02010;risk prostate cancer after carbon&#x02010;ion radiotherapy combined with androgen deprivation therapy</article-title><alt-title alt-title-type="right-running-head">BR and Mortality After CIRT for PC</alt-title><alt-title alt-title-type="left-running-head">Kasuya et al</alt-title></title-group><contrib-group><contrib id="cncr30050-cr-0001" contrib-type="author"><name><surname>Kasuya</surname><given-names>Goro</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr30050-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cncr30050-cr-0002" contrib-type="author"><name><surname>Ishikawa</surname><given-names>Hitoshi</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr30050-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cncr30050-cr-0003" contrib-type="author" corresp="yes"><name><surname>Tsuji</surname><given-names>Hiroshi</given-names></name><degrees>MD, PhD</degrees><address><email>h_tsuji@nirs.go.jp</email></address><xref ref-type="aff" rid="cncr30050-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cncr30050-cr-0004" contrib-type="author"><name><surname>Nomiya</surname><given-names>Takuma</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr30050-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cncr30050-cr-0005" contrib-type="author"><name><surname>Makishima</surname><given-names>Hirokazu</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr30050-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cncr30050-cr-0006" contrib-type="author"><name><surname>Kamada</surname><given-names>Tadashi</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr30050-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cncr30050-cr-0007" contrib-type="author"><name><surname>Akakura</surname><given-names>Koichiro</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr30050-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cncr30050-cr-0008" contrib-type="author"><name><surname>Suzuki</surname><given-names>Hiroyoshi</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr30050-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cncr30050-cr-0009" contrib-type="author"><name><surname>Shimazaki</surname><given-names>Jun</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr30050-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cncr30050-cr-0010" contrib-type="author"><name><surname>Haruyama</surname><given-names>Yasuo</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr30050-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="cncr30050-cr-0011" contrib-type="author"><name><surname>Kobashi</surname><given-names>Gen</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr30050-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="cncr30050-cr-0012" contrib-type="author"><name><surname>Tsujii</surname><given-names>Hirohiko</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr30050-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cncr30050-cr-0013" contrib-type="author"><collab collab-type="authors">for the Working Group for Genitourinary Tumors</collab></contrib></contrib-group><aff id="cncr30050-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Research Center Hospital for Charged Particle Therapy</named-content><institution>National Institute of Radiological Sciences</institution><named-content content-type="city">Chiba</named-content><country country="JP">Japan</country></aff><aff id="cncr30050-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Radiation Oncology, Graduate School of Medicine</named-content><institution>Tsukuba University Faculty of Medicine</institution><named-content content-type="city">Ibaraki</named-content><country country="JP">Japan</country></aff><aff id="cncr30050-aff-0003"><label><sup>3</sup></label><institution>Kanagawa Cancer Center</institution><named-content content-type="city">Yokohama</named-content><country country="JP">Japan</country></aff><aff id="cncr30050-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Department of Urology</named-content><institution>Japan Community Health Care Organization Tokyo Shinjuku Medical Center</institution><named-content content-type="city">Tokyo</named-content><country country="JP">Japan</country></aff><aff id="cncr30050-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Department of Urology</named-content><institution>Toho University Sakura Medical Center</institution><named-content content-type="city">Chiba</named-content><country country="JP">Japan</country></aff><aff id="cncr30050-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">Department of Urology, Graduate School of Medicine</named-content><institution>Chiba University</institution><named-content content-type="city">Chiba</named-content><country country="JP">Japan</country></aff><aff id="cncr30050-aff-0007"><label><sup>7</sup></label><named-content content-type="organisation-division">Department of Public Health</named-content><institution>Dokkyo Medical University School of Medicine</institution><named-content content-type="city">Tochigi</named-content><country country="JP">Japan</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Corresponding author</bold>: Hiroshi Tsuji, MD, PhD, Research Center Hospital for Charged Particle Therapy, National Institute of Radiological Sciences, 4&#x02010;9&#x02010;1 Anagawa, Inage&#x02010;Ku, Chiba City, 263&#x02010;8555 Japan; Fax: (011) 81&#x02010;43&#x02010;284&#x02010;0198; <email>h_tsuji@nirs.go.jp</email></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>6</month><year>2016</year></pub-date><pub-date pub-type="ppub"><day>15</day><month>10</month><year>2016</year></pub-date><volume>122</volume><issue>20</issue><issue-id pub-id-type="doi">10.1002/cncr.v122.20</issue-id><fpage>3225</fpage><lpage>3231</lpage><history><date date-type="received"><day>05</day><month>2</month><year>2016</year></date><date date-type="rev-recd"><day>18</day><month>3</month><year>2016</year></date><date date-type="accepted"><day>04</day><month>4</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 American Cancer Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>Cancer</italic> published by Wiley Periodicals, Inc. on behalf of <italic>American Cancer Society</italic>.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:CNCR-122-3225.pdf"/><abstract><sec id="cncr30050-sec-0001"><title>BACKGROUND</title><p>Whether biochemical recurrence (BR) is a significant predictive factor of mortality after definitive radiation therapy for prostate cancer remains unknown. The aim of the current study was to investigate the relation between BR and overall mortality (OAM) in high&#x02010;risk prostate cancer patients who were treated with carbon&#x02010;ion radiotherapy (CIRT) and had long&#x02010;term follow&#x02010;up in 2 prospective trials.</p></sec><sec id="cncr30050-sec-0002"><title>METHODS</title><p>In the 2 phase 2 clinical trials, which involved 466 prostate cancer patients who received 63.0 to 66.0 Gy of CIRT (relative biological effect) in 20 fractions between 2000 and 2007, 324 patients who were deemed to be at high risk on the basis of the modified D'Amico classification criteria and received CIRT along with androgen&#x02010;deprivation therapy (ADT) were examined. The OAM rate was adjusted for the ADT duration, and multivariate analyses using a Cox proportional hazards model were performed for OAM with BR as a time&#x02010;dependent covariate.</p></sec><sec id="cncr30050-sec-0003"><title>RESULTS</title><p>The median follow&#x02010;up period was 107.4 months, and the 5&#x02010; and 10&#x02010;year OAM rates after adjustments for the ADT duration were 7.0% (95% confidence interval [CI], 4.0%&#x02010;9.4%) and 23.9% (95% CI, 16.4%&#x02010;26.2%), respectively. A multivariate analysis revealed that the presence of BR (hazard ratio, 2.82; 95% Cl, 1.57&#x02010;5.08; <italic>P</italic> = .001) was one of the predictive factors for OAM. On the other hand, the duration of ADT had no impact on OAM.</p></sec><sec id="cncr30050-sec-0004"><title>CONCLUSIONS</title><p>BR after CIRT combined with ADT is an independent predictive factor for OAM in high&#x02010;risk prostate cancer patients. The results of this study could be applied to other high&#x02010;dose radiation therapies. <bold><italic>Cancer</italic> 2016;122:3225&#x02013;31</bold>. &#x000a9; 2016 The Authors. <italic>Cancer</italic> published by Wiley Periodicals, Inc. on behalf of <italic>American Cancer Society</italic>. This is an open access article under the terms of the Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</p></sec></abstract><abstract abstract-type="short"><p>Two prospective phase 2 studies involving 324 high&#x02010;risk prostate cancer patients treated with carbon&#x02010;ion radiotherapy have revealed that the presence of biochemical recurrence is an independent predictive factor for overall mortality (hazard ratio, 2.82; 95% confidence interval, 1.57&#x02010;5.08; <italic>P</italic> = .001) in patients with high&#x02010;risk prostate cancer after carbon&#x02010;ion radiotherapy according to a multivariate analysis.</p></abstract><kwd-group><kwd id="cncr30050-kwd-0001">biochemical recurrence</kwd><kwd id="cncr30050-kwd-0002">carbon&#x02010;ion radiotherapy</kwd><kwd id="cncr30050-kwd-0003">high&#x02010;risk prostate cancer</kwd><kwd id="cncr30050-kwd-0004">mortality</kwd><kwd id="cncr30050-kwd-0005">Phoenix definition</kwd><kwd id="cncr30050-kwd-0006">prostate&#x02010;specific antigen (PSA)</kwd><kwd id="cncr30050-kwd-0007">prostate&#x02010;specific antigen failure</kwd></kwd-group><counts><fig-count count="0"/><table-count count="3"/><page-count count="7"/><word-count count="4236"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cncr30050</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 15, 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.6 mode:remove_FC converted:03.11.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="cncr30050-note-0001"><p>We deeply appreciate Daniel K. Ebner for his advice and proofreading of the manuscript.</p></fn></fn-group></notes></front><body><sec id="cncr30050-sec-0005"><title>INTRODUCTION</title><p>Radiotherapy (RT) and prostatectomy have played important roles in the radical treatment of patients with localized prostate cancer.<xref rid="cncr30050-bib-0001" ref-type="ref">1</xref> In both treatments, the prostate&#x02010;specific antigen (PSA) level is central to prostate cancer management. Before treatment, according to the National Comprehensive Cancer Network<xref rid="cncr30050-bib-0001" ref-type="ref">1</xref> and the D'Amico classification,<xref rid="cncr30050-bib-0002" ref-type="ref">2</xref> the PSA level is regarded as an important risk factor along with the T stage and the Gleason score (GS). After treatment, an increase in the PSA level suggests very early&#x02010;stage tumor recurrence, which is known as biochemical recurrence (BR).<xref rid="cncr30050-bib-0003" ref-type="ref">3</xref> An increase in the PSA level exceeding 0.2 ng/mL after prostatectomy or an increase of 2.0 ng/mL from the nadir after RT is generally accepted as the standard definition of BR.<xref rid="cncr30050-bib-0004" ref-type="ref">4</xref>, <xref rid="cncr30050-bib-0005" ref-type="ref">5</xref> Because prostate cancer generally has a long natural history and salvage therapy, including androgen&#x02010;deprivation therapy (ADT), and chemotherapy are effective for patients after BR,<xref rid="cncr30050-bib-0001" ref-type="ref">1</xref> long&#x02010;term survival after BR is anticipated for many of these patients.<xref rid="cncr30050-bib-0006" ref-type="ref">6</xref> However, it is not known whether BR is truly useful as a predictive factor for mortality after radical surgery and RT for prostate cancer.<xref rid="cncr30050-bib-0007" ref-type="ref">7</xref>, <xref rid="cncr30050-bib-0008" ref-type="ref">8</xref> In fact, previous studies have found that the time interval to BR and the PSA doubling time have a significant relation with mortality after recurrence,<xref rid="cncr30050-bib-0009" ref-type="ref">9</xref>, <xref rid="cncr30050-bib-0010" ref-type="ref">10</xref>, <xref rid="cncr30050-bib-0011" ref-type="ref">11</xref>, <xref rid="cncr30050-bib-0012" ref-type="ref">12</xref>, <xref rid="cncr30050-bib-0013" ref-type="ref">13</xref>, <xref rid="cncr30050-bib-0014" ref-type="ref">14</xref> but there is little evidence that BR itself has an impact on mortality.</p><p>The National Institute of Radiological Sciences (NIRS) in Chiba, Japan, started carbon&#x02010;ion radiotherapy (CIRT) in 1994 and began treatments for localized prostate cancer in 1995. After 2 phase 1/2 dose&#x02010;escalation trials, 2 phase 2 fixed dose clinical trials were performed from April 2000 through August 2007.<xref rid="cncr30050-bib-0015" ref-type="ref">15</xref>, <xref rid="cncr30050-bib-0016" ref-type="ref">16</xref> CIRT has a potential clinical benefit because of its better dose distribution and greater biological effects in comparison with RT using photons.<xref rid="cncr30050-bib-0017" ref-type="ref">17</xref>, <xref rid="cncr30050-bib-0018" ref-type="ref">18</xref> Several favorable treatment outcomes have been reported, especially for high&#x02010;risk prostate cancer patients who received CIRT combined with ADT.<xref rid="cncr30050-bib-0019" ref-type="ref">19</xref>, <xref rid="cncr30050-bib-0020" ref-type="ref">20</xref> However, our previous study demonstrated that prostate cancer&#x02013;specific mortality (PCSM) was observed only in the high&#x02010;risk group, even when CIRT was administered.<xref rid="cncr30050-bib-0021" ref-type="ref">21</xref>
+</p><p>To date, the relation between BR and mortality after CIRT has not been evaluated, so the purpose of this study was to investigate the impact of BR on overall mortality (OAM) or PCSM in patients with high&#x02010;risk prostate cancer (according to the modified D'Amico classification) after CIRT.</p></sec><sec id="cncr30050-sec-0006"><title>MATERIALS AND METHODS</title><p>Between April 2000 and August 2007, 2 prospective clinical trials&#x02014;9904 (66.0 Gy [relative biological effect (RBE)] over 20 fractions, April 2000 to July 2005) and 9904&#x02010;(2) (63 Gy [RBE] over 20 fractions, September 2005 to August 2007)&#x02014;were conducted, and they involved 466 patients with clinically localized prostate cancer treated at the NIRS. The eligibility criteria for the 2 protocols were noted in previous reports.<xref rid="cncr30050-bib-0016" ref-type="ref">16</xref>, <xref rid="cncr30050-bib-0019" ref-type="ref">19</xref>, <xref rid="cncr30050-bib-0020" ref-type="ref">20</xref>, <xref rid="cncr30050-bib-0021" ref-type="ref">21</xref> In summary, tumors were verified as adenocarcinomas and classified as T1&#x02010;T3N0M0. The T stage was evaluated according to <italic>TNM Classification of Malignant Tumours</italic> (seventh edition),<xref rid="cncr30050-bib-0022" ref-type="ref">22</xref> and staging was determined by digital rectal examination, ultrasonography, pelvic computed tomography (CT), magnetic resonance imaging, and isotope bone scanning. The GS was determined with an assessment of the central pathology of all tumors before treatment was started. Exclusion criteria were previous irradiation to the pelvis, a performance status of 3 or 4, the presence of other malignant cancers, and previous treatment of the cancer other than ADT for less than 6 months. All patients signed an informed consent form, and this study was approved by the institutional ethics committee.</p><p>At the NIRS, the definition of the high&#x02010;risk prostate cancer group is slightly different from standard risk classifications such as the National Comprehensive Cancer Network and D'Amico classifications.<xref rid="cncr30050-bib-0001" ref-type="ref">1</xref>, <xref rid="cncr30050-bib-0002" ref-type="ref">2</xref> The high&#x02010;risk group in this study was determined according to a modified version of the D'Amico classification and was defined as follows: T2c/T3 disease, GS &#x02265; 8, or PSA level &#x0003e; 20 ng/mL.</p><p>In general, ADT was administered as a combination of anti&#x02010;androgen therapy by oral administration and a luteinizing hormone&#x02010;releasing hormone analogue by subcutaneous injection. Neoadjuvant and concomitant ADT was applied for 2 to 6 months for all patients, with adjuvant ADT generally administered for at least 2 years, except in T2cN0M0 patients with a PSA level &#x02264; 20 ng/mL and a GS &#x02264; 7, for whom adjuvant ADT was administered for no more than 6 months.</p><p>The radiation dose was expressed in grays (RBE) (physical carbon ion [Gy] &#x000d7; RBE).<xref rid="cncr30050-bib-0018" ref-type="ref">18</xref> The RBE value for CIRT was estimated to be 3.0 at the distal portion of the spread&#x02010;out Bragg peak on the basis of previous studies.<xref rid="cncr30050-bib-0018" ref-type="ref">18</xref> For treatment planning, the clinical target volume (CTV) was determined by the combination of the structures of the prostate and seminal vesicle (SV). For T1c to T3a disease, the CTV was contoured from the root to the proximal third or half of the SV, and for T3b disease, the CTV included the SV in its entirety as much as possible. Planning target volume 1 was determined by the addition of 5&#x02010;mm margins in the cranial, caudal, and posterior directions and 10&#x02010;mm margins in the right, left, and anterior directions. Planning target volume 2, used as a boost therapy to reduce the dose to the organs at risk from half of the treatment course, was created by the addition of 2&#x02010; to 3&#x02010;mm margins from the dorsal aspect of the CTV and was identical to the CTV in the cranial and caudal directions.</p><p>CIRT was performed once a day 4 days a week. One port was used per session. In the 2 protocols of this study, 3 radiation ports were used in the bilateral and anterior directions. The bladder was filled with 100 mL of sterilized water for CT planning and at each treatment session for the anterior direction. Alignments were determined only for the skeletal anatomy via the overlapping of the deviation between the onboard image and the digitally reconstructed radiograph, which was created during CT treatment planning.</p><p>The follow&#x02010;up duration interval was defined as the time from the date of CIRT initiation to the date of the last follow&#x02010;up. Clinical records were collected in April 2015. The primary endpoint of this study was OAM, which was measured from the date of CIRT initiation to the date of death. PCSM was measured from the date of CIRT initiation to the date of death due to prostate cancer. BR was defined as the PSA nadir plus 2.0 ng/mL (the Phoenix definition).<xref rid="cncr30050-bib-0005" ref-type="ref">5</xref>
+</p><p>The OAM rates and comparisons between patients with BR and patients without BR, adjusted for the ADT duration, were calculated with a Cox proportional hazards model.<xref rid="cncr30050-bib-0023" ref-type="ref">23</xref> The PCSM rates, with non&#x02013;prostate cancer mortality (NPCM) accounted for as a competing risk for PCSM, and comparisons between patients with BR and patients without BR were calculated with Gray's test.<xref rid="cncr30050-bib-0024" ref-type="ref">24</xref> As for the relation between predictive factors and mortality, a Cox proportional hazards model<xref rid="cncr30050-bib-0023" ref-type="ref">23</xref> was used for OAM, and the method of Fine and Gray<xref rid="cncr30050-bib-0025" ref-type="ref">25</xref> was used for PCSM; it accounted for NPCM as a competing risk in the univariate analysis. Multivariate analyses using the forced entry method were performed for OAM according to a Cox proportional hazards model with BR as a time&#x02010;dependent covariate<xref rid="cncr30050-bib-0026" ref-type="ref">26</xref> and for PCSM with NPCM accounted for as a competing risk according to the method of Fine and Gray.<xref rid="cncr30050-bib-0025" ref-type="ref">25</xref> The Mann&#x02010;Whitney test was used for a comparison of the median follow&#x02010;up and the ADT duration. The chi&#x02010;square test was used for a comparison of the proportion of patients. Differences were considered significant if the <italic>P</italic> value was &#x0003c;.05. We used EZR (version 1.32)<xref rid="cncr30050-bib-0027" ref-type="ref">27</xref> to perform Gray's test<xref rid="cncr30050-bib-0024" ref-type="ref">24</xref> and the method of Fine and Gray for competing risks.<xref rid="cncr30050-bib-0025" ref-type="ref">25</xref> All other calculations were performed with the IMB SPSS statistical computer program (version 22; IBM Japan, Ltd, Tokyo, Japan).</p><p>Patients were followed up at 3&#x02010;month intervals during the first 5 years after CIRT and at 3&#x02010; to 6&#x02010;month intervals thereafter.</p></sec><sec id="cncr30050-sec-0007"><title>RESULTS</title><sec id="cncr30050-sec-0008"><title>Patient Characteristics and Outcomes</title><p>Of the 466 patients, 324 who were considered to have high&#x02010;risk prostate cancer and who had been followed up for at least 12 months were evaluated in the current study. The median follow&#x02010;up interval was 107.4 months (range, 13.3&#x02010;167.7 months), and the median ADT duration was 30.2 months (range, 3.9&#x02010;159.3 months). Table <xref rid="cncr30050-tbl-0001" ref-type="table-wrap">1</xref> shows the background characteristics of the patients.</p><table-wrap id="cncr30050-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Patient, Tumor, and Treatment Characteristics (n = 324)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Follow&#x02010;up time, median (range), mo</th><th align="char" char="(" valign="bottom" rowspan="1" colspan="1">107.4 (13.3&#x02013;167.7)</th></tr></thead><tbody valign="top"><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Age, median (range), y</td><td align="center" valign="top" rowspan="1" colspan="1">69 (51&#x02013;92)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">T stage, No. (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">T1c&#x02010;T2b</td><td align="center" valign="top" rowspan="1" colspan="1">78 (24)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">T2c</td><td align="center" valign="top" rowspan="1" colspan="1">88 (27)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">T3a/b</td><td align="center" valign="top" rowspan="1" colspan="1">158 (49)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">PSA, No. (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02264;10 ng/mL</td><td align="center" valign="top" rowspan="1" colspan="1">68 (21)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x0003e;10, &#x02264;20 ng/mL</td><td align="center" valign="top" rowspan="1" colspan="1">82 (25)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x0003e;20 ng/mL</td><td align="center" valign="top" rowspan="1" colspan="1">174 (54)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Gleason score, No. (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">42 (13)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">7</td><td align="center" valign="top" rowspan="1" colspan="1">146 (45)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">58 (18)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">9 or 10</td><td align="center" valign="top" rowspan="1" colspan="1">78 (24)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Duration of ADT, No. (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x0003c;12 mo</td><td align="center" valign="top" rowspan="1" colspan="1">29 (9)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02265;12, &#x0003c;24 mo</td><td align="center" valign="top" rowspan="1" colspan="1">71 (22)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02265;24 mo</td><td align="center" valign="top" rowspan="1" colspan="1">224 (69)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Prescribed dose, No. (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">66 Gy (RBE)/20 fractions</td><td align="center" valign="top" rowspan="1" colspan="1">174 (54)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">63 Gy (RBE)/20 fractions</td><td align="center" valign="top" rowspan="1" colspan="1">150 (46)</td></tr></tbody></table><table-wrap-foot><fn id="cncr30050-note-0002"><p>Abbreviations: ADT, androgen&#x02010;deprivation therapy; PSA, prostate&#x02010;specific antigen; RBE, relative biological effect.</p></fn></table-wrap-foot></table-wrap><p>By the time of the last follow&#x02010;up, BR, OAM, and PCSM were observed in 60 (18.5%), 72 (22.2%), and 15 patients (4.6%), respectively. The 5&#x02010; and 10&#x02010;year rates for the evaluated patients were 7.0% (95% confidence interval [CI], 4.0%&#x02010;9.4%) and 23.9% (95% CI, 16.4%&#x02010;26.2%), respectively, for OAM (adjusted for the ADT duration) and 2.2% (95% CI, 1.0%&#x02010;4.2%) and 4.6% (95% CI, 2.6%&#x02010;7.4%), respectively, for PCSM (with NPCM accounted for as a competing risk).</p></sec><sec id="cncr30050-sec-0009"><title>Relation Between BR and Mortality</title><p>Among the 60 patients with BR, there were 14 PCSM events (23.3%) and 7 NPCM events (11.7%). Among the 264 patients without BR, there were 1 PCSM event (0.4%) and 50 NPCM events (18.9%). The 1 PCSM&#x02010;without&#x02010;BR case had received 66 Gy (RBE) over 20 fractions, and 4 months after CIRT, inguinal and para&#x02010;aortic lymph node swelling was detected without a PSA elevation. He died 13 months after CIRT. There were 57 NPCM events in all, and cardiovascular related mortality was observed in 4 of these patients (myocardial infarction in 2 and brain infarction in 2).</p><p>The 5&#x02010; and 10&#x02010;year OAM rates, adjusted for the ADT duration, for the BR patients were 11.7% (95% CI, 3.5%&#x02010;19.9%) and 31.9% (95% CI, 19.2%&#x02010;44.6%), respectively, but the corresponding rates for the non&#x02010;BR patients were 5.6% (95% CI, 2.9%&#x02010;8.3%) and 18.8% (95% CI, 13.5%&#x02010;24.1%), respectively. Similarly, the 5&#x02010; and 10&#x02010;year rates for PCSM, with NPCM accounted for as a competing risk, were 10.0% (95% CI, 4.0%&#x02010;19.2%) and 23.0% (95% CI, 12.8%&#x02010;34.9%), respectively, for the BR patients and 0.4% (95% CI, 0.0%&#x02010;2.0%) and 0.4% (95% CI, 0.0%&#x02010;2.0%), respectively, for the non&#x02010;BR patients.</p><p>Univariate analyses revealed that BR, age, T stage, PSA level, and GS had significant impacts on OAM and PCSM, respectively (Table <xref rid="cncr30050-tbl-0002" ref-type="table-wrap">2</xref>), whereas the multivariate analysis determined that BR (hazard ratio [HR], 2.82; 95% CI, 1.57&#x02010;5.08; <italic>P</italic> = .001), an age &#x02265; 70 years (HR, 3.05; 95% CI, 1.84&#x02010;5.08; <italic>P</italic> &#x0003c; .001), and T3a/b disease (HR, 1.74; 95% CI, 1.03&#x02010;2.92; <italic>P</italic> = .037) had significant impacts on OAM (Table <xref rid="cncr30050-tbl-0003" ref-type="table-wrap">3</xref>). Moreover, only BR had a significant impact on PCSM, with NPCM accounted for as a competing risk, in the multivariate analysis (HR, 38.19; 95% CI, 4.78&#x02010;305.30; <italic>P</italic> &#x0003c; .001; Table <xref rid="cncr30050-tbl-0003" ref-type="table-wrap">3</xref>). On the other hand, there was no significant difference in the median follow&#x02010;up or ADT duration between BR and non&#x02010;BR patients. In addition, the proportion of patients &#x02265; 70 years old in the BR group was significantly lower than that in the non&#x02010;BR group (28% [17 of 60] vs 53% [139 of 264]; <italic>P</italic> = .001).</p><table-wrap id="cncr30050-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Univariate Analysis of OAM and PCSM Accounting for NPCM as a Competing Risk in Patients With Modified D'Amico High&#x02010;Risk Prostate Cancer Treated With Carbon&#x02010;Ion Radiotherapy</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th rowspan="3" align="left" valign="bottom" colspan="1">Factor</th><th colspan="3" rowspan="3" align="center" valign="bottom">OAM Rate</th><th colspan="3" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">OAM</th><th colspan="3" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">PCSM With Competing Event of NPCM</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th colspan="3" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Cox Regression Model<xref rid="cncr30050-bib-0023" ref-type="ref">23</xref>
+</th><th colspan="3" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Fine and Gray Model<xref rid="cncr30050-bib-0025" ref-type="ref">25</xref>
+</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">HR</th><th align="center" valign="bottom" rowspan="1" colspan="1">95% CI</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">HR</th><th align="center" valign="bottom" rowspan="1" colspan="1">95% CI</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic>
+</th></tr></thead><tbody valign="top"><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">BR, positive vs negative</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">35% (21/60)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19% (51/264)</td><td align="center" valign="top" rowspan="1" colspan="1">1.77</td><td align="center" valign="top" rowspan="1" colspan="1">1.07&#x02013;2.95</td><td align="center" valign="top" rowspan="1" colspan="1">.028</td><td align="center" valign="top" rowspan="1" colspan="1">66.11</td><td align="center" valign="top" rowspan="1" colspan="1">8.59&#x02013;508.60</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Age</td><td align="char" char="(" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02265;65 vs &#x0003c;65 y</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">26% (64/250)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11% (8/74)</td><td align="center" valign="top" rowspan="1" colspan="1">2.52</td><td align="center" valign="top" rowspan="1" colspan="1">1.21&#x02013;5.27</td><td align="center" valign="top" rowspan="1" colspan="1">.014</td><td align="center" valign="top" rowspan="1" colspan="1">0.57</td><td align="center" valign="top" rowspan="1" colspan="1">0.19&#x02013;1.67</td><td align="center" valign="top" rowspan="1" colspan="1">.310</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02265;70 vs &#x0003c;70 y</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">31% (49/156)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">14% (23/168)</td><td align="center" valign="top" rowspan="1" colspan="1">2.60</td><td align="center" valign="top" rowspan="1" colspan="1">1.58&#x02013;4.26</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;.001</td><td align="center" valign="top" rowspan="1" colspan="1">0.53</td><td align="center" valign="top" rowspan="1" colspan="1">0.18&#x02013;1.56</td><td align="center" valign="top" rowspan="1" colspan="1">.250</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02265;75 vs &#x0003c;75 y</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">32% (19/59)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">20% (53/265)</td><td align="center" valign="top" rowspan="1" colspan="1">1.93</td><td align="center" valign="top" rowspan="1" colspan="1">1.14&#x02013;3.27</td><td align="center" valign="top" rowspan="1" colspan="1">.014</td><td align="center" valign="top" rowspan="1" colspan="1">0.72</td><td align="center" valign="top" rowspan="1" colspan="1">0.16&#x02013;3.21</td><td align="center" valign="top" rowspan="1" colspan="1">.660</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02265;80 vs &#x0003c;80 y</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">50% (3/6)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">22% (69/318)</td><td align="center" valign="top" rowspan="1" colspan="1">5.76</td><td align="center" valign="top" rowspan="1" colspan="1">1.79&#x02013;18.54</td><td align="center" valign="top" rowspan="1" colspan="1">.003</td><td align="center" valign="top" rowspan="1" colspan="1">5.64</td><td align="center" valign="top" rowspan="1" colspan="1">0.65&#x02013;48.77</td><td align="center" valign="top" rowspan="1" colspan="1">.120</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">T stage</td><td align="char" char="(" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02265;T2c vs &#x02264;T2b</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">24% (59/246)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17% (13/78)</td><td align="center" valign="top" rowspan="1" colspan="1">1.44</td><td align="center" valign="top" rowspan="1" colspan="1">0.79&#x02013;2.62</td><td align="center" valign="top" rowspan="1" colspan="1">.236</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">T3a/b vs &#x02264;T2c</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">29% (46/158)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17% (26/166)</td><td align="center" valign="top" rowspan="1" colspan="1">1.82</td><td align="center" valign="top" rowspan="1" colspan="1">1.13&#x02013;2.96</td><td align="center" valign="top" rowspan="1" colspan="1">.015</td><td align="center" valign="top" rowspan="1" colspan="1">14.65</td><td align="center" valign="top" rowspan="1" colspan="1">1.94&#x02013;110.70</td><td align="center" valign="top" rowspan="1" colspan="1">.009</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">PSA</td><td align="char" char="(" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x0003e;20 vs &#x02264;20 ng/mL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28% (50/176)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">15% (22/148)</td><td align="center" valign="top" rowspan="1" colspan="1">1.85</td><td align="center" valign="top" rowspan="1" colspan="1">1.12&#x02013;3.06</td><td align="center" valign="top" rowspan="1" colspan="1">.017</td><td align="center" valign="top" rowspan="1" colspan="1">3.26</td><td align="center" valign="top" rowspan="1" colspan="1">0.92&#x02013;11.50</td><td align="center" valign="top" rowspan="1" colspan="1">.066</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x0003e;30 vs &#x02264;30 ng/mL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28% (32/114)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19% (40/210)</td><td align="center" valign="top" rowspan="1" colspan="1">1.38</td><td align="center" valign="top" rowspan="1" colspan="1">0.87&#x02013;2.21</td><td align="center" valign="top" rowspan="1" colspan="1">.174</td><td align="center" valign="top" rowspan="1" colspan="1">5.01</td><td align="center" valign="top" rowspan="1" colspan="1">1.61&#x02013;15.56</td><td align="center" valign="top" rowspan="1" colspan="1">.005</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x0003e;40 vs &#x02264;40 ng/mL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">31% (26/85)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19% (46/239)</td><td align="center" valign="top" rowspan="1" colspan="1">1.50</td><td align="center" valign="top" rowspan="1" colspan="1">0.92&#x02013;2.43</td><td align="center" valign="top" rowspan="1" colspan="1">.103</td><td align="center" valign="top" rowspan="1" colspan="1">5.59</td><td align="center" valign="top" rowspan="1" colspan="1">1.93&#x02013;16.16</td><td align="center" valign="top" rowspan="1" colspan="1">.002</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x0003e;50 vs &#x02264;50 ng/mL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">30% (19/64)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">20% (53/260)</td><td align="center" valign="top" rowspan="1" colspan="1">1.41</td><td align="center" valign="top" rowspan="1" colspan="1">0.83&#x02013;2.39</td><td align="center" valign="top" rowspan="1" colspan="1">.200</td><td align="center" valign="top" rowspan="1" colspan="1">3.54</td><td align="center" valign="top" rowspan="1" colspan="1">1.27&#x02013;9.85</td><td align="center" valign="top" rowspan="1" colspan="1">.015</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Gleason score</td><td align="char" char="(" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02265;7 vs &#x02264;6</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">22% (61/282)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">26% (11/42)</td><td align="center" valign="top" rowspan="1" colspan="1">0.93</td><td align="center" valign="top" rowspan="1" colspan="1">0.49&#x02013;1.77</td><td align="center" valign="top" rowspan="1" colspan="1">.830</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02265;8 vs &#x02264;7</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">24% (33/136)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">21% (39/188)</td><td align="center" valign="top" rowspan="1" colspan="1">1.42</td><td align="center" valign="top" rowspan="1" colspan="1">0.89&#x02013;2.26</td><td align="center" valign="top" rowspan="1" colspan="1">.144</td><td align="center" valign="top" rowspan="1" colspan="1">1.73</td><td align="center" valign="top" rowspan="1" colspan="1">0.64&#x02013;4.73</td><td align="center" valign="top" rowspan="1" colspan="1">.280</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">9 or 10 vs &#x02264;8</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28% (22/78)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">20% (50/246)</td><td align="center" valign="top" rowspan="1" colspan="1">1.67</td><td align="center" valign="top" rowspan="1" colspan="1">1.01&#x02013;2.76</td><td align="center" valign="top" rowspan="1" colspan="1">.047</td><td align="center" valign="top" rowspan="1" colspan="1">3.98</td><td align="center" valign="top" rowspan="1" colspan="1">1.45&#x02013;10.83</td><td align="center" valign="top" rowspan="1" colspan="1">.007</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Duration of ADT</td><td align="char" char="(" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02265;12 vs &#x0003c;12 mo</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">22% (64/295)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28% (8/29)</td><td align="center" valign="top" rowspan="1" colspan="1">0.64</td><td align="center" valign="top" rowspan="1" colspan="1">0.31&#x02013;1.34</td><td align="center" valign="top" rowspan="1" colspan="1">.230</td><td align="center" valign="top" rowspan="1" colspan="1">1.31</td><td align="center" valign="top" rowspan="1" colspan="1">0.19&#x02013;9.10</td><td align="center" valign="top" rowspan="1" colspan="1">.780</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x02265;24 vs &#x0003c;24 mo</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">21% (46/224)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">26% (26/100)</td><td align="center" valign="top" rowspan="1" colspan="1">0.86</td><td align="center" valign="top" rowspan="1" colspan="1">0.53&#x02013;1.39</td><td align="center" valign="top" rowspan="1" colspan="1">.539</td><td align="center" valign="top" rowspan="1" colspan="1">0.69</td><td align="center" valign="top" rowspan="1" colspan="1">0.25&#x02013;1.89</td><td align="center" valign="top" rowspan="1" colspan="1">.480</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Dose, 66 vs 63 Gy (RBE)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">29% (51/174)</td><td align="center" valign="top" rowspan="1" colspan="1">vs</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">14% (21/150)</td><td align="center" valign="top" rowspan="1" colspan="1">1.32</td><td align="center" valign="top" rowspan="1" colspan="1">0.77&#x02013;2.27</td><td align="center" valign="top" rowspan="1" colspan="1">.312</td><td align="center" valign="top" rowspan="1" colspan="1">1.44</td><td align="center" valign="top" rowspan="1" colspan="1">0.49&#x02013;4.23</td><td align="center" valign="top" rowspan="1" colspan="1">.510</td></tr></tbody></table><table-wrap-foot><fn id="cncr30050-note-0003"><p>Abbreviations: ADT, androgen&#x02010;deprivation therapy; BR, biochemical recurrence; CI, confidence interval; HR, hazard ratio; NA, not available; NPCM, non&#x02013;prostate cancer mortality; OAM, overall mortality; PCSM, prostate cancer&#x02013;specific mortality; PSA, prostate&#x02010;specific antigen; RBE, relative biological effect.</p></fn></table-wrap-foot></table-wrap><table-wrap id="cncr30050-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Multivariate Analysis of OAM and PCSM Accounting for NPCM as a Competing Risk in Patients With Modified D'Amico High&#x02010;Risk Prostate Cancer Treated With Carbon&#x02010;Ion Radiotherapy</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th rowspan="3" align="left" valign="bottom" colspan="1">Factor</th><th colspan="3" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">OAM</th><th colspan="3" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">PCSM With Competing Event of NPCM</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th colspan="3" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Cox Regression Model<xref rid="cncr30050-bib-0023" ref-type="ref">23</xref>
+</th><th colspan="3" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Fine and Gray Model<xref rid="cncr30050-bib-0025" ref-type="ref">25</xref>
+</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">HR</th><th align="center" valign="bottom" rowspan="1" colspan="1">95% CI</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">HR</th><th align="center" valign="bottom" rowspan="1" colspan="1">95% CI</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic>
+</th></tr></thead><tbody valign="top"><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Biochemical recurrence</td><td align="center" valign="top" rowspan="1" colspan="1">2.82</td><td align="center" valign="top" rowspan="1" colspan="1">1.57&#x02013;5.08</td><td align="center" valign="top" rowspan="1" colspan="1">.001</td><td align="center" valign="top" rowspan="1" colspan="1">38.19</td><td align="center" valign="top" rowspan="1" colspan="1">4.78&#x02013;305.30</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Age &#x02265; 70 y</td><td align="center" valign="top" rowspan="1" colspan="1">3.05</td><td align="center" valign="top" rowspan="1" colspan="1">1.84&#x02013;5.08</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;.001</td><td align="center" valign="top" rowspan="1" colspan="1">1.26</td><td align="center" valign="top" rowspan="1" colspan="1">0.40&#x02013;3.99</td><td align="center" valign="top" rowspan="1" colspan="1">.700</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">T3a/b</td><td align="center" valign="top" rowspan="1" colspan="1">1.74</td><td align="center" valign="top" rowspan="1" colspan="1">1.03&#x02013;2.92</td><td align="center" valign="top" rowspan="1" colspan="1">.037</td><td align="center" valign="top" rowspan="1" colspan="1">6.92</td><td align="center" valign="top" rowspan="1" colspan="1">0.83&#x02013;57.48</td><td align="center" valign="top" rowspan="1" colspan="1">.073</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">PSA &#x0003e; 20 ng/mL</td><td align="center" valign="top" rowspan="1" colspan="1">1.51</td><td align="center" valign="top" rowspan="1" colspan="1">0.88&#x02013;2.57</td><td align="center" valign="top" rowspan="1" colspan="1">.134</td><td align="center" valign="top" rowspan="1" colspan="1">1.85</td><td align="center" valign="top" rowspan="1" colspan="1">0.37&#x02013;9.27</td><td align="center" valign="top" rowspan="1" colspan="1">.450</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Gleason score of 9 or 10</td><td align="center" valign="top" rowspan="1" colspan="1">1.34</td><td align="center" valign="top" rowspan="1" colspan="1">0.76&#x02013;2.36</td><td align="center" valign="top" rowspan="1" colspan="1">.320</td><td align="center" valign="top" rowspan="1" colspan="1">1.70</td><td align="center" valign="top" rowspan="1" colspan="1">0.55&#x02013;5.29</td><td align="center" valign="top" rowspan="1" colspan="1">.360</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Duration of ADT &#x02265; 24 mo</td><td align="center" valign="top" rowspan="1" colspan="1">0.70</td><td align="center" valign="top" rowspan="1" colspan="1">0.41&#x02013;1.19</td><td align="center" valign="top" rowspan="1" colspan="1">.189</td><td align="center" valign="top" rowspan="1" colspan="1">0.36</td><td align="center" valign="top" rowspan="1" colspan="1">0.10&#x02013;1.33</td><td align="center" valign="top" rowspan="1" colspan="1">.130</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Dose of 66 Gy (RBE)</td><td align="center" valign="top" rowspan="1" colspan="1">1.02</td><td align="center" valign="top" rowspan="1" colspan="1">0.58&#x02013;1.79</td><td align="center" valign="top" rowspan="1" colspan="1">.952</td><td align="center" valign="top" rowspan="1" colspan="1">1.01</td><td align="center" valign="top" rowspan="1" colspan="1">0.32&#x02013;3.20</td><td align="center" valign="top" rowspan="1" colspan="1">.990</td></tr></tbody></table><table-wrap-foot><fn id="cncr30050-note-0004"><p>Abbreviations: ADT, androgen&#x02010;deprivation therapy; CI, confidence interval; HR, hazard ratio; NA, not available; NPCM, non&#x02013;prostate cancer mortality; OAM, overall mortality; PCSM, prostate cancer&#x02013;specific mortality; PSA, prostate&#x02010;specific antigen; RBE, relative biological effect.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="cncr30050-sec-0010"><title>DISCUSSION</title><p>Long&#x02010;term follow&#x02010;up results from 2 prospective studies of CIRT involving 324 high&#x02010;risk prostate cancer patients at the NIRS showed that the 10&#x02010;year rates of OAM, adjusted for ADT duration, and PCSM, with NPCM accounted for as a competing risk, were 23.9% and 4.6%, respectively. These favorable outcomes for patients with high&#x02010;risk prostate cancer may be due to various reasons. The high radiation doses used in the clinical trials might have contributed to the high tumor control rate; the total doses of 66 and 63 Gy in 20 fractions correspond to 90.5 and 82.9 Gy in a 2&#x02010;Gy fraction, respectively, when the linear&#x02010;quadratic model with &#x003b1;/&#x003b2; = 1.5 Gy is applied.<xref rid="cncr30050-bib-0028" ref-type="ref">28</xref> A meta&#x02010;analysis of multiple randomized studies indicated that high&#x02010;dose RT yielded better BR&#x02010;free rates than conventional&#x02010;dose RT in low&#x02010; to high&#x02010;risk prostate cancer patients.<xref rid="cncr30050-bib-0029" ref-type="ref">29</xref> Furthermore, Kalbasi et al<xref rid="cncr30050-bib-0030" ref-type="ref">30</xref> reported that dose escalation improves overall survival in patients with intermediate&#x02010; and high&#x02010;risk disease. On the other hand, there was no significant difference in the effect on OAM between 66 and 63 Gy (RBE) in the current study. Furthermore, the high RBE of carbon ions might lead to a high tumor control rate in prostate cancer, which is a slow&#x02010;growing tumor.</p><p>BR has been used as an indicator of early&#x02010;stage recurrence in follow&#x02010;up examinations after RT as well as surgery. However, few previous studies have shown a positive relation between BR itself and patient mortality.<xref rid="cncr30050-bib-0007" ref-type="ref">7</xref>, <xref rid="cncr30050-bib-0008" ref-type="ref">8</xref>, <xref rid="cncr30050-bib-0011" ref-type="ref">11</xref>, <xref rid="cncr30050-bib-0031" ref-type="ref">31</xref> Kapadia et al<xref rid="cncr30050-bib-0011" ref-type="ref">11</xref> reported the clinical outcomes of 710 patients with low&#x02010; to high&#x02010;risk prostate cancer who received high&#x02010;dose RT (median, 78 Gy). In their study, 79% of 231 high&#x02010;risk patients received RT combined with long&#x02010;term ADT (median duration, 21 months), and 37% of the 231 patients experienced BR, which was defined according to the Phoenix definition. Although the BR rate in their study was higher than that in the current study (18.5% or 60 of 324 patients), the treatments, in terms of a high radiation dose and long&#x02010;term ADT, were similar between the 2 studies. As a result, the rate of PCSM for high&#x02010;risk patients with BR was significantly higher than the rate for those without BR, although the impact of BR on OAM could not be demonstrated in their study. The multivariate analysis in this study, taking into consideration the competing risk of NPCM, also revealed a significant relation between BR and PCSM. These results suggest that BR itself could be a predictive factor for PCSM in patients treated with high&#x02010;dose RT combined with long&#x02010;term ADT.</p><p>On the other hand, at least 2 previous studies have demonstrated a significant impact of BR on OAM,<xref rid="cncr30050-bib-0007" ref-type="ref">7</xref>, <xref rid="cncr30050-bib-0008" ref-type="ref">8</xref> but in one of the studies, the patients underwent surgery.<xref rid="cncr30050-bib-0007" ref-type="ref">7</xref> The other study, reported by Abramowitz et al,<xref rid="cncr30050-bib-0008" ref-type="ref">8</xref> was the first to indicate a relation between BR, as determined by the Phoenix criteria, and OAM in a series combining RT with ADT; their results could support those of the current study. However, the backgrounds of our study and their study were slightly different; for example, in their study, ADT was used for a relatively short&#x02010;term period (median, 7.7 months) and was administered to a limited number of patients (16%).<xref rid="cncr30050-bib-0008" ref-type="ref">8</xref>
+</p><p>Because the addition of ADT (particularly long&#x02010;term ADT) to definitive RT decreases the OAM of high&#x02010;risk prostate cancer patients,<xref rid="cncr30050-bib-0032" ref-type="ref">32</xref>, <xref rid="cncr30050-bib-0033" ref-type="ref">33</xref> the differences in the time to mortality between patients with and without BR tend to be small, and all patients in the current study received ADT over a median duration of 30.2 months. Nevertheless, BR was an independent predictive factor for OAM in the multivariate analysis, and there was no difference in either the follow&#x02010;up time or the ADT duration between the BR patients and the non&#x02010;BR patients. Surprisingly, the proportion of patients &#x02265; 70 years old in the BR group was significantly lower than that in the non&#x02010;BR group in the current study, although the elderly patients had a significantly higher mortality risk than the younger patients (&#x0003c;70 years) in the multivariate analysis, as would be expected naturally. These results might have been attributable to the PCSM rate being markedly higher in the BR group (23.3%) than the non&#x02010;BR group (0.3%), whereas the rate of NPCM was lower in the BR group (11.7%) than the non&#x02010;BR group (18.9%). Thus, both this study and the study by Abramowitz et al<xref rid="cncr30050-bib-0008" ref-type="ref">8</xref> indicate that BR has a significant impact on OAM. To the best of our knowledge, this study provides a novel insight regarding a significant relation between BR and OAM for high&#x02010;risk prostate cancer patients treated with high&#x02010;dose particle beam therapy combined with long&#x02010;term ADT.</p><p>There were several limitations to this study. First, the data were collected from 2 prospective trials, but the current study was a retrospective analysis. Therefore, there may have been some bias associated with the secondary analysis. Second, the timing of salvage therapy after BR was heterogeneous, even though most of the BR patients received ADT. Moreover, the treatments for castration&#x02010;resistant prostate cancer were not unified. Third, one complication of this method lies in the long lifespan of the treated Japanese population, which may have affected the results of this study. Fourth, the ADT duration for the evaluated high&#x02010;risk patients was not fixed because T2cN0M0 patients with a PSA level &#x02264; 20 ng/mL and a GS &#x02264; 7 received adjuvant ADT for 6 months or less, whereas the other patients received adjuvant ADT for a longer duration. In addition, multi&#x02010;institutional long&#x02010;term survival data for a large number of patients are desirable for this kind of study, although data obtained from more than 324 patients over a median follow&#x02010;up of 107.4 months were evaluated in the current study. Hence, all 5 Japanese CIRT institutes will start planning multi&#x02010;institutional, prospective studies of treatments for high&#x02010;risk prostate cancer.</p><p>In conclusion, the combination of CIRT and ADT, administered to patients with high&#x02010;risk prostate cancer, indicated a favorable prognosis, and this suggests that BR is an independent predictive factor for OAM. In the near future, prospective trials are needed to confirm these results.</p></sec><sec id="cncr30050-sec-0011"><title>FUNDING SUPPORT</title><p>No specific funding was disclosed.</p></sec><sec id="cncr30050-sec-0012"><title>CONFLICT OF INTEREST DISCLOSURES</title><p>The authors made no disclosures.</p></sec><sec id="cncr30050-sec-0013"><title>AUTHOR CONTRIBUTIONS</title><p>
+<bold>Goro Kasuya:</bold> Study design, assembly of the data, statistical analyses and interpretation, writing of the manuscript, and approval of the final manuscript. <bold>Hitoshi Ishikawa:</bold> Study design, assembly of the data, statistical analyses and interpretation, writing of the manuscript, and approval of the final manuscript. <bold>Hiroshi Tsuji:</bold> Study design, assembly of the data, statistical analyses and interpretation, writing of the manuscript, and approval of the final manuscript. <bold>Takuma Nomiya:</bold> Study design, assembly of the data, statistical analyses and interpretation, writing of the manuscript, and approval of the final manuscript. <bold>Hirokazu Makishima:</bold> Study design, assembly of the data, statistical analyses and interpretation, writing of the manuscript, and approval of the final manuscript. <bold>Tadashi Kamada:</bold> Treatment of the patients, revision of the manuscript, and approval of the final manuscript. <bold>Koichiro Akakura:</bold> Treatment of the patients, revision of the manuscript, and approval of the final manuscript. <bold>Hiroyoshi Suzuki:</bold> Treatment of the patients, revision of the manuscript, and approval of the final manuscript. <bold>Jun Shimazaki:</bold> Treatment of the patients, revision of the manuscript, and approval of the final manuscript. <bold>Yasuo Haruyama:</bold> Statistical analyses, interpretation of the data, and approval of the final manuscript. <bold>Gen Kobashi:</bold> Statistical analyses, interpretation of the data, and approval of the final manuscript. <bold>Hirohiko Tsujii:</bold> Treatment of the patients, revision of the manuscript, and approval of the final manuscript.</p></sec></body><back><ref-list content-type="cited-references"><title>REFERENCES</title><ref id="cncr30050-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cncr30050-cit-0001">
+<string-name>
+<surname>Scherr</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Swindle</surname>
+<given-names>PW</given-names>
+</string-name>, 
+<string-name>
+<surname>Scardino</surname>
+<given-names>PT</given-names>
+</string-name>, et al. <article-title>National Comprehensive Cancer Network guidelines for the management of prostate cancer</article-title>. <source>Urology.</source>
+<year>2003</year>;<volume>61</volume>:<fpage>14</fpage>&#x02013;<lpage>24</lpage>.
+<pub-id pub-id-type="pmid">12667883</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cncr30050-cit-0002">
+<string-name>
+<surname>D'Amico</surname>
+<given-names>AV</given-names>
+</string-name>, 
+<string-name>
+<surname>Whittington</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Malkowicz</surname>
+<given-names>SB</given-names>
+</string-name>, et al. <article-title>Predicting prostate specific antigen outcome preoperatively in the prostate specific antigen era</article-title>. <source>J Urol.</source>
+<year>2001</year>;<volume>166</volume>:<fpage>2185</fpage>&#x02013;<lpage>2188</lpage>.
+<pub-id pub-id-type="pmid">11696732</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cncr30050-cit-0003">
+<string-name>
+<surname>Moul</surname>
+<given-names>JW</given-names>
+</string-name>, 
+<string-name>
+<surname>Banez</surname>
+<given-names>LL</given-names>
+</string-name>, 
+<string-name>
+<surname>Freedland</surname>
+<given-names>SJ</given-names>
+</string-name>. <article-title>Rising PSA in nonmetastatic prostate cancer</article-title>. <source>Oncology (Williston Park).</source>
+<year>2007</year>;<volume>21</volume>:<fpage>1436</fpage>&#x02013;<lpage>1445</lpage>.
+<pub-id pub-id-type="pmid">18077992</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cncr30050-cit-0004">
+<string-name>
+<surname>Cookson</surname>
+<given-names>MS</given-names>
+</string-name>, 
+<string-name>
+<surname>Aus</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Burnett</surname>
+<given-names>AL</given-names>
+</string-name>, et al. <article-title>Variation in the definition of biochemical recurrence in patients treated for localized prostate cancer: the American Urological Association Prostate Guidelines for Localized Prostate Cancer Update Panel report and recommendations for a standard in the reporting of surgical outcomes</article-title>. <source>J Urol.</source>
+<year>2007</year>;<volume>177</volume>:<fpage>540</fpage>&#x02013;<lpage>545</lpage>.
+<pub-id pub-id-type="pmid">17222629</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cncr30050-cit-0005">
+<string-name>
+<surname>Roach</surname>
+<given-names>M</given-names>
+<suffix>III</suffix>
+</string-name>, 
+<string-name>
+<surname>Hanks</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Thames</surname>
+<given-names>H</given-names>
+<suffix>Jr</suffix>
+</string-name>, et al. <article-title>Defining biochemical failure following radiotherapy with or without hormonal therapy in men with clinically localized prostate cancer: recommendations of the RTOG&#x02010;ASTRO Phoenix Consensus Conference</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2006</year>;<volume>65</volume>:<fpage>965</fpage>&#x02013;<lpage>974</lpage>.
+<pub-id pub-id-type="pmid">16798415</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cncr30050-cit-0006">
+<string-name>
+<surname>Mydin</surname>
+<given-names>AR</given-names>
+</string-name>, 
+<string-name>
+<surname>Dunne</surname>
+<given-names>MT</given-names>
+</string-name>, 
+<string-name>
+<surname>Finn</surname>
+<given-names>MA</given-names>
+</string-name>, 
+<string-name>
+<surname>Armstrong</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Early salvage hormonal therapy for biochemical failure improved survival in prostate cancer patients after neoadjuvant hormonal therapy plus radiation therapy&#x02014;a secondary analysis of Irish Clinical Oncology Research Group 97&#x02010;01</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2013</year>;<volume>85</volume>:<fpage>101</fpage>&#x02013;<lpage>108</lpage>.
+<pub-id pub-id-type="pmid">22658512</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cncr30050-cit-0007">
+<string-name>
+<surname>Choueiri</surname>
+<given-names>TK</given-names>
+</string-name>, 
+<string-name>
+<surname>Chen</surname>
+<given-names>MH</given-names>
+</string-name>, 
+<string-name>
+<surname>D'Amico</surname>
+<given-names>AV</given-names>
+</string-name>, et al. <article-title>Impact of postoperative prostate&#x02010;specific antigen disease recurrence and the use of salvage therapy on the risk of death</article-title>. <source>Cancer.</source>
+<year>2010</year>;<volume>116</volume>:<fpage>1887</fpage>&#x02013;<lpage>1892</lpage>.
+<pub-id pub-id-type="pmid">20162710</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cncr30050-cit-0008">
+<string-name>
+<surname>Abramowitz</surname>
+<given-names>MC</given-names>
+</string-name>, 
+<string-name>
+<surname>Li</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Buyyounouski</surname>
+<given-names>MK</given-names>
+</string-name>, et al. <article-title>The Phoenix definition of biochemical failure predicts for overall survival in patients with prostate cancer</article-title>. <source>Cancer.</source>
+<year>2008</year>;<volume>112</volume>:<fpage>55</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="pmid">17968996</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cncr30050-cit-0009">
+<string-name>
+<surname>Pound</surname>
+<given-names>CR</given-names>
+</string-name>, 
+<string-name>
+<surname>Partin</surname>
+<given-names>AW</given-names>
+</string-name>, 
+<string-name>
+<surname>Eisenberger</surname>
+<given-names>MA</given-names>
+</string-name>, 
+<string-name>
+<surname>Chan</surname>
+<given-names>DW</given-names>
+</string-name>, 
+<string-name>
+<surname>Pearson</surname>
+<given-names>JD</given-names>
+</string-name>, 
+<string-name>
+<surname>Walsh</surname>
+<given-names>PC</given-names>
+</string-name>. <article-title>Natural history of progression after PSA elevation following radical prostatectomy</article-title>. <source>JAMA.</source>
+<year>1999</year>;<volume>281</volume>:<fpage>1591</fpage>&#x02013;<lpage>1597</lpage>.
+<pub-id pub-id-type="pmid">10235151</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cncr30050-cit-0010">
+<string-name>
+<surname>Buyyounouski</surname>
+<given-names>MK</given-names>
+</string-name>, 
+<string-name>
+<surname>Hanlon</surname>
+<given-names>AL</given-names>
+</string-name>, 
+<string-name>
+<surname>Horwitz</surname>
+<given-names>EM</given-names>
+</string-name>, 
+<string-name>
+<surname>Pollack</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Interval to biochemical failure highly prognostic for distant metastasis and prostate cancer&#x02013;specific mortality after radiotherapy</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2008</year>;<volume>70</volume>:<fpage>59</fpage>&#x02013;<lpage>66</lpage>.
+<pub-id pub-id-type="pmid">17919840</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cncr30050-cit-0011">
+<string-name>
+<surname>Kapadia</surname>
+<given-names>NS</given-names>
+</string-name>, 
+<string-name>
+<surname>Olson</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Sandler</surname>
+<given-names>HM</given-names>
+</string-name>, 
+<string-name>
+<surname>Feng</surname>
+<given-names>FY</given-names>
+</string-name>, 
+<string-name>
+<surname>Hamstra</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Interval to biochemical failure as a biomarker for cause&#x02010;specific and overall survival after dose&#x02010;escalated external beam radiation therapy for prostate cancer</article-title>. <source>Cancer.</source>
+<year>2012</year>;<volume>118</volume>:<fpage>2059</fpage>&#x02013;<lpage>2068</lpage>.
+<pub-id pub-id-type="pmid">22009287</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cncr30050-cit-0012">
+<string-name>
+<surname>Shilkrut</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>McLaughlin</surname>
+<given-names>PW</given-names>
+</string-name>, 
+<string-name>
+<surname>Merrick</surname>
+<given-names>GS</given-names>
+</string-name>, 
+<string-name>
+<surname>Vainshtein</surname>
+<given-names>JM</given-names>
+</string-name>, 
+<string-name>
+<surname>Feng</surname>
+<given-names>FY</given-names>
+</string-name>, 
+<string-name>
+<surname>Hamstra</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Interval to biochemical failure predicts clinical outcomes in patients with high&#x02010;risk prostate cancer treated by combined&#x02010;modality radiation therapy</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2013</year>;<volume>86</volume>:<fpage>721</fpage>&#x02013;<lpage>728</lpage>.
+<pub-id pub-id-type="pmid">23664325</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cncr30050-cit-0013">
+<string-name>
+<surname>Denham</surname>
+<given-names>JW</given-names>
+</string-name>, 
+<string-name>
+<surname>Steigler</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Kumar</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Measuring time to biochemical failure in the TROG 96.01 trial: when should the clock start ticking?</article-title>
+<source>Int J Radiat Oncol Biol Phys.</source>
+<year>2009</year>;<volume>75</volume>:<fpage>1008</fpage>&#x02013;<lpage>1012</lpage>.
+<pub-id pub-id-type="pmid">19577859</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cncr30050-cit-0014">
+<string-name>
+<surname>Cheung</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Tucker</surname>
+<given-names>SL</given-names>
+</string-name>, 
+<string-name>
+<surname>Kuban</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>First&#x02010;year PSA kinetics and minima after prostate cancer radiotherapy are predictive of overall survival</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2006</year>;<volume>66</volume>:<fpage>20</fpage>&#x02013;<lpage>24</lpage>.
+<pub-id pub-id-type="pmid">16814948</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cncr30050-cit-0015">
+<string-name>
+<surname>Akakura</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Tsujii</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Morita</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Phase I/II clinical trials of carbon ion therapy for prostate cancer</article-title>. <source>Prostate.</source>
+<year>2004</year>;<volume>58</volume>:<fpage>252</fpage>&#x02013;<lpage>258</lpage>.
+<pub-id pub-id-type="pmid">14743464</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cncr30050-cit-0016">
+<string-name>
+<surname>Ishikawa</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Tsuji</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Kamada</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Carbon&#x02010;ion radiation therapy for prostate cancer</article-title>. <source>Int J Urol.</source>
+<year>2012</year>;<volume>19</volume>:<fpage>296</fpage>&#x02013;<lpage>305</lpage>.
+<pub-id pub-id-type="pmid">22320843</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cncr30050-cit-0017">
+<string-name>
+<surname>Kanai</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Furusawa</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Fukutsu</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Itsukaichi</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Eguchi&#x02010;Kasai</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Ohara</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Irradiation of mixed beam and design of spread&#x02010;out Bragg peak for heavy&#x02010;ion radiotherapy</article-title>. <source>Radiat Res.</source>
+<year>1997</year>;<volume>147</volume>:<fpage>78</fpage>&#x02013;<lpage>85</lpage>.
+<pub-id pub-id-type="pmid">8989373</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cncr30050-cit-0018">
+<string-name>
+<surname>Kanai</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Matsufuji</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Miyamoto</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Examination of GyE system for HIMAC carbon therapy</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2006</year>;<volume>64</volume>:<fpage>650</fpage>&#x02013;<lpage>656</lpage>.
+<pub-id pub-id-type="pmid">16414376</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cncr30050-cit-0019">
+<string-name>
+<surname>Tsuji</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Yanagi</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Ishikawa</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Hypofractionated radiotherapy with carbon ion beams for prostate cancer</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2005</year>;<volume>63</volume>:<fpage>1153</fpage>&#x02013;<lpage>1160</lpage>.
+<pub-id pub-id-type="pmid">15990247</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cncr30050-cit-0020">
+<string-name>
+<surname>Ishikawa</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Tsuji</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Kamada</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Carbon ion radiation therapy for prostate cancer: results of a prospective phase II study</article-title>. <source>Radiother Oncol.</source>
+<year>2006</year>;<volume>81</volume>:<fpage>57</fpage>&#x02013;<lpage>64</lpage>.
+<pub-id pub-id-type="pmid">16971008</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cncr30050-cit-0021">
+<string-name>
+<surname>Okada</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Tsuji</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Kamada</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Carbon ion radiotherapy in advanced hypofractionated regimens for prostate cancer: from 20 to 16 fractions</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2012</year>;<volume>84</volume>:<fpage>968</fpage>&#x02013;<lpage>972</lpage>.
+<pub-id pub-id-type="pmid">22898380</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0022"><label>22</label><mixed-citation publication-type="book" id="cncr30050-cit-0022">
+<collab collab-type="authors">International Union Against Cancer</collab>
+. <source>TNM Classification of Malignant Tumours</source>. <edition>7th ed</edition>
+<publisher-loc>New York</publisher-loc>: <publisher-name>Wiley&#x02010;Blackwell Inc</publisher-name>; <year>2009</year>:<fpage>230</fpage>&#x02013;<lpage>234</lpage>.
+</mixed-citation></ref><ref id="cncr30050-bib-0023"><label>23</label><mixed-citation publication-type="book" id="cncr30050-cit-0023">
+<string-name>
+<surname>Neter</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Wasserman</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name>
+<surname>Kutner</surname>
+<given-names>M</given-names>
+</string-name>. <source>Simultaneous inferences and other topic in regression analysis&#x02010;1</source>. In: <person-group person-group-type="editor"><name><surname>Neter</surname><given-names>J</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Wasserman</surname><given-names>W</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Kutner</surname><given-names>M</given-names></name></person-group>, eds. Applied linear regression models, 1st ed. <publisher-loc>Homewood, Il</publisher-loc>: <publisher-name>Richard D. Irwin Inc.</publisher-name>, <year>1983</year>:<fpage>150</fpage>&#x02013;<lpage>153</lpage>.
+</mixed-citation></ref><ref id="cncr30050-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cncr30050-cit-0024">
+<string-name>
+<surname>Gray</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>A class of k&#x02010;sample tests for comparing the cumulative incidence of a competing risk</article-title>. <source>Ann Stat.</source>
+<year>1988</year>;<volume>16</volume>:<fpage>1141</fpage>&#x02013;<lpage>1154</lpage>.
+</mixed-citation></ref><ref id="cncr30050-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cncr30050-cit-0025">
+<string-name>
+<surname>Fine</surname>
+<given-names>JP</given-names>
+</string-name>, 
+<string-name>
+<surname>Gray</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>A proportional hazards model for the subdistribution of a competing risk</article-title>. <source>J Am Stat Assoc.</source>
+<year>1999</year>;<volume>94</volume>:<fpage>496</fpage>&#x02013;<lpage>509</lpage>.
+</mixed-citation></ref><ref id="cncr30050-bib-0026"><label>26</label><mixed-citation publication-type="book" id="cncr30050-cit-0026">
+<string-name>
+<surname>Klein</surname>
+<given-names>JP</given-names>
+</string-name>, 
+<string-name>
+<surname>Moeschberger</surname>
+<given-names>ML</given-names>
+</string-name>. <chapter-title>Refinements of the semiparametric proportional hazards model</chapter-title> In: <person-group person-group-type="editor"><name><surname>Klein</surname><given-names>JP</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Moeschberger</surname><given-names>ML</given-names></name></person-group>, eds. <source>Survival Analysis: Techniques for Censored and Truncated Data</source>. <edition>2nd ed</edition>
+<publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer</publisher-name>; <year>2003</year>:<fpage>295</fpage>&#x02013;<lpage>328</lpage>.
+</mixed-citation></ref><ref id="cncr30050-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cncr30050-cit-0027">
+<string-name>
+<surname>Kanda</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Investigation of the freely&#x02010;available easy&#x02010;to&#x02010;use software &#x0201c;EZR&#x0201d; (Eazy R) for medical statistics</article-title>. <source>Bone Marrow Transplant.</source>
+<year>2013</year>;<volume>48</volume>:<fpage>452</fpage>&#x02013;<lpage>458</lpage>.
+<pub-id pub-id-type="pmid">23208313</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cncr30050-cit-0028">
+<string-name>
+<surname>Fowler</surname>
+<given-names>JF</given-names>
+</string-name>. <article-title>The radiobiology of prostate cancer including new aspects of fractionated radiotherapy</article-title>. <source>Acta Oncol.</source>
+<year>2005</year>;<volume>44</volume>:<fpage>265</fpage>&#x02013;<lpage>276</lpage>.
+<pub-id pub-id-type="pmid">16076699</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cncr30050-cit-0029">
+<string-name>
+<surname>Viani</surname>
+<given-names>GA</given-names>
+</string-name>, 
+<string-name>
+<surname>Stefano</surname>
+<given-names>EJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Afonso</surname>
+<given-names>SL</given-names>
+</string-name>. <article-title>Higher&#x02010;than&#x02010;conventional radiation doses in localized prostate cancer treatment: a meta&#x02010;analysis of randomized, controlled trials</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2009</year>;<volume>74</volume>:<fpage>1405</fpage>&#x02013;<lpage>1418</lpage>.
+<pub-id pub-id-type="pmid">19616743</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cncr30050-cit-0030">
+<string-name>
+<surname>Kalbasi</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Berman</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Dose&#x02010;escalated irradiation and overall survival in men with nonmetastatic prostate cancer</article-title>. <source>JAMA Oncol.</source>
+<year>2015</year>;<volume>1</volume>:<fpage>897</fpage>&#x02013;<lpage>906</lpage>.
+<pub-id pub-id-type="pmid">26181727</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cncr30050-cit-0031">
+<string-name>
+<surname>Freedland</surname>
+<given-names>SJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Humphreys</surname>
+<given-names>EB</given-names>
+</string-name>, 
+<string-name>
+<surname>Mangold</surname>
+<given-names>LA</given-names>
+</string-name>, et al. <article-title>Risk of prostate cancer&#x02013;specific mortality following biochemical recurrence after radical prostatectomy</article-title>. <source>JAMA.</source>
+<year>2005</year>;<volume>294</volume>:<fpage>433</fpage>&#x02013;<lpage>439</lpage>.
+<pub-id pub-id-type="pmid">16046649</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cncr30050-cit-0032">
+<string-name>
+<surname>Bolla</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Van Tienhoven</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Warde</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>External irradiation with or without long&#x02010;term androgen suppression for prostate cancer with high metastatic risk: 10&#x02010;year results of an EORTC randomised study</article-title>. <source>Lancet Oncol.</source>
+<year>2010</year>;<volume>11</volume>:<fpage>1066</fpage>&#x02013;<lpage>1073</lpage>.
+<pub-id pub-id-type="pmid">20933466</pub-id></mixed-citation></ref><ref id="cncr30050-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cncr30050-cit-0033">
+<string-name>
+<surname>Zapatero</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Guerrero</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Maldonado</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>High&#x02010;dose radiotherapy with short&#x02010;term or long&#x02010;term androgen deprivation in localised prostate cancer (DART01/05 GICOR): a randomised, controlled, phase 3 trial</article-title>. <source>Lancet Oncol.</source>
+<year>2015</year>;<volume>16</volume>:<fpage>320</fpage>&#x02013;<lpage>327</lpage>.
+<pub-id pub-id-type="pmid">25702876</pub-id></mixed-citation></ref></ref-list></back></article>

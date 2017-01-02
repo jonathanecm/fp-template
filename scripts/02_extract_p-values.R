@@ -47,7 +47,6 @@ possible_titles <- c('results', 'results and discussion', 'methods and results',
 for (i in seq_along(files)){
   
   content <- xmlTreeParse(files[i]) 
-  print(i)
   if (!is.null(content$doc$children$article)) {
     body_sections <- getNodeSet(content$doc$children$article, "//sec")
     
@@ -65,8 +64,8 @@ for (i in seq_along(files)){
           section_vec <- append(section_vec, xmlValue(section[[1]])) # Extracts result section. 
           
           # Extract journal name.
-          journal <- getNodeSet(content$doc$children$article, "//journal-title")
-          journal_vec <- append(journal_vec, xmlValue(journal[[1]])) # Extracts result section. 
+          #journal <- getNodeSet(content$doc$children$article, "//journal-title")
+          #journal_vec <- append(journal_vec, xmlValue(journal[[1]])) # Extracts result section. 
           
           # Extract abbreviated journal name. 
           abbrev_journal_name <- getNodeSet(content$doc$children$article, "//journal-id[@journal-id-type='iso-abbrev']")
@@ -85,9 +84,9 @@ for (i in seq_along(files)){
           }
           
           # Extract title. 
-          title <- getNodeSet(content$doc$children$article, "//article-title")
+          title <- basename(content$doc$file)
           if (!is_empty(title)) {
-            title_vec <- append(title_vec, xmlValue(title[[1]]))
+            title_vec <- append(title_vec, title)
           } else {
             title_vec <- append(title_vec, "NA")
           }
@@ -97,12 +96,12 @@ for (i in seq_along(files)){
           
           
           # Extract subject. 
-          subject <- getNodeSet(content$doc$children$article, "//subject")
-          if (!is_empty(subject)) {
-            subject_vec <- append(subject_vec, xmlValue(subject[[1]]))
-          } else {
-            subject_vec <- append(subject_vec, "NA")
-          }
+          # subject <- getNodeSet(content$doc$children$article, "//subject")
+          # if (!is_empty(subject)) {
+          #   subject_vec <- append(subject_vec, xmlValue(subject[[1]]))
+          # } else {
+          #   subject_vec <- append(subject_vec, "NA")
+          # }
           
           # Number of authors.
           autors <- length(getNodeSet(content$doc$children$article, "//contrib")) 
@@ -118,7 +117,7 @@ for (i in seq_along(files)){
     } 
   }
   
-  #print(i/length(files) * 100)
+  print(i/length(files) * 100)
 }
 
 
@@ -155,10 +154,10 @@ abstract_p_val_vec  <- as.vector(str_extract(abstract_vec, regexp)) %>%
 
 # create data frame. ####
 p_values_df <- tibble(p_values_vec, abstract_p_val_vec, autors_number_vec, 
-                      pub_year_vec, subject_vec, title_vec, journal_vec, abbrev_journal_name_vec)
+                      pub_year_vec, title_vec, abbrev_journal_name_vec)
 
 names(p_values_df) <- c("result", "abstract", "num_authors", 
-                        "pub_year", "subject", "title", "journal_name", "abbrev_journal_name")  
+                        "pub_year", "title", "abbrev_journal_name")  
 
 symbols_remover <- function (x) gsub("[=<>≤≥]", "", x)
 p_values_df <-p_values_df %>% 
@@ -167,7 +166,7 @@ p_values_df <-p_values_df %>%
         `p-values` = as.double(map_chr(`p-values`, symbols_remover)))
 
 # safe data frame.
-write.csv(p_values_df, "./data/processed/p-values_df.csv")
+write.csv(p_values_df, "./data/raw/p-values_df.csv")
 
 
 

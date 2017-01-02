@@ -1,0 +1,921 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Biochemistry</journal-id><journal-id journal-id-type="iso-abbrev">Biochemistry</journal-id><journal-id journal-id-type="publisher-id">bi</journal-id><journal-id journal-id-type="coden">bichaw</journal-id><journal-title-group><journal-title>Biochemistry</journal-title></journal-title-group><issn pub-type="ppub">0006-2960</issn><issn pub-type="epub">1520-4995</issn><publisher><publisher-name>American
+Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25268459</article-id><article-id pub-id-type="pmc">4211652</article-id><article-id pub-id-type="doi">10.1021/bi5005552</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Covalent Small Molecule Inhibitors of Ca<sup>2+</sup>-Bound S100B</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Cavalier</surname><given-names>Michael
+C.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Pierce</surname><given-names>Adam D.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Wilder</surname><given-names>Paul T.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Alasady</surname><given-names>Milad J.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Hartman</surname><given-names>Kira G.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Neau</surname><given-names>David B.</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Foley</surname><given-names>Timothy L.</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Jadhav</surname><given-names>Ajit</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Maloney</surname><given-names>David J.</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Simeonov</surname><given-names>Anton</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>Toth</surname><given-names>Eric A.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath12"><name><surname>Weber</surname><given-names>David J.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Center
+for Biomolecular Therapeutics (CBT), Department of Biochemistry and
+Molecular Biology, <institution>University of Maryland
+School of Medicine</institution>, Baltimore, Maryland 21201, <country>United States</country></aff><aff id="aff2"><label>&#x02021;</label>Marlene
+and Stewart Greenebaum Cancer Center, <institution>University
+of Maryland School of Medicine</institution>, Baltimore, Maryland 21201, <country>United States</country></aff><aff id="aff3"><label>&#x000a7;</label>NE-CAT, <institution>Cornell
+University</institution>, Argonne, Illinois 60439, <country>United
+States</country></aff><aff id="aff4"><label>&#x02225;</label>National
+Center for Advancing Translational Sciences, <institution>National Institutes of Health</institution>, Bethesda, Maryland 20892, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>University of Maryland School of
+Medicine, Department of Biochemistry and Molecular Biology, Biomedical
+Research Facility, Rm. 439, 108 N. Greene St., Baltimore, MD 21201.
+E-mail: <email>dweber@som.umaryland.edu</email>. Phone: <phone>(410)
+706-4354</phone>. Fax: <fax>(410) 706-0438</fax>.</corresp></author-notes><pub-date pub-type="pmc-release"><day>30</day><month>09</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>30</day><month>09</month><year>2014</year></pub-date><pub-date pub-type="ppub"><day>28</day><month>10</month><year>2014</year></pub-date><volume>53</volume><issue>42</issue><fpage>6628</fpage><lpage>6640</lpage><history><date date-type="received"><day>09</day><month>05</month><year>2014</year></date><date date-type="rev-recd"><day>30</day><month>09</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2014 American Chemical
+Society</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">Terms of Use</ext-link></license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi-2014-005552_0010" id="ab-tgr1"/></p><p>Elevated levels of the tumor marker
+S100B are observed in malignant
+melanoma, and this EF-hand-containing protein was shown to directly
+bind wild-type (wt) p53 in a Ca<sup>2+</sup>-dependent manner, dissociate
+the p53 tetramer, and inhibit its tumor suppression functions. Likewise,
+inhibiting S100B with small interfering RNA (siRNA<sup>S100B</sup>) is sufficient to restore wild-type p53 levels and its downstream
+gene products and induce the arrest of cell growth and UV-dependent
+apoptosis in malignant melanoma. Therefore, it is a goal to develop
+S100B inhibitors (SBi<italic>X</italic>s) that inhibit the S100B&#x02013;p53
+complex and restore active p53 in this deadly cancer. Using a structure&#x02013;activity
+relationship by nuclear magnetic resonance approach (SAR by NMR),
+three persistent binding pockets are found on S100B, termed sites
+1&#x02013;3. While inhibitors that simultaneously bind sites 2 and
+3 are in place, no molecules that simultaneously bind all three persistent
+sites are available. For this purpose, Cys84 was used in this study
+as a potential means to bridge sites 1 and 2 because it is located
+in a small crevice between these two deeper pockets on the protein.
+Using a fluorescence polarization competition assay, several Cys84-modified
+S100B complexes were identified and examined further. For five such
+SBi<italic>X</italic>&#x02013;S100B complexes, crystallographic structures
+confirmed their covalent binding to Cys84 near site 2 and thus present
+straightforward chemical biology strategies for bridging sites 1 and
+3. Importantly, one such compound, SC1982, showed an S100B-dependent
+death response in assays with WM115 malignant melanoma cells, so it
+will be particularly useful for the design of SBi<italic>X</italic> molecules with improved affinity and specificity.</p></abstract><funding-group><funding-statement><funding-source>National Institutes of Health, United States</funding-source></funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>bi5005552</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>bi-2014-005552</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p id="sec1">Despite improvements
+in chemotherapy,
+BRAF/MEK inhibitors, cytokine treatments, immunotherapies, vaccines,
+and combinatorial approaches for treating malignant melanoma (MM),<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> long-term survival (&#x0003e;3 years) remains very poor for a majority
+of
+patients (&#x0003e;70%), and side effects from these treatments are sometimes
+quite severe.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> These
+issues are even more problematic after the onset of metastasis and/or
+when drug-resistant mechanisms arise.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> As with many
+cancers, survival from MM is most promising when it is detected early,
+so the development of useful biomarkers for detection and more recently
+for personalized medicine approaches is ongoing.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> One
+such marker, S100B, is especially important to monitor because its
+level is elevated in &#x0003e;90% of MM patients and its protein level
+correlates
+directly with poor survival (&#x0003c;1 year) and relapse, and it is especially
+predictive when used in combination with other diagnostic indicators.<sup><xref ref-type="bibr" rid="ref11">11</xref>&#x02212;<xref ref-type="bibr" rid="ref13">13</xref></sup> On the other hand, for the few MM patients (5&#x02013;10%) who have
+low levels of S100B, the MM vaccine is most effective at providing
+longer survival times.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup></p><p>The S100B protein is a
+marker for melanoma, and when its level
+is elevated, it contributes to disease progression.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> While the mechanism of elevated S100B levels toward MM progression
+is not fully understood, it contributes to lowering protein levels
+of the tumor suppressor p53 in a Ca<sup>2+</sup>-dependent manner.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> Specifically, p53 is sequestered by Ca<sup>2+</sup>-bound S100B
+(<sup>Ca</sup>S100B), its phosphorylation in the C-terminal negative
+regulator domain blocked,<sup><xref ref-type="bibr" rid="ref20">20</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref></sup> its oligomerization disrupted,<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> and its degradation promoted.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> Because p53
+is typically wild-type in MM,<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> efforts are underway
+to specifically inhibit formation of the <sup>Ca</sup>S100B&#x02013;p53
+complex<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> and restore
+p53 levels, particularly in cases in which the cancer is resistant
+to kinase inhibitors or other therapeutic options.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> As a proof of principle, blocking the <sup>Ca</sup>S100B-dependent
+effect on p53 via RNA interference or by small molecule inhibitors
+(also known as SBi<italic>X</italic>s) restores p53 protein levels
+and its tumor suppression activities, including UV-activated apoptosis.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> One such inhibitor, pentamidine
+(also termed SBi1), entered stage II clinical trials for the treatment
+of relapsed or refractory malignant melanoma in patients with wild-type
+p53 and detectable S100B (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.clinicaltrials.gov">www.clinicaltrials.gov</uri>, identifier
+NCT00729807). However, despite this promising line of inquiry, efficacy,
+specificity, and toxicity issues need to be improved significantly
+for SBi<italic>X</italic> lead molecules and warrant further investigation
+using drug design approaches.</p><p>In previous structure&#x02013;function
+studies of S100B,<sup><xref ref-type="bibr" rid="ref32">32</xref>&#x02212;<xref ref-type="bibr" rid="ref35">35</xref></sup> three persistent binding sites were identified in <sup>Ca</sup>S100B&#x02013;target
+and <sup>Ca</sup>S100B&#x02013;SBi<italic>X</italic> complexes (Figure <xref rid="fig1" ref-type="fig">1</xref>). Site 1 interactions were first highlighted via
+the structure of <sup>Ca</sup>S100B bound to the C-terminal regulatory
+domain of p53,<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> while sites 2 and 3 were
+elucidated in the detailed characterization of the <sup>Ca</sup>S100B&#x02013;SBi1
+complex.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> Here we describe a series of
+inhibitors, which occupy only the central binding site on <sup>Ca</sup>S100B (site 2) through a covalent attachment to Cys84. To fully characterize
+this binding site, a series of &#x0201c;site 2&#x0201d; <sup>Ca</sup>S100B&#x02013;SBi<italic>X</italic> complexes were subjected to crystallization
+trials. Five new <sup>Ca</sup>S100B&#x02013;SBi<italic>X</italic> complexes
+were identified (i.e., for <sup>Ca</sup>S100B&#x02013;SC124, <sup>Ca</sup>S100B&#x02013;SBi4172, <sup>Ca</sup>S100B&#x02013;SC1982, and <sup>Ca</sup>S100B&#x02013;SC1475). As a group, these &#x0201c;site 2&#x0201d;
+inhibitors display a meaningful effect in cellular assays on their
+own, but as discussed here, they also provide promise for defining
+how to link SBi<italic>X</italic> molecules bound in sites 1 and 3,
+as part of a new chemical scaffold, which can occupy all three persistent
+binding pockets within <sup>Ca</sup>S100B, simultaneously. These data
+also identify a common conformational change that occurs as a result
+of &#x0201c;site 2&#x0201d; occupation, which is necessary to consider
+in future therapeutic design efforts.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Binding sites 1&#x02013;3. Shown is a ribbon
+diagram of the S100B
+dimer with the three persistent binding sites shaded. The sites were
+identified in <sup>Ca</sup>S100B&#x02013;target and <sup>Ca</sup>S100B&#x02013;SBi<italic>X</italic> complexes. Site 1 interactions were first highlighted
+via the structure of <sup>Ca</sup>S100B bound to the C-terminal regulatory
+domain of p53,<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> while sites 2 and 3 were
+elucidated in the detailed characterization of the <sup>Ca</sup>S100B&#x02013;SBi1
+complex.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi-2014-005552_0012" id="gr1" position="float"/></fig><sec sec-type="methods" id="sec2"><title>Experimental Procedures</title><sec id="sec2.1"><title>Purification</title><p><sup>15</sup>N-labeled
+S100B (rat and
+bovine) was expressed and purified (&#x0003e;99%) with methods similar
+to
+those described previously.<sup><xref ref-type="bibr" rid="ref37">37</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup> The concentrations
+of S100B stock solutions were determined using the Bio-Rad Protein
+Assay (Bio-Rad Inc., Hercules, CA). The S100B was stored at a concentration
+of &#x0223c;10 mM in 0.25 mM Tris (pH 7.2) and 0.25 mM DTT at &#x02212;20
+&#x000b0;C until use.</p></sec><sec id="sec2.2"><title>Fluorescence Polarization Competition Assay
+(FPCA)</title><p>The LOPAC1280 (Sigma-Aldrich) compound library was
+screened using
+an adaptation of a previously reported fluorescence polarization competition
+assay.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> Briefly, the compounds were screened
+for binding to Ca<sup>2+</sup>-loaded S100B by measuring changes in
+fluorescence polarization upon competition with the TAMRA-labeled
+version of peptide TRTK12, which is derived from CapZ protein residues
+265&#x02013;276 (TRTKIDWNKILS).
+The FPCA was performed in 0.2 &#x003bc;M S100B (rat), 25 nM TAMRA-TRTK12,
+50 mM HEPES (pH 7.2), 100 mM KCl, 15 mM NaCl, 10 mM CaCl<sub>2</sub>, 0.01% Triton X-100, and 0.3% DMSO in 1536-well plates with 8 &#x003bc;L
+per well.</p></sec><sec id="sec2.3"><title>NMR Spectroscopy</title><p>Purified <sup>15</sup>N-labeled S100B
+(rat) protein was dialyzed against 0.25 mM Tris (pH 7.5) and 0.25
+mM DTT and concentrated to 10&#x02013;15 mM using Amicon Ultra centrifugal
+filter units with a 10 kDa molecular weight cutoff; the concentration
+was determined using Bradford reagent (Bio-Rad), and protein was then
+aliquoted and stored at &#x02212;20 &#x000b0;C. The Ca<sup>2+</sup>-loaded
+S100B&#x02013;SBi<italic>X</italic> heteronuclear single-quantum coherence
+(HSQC) samples contained 0.5 mM S100B subunit, 0.625 mM SBi<italic>X</italic>, 0.34 mM NaN<sub>3</sub>, 15 mM NaCl, 5% DMSO-<italic>d</italic><sub>6</sub>, 10 mM CaCl<sub>2</sub>, 10% D<sub>2</sub>O, 0.2% TPEN, and 10 mM Hepes, adjusted to pH 7.2 with HCl. HSQC
+NMR data were collected at 37 &#x000b0;C with a Bruker Avance 800 US2
+(800.27 MHz for protons) instrument equipped with pulsed-field gradients,
+four frequency channels, and triple-resonance, <italic>z</italic>-axis
+gradient cryogenic probes. Data were processed with NMRPipe, and proton
+chemical shifts were reported with respect to the H<sub>2</sub>O or
+HDO signal taken as 4.608 ppm relative to external TSP (0.0 ppm).
+The <sup>15</sup>N chemical shifts were indirectly referenced as previously
+described using the following ratio of the zero-point frequency: 0.10132905
+for <sup>15</sup>N to <sup>1</sup>H. A series of three-dimensional
+HNCA, HNCOCA, <sup>15</sup>N-edited NOESY-HSQC, and <sup>15</sup>N-edited
+HMQC-NOESY-HSQC NMR experiments were conducted, and the data were
+sufficient to unambiguously assign all the observable backbone <sup>1</sup>H, <sup>15</sup>N, and <sup>13</sup>C chemical shift values
+of S100B in the compound-bound state (Figures S1&#x02013;S5 of the <xref rid="notes-2" ref-type="notes">Supporting Information</xref>).</p></sec><sec id="sec2.4"><title>Crystallographic Studies</title><sec id="sec2.4.1"><title>Crystallization</title><p>All crystallization experiments were
+conducted using vapor diffusion methods and performed as follows using
+purified <sup>15</sup>N-labeled S100B (bovine) protein. <sup>Ca</sup>S100B&#x02013;SBi4172 crystals were grown in sitting drops consisting
+of a 0.75:0.75 &#x003bc;L protein solution [20 mg/mL S100B, 10 mM cacodylate
+(pH 7.2), 7.5 mM CaCl<sub>2</sub>, and 2 mM SBi4172 prepared in DMSO-<italic>d</italic><sub>6</sub>] and mother liquor [20% 2-methyl-2,4-pentanediol,
+0.1 M Hepes (pH 7.0), and 7.5 mM CaCl<sub>2</sub>]. <sup>Ca</sup>S100B&#x02013;SBi4434
+crystals were grown in sitting drops consisting of a 0.75:0.75 &#x003bc;L
+protein solution [40 mg/mL S100B, 10 mM cacodylate (pH 7.2), 7.5 mM
+CaCl<sub>2</sub>, and 4 mM SBi4434 prepared in DMSO-<italic>d</italic><sub>6</sub>] and mother liquor [40% 2-methyl-2,4-pentanediol, 0.1
+M cacodylate (pH 6.0), and 7.5 mM CaCl<sub>2</sub>]. <sup>Ca</sup>S100B&#x02013;SC1982 crystals were grown in sitting drops consisting
+of a 0.75:0.75 &#x003bc;L protein solution [40 mg/mL S100B, 10 mM cacodylate
+(pH 7.2), 7.5 mM CaCl<sub>2</sub>, and 4 mM SC1982 prepared in DMSO-<italic>d</italic><sub>6</sub>] and mother liquor [40% 2-methyl-2,4-pentanediol,
+0.1 M Tris (pH 8.0), and 7.5 mM CaCl<sub>2</sub>]. <sup>Ca</sup>S100B&#x02013;SC1475
+crystals were grown in sitting drops consisting of a 0.75:0.75 &#x003bc;L
+protein solution [40 mg/mL S100B, 10 mM cacodylate (pH 7.2), 7.5 mM
+CaCl<sub>2</sub>, and 4 mM SC1475 prepared in DMSO-<italic>d</italic><sub>6</sub>] and mother liquor [40% 2-methyl-2,4-pentanediol, 0.1
+M Bis-Tris (pH 6.0), and 7.5 mM CaCl<sub>2</sub>]. <sup>Ca</sup>S100B&#x02013;SC124
+crystals were grown in sitting drops consisting of a 0.75:0.75 &#x003bc;L
+protein solution [40 mg/mL S100B, 10 mM cacodylate (pH 7.2), 7.5 mM
+CaCl<sub>2</sub>, and 4 mM SC124 prepared in DMSO-<italic>d</italic><sub>6</sub>] and mother liquor [40% 2-methyl-2,4-pentanediol, 0.1
+M Hepes (pH 7.0), and 7.5 mM CaCl<sub>2</sub>]. The crystals were
+grown over a period of 1&#x02013;14 days at 295 K. Crystals were flash-cooled
+directly from the crystallization drop.</p></sec><sec id="sec2.4.2"><title>Data Collection and Processing</title><p>Diffraction data for <sup>Ca</sup>S100B&#x02013;SBi4172 crystals
+were collected at the Northeastern
+Collaborative Access Team (NE-CAT) 24ID-C beamline at the Advanced
+Photon Source (Argonne National Laboratory, Argonne, IL). Data were
+recorded at 100 K on a PILATUS detector and processed by NE-CAT&#x02019;s
+RAPD automated processing (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://rapd.nec.aps.anl.gov/rapd">https://rapd.nec.aps.anl.gov/rapd</uri>), which uses XDS<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> for integration and
+scaling. A 1.73 &#x000c5; data set was collected at a wavelength of 0.97920
+&#x000c5; while the crystal was being oscillated by 1.0&#x000b0; each frame.
+The space group was determined to be <italic>P</italic>21.</p><p>Diffraction
+data for <sup>Ca</sup>S100B&#x02013;SC124, <sup>Ca</sup>S100B&#x02013;SBi4434,
+and <sup>Ca</sup>S100B&#x02013;SC1982 crystals were collected remotely<sup><xref ref-type="bibr" rid="ref40">40</xref>,<xref ref-type="bibr" rid="ref41">41</xref></sup> at Stanford Synchrotron Radiation Lightsource (SSRL) beamline 7-1.
+Data were recorded at 100 K on an ADSC Q315 (315 mm &#x000d7; 315 mm)
+detector with collection strategies generated by BLU-ICE.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup><sup>Ca</sup>S100B&#x02013;SC124 and <sup>Ca</sup>S100B&#x02013;SC1982 data sets were processed and integrated by AUTOXDS,<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> while S100B&#x02013;SBi4434 data sets were processed
+and integrated by MOSFLM<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> within the CCP4
+program suite.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> A 1.58 &#x000c5; <sup>Ca</sup>S100B&#x02013;SC124 data set was collected at a wavelength of 1.1271
+&#x000c5; while the crystal was being oscillated by 0.6&#x000b0; each frame.
+The space group was determined to be <italic>P</italic>21. A 1.08
+&#x000c5; <sup>Ca</sup>S100B&#x02013;SBi4434 data set was collected at
+a wavelength of 1.00 &#x000c5; while the crystal was being oscillated
+by 0.35&#x000b0; each frame. The space group was determined to be <italic>P</italic>21. A 1.65 &#x000c5; <sup>Ca</sup>S100B&#x02013;SC1982 data
+set was collected at a wavelength of 1.1271 &#x000c5; while the crystal
+was being oscillated 0.45&#x000b0; each frame. The space group was determined
+to be <italic>C</italic>2221.</p><p>Diffraction data for <sup>Ca</sup>S100B&#x02013;SC1475 crystals
+were collected remotely<sup><xref ref-type="bibr" rid="ref40">40</xref>,<xref ref-type="bibr" rid="ref41">41</xref></sup> at Stanford Synchrotron
+Radiation Lightsource (SSRL) beamline 12-2. Data were recorded at
+100 K on a PILATUS detector with collection strategies generated by
+BLU-ICE,<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> and processing and integration
+were performed by AUTOXDS.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> A 2.18 &#x000c5;
+data set was collected at a wavelength of 0.97950 &#x000c5; while the
+crystal was being oscillated by 0.15&#x000b0; each frame. The space group
+was determined to be <italic>P</italic>21. Diffraction data statistics
+are summarized in Table <xref rid="tbl1" ref-type="other">1</xref>.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Statistics of Reflection Data and
+Structure Refinements<xref rid="t1fn88" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">SC124</th><th style="border:none;" align="center">SC1475</th><th style="border:none;" align="center">SC1982</th><th style="border:none;" align="center">SBi4172</th><th style="border:none;" align="center">SBi4434</th></tr></thead><tbody><tr><td style="border:none;" align="left">space group</td><td style="border:none;" align="left"><italic>P</italic>21</td><td style="border:none;" align="left"><italic>P</italic>21</td><td style="border:none;" align="left"><italic>C</italic>2221</td><td style="border:none;" align="left"><italic>P</italic>21</td><td style="border:none;" align="left"><italic>P</italic>21</td></tr><tr><td style="border:none;" align="left">unit cell dimensions (&#x000c5;)</td><td style="border:none;" align="left">34.7, 56.5, 48.3</td><td style="border:none;" align="left">35.0, 58.1, 47.9</td><td style="border:none;" align="left">34.6, 90.0, 60.8</td><td style="border:none;" align="left">35.0, 57.1, 48.0</td><td style="border:none;" align="left">35.2,
+56.3, 48.1</td></tr><tr><td style="border:none;" align="left">unit cell angles (deg)</td><td style="border:none;" align="left">90.0, 110.1, 90.0</td><td style="border:none;" align="left">90.0, 111.2, 90.0</td><td style="border:none;" align="left">90.0, 90.0, 90.0</td><td style="border:none;" align="left">90.0, 111.0, 90.0</td><td style="border:none;" align="left">90.0,
+108.8, 90.0</td></tr><tr><td style="border:none;" align="left">resolution range (&#x000c5;)</td><td style="border:none;" align="left">35.35&#x02013;1.58</td><td style="border:none;" align="left">35.40&#x02013;2.18</td><td style="border:none;" align="left">36.17&#x02013;1.65</td><td style="border:none;" align="left">44.82&#x02013;1.73</td><td style="border:none;" align="left">21.69&#x02013;1.08</td></tr><tr><td style="border:none;" align="left">no. of reflections observed</td><td style="border:none;" align="left">83472&#x000a0;(9120)</td><td style="border:none;" align="left">30768&#x000a0;(4167)</td><td style="border:none;" align="left">55035&#x000a0;(7875)</td><td style="border:none;" align="left">55396&#x000a0;(8136)</td><td style="border:none;" align="left">244228&#x000a0;(12126)</td></tr><tr><td style="border:none;" align="left">no. of unique
+reflections</td><td style="border:none;" align="left">23617&#x000a0;(3115)</td><td style="border:none;" align="left">9152&#x000a0;(1259)</td><td style="border:none;" align="left">11752&#x000a0;(1673)</td><td style="border:none;" align="left">17118&#x000a0;(2517)</td><td style="border:none;" align="left">70592&#x000a0;(3504)</td></tr><tr><td style="border:none;" align="left">no. of reflections in the <italic>R</italic><sub>free</sub> set</td><td style="border:none;" align="left">1201</td><td style="border:none;" align="left">935</td><td style="border:none;" align="left">1173</td><td style="border:none;" align="left">869</td><td style="border:none;" align="left">2006</td></tr><tr><td style="border:none;" align="left">completeness (%)</td><td style="border:none;" align="left">97.8&#x000a0;(89.1)</td><td style="border:none;" align="left">96.7&#x000a0;(91.7)</td><td style="border:none;" align="left">99.9&#x000a0;(99.8)</td><td style="border:none;" align="left">92.6&#x000a0;(94.2)</td><td style="border:none;" align="left">92.2&#x000a0;(93.0)</td></tr><tr><td style="border:none;" align="left">redundancy</td><td style="border:none;" align="left">3.5&#x000a0;(2.9)</td><td style="border:none;" align="left">3.4&#x000a0;(3.3)</td><td style="border:none;" align="left">4.7&#x000a0;(4.7)</td><td style="border:none;" align="left">3.2&#x000a0;(3.2)</td><td style="border:none;" align="left">3.5&#x000a0;(3.5)</td></tr><tr><td style="border:none;" align="left">&#x027e8;<italic>I</italic>/&#x003c3;&#x027e9;</td><td style="border:none;" align="left">22.6&#x000a0;(3.5)</td><td style="border:none;" align="left">11.6&#x000a0;(2.3)</td><td style="border:none;" align="left">22.7&#x000a0;(2.6)</td><td style="border:none;" align="left">13.8&#x000a0;(2.4)</td><td style="border:none;" align="left">9.0&#x000a0;(3.0)</td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>sym</sub><xref rid="t1fn1" ref-type="table-fn">b</xref></td><td style="border:none;" align="left">0.029&#x000a0;(0.325)</td><td style="border:none;" align="left">0.051&#x000a0;(0.461)</td><td style="border:none;" align="left">0.045&#x000a0;(0.613)</td><td style="border:none;" align="left">0.038&#x000a0;(0.452)</td><td style="border:none;" align="left">0.068&#x000a0;(0.351)</td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>crys</sub><xref rid="tbl1-fn2" ref-type="table-fn">c</xref></td><td style="border:none;" align="left">0.215</td><td style="border:none;" align="left">0.213</td><td style="border:none;" align="left">0.177</td><td style="border:none;" align="left">0.230</td><td style="border:none;" align="left">0.192</td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>free</sub><xref rid="tbl1-fn3" ref-type="table-fn">d</xref></td><td style="border:none;" align="left">0.253</td><td style="border:none;" align="left">0.251</td><td style="border:none;" align="left">0.214</td><td style="border:none;" align="left">0.268</td><td style="border:none;" align="left">0.211</td></tr><tr><td style="border:none;" align="left">no. of amino acids</td><td style="border:none;" align="left">179</td><td style="border:none;" align="left">180</td><td style="border:none;" align="left">90</td><td style="border:none;" align="left">179</td><td style="border:none;" align="left">181</td></tr><tr><td style="border:none;" align="left">no. of protein atoms</td><td style="border:none;" align="left">1445</td><td style="border:none;" align="left">1454</td><td style="border:none;" align="left">751</td><td style="border:none;" align="left">1446</td><td style="border:none;" align="left">1464</td></tr><tr><td style="border:none;" align="left">no. of hetero atoms</td><td style="border:none;" align="left">20</td><td style="border:none;" align="left">46</td><td style="border:none;" align="left">29</td><td style="border:none;" align="left">30</td><td style="border:none;" align="left">36</td></tr><tr><td style="border:none;" align="left">no. of waters</td><td style="border:none;" align="left">173</td><td style="border:none;" align="left">19</td><td style="border:none;" align="left">137</td><td style="border:none;" align="left">76</td><td style="border:none;" align="left">321</td></tr><tr><td style="border:none;" align="left">rmsd<xref rid="tbl1-fn1" ref-type="table-fn">e</xref> for bond lengths (&#x000c5;)</td><td style="border:none;" align="left">0.020</td><td style="border:none;" align="left">0.013</td><td style="border:none;" align="left">0.012</td><td style="border:none;" align="left">0.024</td><td style="border:none;" align="left">0.015</td></tr><tr><td style="border:none;" align="left">rmsd<xref rid="tbl1-fn1" ref-type="table-fn">e</xref> for
+bond angles (deg)</td><td style="border:none;" align="left">1.056</td><td style="border:none;" align="left">1.304</td><td style="border:none;" align="left">1.231</td><td style="border:none;" align="left">1.372</td><td style="border:none;" align="left">1.133</td></tr><tr><td style="border:none;" align="left">mean <italic>B</italic> factor (&#x000c5;<sup>2</sup>)</td><td style="border:none;" align="left">28.92</td><td style="border:none;" align="left">48.73</td><td style="border:none;" align="left">20.67</td><td style="border:none;" align="left">39.00</td><td style="border:none;" align="left">14.91</td></tr><tr><td style="border:none;" align="left">protein atoms (&#x000c5;<sup>2</sup>)</td><td style="border:none;" align="left">27.69</td><td style="border:none;" align="left">48.00</td><td style="border:none;" align="left">18.61</td><td style="border:none;" align="left">38.74</td><td style="border:none;" align="left">13.62</td></tr><tr><td style="border:none;" align="left">hetero atoms
+(&#x000c5;<sup>2</sup>)</td><td style="border:none;" align="left">44.54</td><td style="border:none;" align="left">71.95</td><td style="border:none;" align="left">28.82</td><td style="border:none;" align="left">38.00</td><td style="border:none;" align="left">22.01</td></tr><tr><td style="border:none;" align="left">water atoms (&#x000c5;<sup>2</sup>)</td><td style="border:none;" align="left">37.36</td><td style="border:none;" align="left">48.65</td><td style="border:none;" align="left">30.21</td><td style="border:none;" align="left">44.32</td><td style="border:none;" align="left">25.09</td></tr><tr><td style="border:none;" align="left">Ramachandran outliers (%)</td><td style="border:none;" align="left">0.0</td><td style="border:none;" align="left">0.0</td><td style="border:none;" align="left">0.0</td><td style="border:none;" align="left">0.0</td><td style="border:none;" align="left">0.0</td></tr><tr><td style="border:none;" align="left">Ramachandran favored (%)</td><td style="border:none;" align="left">100.0</td><td style="border:none;" align="left">98.9</td><td style="border:none;" align="left">100.0</td><td style="border:none;" align="left">98.9</td><td style="border:none;" align="left">99.4</td></tr></tbody></table><table-wrap-foot><fn id="t1fn88"><label>a</label><p>The numbers in
+parentheses represent
+values from the highest-resolution shell (1.66&#x02013;1.58 &#x000c5;
+for SC124, 2.3&#x02013;2.18 &#x000c5; for SC1475, 1.74&#x02013;1.65 &#x000c5;
+for SC1982, 1.82&#x02013;1.73 &#x000c5; for SBi4172, and 1.10&#x02013;1.08
+&#x000c5; for SBi4434). Atom counts do not include H.</p></fn><fn id="t1fn1"><label>b</label><p><italic>R</italic><sub>sym</sub> = &#x02211;<sub><italic>h</italic></sub>(&#x02211;<sub><italic>j</italic></sub>|<italic>I</italic><sub><italic>hj</italic></sub> &#x02013;
+&#x027e8;<italic>I</italic><sub><italic>h</italic></sub>&#x027e9;|/&#x02211;<italic>I</italic><sub><italic>h</italic>,<italic>j</italic></sub>), where <italic>h</italic> is the set of Miller indices, <italic>j</italic> is the
+set of observations of reflection <italic>h</italic>, and &#x027e8;<italic>I</italic><sub><italic>h</italic></sub>&#x027e9; is the mean intensity.</p></fn><fn id="tbl1-fn2"><label>c</label><p><italic>R</italic><sub>crys</sub> = &#x02211;<sub><italic>h</italic></sub>||<italic>F</italic><sub>o,<italic>h</italic></sub>| &#x02013; |<italic>F</italic><sub>c,<italic>h</italic></sub>||/&#x02211;<sub><italic>h</italic></sub>|<italic>F</italic><sub>o,<italic>h</italic></sub>|.</p></fn><fn id="tbl1-fn3"><label>d</label><p><italic>R</italic><sub>free</sub> was calculated
+using a percentage of the complete data set excluded
+from refinement.</p></fn><fn id="tbl1-fn1"><label>e</label><p>Deviations
+from ideal values.</p></fn></table-wrap-foot></table-wrap></sec><sec id="sec2.4.3"><title>Structure
+Determination and Refinement</title><p>To determine
+the structure of <sup>Ca</sup>S100B in complex with SBi<italic>X</italic>s, we performed molecular replacement (MR). A search model from a
+previous S100B structure [Protein Data Bank (PDB) entry 1MHO(<xref ref-type="bibr" rid="ref46">46</xref>,<xref ref-type="bibr" rid="ref47">47</xref>)] was generated by removing coordinates for ligands and water. Molecular
+replacement was conducted within the AUTOMR<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> function of the PHENIX<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> software suite.
+The models were finished by manual building within COOT.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> The models were refined by the PHENIX.REFINE<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> function of the PHENIX<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> software suite. Ligands and waters were incorporated into the models
+by visual inspection of the |<italic>F</italic><sub>o</sub>| &#x02013;
+|<italic>F</italic><sub>c</sub>| omit maps. The structure refinement
+statistics are summarized in Table <xref rid="tbl1" ref-type="other">1</xref>.</p></sec></sec><sec id="sec2.5"><title>Cell-Based Assay with WM115 Malignant Melanoma Cells</title><p>The
+malignant melanoma cell line, WM115, was obtained from American
+Type Tissue Collection (ATCC) and cultured in minimum essential medium
+(Invitrogen) supplemented with 10% heat-inactivated fetal bovine serum
+(FBS) and 100 units/mL penicillin-streptomycin (PS). The cells were
+infected with SMARTvector 2.0 lentiviral particles containing either
+nontargeting scrambled or anti-S100B shRNA according to manufacturer&#x02019;s
+recommendations (Thermo Scientific-Dharmacon). The following day,
+the medium containing lentivirus was removed, the cells were washed
+twice with PBS and trypsinized, and each well was expanded into a
+24-well plate containing growth medium supplemented with puromycin
+(0.5 &#x003bc;g/mL). Upon confluence, the wells were trypsinized and
+single-cell diluted into 96-well plates. Positive clones with a reduction
+in the level of S100B protein expression were maintained in puromycin-containing
+medium.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup></p><p>A cellular screen was then
+developed with these WM115 cell lines, and further test compounds
+were shown to bind S100B <italic>in vitro</italic>. In this cellular
+assay, the ability of SBi<italic>X</italic> molecules to inhibit the
+growth of WM115 melanoma cells infected with shRNA lentivirus (Dharmacon)
+targeting S100B (shRNA<sup>S100B</sup>, i.e., low S100B) or a scrambled
+control (shRNA<sup>scrambled</sup>, i.e., high S100B) was examined
+quantitatively. The methods used were similar to those used previously
+and included the use of a Biomek FX Laboratory Automation Workstation
+(Beckman-Coulter) equipped with a 96-channel pipetting head.<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> Specifically, 20 &#x003bc;L of MEM (Corning) supplemented
+with 10% fetal bovine serum, 0.5 &#x003bc;g/mL puromycin, and 1% Pen/Strep
+was added to each well of a 384-well, clear bottom, tissue culture
+plate (Corning) containing 600 cells per well such that growing uninhibited
+they reach 80% confluence in 5 days. After the cells had grown for
+24 h at 37 &#x000b0;C in a 5% CO<sub>2</sub> humidity-controlled incubator,
+20 &#x003bc;L of the compound was added directly to the cell culture
+medium, while control cultures received an equivalent amount of DMSO.
+After being incubated for an additional 4 days, the cells were lysed
+by transferring 20 &#x003bc;L of lysis buffer consisting of 1.8% Igepal
+with a 1:10000 dilution of SYBR Green I (10000&#x000d7;, Invitrogen)
+to each well. The plates were then returned to the incubator for 24
+h. The fluorescence intensity was then read through the bottom of
+the plate using a PolarStar fluorescent plate reader (BMG) using 485
+nm excitation and 520 nm emission filters. The SYBR Green fluorescence
+is used to measure total DNA that in turn correlates with the cell
+number as previously described.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> The EC<sub>50</sub> of each compound was determined using serial dilutions and
+performed in a minimum of three replicates. Hill curves of each replicate
+were generated using Origin Data Analysis Software.</p><p>To analyze
+changes in total p53 protein levels upon treatment with
+SC1982, WM115 cells were seeded in triplicate at a density of 70 &#x000d7;
+10<sup>5</sup> cells in 60 mm dishes in 1&#x000d7; MEM (Cellgro) supplemented
+with 10% FBS, 100 units/mL PS, and 0.5 &#x003bc;g/mL puromycin and allowed
+to adhere overnight. The following day, the old medium was removed
+and new medium containing 5 &#x003bc;M SC1982 or DMSO was added. The
+cells were harvested 4 h post-treatment using cold 1&#x000d7; RIPA lysis
+buffer [0.5 M Tris-HCl (pH 7.4), 1.5 M NaCl, 2.5% deoxycholic acid,
+10% Igepal, and 10 mM EDTA] and subjected to Western blotting.</p><p>Western blotting was performed using 30 &#x003bc;g of cell lysates
+loaded on a 12% sodium dodecyl sulfate&#x02013;polyacrylamide gel electrophoresis
+gel (NuPage), which was subsequently transferred to PVDF membranes
+(Millipore) and reacted with p53 mouse monoclonal antibody (DO-1,
+Santa Cruz), mouse anti-S100B antibody (BD Biosciences), and mouse
+anti-GAPDH antibody at dilutions recommended by the manufacturers.
+The blots were then reacted with goat anti-mouse secondary antibodies
+(Kirkegaard &#x00026; Perry Laboratories) and treated with Immobilon Western
+Chemiluminescent HRP Substrate (Millipore) at dilutions recommended
+by the manufacturer.</p></sec></sec><sec sec-type="results" id="sec3"><title>Results</title><p>The binding of <sup>Ca</sup>S100B to p53 downregulates tumor suppressor
+activity in cancer cells such as malignant melanoma,<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> so a search for small molecule inhibitors that bind <sup>Ca</sup>S100B and prevent formation of the <sup>Ca</sup>S100B&#x02013;p53
+complex was undertaken. A fluorescence polarization competition assay
+(FPCA) was performed against the 1280-compound Library of Pharmacologically
+Active Compounds (<italic>LOPAC1280</italic>). Because of the location
+of Cys84 within the <sup>Ca</sup>S100B binding pocket (i.e., between
+sites 1 and 3), the focus of this investigation was a series of covalent
+complexes from this that were predicted to covalently bind at Cys84
+of <sup>Ca</sup>S100B. SBi4172 is a structural analogue of the covalent
+modifier SC0844<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> and was thought to bind
+similarly. SC124, or disulfiram, is a known covalent modifier.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> The chemical nature of SBi4434 suggests the
+possibility of adduct formation and is confirmed here. To gain additional
+opportunities for characterization of covalent adducts, compounds
+were also taken from a previously reported screen versus the 2000-compound
+Spectrum Collection.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> The compounds characterized
+in this study include SC1982 and SC1475, which were reported in the
+previous study as being dependent on Cys84 for binding, but the formed
+covalent adducts were not investigated.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> Cellular and biophysical characterization of these covalently bound
+inhibitors was explored, including their three-dimensional structures
+when bound to <sup>Ca</sup>S100B (Tables <xref rid="tbl1" ref-type="other">1</xref>&#x02013;<xref rid="tbl4" ref-type="other">4</xref>).</p><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Cellular Assays<xref rid="t2fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="char" char="."/><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th colspan="2" align="center">high
+S100B EC<sub>50</sub> (&#x003bc;M)<hr/></th><th colspan="2" align="center">low
+S100B EC<sub>50</sub> (&#x003bc;M)<hr/></th><th style="border:none;" align="center" char=".">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th></tr><tr><th style="border:none;" align="center">compound</th><th style="border:none;" align="center">mean</th><th style="border:none;" align="center" char=".">SD</th><th style="border:none;" align="center">mean</th><th style="border:none;" align="center" char=".">SD</th><th style="border:none;" align="center" char="."><italic>T</italic>-test</th><th style="border:none;" align="center" char=".">ratio (&#x02213;)</th><th style="border:none;" align="center" char="."><italic>n</italic></th></tr></thead><tbody><tr><td style="border:none;" align="left">SC124</td><td style="border:none;" align="left">0.06</td><td style="border:none;" align="char" char=".">0.06</td><td style="border:none;" align="left">0.23</td><td style="border:none;" align="char" char=".">0.38</td><td style="border:none;" align="char" char=".">0.321</td><td style="border:none;" align="char" char=".">3.57</td><td style="border:none;" align="char" char=".">6</td></tr><tr><td style="border:none;" align="left">SC1475</td><td style="border:none;" align="left">13.87</td><td style="border:none;" align="char" char=".">1.70</td><td style="border:none;" align="left">13.81</td><td style="border:none;" align="char" char=".">5.00</td><td style="border:none;" align="char" char=".">0.980</td><td style="border:none;" align="char" char=".">1.00</td><td style="border:none;" align="char" char=".">6</td></tr><tr><td style="border:none;" align="left">SC1982</td><td style="border:none;" align="left">5.05</td><td style="border:none;" align="char" char=".">1.13</td><td style="border:none;" align="left">8.95</td><td style="border:none;" align="char" char=".">2.68</td><td style="border:none;" align="char" char=".">0.001</td><td style="border:none;" align="char" char=".">1.77</td><td style="border:none;" align="char" char=".">8</td></tr><tr><td style="border:none;" align="left">SBi4172</td><td style="border:none;" align="left">2.07</td><td style="border:none;" align="char" char=".">1.29</td><td style="border:none;" align="left">3.11</td><td style="border:none;" align="char" char=".">1.43</td><td style="border:none;" align="char" char=".">0.127</td><td style="border:none;" align="char" char=".">1.50</td><td style="border:none;" align="char" char=".">9</td></tr><tr><td style="border:none;" align="left">SBi4434</td><td style="border:none;" align="left">FI</td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">FI</td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr></tbody></table><table-wrap-foot><fn id="t2fn1"><label>a</label><p>Assays used WM115
+melanoma cells
+transfected with shRNA<sup>scrambled</sup> (i.e., high S100B) or shRNA<sup>S100B</sup> (i.e., low S100B).</p></fn></table-wrap-foot></table-wrap><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Calculated rmsd&#x02019;s (angstroms)
+of Models from C<sup>&#x003b1;</sup> Atoms of 1MHO<xref rid="t3fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/></colgroup><tbody><tr><td style="border:none;" align="left"><sup>Ca</sup>S100B&#x02013;SC124</td><td style="border:none;" align="char" char=".">0.382&#x000a0;(0.381)</td><td style="border:none;" align="char" char=".">0.435&#x000a0;(0.328)</td></tr><tr><td style="border:none;" align="left"><sup>Ca</sup>S100B&#x02013;SC1475</td><td style="border:none;" align="char" char=".">0.329&#x000a0;(0.258)</td><td style="border:none;" align="char" char=".">0.325(0.256)</td></tr><tr><td style="border:none;" align="left"><sup>Ca</sup>S100B&#x02013;SC1982</td><td style="border:none;" align="char" char=".">0.391&#x000a0;(0.279)</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr><tr><td style="border:none;" align="left"><sup>Ca</sup>S100B&#x02013;SBi4172</td><td style="border:none;" align="char" char=".">0.518&#x000a0;(0.378)</td><td style="border:none;" align="char" char=".">0.546&#x000a0;(0.382)</td></tr><tr><td style="border:none;" align="left"><sup>Ca</sup>S100B&#x02013;SBi4434</td><td style="border:none;" align="char" char=".">0.310&#x000a0;(0.279)</td><td style="border:none;" align="char" char=".">0.319&#x000a0;(0.252)</td></tr></tbody></table><table-wrap-foot><fn id="t3fn1"><label>a</label><p>One or both modeled protein chains
+(when applicable) are compared to the single-protein chain within 1MHO. Numbers in parentheses
+are the calculated rmsd&#x02019;s of only globally conserved residues
+1&#x02013;84.</p></fn></table-wrap-foot></table-wrap><table-wrap id="tbl4" position="float"><label>Table 4</label><caption><title>Measured Distortions of the Zinc Binding
+Site<xref rid="t4fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char=".">His15</th><th style="border:none;" align="center">His25</th><th style="border:none;" align="center">His85</th><th style="border:none;" align="center">Glu89</th></tr></thead><tbody><tr><td style="border:none;" align="left">SC1982</td><td style="border:none;" align="char" char=".">95.5&#x000b0;</td><td style="border:none;" align="left">19.1&#x000b0;</td><td style="border:none;" align="left">0.7&#x000a0;&#x000c5;</td><td style="border:none;" align="left">1.9&#x000a0;&#x000c5;</td></tr><tr><td style="border:none;" align="left">SBi4172</td><td style="border:none;" align="char" char=".">76.9&#x000b0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">1.4&#x000a0;&#x000c5;</td><td style="border:none;" align="left">2.5&#x000a0;&#x000c5;</td></tr><tr><td style="border:none;" align="left">SBi4434</td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">28.1&#x000b0;</td><td style="border:none;" align="left">67.9&#x000b0;</td><td style="border:none;" align="left">1.5&#x000a0;&#x000c5;</td></tr><tr><td style="border:none;" align="left">SC1475</td><td style="border:none;" align="char" char=".">68.2&#x000b0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">0.8&#x000a0;&#x000c5;</td><td style="border:none;" align="left">1.3&#x000a0;&#x000c5;</td></tr><tr><td style="border:none;" align="left">SC124</td><td style="border:none;" align="char" char=".">82.9&#x000b0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">1.0&#x000a0;&#x000c5;</td><td style="border:none;" align="left">1.6&#x000a0;&#x000c5;</td></tr><tr><td style="border:none;" align="left">SC0844<sup><xref ref-type="bibr" rid="ref35">35</xref></sup></td><td style="border:none;" align="char" char=".">38.3&#x000b0;</td><td style="border:none;" align="left">2.8&#x000a0;&#x000c5;</td><td style="border:none;" align="left">157.7&#x000b0;</td><td style="border:none;" align="left">5.0&#x000a0;&#x000c5;</td></tr><tr><td style="border:none;" align="left">SC0322<sup><xref ref-type="bibr" rid="ref35">35</xref></sup></td><td style="border:none;" align="char" char=".">31.2&#x000b0;</td><td style="border:none;" align="left">31.7&#x000b0;</td><td style="border:none;" align="left">49.1&#x000b0;</td><td style="border:none;" align="left">not applicable</td></tr></tbody></table><table-wrap-foot><fn id="t4fn1"><label>a</label><p>Shown are averaged movements of
+side chains in angstroms (directional movement of C<sup>&#x003b3;</sup>) or degrees (swing of C<sup>&#x003b2;</sup>&#x02013;C<sup>&#x003b3;</sup>). As Glu89 was not modeled in 1MHO, directional measurements are from the
+carbonyl carbon atom of Phe88.</p></fn></table-wrap-foot></table-wrap><sec id="sec3.1"><title>NMR Studies</title><p>Backbone resonance assignments were completed
+for each SBi<italic>X</italic>&#x02013;S100B complex using standard
+multidimensional heteronuclear NMR data, and the chemical shift perturbations
+in <sup>Ca</sup>S100B (with or without the compound) were evaluated
+as described for other S100B inhibitors.<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref33">33</xref>&#x02212;<xref ref-type="bibr" rid="ref36">36</xref></sup> In general, the SBi<italic>X</italic> complexes studied here showed
+the largest perturbations within a well-defined binding pocket of <sup>Ca</sup>S100B comprising helices 3 and 4 and loop 2 (termed the &#x0201c;hinge&#x0201d;
+region). These observations are consistent with the FPCA, which identified
+SBi<italic>X</italic>s that compete with TRTK12 peptide binding.</p><sec id="sec3.1.1"><title>Chemical
+Shift Assignments</title><p>Titrations of compound into <sup>Ca</sup>S100B were monitored using <sup>1</sup>H&#x02013;<sup>15</sup>N HSQC
+NMR experiments, as previously described.<sup><xref ref-type="bibr" rid="ref32">32</xref>&#x02212;<xref ref-type="bibr" rid="ref34">34</xref></sup> Because perturbations
+were not always easily tracked during the titration, a series of HNCA,
+HNCOCA, <sup>15</sup>N-edited NOESY-HSQC, and <sup>15</sup>N-HNH (HMQC-NOESY-HSQC)
+NMR experiments were collected at the end of each titration to unambiguously
+assign all the chemical shift values in the compound-bound state.
+The reaction products for five small molecules (SC124, SC1475, SC1982,
+SBi4172, and SBi4434) bound to <sup>Ca</sup>S100B were assessed by
+monitoring perturbations of backbone <sup>1</sup>H&#x02013;<sup>15</sup>N HSQC correlations after the compounds were added and fully reacted
+(Figure <xref rid="fig2" ref-type="fig">2</xref> and Figures S1&#x02013;S5 of the <xref rid="notes-2" ref-type="notes">Supporting Information</xref>).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Assigned two-dimensional <sup>1</sup>H&#x02013;<sup>15</sup>N HSQC
+NMR spectra. The binding of five small molecules (SC124, SC1475, SC1982,
+SBi4172, and SBi4434) to <sup>Ca</sup>S100B was assessed by monitoring
+perturbations of backbone <sup>1</sup>H&#x02013;<sup>15</sup>N HSQC
+NMR experiments. Chemical shift perturbations in NMR spectra for <sup>Ca</sup>S100B in the presence of SBi4172 could not be measured as
+the compound caused <sup>Ca</sup>S100B to from soluble aggregates.
+The solid horizontal line is plotted at the mean perturbation (in
+hertz) plus one standard deviation for each data set.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi-2014-005552_0001" id="gr2" position="float"/></fig><p>In the presence of SC124, many of the <sup>1</sup>H&#x02013;<sup>15</sup>N HSQC correlations of <sup>Ca</sup>S100B were
+perturbed,
+with the most significant perturbations (&#x02265;mean &#x000b1; SD) occurring
+for residues in loop 2 (His42) and helix 4 (Ser78, Thr81, Thr82, Ala83,
+Glu86, Phe87, and His90). Likewise, several other residues in loop
+2 (Phe43, Leu44, Glu45, and Glu46) and helix 4 (Cys84, His85, and
+Glu89) either broadened and/or disappeared upon addition of SC124.</p><p>Similarly, residues in loop 2 and helix 4 were perturbed for modifications
+via SC1982 (loop 2, His42 and Leu44; helix 4, Ser78, Thr82, Ala83,
+Cys84, His85, Glu86, and Glu89) and SBi4434 (loop 2, Ser41, His42,
+and Phe43; helix 4, Thr81, Thr82, Ala83, Cys84, His85, and Glu86).
+For SC1475, changes in loop 2 (His42 and Lys48), helix 4 (Val80, Thr81,
+Thr82, and His85), and helix 1 (Met7) were found in solution. These
+data are all consistent with the notion that SC124, SC1475, and SC1982
+all react with Cys84 because loop 2 and helix 4 are in the proximity
+of each other in the crystallographic structures of <sup>Ca</sup>S100B
+and have been previously described to facilitate the binding of small
+molecules. For SBi4172, the chemical shift perturbations during the
+reaction could not be measured because the compound induced aggregation
+of <sup>Ca</sup>S100B (Figure S4 of the <xref rid="notes-2" ref-type="notes">Supporting
+Information</xref>). To further characterize the structural impact
+of covalent modifications at Cys84 on <sup>Ca</sup>S100B, we next
+determined the structures of the S100B complexes with each compound
+by X-ray crystallography.</p></sec></sec><sec id="sec3.2"><title>Crystallographic Studies</title><sec id="sec3.2.1"><title>Covalent
+Modifications at Cys84 Affect Target Binding of <sup>Ca</sup>S100B</title><p>The structures of <sup>Ca</sup>S100B&#x02013;inhibitor
+complexes (SC124, SC1475, SC1982, SBi4172, and SBi4434) are compared,
+each of which was confirmed to have the SBi<italic>X</italic> molecule
+covalently bound to Cys84 of <sup>Ca</sup>S100B (Figure <xref rid="fig3" ref-type="fig">3</xref>). In all five of these structural models, each <sup>Ca</sup>S100B subunit consists of four helices (helix 1, E2&#x02013;G19; helix
+2, K28&#x02013;L40; helix 3, E49&#x02013;D61; helix 4, D69&#x02013;F88),
+two small antiparallel &#x003b2;-strands, and a Ca<sup>2+</sup> ion
+bound to both the typical and noncanonical EF-hand calcium binding
+domains. Likewise, the typical EF-hand is in the &#x0201c;open&#x0201d;
+Ca<sup>2+</sup>-bound conformation, as is generally found in <sup>Ca</sup>S100B structures,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> and the dimer
+interface is aligned as a symmetric X-type four-helix bundle comprising
+helices 1, 1&#x02032;, 4, and 4&#x02032;.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref34">34</xref>&#x02212;<xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref47">47</xref></sup> Comparison of these five structures
+to that of <sup>Ca</sup>S100B (PDB entry 1MHO(<xref ref-type="bibr" rid="ref47">47</xref>)) with no
+drug target reveals a strong conservation of the global fold (Table <xref rid="tbl3" ref-type="other">3</xref>); however, deviations in the positions of several
+side chains in the target binding site of <sup>Ca</sup>S100B were
+observed, as necessary, to accommodate the binding of various SBi<italic>X</italic> molecules. These include residues in helix 4 and/or loop
+4 and in helix 1 (i.e., His15) in some cases, as described below (i.e.,
+for the <sup>Ca</sup>S100B&#x02013;SC124 complex). The specifics of
+each structure also provide details of potential synthetic strategies
+for engineering a single molecule that occupies all three persistent
+&#x0201c;pockets&#x0201d; within the S100B target binding site, so the
+individual structures and specific structural changes will be discussed
+in some detail.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Chemical modification of Cys84 of <sup>Ca</sup>S100B.
+Shown are
+schematics that provide an overview of the chemical modification of
+Cys84 by compounds (A) SC124, (B) SC1475, (C) SC1982, (D) SBi4172,
+and (E) SBi4434.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi-2014-005552_0002" id="gr3" position="float"/></fig></sec><sec id="sec3.2.2"><title><sup>Ca</sup>S100B&#x02013;SC124</title><p>The X-ray structure
+of a product resulting from mixing SC124 (disulfiram) with Ca<sup>2+</sup>-bound S100B (<sup>Ca</sup>S100B&#x02013;SC124) was determined
+at 1.58 &#x000c5; resolution (Figure <xref rid="fig4" ref-type="fig">4</xref>). The asymmetric
+unit included two <sup>Ca</sup>S100B subunits (chains A and B) forming
+the biologically active form of dimeric <sup>Ca</sup>S100B. Residues
+Met0&#x02013;Phe88 and Met0&#x02013;Glu89 were modeled in chains A and
+B, respectively. In the final refined model (<italic>R</italic><sub>crys</sub> and <italic>R</italic><sub>free</sub> values of 0.215
+and 0.253, respectively), all residues were in the favored (100%)
+regions of the Ramachandran plot with no outliers (Table <xref rid="tbl1" ref-type="other">1</xref>). Each subunit of <sup>Ca</sup>S100B&#x02013;SC124
+was found to coordinate two calcium ions as is typical of S100 proteins,<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> and electron density was also clearly observed
+in the target binding sites for each subunit of <sup>Ca</sup>S100B
+as a result of nucleophilic attack of Cys84 by SC124 (Figures <xref rid="fig3" ref-type="fig">3</xref> and <xref rid="fig4" ref-type="fig">4</xref>). The structure of
+the bound product was also consistent with what has been found previously
+with other protein adducts involving SC124<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> (Figure <xref rid="fig3" ref-type="fig">3</xref>). Interestingly, though, the Cys84-bound
+SC124 adduct has somewhat different positions in each subunit of <sup>Ca</sup>S100B, and this was the first indication that this region,
+termed site 2, of <sup>Ca</sup>S100B can accommodate various orientations
+for small inhibitors. Curiously, the binding of SC124 causes the side
+chain of Glu89 in one subunit to occupy a pocket that can tightly
+coordinate a Zn<sup>2+</sup> ion,<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref56">56</xref>,<xref ref-type="bibr" rid="ref57">57</xref></sup> and as a result, His15 is reoriented. Note, in Zn<sup>2+</sup>-bound structures of <sup>Ca</sup>S100B described elsewhere,<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref56">56</xref>,<xref ref-type="bibr" rid="ref57">57</xref></sup> Zn<sup>2+</sup> is coordinated
+by residues His15, His25, His85, and Glu89.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Crystallographic structure
+of the <sup>Ca</sup>S100B&#x02013;SC124
+complex. (A) Shown is an |<italic>F</italic><sub>o</sub>| &#x02013;
+|<italic>F</italic><sub>c</sub>| electron density omit map of SC124
+covalently bound to Cys84 of <sup>Ca</sup>S100B with the map contoured
+at the 2.5&#x003c3; level. (B) Dimeric <sup>Ca</sup>S100B is rendered
+in a surface diagram with residues within 4 &#x000c5; of the SC124 colored
+yellow. SC124 is found within persistent binding site 2. (C) SC124
+is situated within the hydrophobic pocket formed by Val8, Phe43, Phe87,
+and Phe88. SC124 makes no hydrogen bonds. The neighboring Zn<sup>2+</sup> binding site composed of Glu89, His15, His25, and His85 is also
+rendered.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi-2014-005552_0003" id="gr4" position="float"/></fig></sec><sec id="sec3.2.3"><title>S100B&#x02013;SC1475</title><p>The X-ray structure of a product
+resulting from mixing SC1475 (3,4-dimethoxydalbergione) with Ca<sup>2+</sup>-bound S100B (<sup>Ca</sup>S100B&#x02013;SC1475) was determined
+at 2.18 &#x000c5; resolution (Figure <xref rid="fig5" ref-type="fig">5</xref>). The asymmetric
+unit included two <sup>Ca</sup>S100B subunits (chains X and A) of <sup>Ca</sup>S100B, and in both chains, residues Met0&#x02013;Glu89 were
+modeled into the electron density. In the final refined structure
+(<italic>R</italic><sub>crys</sub> and <italic>R</italic><sub>free</sub> values of 0.213 and 0.251, respectively), all residues were in the
+most favored (98.9%) or allowed (1.1%) regions of the Ramachandran
+plot with no outliers (see Table <xref rid="tbl1" ref-type="other">1</xref>). In each
+subunit, two Ca<sup>2+</sup> ions, one SC1475 molecule, and 19 waters
+were resolved from the calculated electron density of the <sup>Ca</sup>S100B&#x02013;SC1475 structure. It was also clear that SC1475 covalently
+modified <sup>Ca</sup>S100B via nucleophilic substitution of Cys84
+into the benzoquinone moiety of the drug. Such a reaction is not uncommon,
+has been observed in toxic metabolites of acetaminophen, and results
+in the tautomerization of the moiety (Figure <xref rid="fig3" ref-type="fig">3</xref>), as previously found.<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> Upon inspection,
+no hydrogen bonds were observed from residues of <sup>Ca</sup>S100B
+to SC1475, but the small molecule was situated in a hydrophobic pocket
+defined by residues in loop 2, termed the &#x0201c;hinge region&#x0201d;
+of S100B (Phe43) and helix 4 (Ile80, Ala83, Phe87, and Phe88). Specifically,
+the hydroquinone moiety of SC1475 stacks with Phe43, and the alkene
+moiety aligns favorably with the aromatic ring of Phe87. His15 is
+observed to swing outward from the Zn<sup>2+</sup> binding site as
+observed in other <sup>Ca</sup>S100B&#x02013;SBi<italic>X</italic> structures,
+and unlike <sup>Ca</sup>S100B complexes of SBi4172, SC124, and SC1982,
+Glu89 does not invade the Zn<sup>2+</sup> binding site (<italic>vide
+infra</italic>).</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Crystallographic structure of the <sup>Ca</sup>S100B&#x02013;SC1475
+complex. (A) Shown is an |<italic>F</italic><sub>o</sub>| &#x02013;
+|<italic>F</italic><sub>c</sub>| electron density omit map of SC1475
+covalently bound to Cys84 of <sup>Ca</sup>S100B with the map contoured
+at the 2.5&#x003c3; level. (B) Dimeric <sup>Ca</sup>S100B is rendered
+in a surface diagram with residues within 4 &#x000c5; of the SC1475 colored
+yellow. SC1475 is found within persistent binding site 2. (C) SC1475
+is situated within the hydrophobic pocket formed by Phe43, Leu44,
+Ile80, Ala83, Phe87, and Phe88. SC1475 makes no hydrogen bonds. The
+neighboring Zn<sup>2+</sup> binding site composed of Glu89, His15,
+His25, and His85 is also rendered.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi-2014-005552_0004" id="gr5" position="float"/></fig></sec><sec id="sec3.2.4"><title><sup>Ca</sup>S100B&#x02013;SC1982</title><p>The X-ray structure
+of <sup>Ca</sup>S100B bound to SC1982 (Rubescensin A; <sup>Ca</sup>S100B&#x02013;SC1982) was determined at 1.65 &#x000c5; resolution (Figure <xref rid="fig6" ref-type="fig">6</xref>). The asymmetric unit contained one <sup>Ca</sup>S100B subunit, and density for Met0&#x02013;Glu91 could be readily
+modeled with the second subunit mapped on the basis of its location
+within the crystal symmetry. In the final refined model (<italic>R</italic><sub>crys</sub> and <italic>R</italic><sub>free</sub> values of 0.177
+and 0.214, respectively), all residues were in the highly favored
+(100%) region of the Ramachandran plot with no outliers (Table <xref rid="tbl1" ref-type="other">1</xref>). Each subunit of <sup>Ca</sup>S100B&#x02013;SC1982
+was found to coordinate two Ca<sup>2+</sup> ions (one in each EF-hand),
+and one SC1982 molecule occupied each of the target protein binding
+sites via covalent modification (in the region termed site 2). Specifically,
+the alkene of SC1982 is reduced via Michael addition from the thiol
+of Cys84 from <sup>Ca</sup>S100B<sup><xref ref-type="bibr" rid="ref59">59</xref></sup> (Figure <xref rid="fig3" ref-type="fig">3</xref>). After covalent attachment, SC1982 makes two hydrogen
+bonds to the backbone carbonyls of loop 2 (His42 and Phe43) and forms
+several hydrophobic interactions with residues in the target binding
+pocket of <sup>Ca</sup>S100B, including those in loop 2 (Phe43) and
+helix 4 (Ile80, Phe87, and Phe88). His15 is once again observed to
+move outward from the Zn<sup>2+</sup> binding site, and like the structures
+of <sup>Ca</sup>S100B&#x02013;SC124 and <sup>Ca</sup>S100B&#x02013;SBi4172,
+the covalent binding of SC1982 causes the side chain of Glu89 to intrude
+into a region of the protein, which can bind Zn<sup>2+</sup>, and
+causes the side chain of His15 to rotate away fairly drastically.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Crystallographic
+structure of the <sup>Ca</sup>S100B&#x02013;SC1982
+complex. (A) Shown is an |<italic>F</italic><sub>o</sub>| &#x02013;
+|<italic>F</italic><sub>c</sub>| electron density omit map of SC1982
+covalently bound to Cys84 of <sup>Ca</sup>S100B with the map contoured
+at the 2.5&#x003c3; level. (B) Dimeric <sup>Ca</sup>S100B is rendered
+in a surface diagram with residues within 4 &#x000c5; of the SC1982 colored
+yellow. SC1982 is found within persistent binding site 2. (C) SC1982
+is situated within the hydrophobic pocket formed by Phe43, Ala83,
+Phe87, and Phe88. SC1982 makes hydrogen bonds to the backbone carbonyls
+of His42 and Phe43. The neighboring Zn<sup>2+</sup> binding site composed
+of Glu89, His15, His25, and His85 is also rendered.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi-2014-005552_0005" id="gr6" position="float"/></fig><p>Electron density for a highly coordinated atom
+that is too dense
+to be water was identified. As calcium is prevalent in the system
+and because of the identity of the contributors in the coordination
+(Asp63, Asp69, and six water molecules), a third calcium ion was modeled
+into this density (confirmed by anomalous difference maps).</p></sec><sec id="sec3.2.5"><title><sup>Ca</sup>S100B&#x02013;SBi4172</title><p>The X-ray structure
+of chelerythrine-bound <sup>Ca</sup>S100B, <sup>Ca</sup>S100B&#x02013;SBi4172,
+was determined at 1.73 &#x000c5; resolution (Figure <xref rid="fig7" ref-type="fig">7</xref>). The asymmetric unit in the drug complex included two S100B
+subunits (chains A and B) forming the biologically active dimeric
+form of <sup>Ca</sup>S100B. In chain A, residues Met0&#x02013;Glu89
+were modeled into the electron density, and in chain B, only Ser1&#x02013;Glu89
+could be resolved. Each subunit of the <sup>Ca</sup>S100B&#x02013;SBi4172
+complex coordinated two Ca<sup>2+</sup> ions; however, only one molecule
+of SBi4172 could be observed and was located in the model for chain
+B. Sparse density was observed in the analogous binding pocket of
+chain A, but it was not sufficiently well defined for accurate modeling
+of the SBi4172 inhibitor. A more detailed analysis of chain A showed
+that a lack of density in the second subunit likely occurred as a
+result of spatial restraints imposed by the crystal packing. In the
+final refined model (<italic>R</italic><sub>crys</sub> and <italic>R</italic><sub>free</sub> values of 0.230 and 0.268, respectively),
+all residues in both subunits were in the favored (98.9%) or allowed
+regions (1.1%) of the Ramachandran plot with no outliers (Table <xref rid="tbl1" ref-type="other">1</xref>). As clearly defined by the calculated electron
+density maps, SBi4172 was found to react with Cys84 via hydration
+of a double bond of SBi4172<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> (Figure <xref rid="fig3" ref-type="fig">3</xref>). Once SBi4172 was covalently bound, a dioxole
+oxygen atom of SBi4172 was found to make water-bridged interactions
+with the backbone carbonyl of Phe43. Otherwise, SBi4172 was situated
+in a hydrophobic pocket composed of side chains within loop 2 (Phe43),
+helix 4 (Ile80, Ala83, Phe87, and Phe88), and helix 1&#x02032; (Val7,
+Val8, and Ile11). Like the earlier inhibitor-bound <sup>Ca</sup>S100B
+complexes, the side chain moiety of His15 was found to move out of
+the established Zn<sup>2+</sup> binding site of <sup>Ca</sup>S100B.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Crystallographic
+structure of the <sup>Ca</sup>S100B&#x02013;SBi4172
+complex. (A) Shown is an |<italic>F</italic><sub>o</sub>| &#x02013;
+|<italic>F</italic><sub>c</sub>| electron density omit map of SBi4172
+covalently bound to Cys84 of <sup>Ca</sup>S100B with the map contoured
+at the 2.5&#x003c3; level. (B) Dimeric <sup>Ca</sup>S100B is rendered
+in a surface diagram with residues within 4 &#x000c5; of the SBi4172
+colored yellow. SBi4172 is found within persistent binding site 2.
+(C) SBi4172 is situated within the hydrophobic pocket formed by Phe43,
+Phe87, and Phe88. SBi4172 makes a water-bridged interaction with the
+backbone carbonyl of Phe43. The neighboring Zn<sup>2+</sup> binding
+site composed of Glu89, His15, His25, and His85 is also rendered.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi-2014-005552_0006" id="gr7" position="float"/></fig></sec><sec id="sec3.2.6"><title><sup>Ca</sup>S100B&#x02013;SBi4434</title><p>The X-ray structure
+of SBi4434 {2,3-bis[(2-hydroxyethyl)thio]-1,4-naphthoquinone} bound
+to <sup>Ca</sup>S100B (<sup>Ca</sup>S100B&#x02013;SBi4434) was determined
+at 1.08 &#x000c5; resolution (Figure <xref rid="fig8" ref-type="fig">8</xref>). The asymmetric
+unit included two S100B subunits (chains A and X) forming the biologically
+active dimeric form of S100B. In chain A, residues Met0&#x02013;Glu91were
+modeled while only residues Met0&#x02013;Phe88 of chain X could be
+resolved. Each subunit in the <sup>Ca</sup>S100B&#x02013;SBi4434 structure
+bound two calcium ions and a SBi4434 molecule. In the final refined
+model (<italic>R</italic><sub>crys</sub> and <italic>R</italic><sub>free</sub> values of 0.192 and 0.211, respectively), all residues
+were in the favored (99.4%) or allowed regions (0.6%) of the Ramachandran
+plot with no outliers <bold>(</bold>Table <xref rid="tbl1" ref-type="other">1</xref>). Sole among the structures described here, the high resolution
+of the diffraction data produced by the <sup>Ca</sup>S100B&#x02013;SBi4434
+crystal allowed for the inclusion of riding hydrogen atoms in this
+particular model. As clearly defined by the calculated electron density
+maps, SBi4434 covalently modifies <sup>Ca</sup>S100B at Cys84. As
+seen, the thiol of Cys84 substitutes for one of the thioglycol moieties
+of SBi4434 (Figure <xref rid="fig3" ref-type="fig">3</xref>). The second thioglycol
+moiety is allowed much conformational flexibility as evidenced by
+the sparse electron density for these atoms as well as the alternative
+conformations of the moiety modeled in the two inhibitor molecules.
+The compound does not make any hydrogen bonds with the protein but
+is nestled in a hydrophobic pocket formed by loop 2 and helix 4 with
+the aromatic rings of SBi4434 stacked between the side chains of Phe43
+and Phe87. In this model, His85 swings out of the Zn<sup>2+</sup> binding
+site.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>Crystallographic structure of the <sup>Ca</sup>S100B&#x02013;SBi4434
+complex. (A) Shown is an |<italic>F</italic><sub>o</sub>| &#x02013;
+|<italic>F</italic><sub>c</sub>| electron density omit map of SBi4434
+covalently bound to Cys84 of <sup>Ca</sup>S100B with the map contoured
+at the 2.5&#x003c3; level. (B) Dimeric <sup>Ca</sup>S100B is rendered
+in a surface diagram with residues within 4 &#x000c5; of the SBi4434
+colored yellow. SBi4434 is found within persistent binding site 2.
+(C) SBi4434 is situated within the hydrophobic pocket formed by Phe43,
+Phe87, and Phe88. SBi4434 makes no hydrogen bonds. The neighboring
+Zn<sup>2+</sup> binding site composed of Glu89, His15, His25, and
+His85 is also rendered.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi-2014-005552_0007" id="gr8" position="float"/></fig><p>Coordinates and structure factors have been deposited in
+the Protein
+Data Bank as entries 4PE1 for <sup>Ca</sup>S100B&#x02013;SC124, 4PE4 for <sup>Ca</sup>S100B&#x02013;SC1475, 4PE7 for <sup>Ca</sup>S100B&#x02013;SC1982, 4PDZ for <sup>Ca</sup>S100B&#x02013;SBi4172, and 4PE0 for <sup>Ca</sup>S100B&#x02013;SBi4434.</p></sec></sec><sec id="sec3.3"><title>Cell-Based Assay</title><p>To determine whether
+covalent modification
+of Cys84 affects cell proliferation in malignant melanoma, its effect
+on the growth of WM115 malignant melanoma cells, which express elevated
+levels of the S100B protein, was measured as described previously.<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> Briefly, proliferation of WM115 cells stably
+transfected with either shRNA<sup>scrambled</sup> (i.e., high S100B)
+or shRNA<sup>S100B</sup> (i.e., low S100B) was evaluated in triplicate
+following a 4 day incubation in the absence or presence of each compound
+at varying concentrations (Table <xref rid="tbl2" ref-type="other">2</xref>). For each
+titration, knockdown of the S100B protein was confirmed by Western
+blot analysis (3-fold decrease; <italic>n</italic> = 4) (Figure <xref rid="fig9" ref-type="fig">9</xref>), and EC<sub>50</sub> values were determined using
+the average of three or more titrations. With SC1475 as an exception
+(ratio of 1.00), it was found that lower concentrations of SC124,
+SC1982, and SBi4172 were needed to inhibit cell growth with the shRNA<sup>scrambled</sup> versus the shRNA<sup>S100B</sup> knockdown WM115
+cells (1.50 &#x0003c; ratio &#x0003c; 3.57). This is consistent with the compounds
+having specificity toward S100B-containing cells; however, only titrations
+with SC1982 were shown to be S100B-selective (1.77-fold) with a statistically
+significant <italic>t</italic>-test (<italic>p</italic> = 0.001; <italic>n</italic> = 8). Consistent with this result, p53 levels were 2-fold
+higher (<italic>n</italic> = 4) in the presence than in the absence
+of SC1982 (in Figure <xref rid="fig9" ref-type="fig">9</xref>, compare lanes 1 and
+3 and lanes 2 and 4, respectively). This result along with an observation
+of S100B expression-dependent growth inhibition suggests that SC1982
+displays an on-target effect of S100B inhibition with subsequent p53
+restoration. The last compound, SBi4434, showed fluorescence interference
+with the SYBR Green dye, so it was excluded from further evaluation.</p><fig id="fig9" position="float"><label>Figure 9</label><caption><p>Westen
+blot analysis. The control without drug was treated with
+the same DMSO concentration (0.01%). The addition of SC1982 did not
+affect the protein levels of S100B in the shRNA<sup>scrambled</sup> or shRNA<sup>S100B</sup> cell lines. However, both shRNA<sup>scrambled</sup> and shRNA<sup>S100B</sup> cell lines had a measurable gain in total
+p53 protein levels in the presence of SC1982. This result along with
+an observation of S100B expression-dependent growth inhibition suggests
+that SC1982 displays an on-target effect of S100B inhibition with
+subsequent p53 restoration.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi-2014-005552_0008" id="gr9" position="float"/></fig></sec></sec><sec sec-type="discussion" id="sec4"><title>Discussion</title><p>Malignant melanoma is the fifth and seventh
+most common cancer
+among men and women,<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> respectively, so
+the discovery of novel therapeutics for its treatment remains a high
+priority. Elevated S100B is a prognostic indicator for assessing disease
+progression, disease recurrence, and metastatic potential in patients
+with MM.<sup><xref ref-type="bibr" rid="ref62">62</xref>&#x02212;<xref ref-type="bibr" rid="ref68">68</xref></sup> It is also established that S100B not only is a clinical marker
+but also binds to and negatively regulates p53 at the protein level.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> While the p53 tumor suppressor protein is mutated in many human
+cancers,<sup><xref ref-type="bibr" rid="ref69">69</xref></sup> it is typically wild-type (wt,
+&#x0003e;90%) in MM,<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> so restoring p53 protein by inhibiting
+S100B represents a novel therapeutic strategy for treating MM. While
+low-molecular weight compounds that block the p53 binding site on
+S100B and inhibit formation of the S100B&#x02013;p53 complex exist,
+improving their affinity, efficacy, and specificity remains a priority.
+Thus, S100B represents a new cancer target, and improved SBi<italic>X</italic>s should provide novel therapeutic(s) for treating MM by
+restoring active p53 protein.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup></p><p>Structure&#x02013;function
+characterizations of five novel inhibitors
+of the <sup>Ca</sup>S100B&#x02013;p53 interaction are presented here.
+Of the five compounds, SC1982 has the most significant hydrogen bonding
+network within the <sup>Ca</sup>S100B binding pocket, and interestingly,
+it demonstrated the highest level of target specific activity in the
+WM115 cellular assay. Note that despite the relatively low EC<sub>50</sub> of SC124, expectations should be tempered when considering
+this compound. SC124 is small with a scaffold lacking complexity.
+It forms no hydrogen bonds with the target protein and lacks even
+a consistent binding pose within the two monomers of S100B. These
+details leave little potential for SC124 as a therapeutic that would
+not be sequestered elsewhere within the cell, and unsurprisingly,
+it lacks statistically significant S100B expression-dependent growth
+inhibition.</p><p>Such target specific effects are important when
+considering the
+relationship between off-target effects and toxicity. This is particularly
+important when considering the therapeutic application of covalent
+modifiers because their off-target effects are not uncommon and are
+often severe. One successful example of a drug linked to the protein
+via Michael addition is Afatinib, which is used in the treatment of
+metastatic non-small cell lung carcinoma (NSCLC).<sup><xref ref-type="bibr" rid="ref70">70</xref>,<xref ref-type="bibr" rid="ref71">71</xref></sup> The target specific effect of SC1982 (Figure <xref rid="fig9" ref-type="fig">9</xref> and Table <xref rid="tbl2" ref-type="other">2</xref>) is reassuring and warrants further
+investigation as a chemical scaffold for engineering novel SBi<italic>X</italic> molecules. In fact, SC1982 and each compound presented
+here offer a new chemical scaffold for continued SAR studies for improving
+affinity and specificity.</p><p>These structures can be used for guiding
+the design of new inhibitors
+using multiple approaches. The most straightforward of these is via
+&#x0201c;tethering&#x0201d; new functional moieties onto the existing
+covalently bound compound(s) and keeping the covalent bond in place.<sup><xref ref-type="bibr" rid="ref72">72</xref></sup> A second strategy is to develop quickly reversible
+covalent modifications, as described previously,<sup><xref ref-type="bibr" rid="ref73">73</xref></sup> for the inclusion of an &#x003b1;-cyanoacrylamide functionality.
+This modification increases the intrinsic reactivity of an olefin
+and eliminates the formation of irreversible adducts. Such an approach
+could enhance the bioavailability and selectivity of the inhibitory
+compound. For Cys84 of <sup>Ca</sup>S100B, such a cyanoacrylamide
+(or cyanoacrylate) would react with cysteine thiols under physiological
+conditions in an energetically favorable manner and become rapidly
+reversible, including having off rates on the subsecond to second
+time scales.<sup><xref ref-type="bibr" rid="ref71">71</xref></sup> In this situation, the level
+of off-site targeting is significantly reduced, and the covalent nature
+of the adduct for the target of interest is long-lived, as needed
+for therapeutic efficacy.</p><p>A third approach to obtaining high-affinity,
+high-specificity S100B
+inhibitors with these data is to engineer compounds that make use
+of all three persistent pockets in the p53 binding site. In this regard,
+the inhibitors presented here are particularly important because they
+are located within the persistent binding pocket termed &#x0201c;site
+2&#x0201d;. Therefore, regardless of whether these inhibitors are covalently
+bound, they provide exquisite detail for how to connect chemical moieties
+in sites 1 and 3. Therefore, the inhibitors presented here can be
+considered in combination with chemical functionalities described
+in previous structural studies of other SBi<italic>X</italic>s<sup><xref ref-type="bibr" rid="ref33">33</xref>&#x02212;<xref ref-type="bibr" rid="ref36">36</xref></sup> to produce a ligand capable of binding all three persistent binding
+sites simultaneously. The simultaneous occupation of sites 1 and 2
+will be of interest first because &#x0201c;site 3&#x0201d; binders within <sup>Ca</sup>S100B have been thoroughly described elsewhere.</p><p>Although
+the mechanisms involved in adduct formation may differ
+between compounds, SC124, SC1475, SC1982, SBi4172, and SBi4434 (as
+well as for SC0844 and SC322<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> studied
+previously), together these compounds comprise a subset of S100B inhibitors
+that impact the conformational state of <sup>Ca</sup>S100B in a similar
+manner. In particular, an adduct added to Cys84 clashes with side
+chains on helix 4 and thereby rotates a Zn<sup>2+</sup> binding residue,
+Glu89, into a new location. As a result, residues comprising the Zn<sup>2+</sup> binding site (His15, His25, His85, and Glu89) are subsequently
+reordered. Although the particulars of this effect on the Zn<sup>2+</sup> binding site may be unique to an individual compound and may or
+may not have an effect on S100B activities, the covalent modifier
+family of SBi<italic>X</italic>s described here is &#x0201c;hallmarked&#x0201d;
+by this common structural perturbation (Figure <xref rid="fig10" ref-type="fig">10</xref>). Table <xref rid="tbl4" ref-type="other">4</xref> lists the effect through measurements
+of directional movements of atoms and torsions of residue side chains.
+The most disruptive feature of this conformational change is an intrusion
+of Glu89 into the Zn<sup>2+</sup> site with a subsequent exit of one
+of the localized histidine side chains. Further investigation may
+prove this to be a meaningful observation because the oxidation of
+Cys84 has functional implications with regard to the regulation of
+S100B by redox.<sup><xref ref-type="bibr" rid="ref74">74</xref></sup> The inhibitory properties
+of these compounds may in part be attributed to the manipulation of
+this natural regulatory Zn<sup>2+</sup> binding feature of S100B and
+are very likely functionally important.</p><fig id="fig10" position="float"><label>Figure 10</label><caption><p>Distortion of the zinc
+binding site is a hallmark of the S100B
+covalent inhibitor family. Shown are ribbon diagrams of <sup>Ca</sup>S100B in the presence (yellow) and absence (gray) of a covalent modifier
+(SC1982) with residues and ligands of interest shown as sticks. The
+covalent modifier family of SBi<italic>X</italic>s is hallmarked by
+perturbation in the conformational state of the residues forming the
+Zn<sup>2+</sup> binding site (His15, His25, His85, and Glu89). Commonly,
+Glu89 is seen intruding on the Zn<sup>2+</sup> with a subsequent displacement
+of a histidine side chain.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi-2014-005552_0009" id="gr10" position="float"/></fig><p>Although we have demonstrated a restoration in p53 levels
+alongside
+the inhibition of S100B, it must be noted that within WM115 malignant
+melanoma cells, S100B has been associated with factors other than
+p53. For instance, S100B was found to enhance cell viability and modulate
+MAPK signaling by binding directly to the p90 ribosomal S6 kinase
+(RSK). The formation of this complex blocks ERK-dependent phosphorylation
+of RSK and sequesters RSK into the cytosol, preventing it from acting
+on nuclear targets. Thus, S100B has been shown to increase the level
+of cell survival in malignant melanoma by contributing to abnormal
+ERK/RSK signaling.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup>Also, a target of S100B
+is the receptor for advanced glycation end products (RAGE). RAGE is
+upregulated in late metastatic stages of samples from melanoma patients.
+The overexpression of RAGE is associated with mesenchymal-like morphologies
+in WM115 cells and results in greater migration abilities and reduced
+proliferation properties. This supports a role of RAGE in the metastatic
+switch of melanoma cells. Interestingly, overexpression of RAGE results
+in the increased level of expression of S100B and lower levels of
+p53, ERK1/2, cyclin E, and NF-&#x003ba;B.<sup><xref ref-type="bibr" rid="ref75">75</xref></sup></p></sec></body><back><notes id="notes-2" notes-type="si"><title>Supporting Information Available</title><p>Figures
+S1&#x02013;S5 show overlaid
+two-dimensional <sup>1</sup>H&#x02013;<sup>15</sup>N HSQC spectra of <sup>Ca</sup>S100B and <sup>Ca</sup>S100B&#x02013;SBi<italic>X</italic> complexes. This material is available free of charge via the Internet
+at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bi5005552_si_001.pdf"><caption><p>bi5005552_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="notes-1" notes-type="funding-statement"><p>This
+work was
+supported by grants from the National Institutes of Health (NIH) (GM58888
+and CA107331) to D.J.W. The training of M.C.C. is supported by an
+NIH T32 grant (CA154274). Work performed at synchrotron facilities
+was supported by NIH Grants P41GM103403 (D.B.N., NE-CAT) and P41GM103393
+(SSRL).</p></notes><notes id="NOTES-d1139e2763-autogenerated" notes-type="conflict-of-interest"><p>The
+authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>Research conducted at the Advanced
+Photon Source on the Northeastern
+Collaborative Access Team beamlines is supported by the National Institutes
+of Health, National Institute of General Medical Sciences. Use of
+the Advanced Photon Source, an Office of Science User Facility operated
+for the U.S. Department of Energy (DOE) Office of Science by Argonne
+National Laboratory, was supported by the U.S. DOE. Use of the Stanford
+Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory,
+is supported by the U.S. DOE, Office of Science and Office of Basic
+Energy. The SSRL Structural Molecular Biology Program is supported
+by the DOE Office of Biological and Environmental Research and by
+the National Institutes of Health, National Institute of General Medical
+Sciences.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>MM</term><def><p>malignant melanoma</p></def></def-item><def-item><term>SBi<italic>X</italic></term><def><p>S100B inhibitor
+where <italic>X</italic> is a number</p></def></def-item><def-item><term><sup>Ca</sup>S100B</term><def><p>calcium-bound S100B</p></def></def-item><def-item><term>NMR</term><def><p>nuclear magnetic resonance</p></def></def-item><def-item><term>HSQC</term><def><p>heteronuclear
+single-quantum coherence</p></def></def-item><def-item><term>rmsd</term><def><p>root-mean-square deviation</p></def></def-item><def-item><term>SD</term><def><p>standard deviation.</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Kwong</surname><given-names>L. N.</given-names></name>; <name><surname>Davies</surname><given-names>M. A.</given-names></name> (<year>2014</year>) <article-title>Targeted therapy for melanoma: Rational combinatorial
+approaches</article-title>. <source>Oncogene</source>
+<volume>33</volume>, <fpage>1</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">23416974</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Topalian</surname><given-names>S. L.</given-names></name>; <name><surname>Hodi</surname><given-names>F. S.</given-names></name>; <name><surname>Brahmer</surname><given-names>J. R.</given-names></name>; <name><surname>Gettinger</surname><given-names>S. N.</given-names></name>; <name><surname>Smith</surname><given-names>D. C.</given-names></name>; <name><surname>McDermott</surname><given-names>D. F.</given-names></name>; <name><surname>Powderly</surname><given-names>J. D.</given-names></name>; <name><surname>Carvajal</surname><given-names>R. D.</given-names></name>; <name><surname>Sosman</surname><given-names>J. A.</given-names></name>; <name><surname>Atkins</surname><given-names>M. B.</given-names></name>; <name><surname>Leming</surname><given-names>P. D.</given-names></name>; <name><surname>Spigel</surname><given-names>D. R.</given-names></name>; <name><surname>Antonia</surname><given-names>S. J.</given-names></name>; <name><surname>Horn</surname><given-names>L.</given-names></name>; <name><surname>Drake</surname><given-names>C. G.</given-names></name>; <name><surname>Pardoll</surname><given-names>D. M.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Sharfman</surname><given-names>W. H.</given-names></name>; <name><surname>Anders</surname><given-names>R. A.</given-names></name>; <name><surname>Taube</surname><given-names>J. M.</given-names></name>; <name><surname>McMiller</surname><given-names>T. L.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Korman</surname><given-names>A. J.</given-names></name>; <name><surname>Jure-Kunkel</surname><given-names>M.</given-names></name>; <name><surname>Agrawal</surname><given-names>S.</given-names></name>; <name><surname>McDonald</surname><given-names>D.</given-names></name>; <name><surname>Kollia</surname><given-names>G. D.</given-names></name>; <name><surname>Gupta</surname><given-names>A.</given-names></name>; <name><surname>Wigginton</surname><given-names>J. M.</given-names></name>; <name><surname>Sznol</surname><given-names>M.</given-names></name> (<year>2012</year>) <article-title>Safety, activity, and immune correlates
+of anti-PD-1 antibody in cancer</article-title>. <source>N. Engl. J.
+Med.</source>
+<volume>366</volume>, <fpage>2443</fpage>&#x02013;<lpage>2454</lpage>.<pub-id pub-id-type="pmid">22658127</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Bollag</surname><given-names>G.</given-names></name>; <name><surname>Hirth</surname><given-names>P.</given-names></name>; <name><surname>Tsai</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Ibrahim</surname><given-names>P. N.</given-names></name>; <name><surname>Cho</surname><given-names>H.</given-names></name>; <name><surname>Spevak</surname><given-names>W.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Habets</surname><given-names>G.</given-names></name>; <name><surname>Burton</surname><given-names>E. A.</given-names></name>; <name><surname>Wong</surname><given-names>B.</given-names></name>; <name><surname>Tsang</surname><given-names>G.</given-names></name>; <name><surname>West</surname><given-names>B. L.</given-names></name>; <name><surname>Powell</surname><given-names>B.</given-names></name>; <name><surname>Shellooe</surname><given-names>R.</given-names></name>; <name><surname>Marimuthu</surname><given-names>A.</given-names></name>; <name><surname>Nguyen</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>K. Y.</given-names></name>; <name><surname>Artis</surname><given-names>D. R.</given-names></name>; <name><surname>Schlessinger</surname><given-names>J.</given-names></name>; <name><surname>Su</surname><given-names>F.</given-names></name>; <name><surname>Higgins</surname><given-names>B.</given-names></name>; <name><surname>Iyer</surname><given-names>R.</given-names></name>; <name><surname>D&#x02019;Andrea</surname><given-names>K.</given-names></name>; <name><surname>Koehler</surname><given-names>A.</given-names></name>; <name><surname>Stumm</surname><given-names>M.</given-names></name>; <name><surname>Lin</surname><given-names>P. S.</given-names></name>; <name><surname>Lee</surname><given-names>R. J.</given-names></name>; <name><surname>Grippo</surname><given-names>J.</given-names></name>; <name><surname>Puzanov</surname><given-names>I.</given-names></name>; <name><surname>Kim</surname><given-names>K. B.</given-names></name>; <name><surname>Ribas</surname><given-names>A.</given-names></name>; <name><surname>McArthur</surname><given-names>G. A.</given-names></name>; <name><surname>Sosman</surname><given-names>J. A.</given-names></name>; <name><surname>Chapman</surname><given-names>P. B.</given-names></name>; <name><surname>Flaherty</surname><given-names>K. T.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>; <name><surname>Nathanson</surname><given-names>K. L.</given-names></name>; <name><surname>Nolop</surname><given-names>K.</given-names></name> (<year>2010</year>) <article-title>Clinical efficacy of a RAF inhibitor
+needs broad target blockade in BRAF-mutant melanoma</article-title>. <source>Nature</source>
+<volume>467</volume>, <fpage>596</fpage>&#x02013;<lpage>599</lpage>.<pub-id pub-id-type="pmid">20823850</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Flaherty</surname><given-names>K. T.</given-names></name>; <name><surname>Puzanov</surname><given-names>I.</given-names></name>; <name><surname>Kim</surname><given-names>K. B.</given-names></name>; <name><surname>Ribas</surname><given-names>A.</given-names></name>; <name><surname>McArthur</surname><given-names>G. A.</given-names></name>; <name><surname>Sosman</surname><given-names>J. A.</given-names></name>; <name><surname>O&#x02019;Dwyer</surname><given-names>P. J.</given-names></name>; <name><surname>Lee</surname><given-names>R. J.</given-names></name>; <name><surname>Grippo</surname><given-names>J. F.</given-names></name>; <name><surname>Nolop</surname><given-names>K.</given-names></name>; <name><surname>Chapman</surname><given-names>P. B.</given-names></name> (<year>2010</year>) <article-title>Inhibition of mutated, activated
+BRAF in metastatic melanoma</article-title>. <source>N. Engl. J. Med.</source>
+<volume>363</volume>, <fpage>809</fpage>&#x02013;<lpage>819</lpage>.<pub-id pub-id-type="pmid">20818844</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Espinosa</surname><given-names>E.</given-names></name>; <name><surname>Grob</surname><given-names>J. J.</given-names></name>; <name><surname>Dummer</surname><given-names>R.</given-names></name>; <name><surname>Rutkowski</surname><given-names>P.</given-names></name>; <name><surname>Robert</surname><given-names>C.</given-names></name>; <name><surname>Gogas</surname><given-names>H.</given-names></name>; <name><surname>Kefford</surname><given-names>R.</given-names></name>; <name><surname>Eggermont</surname><given-names>A. M.</given-names></name>; <name><surname>Martin Algarra</surname><given-names>S.</given-names></name>; <name><surname>Hauschild</surname><given-names>A.</given-names></name>; <name><surname>Schadendorf</surname><given-names>D.</given-names></name> (<year>2014</year>) <article-title>Treatment
+Algorithms in Stage IV Melanoma</article-title>. <source>American Journal
+of Therapeutics</source>
+<fpage>DOI: 10.1097/MJT.0b013e31829e885c</fpage>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Gogas</surname><given-names>H.</given-names></name>; <name><surname>Abali</surname><given-names>H.</given-names></name>; <name><surname>Ascierto</surname><given-names>P. A.</given-names></name>; <name><surname>Demidov</surname><given-names>L.</given-names></name>; <name><surname>Pehamberger</surname><given-names>H.</given-names></name>; <name><surname>Robert</surname><given-names>C.</given-names></name>; <name><surname>Schachter</surname><given-names>J.</given-names></name>; <name><surname>Eggermont</surname><given-names>A. M.</given-names></name>; <name><surname>Hauschild</surname><given-names>A.</given-names></name>; <name><surname>Espinosa</surname><given-names>E.</given-names></name> (<year>2013</year>) <article-title>Who Benefits Most From
+Adjuvant Interferon
+Treatment for Melanoma?</article-title>. <source>American Journal of
+Therapeutics</source>
+<fpage>DOI: 10.1097/MJT.0b013e31829e883d</fpage>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Jang</surname><given-names>S.</given-names></name>; <name><surname>Atkins</surname><given-names>M. B.</given-names></name> (<year>2013</year>) <article-title>Which drug, and
+when, for patients with BRAF-mutant
+melanoma?</article-title>. <source>Lancet Oncol.</source>
+<volume>14</volume>, <fpage>e60</fpage>&#x02013;<lpage>e69</lpage>.<pub-id pub-id-type="pmid">23369684</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Marcus</surname><given-names>D. M.</given-names></name>; <name><surname>Lowe</surname><given-names>M.</given-names></name>; <name><surname>Khan</surname><given-names>M. K.</given-names></name>; <name><surname>Lawson</surname><given-names>D. H.</given-names></name>; <name><surname>Crocker</surname><given-names>I. R.</given-names></name>; <name><surname>Shelton</surname><given-names>J. W.</given-names></name>; <name><surname>Melton</surname><given-names>A.</given-names></name>; <name><surname>Maynard</surname><given-names>N.</given-names></name>; <name><surname>Delman</surname><given-names>K. A.</given-names></name>; <name><surname>Carlson</surname><given-names>G. W.</given-names></name>; <name><surname>Rizzo</surname><given-names>M.</given-names></name> (<year>2013</year>) <article-title>Prognostic Factors
+for Overall Survival
+After Radiosurgery for Brain Metastases From Melanoma</article-title>. <source>Am. J. Clin. Oncol.</source>
+<fpage>DOI: 10.1097/COC.0b013e318280d7be</fpage>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Kashani-Sabet</surname><given-names>M.</given-names></name> (<year>2014</year>) <article-title>Molecular
+markers in melanoma</article-title>. <source>Br. J. Dermatol.</source>
+<volume>170</volume>, <fpage>31</fpage>&#x02013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">23815339</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Riechers</surname><given-names>A.</given-names></name>; <name><surname>Bosserhoff</surname><given-names>A. K.</given-names></name> (<year>2014</year>) <article-title>Melanoma
+inhibitory activity in melanoma diagnostics
+and therapy: A small protein is looming large</article-title>. <source>Exp. Dermatol.</source>
+<volume>23</volume>, <fpage>12</fpage>&#x02013;<lpage>14</lpage>.<pub-id pub-id-type="pmid">24372647</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>El
+Hajj</surname><given-names>P.</given-names></name>; <name><surname>Journe</surname><given-names>F.</given-names></name>; <name><surname>Wiedig</surname><given-names>M.</given-names></name>; <name><surname>Laios</surname><given-names>I.</given-names></name>; <name><surname>Sales</surname><given-names>F.</given-names></name>; <name><surname>Galibert</surname><given-names>M. D.</given-names></name>; <name><surname>Van Kempen</surname><given-names>L. C.</given-names></name>; <name><surname>Spatz</surname><given-names>A.</given-names></name>; <name><surname>Badran</surname><given-names>B.</given-names></name>; <name><surname>Larsimont</surname><given-names>D.</given-names></name>; <name><surname>Awada</surname><given-names>A.</given-names></name>; <name><surname>Ghanem</surname><given-names>G.</given-names></name> (<year>2013</year>) <article-title>Tyrosinase-related
+protein 1 mRNA expression in lymph node metastases predicts overall
+survival in high-risk melanoma patients</article-title>. <source>Br.
+J. Cancer</source>
+<volume>108</volume>, <fpage>1641</fpage>&#x02013;<lpage>1647</lpage>.<pub-id pub-id-type="pmid">23519055</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Henry</surname><given-names>L.</given-names></name>; <name><surname>Fabre</surname><given-names>C.</given-names></name>; <name><surname>Guiraud</surname><given-names>I.</given-names></name>; <name><surname>Bastide</surname><given-names>S.</given-names></name>; <name><surname>Fabbro-Peray</surname><given-names>P.</given-names></name>; <name><surname>Martinez</surname><given-names>J.</given-names></name>; <name><surname>Lavabre-Bertrand</surname><given-names>T.</given-names></name>; <name><surname>Meunier</surname><given-names>L.</given-names></name>; <name><surname>Stoebner</surname><given-names>P. E.</given-names></name> (<year>2013</year>) <article-title>Clinical
+use of p-proteasome in discriminating metastatic melanoma patients:
+Comparative study with LDH, MIA and S100B protein</article-title>. <source>Int. J. Cancer</source>
+<volume>133</volume>, <fpage>142</fpage>&#x02013;<lpage>148</lpage>.<pub-id pub-id-type="pmid">23238767</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Wieder</surname><given-names>H. A.</given-names></name>; <name><surname>Tekin</surname><given-names>G.</given-names></name>; <name><surname>Rosenbaum-Krumme</surname><given-names>S.</given-names></name>; <name><surname>Klode</surname><given-names>J.</given-names></name>; <name><surname>Altenbernd</surname><given-names>J.</given-names></name>; <name><surname>Bockisch</surname><given-names>A.</given-names></name>; <name><surname>Nagarajah</surname><given-names>J.</given-names></name> (<year>2013</year>) <article-title>18FDG-PET to assess recurrence and
+long term survival in patients with malignant melanoma</article-title>. <source>Nuklearmedizin</source>
+<volume>52</volume>, <fpage>198</fpage>&#x02013;<lpage>203</lpage>.<pub-id pub-id-type="pmid">23969722</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Schiltz</surname><given-names>P. M.</given-names></name>; <name><surname>Dillman</surname><given-names>R. O.</given-names></name>; <name><surname>Korse</surname><given-names>C. M.</given-names></name>; <name><surname>Cubellis</surname><given-names>J. M.</given-names></name>; <name><surname>Lee</surname><given-names>G. J.</given-names></name>; <name><surname>De Gast</surname><given-names>G. C.</given-names></name> (<year>2008</year>) <article-title>Lack of elevation of serum S100B in patients with metastatic
+melanoma as a predictor of outcome after induction with an autologous
+vaccine of proliferating tumor cells and dendritic cells</article-title>. <source>Cancer Biother. Radiopharm.</source>
+<volume>23</volume>, <fpage>214</fpage>&#x02013;<lpage>221</lpage>.<pub-id pub-id-type="pmid">18454690</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>O&#x02019;Rourke</surname><given-names>M. G.</given-names></name>; <name><surname>Johnson</surname><given-names>M.</given-names></name>; <name><surname>Lanagan</surname><given-names>C.</given-names></name>; <name><surname>See</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Bell</surname><given-names>J. R.</given-names></name>; <name><surname>Slater</surname><given-names>G. J.</given-names></name>; <name><surname>Kerr</surname><given-names>B. M.</given-names></name>; <name><surname>Crowe</surname><given-names>B.</given-names></name>; <name><surname>Purdie</surname><given-names>D. M.</given-names></name>; <name><surname>Elliott</surname><given-names>S. L.</given-names></name>; <name><surname>Ellem</surname><given-names>K. A.</given-names></name>; <name><surname>Schmidt</surname><given-names>C. W.</given-names></name> (<year>2003</year>) <article-title>Durable
+complete clinical responses in a phase I/II trial using an autologous
+melanoma cell/dendritic cell vaccine</article-title>. <source>Cancer
+Immunol. Immunother.</source>
+<volume>52</volume>, <fpage>387</fpage>&#x02013;<lpage>395</lpage>.<pub-id pub-id-type="pmid">12682787</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Hartman</surname><given-names>K. G.</given-names></name>; <name><surname>McKnight</surname><given-names>L. E.</given-names></name>; <name><surname>Liriano</surname><given-names>M. A.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2013</year>) <article-title>The evolution of
+S100B inhibitors for the treatment of malignant melanoma</article-title>. <source>Future Med. Chem.</source>
+<volume>5</volume>, <fpage>97</fpage>&#x02013;<lpage>109</lpage>.<pub-id pub-id-type="pmid">23256816</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Lin</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>Q.</given-names></name>; <name><surname>Wilder</surname><given-names>P. T.</given-names></name>; <name><surname>Carrier</surname><given-names>F.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2010</year>) <article-title>The calcium-binding
+protein S100B down-regulates p53 and apoptosis in malignant melanoma</article-title>. <source>J. Biol. Chem.</source>
+<volume>285</volume>, <fpage>27487</fpage>&#x02013;<lpage>27498</lpage>.<pub-id pub-id-type="pmid">20587415</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Lin</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>Q.</given-names></name>; <name><surname>Yan</surname><given-names>Z.</given-names></name>; <name><surname>Markowitz</surname><given-names>J.</given-names></name>; <name><surname>Wilder</surname><given-names>P. T.</given-names></name>; <name><surname>Carrier</surname><given-names>F.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2004</year>) <article-title>Inhibiting S100B
+restores p53 levels in primary malignant melanoma cancer cells</article-title>. <source>J. Biol. Chem.</source>
+<volume>279</volume>, <fpage>34071</fpage>&#x02013;<lpage>34077</lpage>.<pub-id pub-id-type="pmid">15178678</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Baudier</surname><given-names>J.</given-names></name>; <name><surname>Delphin</surname><given-names>C.</given-names></name>; <name><surname>Grunwald</surname><given-names>D.</given-names></name>; <name><surname>Khochbin</surname><given-names>S.</given-names></name>; <name><surname>Lawrence</surname><given-names>J. J.</given-names></name> (<year>1992</year>) <article-title>Characterization
+of the tumor suppressor protein p53 as a protein kinase C substrate
+and a S100b-binding protein</article-title>. <source>Proc. Natl. Acad.
+Sci. U.S.A.</source>
+<volume>89</volume>, <fpage>11627</fpage>&#x02013;<lpage>11631</lpage>.<pub-id pub-id-type="pmid">1454855</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Rustandi</surname><given-names>R.
+R.</given-names></name>; <name><surname>Baldisseri</surname><given-names>D. M.</given-names></name>; <name><surname>Drohat</surname><given-names>A. C.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>1999</year>) <article-title>Structural changes
+in the C-terminus of Ca<sup>2+</sup>-bound rat S100B (&#x003b2;&#x003b2;)
+upon binding to a peptide derived from the C-terminal regulatory domain
+of p53</article-title>. <source>Protein Sci.</source>
+<volume>8</volume>, <fpage>1743</fpage>&#x02013;<lpage>1751</lpage>.<pub-id pub-id-type="pmid">10493575</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Rustandi</surname><given-names>R. R.</given-names></name>; <name><surname>Baldisseri</surname><given-names>D. M.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2000</year>) <article-title>Structure of the
+negative regulatory
+domain of p53 bound to S100B(&#x003b2;&#x003b2;)</article-title>. <source>Nat. Struct. Biol.</source>
+<volume>7</volume>, <fpage>570</fpage>&#x02013;<lpage>574</lpage>.<pub-id pub-id-type="pmid">10876243</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Rustandi</surname><given-names>R. R.</given-names></name>; <name><surname>Drohat</surname><given-names>A. C.</given-names></name>; <name><surname>Baldisseri</surname><given-names>D. M.</given-names></name>; <name><surname>Wilder</surname><given-names>P. T.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>1998</year>) <article-title>The Ca<sup>2+</sup>-dependent interaction of S100B(&#x003b2;&#x003b2;) with a peptide
+derived from p53</article-title>. <source>Biochemistry</source>
+<volume>37</volume>, <fpage>1951</fpage>&#x02013;<lpage>1960</lpage>.<pub-id pub-id-type="pmid">9485322</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Wilder</surname><given-names>P. T.</given-names></name>; <name><surname>Rustandi</surname><given-names>R. R.</given-names></name>; <name><surname>Drohat</surname><given-names>A. C.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>1998</year>) <article-title>S100B(&#x003b2;&#x003b2;)
+inhibits the protein kinase C-dependent phosphorylation of a peptide
+derived from p53 in a Ca<sup>2+</sup>-dependent manner</article-title>. <source>Protein Sci.</source>
+<volume>7</volume>, <fpage>794</fpage>&#x02013;<lpage>798</lpage>.<pub-id pub-id-type="pmid">9541413</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Lin</surname><given-names>J.</given-names></name>; <name><surname>Blake</surname><given-names>M.</given-names></name>; <name><surname>Tang</surname><given-names>C.</given-names></name>; <name><surname>Zimmer</surname><given-names>D.</given-names></name>; <name><surname>Rustandi</surname><given-names>R. R.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name>; <name><surname>Carrier</surname><given-names>F.</given-names></name> (<year>2001</year>) <article-title>Inhibition of p53 transcriptional
+activity by the S100B calcium-binding protein</article-title>. <source>J. Biol. Chem.</source>
+<volume>276</volume>, <fpage>35037</fpage>&#x02013;<lpage>35041</lpage>.<pub-id pub-id-type="pmid">11454863</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="book" id="cit25"><person-group person-group-type="allauthors"><name><surname>Weber</surname><given-names>D. J.</given-names></name>, <name><surname>Rustandi</surname><given-names>R. R.</given-names></name>, <name><surname>Carrier</surname><given-names>F.</given-names></name>, and <name><surname>Zimmer</surname><given-names>D. B.</given-names></name></person-group> (<year>2000</year>) <article-title>Interaction of dimeric S100B(&#x003b2;&#x003b2;) with the tumor suppressor
+protein: A model for Ca-dependent S100-target protein interactions</article-title>. In <source>The molecular basis of calcium action in biology and
+medicine</source> (<person-group person-group-type="editor"><name><surname>Pochet</surname><given-names>R.</given-names></name></person-group>, Ed.) pp <fpage>469</fpage>&#x02013;<lpage>487</lpage>, <publisher-name>Kluwer Academic Publishers</publisher-name>, <publisher-loc>Dordrecht,
+The Netherlands</publisher-loc>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Hussein</surname><given-names>M. R.</given-names></name>; <name><surname>Haemel</surname><given-names>A. K.</given-names></name>; <name><surname>Wood</surname><given-names>G. S.</given-names></name> (<year>2003</year>) <article-title>p53-related pathways and the molecular
+pathogenesis of melanoma</article-title>. <source>Eur. J. Cancer Prev.</source>
+<volume>12</volume>, <fpage>93</fpage>&#x02013;<lpage>100</lpage>.<pub-id pub-id-type="pmid">12671532</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Brown</surname><given-names>C. J.</given-names></name>; <name><surname>Lain</surname><given-names>S.</given-names></name>; <name><surname>Verma</surname><given-names>C. S.</given-names></name>; <name><surname>Fersht</surname><given-names>A. R.</given-names></name>; <name><surname>Lane</surname><given-names>D. P.</given-names></name> (<year>2009</year>) <article-title>Awakening
+guardian angels: Drugging the p53 pathway</article-title>. <source>Nat.
+Rev. Cancer</source>
+<volume>9</volume>, <fpage>862</fpage>&#x02013;<lpage>873</lpage>.<pub-id pub-id-type="pmid">19935675</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Smith</surname><given-names>J.</given-names></name>; <name><surname>Stewart</surname><given-names>B. J.</given-names></name>; <name><surname>Glaysher</surname><given-names>S.</given-names></name>; <name><surname>Peregrin</surname><given-names>K.</given-names></name>; <name><surname>Knight</surname><given-names>L. A.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name>; <name><surname>Cree</surname><given-names>I. A.</given-names></name> (<year>2010</year>) <article-title>The effect
+of pentamidine on melanoma
+ex vivo</article-title>. <source>Anticancer Drugs</source>
+<volume>21</volume>, <fpage>181</fpage>&#x02013;<lpage>185</lpage>.<pub-id pub-id-type="pmid">19966562</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Zimmer</surname><given-names>D. B.</given-names></name>; <name><surname>Lapidus</surname><given-names>R. G.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2013</year>) <article-title>In vivo screening
+of S100B inhibitors
+for melanoma therapy</article-title>. <source>Methods Mol. Biol.</source>
+<volume>963</volume>, <fpage>303</fpage>&#x02013;<lpage>317</lpage>.<pub-id pub-id-type="pmid">23296618</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Jochemsen</surname><given-names>A. G.</given-names></name> (<year>2014</year>) <article-title>Reactivation
+of p53 as therapeutic intervention for malignant melanoma</article-title>. <source>Curr. Opin. Oncol.</source>
+<volume>26</volume>, <fpage>114</fpage>&#x02013;<lpage>119</lpage>.<pub-id pub-id-type="pmid">24275854</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Markowitz</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>I.</given-names></name>; <name><surname>Gitti</surname><given-names>R.</given-names></name>; <name><surname>Baldisseri</surname><given-names>D. M.</given-names></name>; <name><surname>Pan</surname><given-names>Y.</given-names></name>; <name><surname>Udan</surname><given-names>R.</given-names></name>; <name><surname>Carrier</surname><given-names>F.</given-names></name>; <name><surname>MacKerell</surname><given-names>A. D.</given-names><suffix>Jr.</suffix></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2004</year>) <article-title>Identification and characterization
+of small molecule inhibitors of the calcium-dependent S100B-p53 tumor
+suppressor interaction</article-title>. <source>J. Med. Chem.</source>
+<volume>47</volume>, <fpage>5085</fpage>&#x02013;<lpage>5093</lpage>.<pub-id pub-id-type="pmid">15456252</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Charpentier</surname><given-names>T. H.</given-names></name>; <name><surname>Thompson</surname><given-names>L. E.</given-names></name>; <name><surname>Liriano</surname><given-names>M. A.</given-names></name>; <name><surname>Varney</surname><given-names>K. M.</given-names></name>; <name><surname>Wilder</surname><given-names>P. T.</given-names></name>; <name><surname>Pozharski</surname><given-names>E.</given-names></name>; <name><surname>Toth</surname><given-names>E. A.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2010</year>) <article-title>The effects of CapZ
+peptide (TRTK-12) binding to S100B-Ca<sup>2+</sup> as examined by
+NMR and X-ray crystallography</article-title>. <source>J. Mol. Biol.</source>
+<volume>396</volume>, <fpage>1227</fpage>&#x02013;<lpage>1243</lpage>.<pub-id pub-id-type="pmid">20053360</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Charpentier</surname><given-names>T. H.</given-names></name>; <name><surname>Wilder</surname><given-names>P. T.</given-names></name>; <name><surname>Liriano</surname><given-names>M. A.</given-names></name>; <name><surname>Varney</surname><given-names>K. M.</given-names></name>; <name><surname>Zhong</surname><given-names>S.</given-names></name>; <name><surname>Coop</surname><given-names>A.</given-names></name>; <name><surname>Pozharski</surname><given-names>E.</given-names></name>; <name><surname>MacKerell</surname><given-names>A. D.</given-names><suffix>Jr.</suffix></name>; <name><surname>Toth</surname><given-names>E. A.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2009</year>) <article-title>Small molecules
+bound to unique sites in the target protein binding cleft of calcium-bound
+S100B as characterized by nuclear magnetic resonance and X-ray crystallography</article-title>. <source>Biochemistry</source>
+<volume>48</volume>, <fpage>6202</fpage>&#x02013;<lpage>6212</lpage>.<pub-id pub-id-type="pmid">19469484</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>McKnight</surname><given-names>L. E.</given-names></name>; <name><surname>Raman</surname><given-names>E. P.</given-names></name>; <name><surname>Bezawada</surname><given-names>P.</given-names></name>; <name><surname>Kudrimoti</surname><given-names>S.</given-names></name>; <name><surname>Wilder</surname><given-names>P. T.</given-names></name>; <name><surname>Hartman</surname><given-names>K. G.</given-names></name>; <name><surname>Godoy-Ruiz</surname><given-names>R.</given-names></name>; <name><surname>Toth</surname><given-names>E. A.</given-names></name>; <name><surname>Coop</surname><given-names>A.</given-names></name>; <name><surname>Mackerell</surname><given-names>A. D.</given-names><suffix>Jr.</suffix></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2012</year>) <article-title>Structure-Based Discovery of a Novel
+Pentamidine-Related Inhibitor of the Calcium-Binding Protein S100B</article-title>. <source>ACS Med. Chem. Lett.</source>
+<volume>3</volume>, <fpage>975</fpage>&#x02013;<lpage>979</lpage>.<pub-id pub-id-type="pmid">23264854</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Wilder</surname><given-names>P. T.</given-names></name>; <name><surname>Charpentier</surname><given-names>T. H.</given-names></name>; <name><surname>Liriano</surname><given-names>M. A.</given-names></name>; <name><surname>Gianni</surname><given-names>K.</given-names></name>; <name><surname>Varney</surname><given-names>K. M.</given-names></name>; <name><surname>Pozharski</surname><given-names>E.</given-names></name>; <name><surname>Coop</surname><given-names>A.</given-names></name>; <name><surname>Toth</surname><given-names>E. A.</given-names></name>; <name><surname>Mackerell</surname><given-names>A. D.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2010</year>) <article-title>In vitro screening and structural characterization
+of inhibitors of the S100B-p53 interaction</article-title>. <source>Int. J. High Throughput Screening</source>
+<volume>2010</volume>, <fpage>109</fpage>&#x02013;<lpage>126</lpage>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Charpentier</surname><given-names>T. H.</given-names></name>; <name><surname>Wilder</surname><given-names>P. T.</given-names></name>; <name><surname>Liriano</surname><given-names>M. A.</given-names></name>; <name><surname>Varney</surname><given-names>K. M.</given-names></name>; <name><surname>Pozharski</surname><given-names>E.</given-names></name>; <name><surname>MacKerell</surname><given-names>A. D.</given-names><suffix>Jr.</suffix></name>; <name><surname>Coop</surname><given-names>A.</given-names></name>; <name><surname>Toth</surname><given-names>E. A.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2008</year>) <article-title>Divalent metal ion complexes of S100B in the absence
+and presence of pentamidine</article-title>. <source>J. Mol. Biol.</source>
+<volume>382</volume>, <fpage>56</fpage>&#x02013;<lpage>73</lpage>.<pub-id pub-id-type="pmid">18602402</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Drohat</surname><given-names>A. C.</given-names></name>; <name><surname>Amburgey</surname><given-names>J. C.</given-names></name>; <name><surname>Abildgaard</surname><given-names>F.</given-names></name>; <name><surname>Starich</surname><given-names>M. R.</given-names></name>; <name><surname>Baldisseri</surname><given-names>D.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>1996</year>) <article-title>Solution structure
+of rat apo-S100B(&#x003b2;&#x003b2;)
+as determined by NMR spectroscopy</article-title>. <source>Biochemistry</source>
+<volume>35</volume>, <fpage>11577</fpage>&#x02013;<lpage>11588</lpage>.<pub-id pub-id-type="pmid">8794737</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Amburgey</surname><given-names>J. C.</given-names></name>; <name><surname>Abildgaard</surname><given-names>F.</given-names></name>; <name><surname>Starich</surname><given-names>M. R.</given-names></name>; <name><surname>Shah</surname><given-names>S.</given-names></name>; <name><surname>Hilt</surname><given-names>D. C.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>1995</year>) <article-title><sup>1</sup>H, <sup>13</sup>C and <sup>15</sup>N NMR
+assignments and solution secondary structure of rat Apo-S100&#x003b2;</article-title>. <source>J. Biomol. NMR</source>
+<volume>6</volume>, <fpage>171</fpage>&#x02013;<lpage>179</lpage>.<pub-id pub-id-type="pmid">8589606</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Kabsch</surname><given-names>W.</given-names></name> (<year>2010</year>) <article-title>Xds</article-title>. <source>Acta Crystallogr.</source>
+<volume>D66</volume>, <fpage>125</fpage>&#x02013;<lpage>132</lpage>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Soltis</surname><given-names>S. M.</given-names></name>; <name><surname>Cohen</surname><given-names>A. E.</given-names></name>; <name><surname>Deacon</surname><given-names>A.</given-names></name>; <name><surname>Eriksson</surname><given-names>T.</given-names></name>; <name><surname>Gonzalez</surname><given-names>A.</given-names></name>; <name><surname>McPhillips</surname><given-names>S.</given-names></name>; <name><surname>Chui</surname><given-names>H.</given-names></name>; <name><surname>Dunten</surname><given-names>P.</given-names></name>; <name><surname>Hollenbeck</surname><given-names>M.</given-names></name>; <name><surname>Mathews</surname><given-names>I.</given-names></name>; <name><surname>Miller</surname><given-names>M.</given-names></name>; <name><surname>Moorhead</surname><given-names>P.</given-names></name>; <name><surname>Phizackerley</surname><given-names>R. P.</given-names></name>; <name><surname>Smith</surname><given-names>C.</given-names></name>; <name><surname>Song</surname><given-names>J.</given-names></name>; <name><surname>van dem Bedem</surname><given-names>H.</given-names></name>; <name><surname>Ellis</surname><given-names>P.</given-names></name>; <name><surname>Kuhn</surname><given-names>P.</given-names></name>; <name><surname>McPhillips</surname><given-names>T.</given-names></name>; <name><surname>Sauter</surname><given-names>N.</given-names></name>; <name><surname>Sharp</surname><given-names>K.</given-names></name>; <name><surname>Tsyba</surname><given-names>I.</given-names></name>; <name><surname>Wolf</surname><given-names>G.</given-names></name> (<year>2008</year>) <article-title>New paradigm
+for macromolecular crystallography experiments at SSRL: Automated
+crystal screening and remote data collection</article-title>. <source>Acta Crystallogr.</source>
+<volume>D64</volume>, <fpage>1210</fpage>&#x02013;<lpage>1221</lpage>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Cohen</surname><given-names>A. E.</given-names></name>; <name><surname>Ellis</surname><given-names>P. J.</given-names></name>; <name><surname>Miller</surname><given-names>M. D.</given-names></name>; <name><surname>Deacon</surname><given-names>A. M.</given-names></name>; <name><surname>Phizackerley</surname><given-names>R. P.</given-names></name> (<year>2002</year>) <article-title>An automated
+system to mount cryo-cooled protein crystals on a synchrotron beamline,
+using compact sample cassettes and a small-scale robot</article-title>. <source>J. Appl. Crystallogr.</source>
+<volume>35</volume>, <fpage>720</fpage>&#x02013;<lpage>726</lpage>.<pub-id pub-id-type="pmid">24899734</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>McPhillips</surname><given-names>T. M.</given-names></name>; <name><surname>McPhillips</surname><given-names>S. E.</given-names></name>; <name><surname>Chiu</surname><given-names>H. J.</given-names></name>; <name><surname>Cohen</surname><given-names>A. E.</given-names></name>; <name><surname>Deacon</surname><given-names>A. M.</given-names></name>; <name><surname>Ellis</surname><given-names>P. J.</given-names></name>; <name><surname>Garman</surname><given-names>E.</given-names></name>; <name><surname>Gonzalez</surname><given-names>A.</given-names></name>; <name><surname>Sauter</surname><given-names>N. K.</given-names></name>; <name><surname>Phizackerley</surname><given-names>R. P.</given-names></name>; <name><surname>Soltis</surname><given-names>S. M.</given-names></name>; <name><surname>Kuhn</surname><given-names>P.</given-names></name> (<year>2002</year>) <article-title>Blu-Ice and the Distributed
+Control System: Software for data acquisition and instrument control
+at macromolecular crystallography beamlines</article-title>. <source>J. Synchrotron Radiat.</source>
+<volume>9</volume>, <fpage>401</fpage>&#x02013;<lpage>406</lpage>.<pub-id pub-id-type="pmid">12409628</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="book" id="cit43"><person-group person-group-type="allauthors"><name><surname>Gonzalez</surname><given-names>A.</given-names></name>, and <name><surname>Tsai</surname><given-names>Y.</given-names></name></person-group> (<year>2010</year>) <source>AUTOXDS</source>, <publisher-name>Stanford University</publisher-name>, <publisher-loc>Stanford, CA</publisher-loc>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Leslie</surname><given-names>A. G. W.</given-names></name>; <name><surname>Powell</surname><given-names>H. R.</given-names></name> (<year>2007</year>) <article-title>Processing Diffraction Data with Mosflm</article-title>. <source>Evolving Methods for Macromolecular Crystallography</source>
+<volume>245</volume>, <fpage>41</fpage>&#x02013;<lpage>51</lpage>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Project</surname><given-names>C. C.</given-names></name> (<year>1994</year>) <article-title>The CCP4
+Suite: Programs for Protein Crystallography</article-title>. <source>Acta Crystallogr.</source>
+<volume>D50</volume>, <fpage>760</fpage>&#x02013;<lpage>63</lpage>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Gibson</surname><given-names>R. P.</given-names></name>; <name><surname>Tarling</surname><given-names>C. A.</given-names></name>; <name><surname>Roberts</surname><given-names>S.</given-names></name>; <name><surname>Withers</surname><given-names>S. G.</given-names></name>; <name><surname>Davies</surname><given-names>G. J.</given-names></name> (<year>2004</year>) <article-title>The donor
+subsite of trehalose-6-phosphate synthase: Binary complexes with UDP-glucose
+and UDP-2-deoxy-2-fluoro-glucose at 2 &#x000c5; resolution</article-title>. <source>J. Biol. Chem.</source>
+<volume>279</volume>, <fpage>1950</fpage>&#x02013;<lpage>1955</lpage>.<pub-id pub-id-type="pmid">14570926</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Matsumura</surname><given-names>H.</given-names></name>; <name><surname>Shiba</surname><given-names>T.</given-names></name>; <name><surname>Inoue</surname><given-names>T.</given-names></name>; <name><surname>Harada</surname><given-names>S.</given-names></name>; <name><surname>Kai</surname><given-names>Y.</given-names></name> (<year>1998</year>) <article-title>A novel mode
+of target recognition suggested by the 2.0 &#x000c5; structure of holo
+S100B from bovine brain</article-title>. <source>Structure</source>
+<volume>6</volume>, <fpage>233</fpage>&#x02013;<lpage>241</lpage>.<pub-id pub-id-type="pmid">9519413</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Mccoy</surname><given-names>A. J.</given-names></name>; <name><surname>Grosse-Kunstleve</surname><given-names>R. W.</given-names></name>; <name><surname>Adams</surname><given-names>P. D.</given-names></name>; <name><surname>Winn</surname><given-names>M. D.</given-names></name>; <name><surname>Storoni</surname><given-names>L. C.</given-names></name>; <name><surname>Read</surname><given-names>R. J.</given-names></name> (<year>2007</year>) <article-title>Phaser
+crystallographic software</article-title>. <source>J. Appl. Crystallogr.</source>
+<volume>40</volume>, <fpage>658</fpage>&#x02013;<lpage>674</lpage>.<pub-id pub-id-type="pmid">19461840</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Adams</surname><given-names>P. D.</given-names></name>; <name><surname>Afonine</surname><given-names>P. V.</given-names></name>; <name><surname>Bunkoczi</surname><given-names>G.</given-names></name>; <name><surname>Chen</surname><given-names>V. B.</given-names></name>; <name><surname>Davis</surname><given-names>I. W.</given-names></name>; <name><surname>Echols</surname><given-names>N.</given-names></name>; <name><surname>Headd</surname><given-names>J. J.</given-names></name>; <name><surname>Hung</surname><given-names>L. W.</given-names></name>; <name><surname>Kapral</surname><given-names>G. J.</given-names></name>; <name><surname>Grosse-Kunstleve</surname><given-names>R. W.</given-names></name>; <name><surname>McCoy</surname><given-names>A. J.</given-names></name>; <name><surname>Moriarty</surname><given-names>N. W.</given-names></name>; <name><surname>Oeffner</surname><given-names>R.</given-names></name>; <name><surname>Read</surname><given-names>R. J.</given-names></name>; <name><surname>Richardson</surname><given-names>D. C.</given-names></name>; <name><surname>Richardson</surname><given-names>J. S.</given-names></name>; <name><surname>Terwilliger</surname><given-names>T. C.</given-names></name>; <name><surname>Zwart</surname><given-names>P. H.</given-names></name> (<year>2010</year>) <article-title>PHENIX: A comprehensive Python-based
+system for macromolecular structure solution</article-title>. <source>Acta Crystallogr.</source>
+<volume>D66</volume>, <fpage>213</fpage>&#x02013;<lpage>221</lpage>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Emsley</surname><given-names>P.</given-names></name>; <name><surname>Lohkamp</surname><given-names>B.</given-names></name>; <name><surname>Scott</surname><given-names>W. G.</given-names></name>; <name><surname>Cowtan</surname><given-names>K.</given-names></name> (<year>2010</year>) <article-title>Features and development
+of Coot</article-title>. <source>Acta Crystallogr.</source>
+<volume>D66</volume>, <fpage>486</fpage>&#x02013;<lpage>501</lpage>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="book" id="cit51"><person-group person-group-type="allauthors"><name><surname>Afonine</surname><given-names>P. V.</given-names></name>, <name><surname>Grosse-Kunstleve</surname><given-names>R. W.</given-names></name>, and <name><surname>Adams</surname><given-names>P. D.</given-names></name></person-group> (<year>2005</year>) <article-title>The Phenix Refinement Framework</article-title>,. <source>CCP4 Newsletter</source>, Vol. <volume>42</volume>, Contribution
+8, <publisher-name>Daresbury Laboratory</publisher-name>, <publisher-loc>Warrington, U.K.</publisher-loc></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Hartman</surname><given-names>K. G.</given-names></name>; <name><surname>Vitolo</surname><given-names>M. I.</given-names></name>; <name><surname>Pierce</surname><given-names>A. D.</given-names></name>; <name><surname>Fox</surname><given-names>J. M.</given-names></name>; <name><surname>Shapiro</surname><given-names>P.</given-names></name>; <name><surname>Martin</surname><given-names>S. S.</given-names></name>; <name><surname>Wilder</surname><given-names>P. T.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2014</year>) <article-title>Complex Formation
+between S100B Protein and the p90 Ribosomal S6 Kinase (RSK) in Malignant
+Melanoma Is Calcium-dependent and Inhibits Extracellular Signal-regulated
+Kinase (ERK)-mediated Phosphorylation of RSK</article-title>. <source>J. Biol. Chem.</source>
+<volume>289</volume>, <fpage>12886</fpage>&#x02013;<lpage>12895</lpage>.<pub-id pub-id-type="pmid">24627490</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Bachman</surname><given-names>K. E.</given-names></name>; <name><surname>Sager</surname><given-names>J.</given-names></name>; <name><surname>Cheong</surname><given-names>I.</given-names></name>; <name><surname>Catto</surname><given-names>M.</given-names></name>; <name><surname>Bardelli</surname><given-names>A.</given-names></name>; <name><surname>Park</surname><given-names>B. H.</given-names></name>; <name><surname>Vogelstein</surname><given-names>B.</given-names></name>; <name><surname>Carotti</surname><given-names>A.</given-names></name>; <name><surname>Kinzler</surname><given-names>K. W.</given-names></name>; <name><surname>Lengauer</surname><given-names>C.</given-names></name> (<year>2005</year>) <article-title>Identification of compounds that inhibit growth of
+2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine-resistant cancer cells</article-title>. <source>Mol. Cancer Ther.</source>
+<volume>4</volume>, <fpage>1026</fpage>&#x02013;<lpage>1030</lpage>.<pub-id pub-id-type="pmid">15956261</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Myers</surname><given-names>M. A.</given-names></name> (<year>1998</year>) <article-title>Direct
+measurement of cell numbers in microtitre plate cultures using the
+fluorescent dye SYBR green I</article-title>. <source>J. Immunol. Methods</source>
+<volume>212</volume>, <fpage>99</fpage>&#x02013;<lpage>103</lpage>.<pub-id pub-id-type="pmid">9671157</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Sauna</surname><given-names>Z. E.</given-names></name>; <name><surname>Peng</surname><given-names>X. H.</given-names></name>; <name><surname>Nandigama</surname><given-names>K.</given-names></name>; <name><surname>Tekle</surname><given-names>S.</given-names></name>; <name><surname>Ambudkar</surname><given-names>S. V.</given-names></name> (<year>2004</year>) <article-title>The molecular
+basis of the action of disulfiram as a modulator of the multidrug
+resistance-linked ATP binding cassette transporters MDR1 (ABCB1) and
+MRP1 (ABCC1)</article-title>. <source>Mol. Pharmacol.</source>
+<volume>65</volume>, <fpage>675</fpage>&#x02013;<lpage>684</lpage>.<pub-id pub-id-type="pmid">14978246</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Wilder</surname><given-names>P. T.</given-names></name>; <name><surname>Baldisseri</surname><given-names>D. M.</given-names></name>; <name><surname>Udan</surname><given-names>R.</given-names></name>; <name><surname>Vallely</surname><given-names>K. M.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2003</year>) <article-title>Location
+of the Zn<sup>2+</sup>-binding site on S100B as determined by NMR
+spectroscopy and site-directed mutagenesis</article-title>. <source>Biochemistry</source>
+<volume>42</volume>, <fpage>13410</fpage>&#x02013;<lpage>13421</lpage>.<pub-id pub-id-type="pmid">14621986</pub-id></mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Wilder</surname><given-names>P.
+T.</given-names></name>; <name><surname>Varney</surname><given-names>K. M.</given-names></name>; <name><surname>Weiss</surname><given-names>M. B.</given-names></name>; <name><surname>Gitti</surname><given-names>R. K.</given-names></name>; <name><surname>Weber</surname><given-names>D. J.</given-names></name> (<year>2005</year>) <article-title>Solution
+structure of zinc- and calcium-bound rat S100B as determined by nuclear
+magnetic resonance spectroscopy</article-title>. <source>Biochemistry</source>
+<volume>44</volume>, <fpage>5690</fpage>&#x02013;<lpage>5702</lpage>.<pub-id pub-id-type="pmid">15823027</pub-id></mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Cremer</surname><given-names>D.</given-names></name>; <name><surname>Hausen</surname><given-names>B. M.</given-names></name>; <name><surname>Schmalle</surname><given-names>H. W.</given-names></name> (<year>1987</year>) <article-title>Toward
+a rationalization of the sensitizing
+potency of substituted p-benzoquinones: Reaction of nucleophiles with
+p-benzoquinones</article-title>. <source>J. Med. Chem.</source>
+<volume>30</volume>, <fpage>1678</fpage>&#x02013;<lpage>1681</lpage>.<pub-id pub-id-type="pmid">3625712</pub-id></mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Mather</surname><given-names>B. D.</given-names></name>; <name><surname>Viswanathan</surname><given-names>K.</given-names></name>; <name><surname>Miller</surname><given-names>K. M.</given-names></name>; <name><surname>Long</surname><given-names>T. E.</given-names></name> (<year>2006</year>) <article-title>Michael addition
+reactions in macromolecular design for emerging technologies</article-title>. <source>Prog. Polym. Sci.</source>
+<volume>31</volume>, <fpage>487</fpage>&#x02013;<lpage>531</lpage>.</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Lou</surname><given-names>H.</given-names></name>; <name><surname>Ookhtens</surname><given-names>M.</given-names></name>; <name><surname>Stolz</surname><given-names>A.</given-names></name>; <name><surname>Kaplowitz</surname><given-names>N.</given-names></name> (<year>2003</year>) <article-title>Chelerythrine
+stimulates GSH transport by rat Mrp2 (Abcc2) expressed in canine kidney
+cells</article-title>. <source>Am. J. Physiol.</source>
+<volume>285</volume>, <fpage>G1335</fpage>&#x02013;<lpage>G1344</lpage>.</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Jemal</surname><given-names>A.</given-names></name>; <name><surname>Murray</surname><given-names>T.</given-names></name>; <name><surname>Samuels</surname><given-names>A.</given-names></name>; <name><surname>Ghafoor</surname><given-names>A.</given-names></name>; <name><surname>Ward</surname><given-names>E.</given-names></name>; <name><surname>Thun</surname><given-names>M. J.</given-names></name> (<year>2003</year>) <article-title>Cancer statistics,
+2003</article-title>. <source>Ca-Cancer
+J. Clin.</source>
+<volume>53</volume>, <fpage>5</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">12568441</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Abraha</surname><given-names>H.
+D.</given-names></name>; <name><surname>Fuller</surname><given-names>L. C.</given-names></name>; <name><surname>Du Vivier</surname><given-names>A. W.</given-names></name>; <name><surname>Higgins</surname><given-names>E. M.</given-names></name>; <name><surname>Sherwood</surname><given-names>R. A.</given-names></name> (<year>1997</year>) <article-title>Serum S-100
+protein: A potentially useful prognostic marker in cutaneous melanoma</article-title>. <source>Br. J. Dermatol.</source>
+<volume>137</volume>, <fpage>381</fpage>&#x02013;<lpage>385</lpage>.<pub-id pub-id-type="pmid">9349333</pub-id></mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Banfalvi</surname><given-names>T.</given-names></name>; <name><surname>Gilde</surname><given-names>K.</given-names></name>; <name><surname>Gergye</surname><given-names>M.</given-names></name>; <name><surname>Boldizsar</surname><given-names>M.</given-names></name>; <name><surname>Kremmer</surname><given-names>T.</given-names></name>; <name><surname>Otto</surname><given-names>S.</given-names></name> (<year>2003</year>) <article-title>Use of serum 5-S-CD and S-100B protein
+levels to monitor the clinical course of malignant melanoma</article-title>. <source>Eur. J. Cancer</source>
+<volume>39</volume>, <fpage>164</fpage>&#x02013;<lpage>169</lpage>.<pub-id pub-id-type="pmid">12509947</pub-id></mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Buer</surname><given-names>J.</given-names></name>; <name><surname>Probst</surname><given-names>M.</given-names></name>; <name><surname>Franzke</surname><given-names>A.</given-names></name>; <name><surname>Duensing</surname><given-names>S.</given-names></name>; <name><surname>Haindl</surname><given-names>J.</given-names></name>; <name><surname>Volkenandt</surname><given-names>M.</given-names></name>; <name><surname>Wittke</surname><given-names>F.</given-names></name>; <name><surname>Hoffmann</surname><given-names>R.</given-names></name>; <name><surname>Ganser</surname><given-names>A.</given-names></name>; <name><surname>Atzpodien</surname><given-names>J.</given-names></name> (<year>1997</year>) <article-title>Elevated serum levels of S100 and survival in metastatic
+malignant melanoma</article-title>. <source>Br. J. Cancer</source>
+<volume>75</volume>, <fpage>1373</fpage>&#x02013;<lpage>1376</lpage>.<pub-id pub-id-type="pmid">9155061</pub-id></mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Djukanovic</surname><given-names>D.</given-names></name>; <name><surname>Hofmann</surname><given-names>U.</given-names></name>; <name><surname>Sucker</surname><given-names>A.</given-names></name>; <name><surname>Rittgen</surname><given-names>W.</given-names></name>; <name><surname>Schadendorf</surname><given-names>D.</given-names></name> (<year>2000</year>) <article-title>Comparison
+of S100 protein and MIA protein as serum marker for malignant melanoma</article-title>. <source>Anticancer Res.</source>
+<volume>20</volume>, <fpage>2203</fpage>&#x02013;<lpage>2207</lpage>.<pub-id pub-id-type="pmid">10928178</pub-id></mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name><surname>Guo</surname><given-names>H. B.</given-names></name>; <name><surname>Stoffel-Wagner</surname><given-names>B.</given-names></name>; <name><surname>Bierwirth</surname><given-names>T.</given-names></name>; <name><surname>Mezger</surname><given-names>J.</given-names></name>; <name><surname>Klingmuller</surname><given-names>D.</given-names></name> (<year>1995</year>) <article-title>Clinical significance
+of serum S100 in metastatic malignant melanoma</article-title>. <source>Eur. J. Cancer</source>
+<volume>31A</volume>, <fpage>1898</fpage>&#x02013;<lpage>1902</lpage>.<pub-id pub-id-type="pmid">8541129</pub-id></mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name><surname>Karnell</surname><given-names>R.</given-names></name>; <name><surname>von Schoultz</surname><given-names>E.</given-names></name>; <name><surname>Hansson</surname><given-names>L. O.</given-names></name>; <name><surname>Nilsson</surname><given-names>B.</given-names></name>; <name><surname>Arstrand</surname><given-names>K.</given-names></name>; <name><surname>Kagedal</surname><given-names>B.</given-names></name> (<year>1997</year>) <article-title>S100B protein, 5-S-cysteinyldopa and 6-hydroxy-5-methoxyindole-2-carboxylic
+acid as biochemical markers for survival prognosis in patients with
+malignant melanoma</article-title>. <source>Melanoma Res.</source>
+<volume>7</volume>, <fpage>393</fpage>&#x02013;<lpage>399</lpage>.<pub-id pub-id-type="pmid">9429222</pub-id></mixed-citation></ref><ref id="ref68"><mixed-citation publication-type="journal" id="cit68"><name><surname>Mohammed</surname><given-names>A. A.</given-names></name>; <name><surname>Januzzi</surname><given-names>J. L.</given-names><suffix>Jr.</suffix></name> (<year>2010</year>) <article-title>Clinical applications of highly sensitive
+troponin assays</article-title>. <source>Cardiol. Rev.</source>
+<volume>18</volume>, <fpage>12</fpage>&#x02013;<lpage>19</lpage>.<pub-id pub-id-type="pmid">20010334</pub-id></mixed-citation></ref><ref id="ref69"><mixed-citation publication-type="journal" id="cit69"><name><surname>Levine</surname><given-names>A. J.</given-names></name> (<year>1997</year>) <article-title>p53, the
+cellular gatekeeper for growth and division</article-title>. <source>Cell</source>
+<volume>88</volume>, <fpage>323</fpage>&#x02013;<lpage>331</lpage>.<pub-id pub-id-type="pmid">9039259</pub-id></mixed-citation></ref><ref id="ref70"><mixed-citation publication-type="journal" id="cit70"><name><surname>Kohler</surname><given-names>J.</given-names></name>; <name><surname>Schuler</surname><given-names>M.</given-names></name> (<year>2014</year>) <article-title>LUX-Lung 3: Redundancy,
+toxicity or a major step forward?
+Afatinib as front-line therapy for patients with metastatic EGFR-mutated
+lung cancer</article-title>. <source>Future Oncol.</source>
+<volume>10</volume>, <fpage>533</fpage>&#x02013;<lpage>540</lpage>.<pub-id pub-id-type="pmid">24754585</pub-id></mixed-citation></ref><ref id="ref71"><mixed-citation publication-type="journal" id="cit71"><name><surname>Serafimova</surname><given-names>I. M.</given-names></name>; <name><surname>Pufall</surname><given-names>M. A.</given-names></name>; <name><surname>Krishnan</surname><given-names>S.</given-names></name>; <name><surname>Duda</surname><given-names>K.</given-names></name>; <name><surname>Cohen</surname><given-names>M. S.</given-names></name>; <name><surname>Maglathlin</surname><given-names>R. L.</given-names></name>; <name><surname>McFarland</surname><given-names>J. M.</given-names></name>; <name><surname>Miller</surname><given-names>R. M.</given-names></name>; <name><surname>Frodin</surname><given-names>M.</given-names></name>; <name><surname>Taunton</surname><given-names>J.</given-names></name> (<year>2012</year>) <article-title>Reversible targeting
+of noncatalytic cysteines with
+chemically tuned electrophiles</article-title>. <source>Nat. Chem. Biol.</source>
+<volume>8</volume>, <fpage>471</fpage>&#x02013;<lpage>476</lpage>.<pub-id pub-id-type="pmid">22466421</pub-id></mixed-citation></ref><ref id="ref72"><mixed-citation publication-type="journal" id="cit72"><name><surname>Erlanson</surname><given-names>D. A.</given-names></name>; <name><surname>Wells</surname><given-names>J. A.</given-names></name>; <name><surname>Braisted</surname><given-names>A. C.</given-names></name> (<year>2004</year>) <article-title>Tethering:
+Fragment-based drug discovery</article-title>. <source>Annu. Rev. Biophys.
+Biomol. Struct.</source>
+<volume>33</volume>, <fpage>199</fpage>&#x02013;<lpage>223</lpage>.<pub-id pub-id-type="pmid">15139811</pub-id></mixed-citation></ref><ref id="ref73"><mixed-citation publication-type="journal" id="cit73"><name><surname>Potashman</surname><given-names>M. H.</given-names></name>; <name><surname>Duggan</surname><given-names>M. E.</given-names></name> (<year>2009</year>) <article-title>Covalent modifiers: An orthogonal approach to drug
+design</article-title>. <source>J. Med. Chem.</source>
+<volume>52</volume>, <fpage>1231</fpage>&#x02013;<lpage>1246</lpage>.<pub-id pub-id-type="pmid">19203292</pub-id></mixed-citation></ref><ref id="ref74"><mixed-citation publication-type="journal" id="cit74"><name><surname>Lim</surname><given-names>S. Y.</given-names></name>; <name><surname>Raftery</surname><given-names>M. J.</given-names></name>; <name><surname>Goyette</surname><given-names>J.</given-names></name>; <name><surname>Hsu</surname><given-names>K.</given-names></name>; <name><surname>Geczy</surname><given-names>C. L.</given-names></name> (<year>2009</year>) <article-title>Oxidative
+modifications of S100 proteins: Functional regulation by redox</article-title>. <source>J. Leukocyte Biol.</source>
+<volume>86</volume>, <fpage>577</fpage>&#x02013;<lpage>587</lpage>.<pub-id pub-id-type="pmid">19237640</pub-id></mixed-citation></ref><ref id="ref75"><mixed-citation publication-type="journal" id="cit75"><name><surname>Meghnani</surname><given-names>V.</given-names></name>; <name><surname>Vetter</surname><given-names>S. W.</given-names></name>; <name><surname>Leclerc</surname><given-names>E.</given-names></name> (<year>2014</year>) <article-title>RAGE overexpression confers a metastatic
+phenotype to the WM115 human primary melanoma cell line</article-title>. <source>Biochim. Biophys. Acta</source>
+<volume>1842</volume>, <fpage>1017</fpage>&#x02013;<lpage>1027</lpage>.<pub-id pub-id-type="pmid">24613454</pub-id></mixed-citation></ref></ref-list></back></article>

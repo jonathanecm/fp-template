@@ -14,7 +14,7 @@ full_corpus_path <- file.path(".", "data", "full_corpus") %>%
   list.files(full.names = TRUE, recursive = TRUE)
 
 # Takes a sample of files' names.
-sampled_files <- sample(full_corpus_path, 50)
+sampled_files <- sample(full_corpus_path, 130)
 files_names <- basename(sampled_files)
 
 # Creates a corpus of sampled files in the "corpus" directory. 

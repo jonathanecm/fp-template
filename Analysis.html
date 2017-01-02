@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Homework 6</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">My Website</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="Analysis.html">Analysis</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Homework 6</h1>
+<h4 class="author"><em><p>Camacho Jonathan<br />
+Computing for the Social Sciences<br />
+University of Chicago</p></em></h4>
+
+</div>
+
+
+<p>test</p>
+<pre class="r"><code># libraries
+source(&quot;./scripts/00_functions.R&quot;)</code></pre>
+<pre class="r"><code># Fiting data set for analysis.
+p_values_df &lt;- read.csv(&quot;./data/processed/tidy_p_values_df_full_set.csv&quot;) %&gt;%
+  filter((p.value &gt;= 0) &amp; (!is.na(p.value)))</code></pre>
+<pre class="r"><code>#Table
+p_values_df %&gt;% 
+  count(cut_width(p.value, 0.005, boundary = 0))</code></pre>
+<pre><code>## # A tibble: 10 × 2
+##    `cut_width(p.value, 0.005, boundary = 0)`     n
+##                                       &lt;fctr&gt; &lt;int&gt;
+## 1                                  [0,0.005] 40221
+## 2                               (0.005,0.01] 19462
+## 3                               (0.01,0.015]  7535
+## 4                               (0.015,0.02] 12827
+## 5                               (0.02,0.025]  5048
+## 6                               (0.025,0.03] 10368
+## 7                               (0.03,0.035]  4039
+## 8                               (0.035,0.04]  8600
+## 9                               (0.04,0.045]  3489
+## 10                              (0.045,0.05]  3130</code></pre>
+<pre class="r"><code># All p-values. 
+# Distribution of p-values with significan at p &lt;= 0.05.
+ggplot(p_values_df) +
+  geom_histogram(aes(p.value), binwidth = 0.002, na.rm = TRUE) +
+  labs(title = &quot;Distribution of significant p-values&quot;,  subtitle = &quot;Significace trhreshold &lt;= 0.05&quot;,
+       x = &quot;p-values&quot;,
+       y = &quot;Number of p-values&quot;)</code></pre>
+<p><img src="Analysis_files/figure-html/unnamed-chunk-4-1.png" width="672" /></p>
+<pre class="r"><code>ggsave(&quot;./plots/p_val_distribution.png&quot;, scale = 0.5)</code></pre>
+<pre><code>## Saving 3.5 x 2.5 in image</code></pre>
+<pre class="r"><code># Distribution of p-values by categories. 
+# Subsetting more common categories. 
+common_cat &lt;- p_values_df %&gt;%
+  select(Category, p.value) %&gt;%
+  group_by(Category) %&gt;%
+  count() %&gt;%
+  filter(n &gt; 2000) %&gt;% 
+  select(Category) 
+
+p_values_df_common_cat &lt;- filter(p_values_df,  Category %in% common_cat$Category) 
+
+
+# Average p-values 
+common_pval_avg &lt;- p_values_df_common_cat %&gt;%
+  group_by(Category) %&gt;%
+summarise(p_val_avg = mean(p.value))
+
+ggplot(p_values_df_common_cat) +
+  geom_freqpoly(aes(p.value, color = Category), bins = 30) +
+  labs(title = &quot;Distribution of significant p-values&quot;,  subtitle = &quot;Significace trhreshold &lt;= 0.05&quot;,
+       x = &quot;p-values&quot;,
+       y = &quot;Frequency&quot;)</code></pre>
+<p><img src="Analysis_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>
+<pre class="r"><code>ggsave(&quot;./plots/p_val_distribution.png&quot;, scale = 0.5)</code></pre>
+<pre><code>## Saving 3.5 x 2.5 in image</code></pre>
+<pre class="r"><code># Distribution of p-values by year of publication. 
+# Subsetting more common categories. 
+
+common_pub_year &lt;- p_values_df %&gt;%
+  select(pub_year, p.value) %&gt;%
+  group_by(pub_year) %&gt;%
+  select(pub_year, p.value) %&gt;% count()
+
+
+# Average p-values 
+ggplot(p_values_df) +
+  geom_bar(aes(pub_year), bins = 30) +
+  labs(title= &quot;Distribution of significant p-values&quot;,  subtitle = &quot;Significace trhreshold &lt;= 0.05&quot;,
+       x = &quot;p-values&quot;,
+       y = &quot;Frequency&quot;)</code></pre>
+<pre><code>## Warning: Ignoring unknown parameters: bins</code></pre>
+<p><img src="Analysis_files/figure-html/unnamed-chunk-6-1.png" width="672" /></p>
+<pre class="r"><code>ggsave(&quot;./plots/p_val_distribution.png&quot;, scale = 0.5)</code></pre>
+<pre><code>## Saving 3.5 x 2.5 in image</code></pre>
+<pre class="r"><code>ggplot(p_values_df) +
+  geom_bar(aes(section)) +
+  labs(title= &quot;Distribution of significant p-values&quot;,  subtitle = &quot;Significace trhreshold &lt;= 0.05&quot;,
+       x = &quot;p-values&quot;,
+       y = &quot;Frequency&quot;)</code></pre>
+<p><img src="Analysis_files/figure-html/unnamed-chunk-7-1.png" width="672" /></p>
+<pre class="r"><code>ggsave(&quot;./plots/p_val_distribution.png&quot;, scale = 0.5)</code></pre>
+<pre><code>## Saving 3.5 x 2.5 in image</code></pre>
+<pre class="r"><code>ggplot(p_values_df_common_cat) +
+  geom_freqpoly(aes(p.value, color = section), bins = 30) +
+  labs(title = &quot;Distribution of significant p-values&quot;,  subtitle = &quot;Significace trhreshold &lt;= 0.05&quot;,
+       x = &quot;p-values&quot;,
+       y = &quot;Frequency&quot;)</code></pre>
+<p><img src="Analysis_files/figure-html/unnamed-chunk-8-1.png" width="672" /></p>
+<pre class="r"><code>ggplot(p_values_df) +
+  geom_smooth(aes(x = p.value, y = num_authors)) +
+  labs(title = &quot;Distribution of significant p-values&quot;,  subtitle = &quot;Significace trhreshold &lt;= 0.05&quot;,
+       x = &quot;p-values&quot;,
+       y = &quot;Frequency&quot;)</code></pre>
+<pre><code>## `geom_smooth()` using method = &#39;gam&#39;</code></pre>
+<p><img src="Analysis_files/figure-html/unnamed-chunk-9-1.png" width="672" /></p>
+<pre class="r"><code># binomial test.
+results_df &lt;- p_values_df %&gt;%
+  filter((section == &quot;results&quot;) &amp; (p.value != &quot;NA&quot;) &amp; (p.value &lt; 0.05))
+
+abstracts_df &lt;- p_values_df %&gt;%
+  filter((section == &quot;abstract&quot;) &amp; (p.value != &quot;NA&quot;) &amp; (p.value &lt; 0.05))
+
+
+# binomial test all data.
+replications  &lt;- 1
+
+results.bias.test &lt;- bootstrap.binomial.bias.test(results_df, replications)
+abstracts.bias.test &lt;- bootstrap.binomial.bias.test(abstracts_df, replications)
+
+write.csv(results.bias.test, file=&quot;./data/processed/results_combined_data.csv&quot;)
+write.csv(abstracts.bias.test, file=&quot;./data/processed/abstracts_combined_data.csv&quot;)</code></pre>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

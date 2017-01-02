@@ -1,40 +1,97 @@
-# Loads corpus 
 
 
-tidy_p_values_df <- read.csv("./data/processed/tidy_p_values.csv") %>%
-  filter((p.values != "NA") & (p.values < 0.05))
+# libraries
+source("./scripts/00_functions.R")
 
-                                              
+# Fiting data set for analysis.
+p_values_df <- read.csv("./data/processed/tidy_p_values_df_full_set.csv") %>%
+  filter((p.value >= 0) & (!is.na(p.value)))
+
+# Exploratory analysis. ####
+
+# #Table
+# #p_values_df %>% 
+#   count(cut_width(p.value, 0.005, boundary = 0))
+
+
+ggplot(p_values_df) +
+  geom_histogram(aes(p.value), binwidth = 0.002, na.rm = TRUE) +
+  labs(title = "Distribution of significant p-values",  subtitle = "Significace trhreshold <= 0.05",
+       x = "p-values",
+       y = "Number of p-values")
+
+ggsave("./plots/p_val_distribution.png", scale = 0.5)
 
 
 
 
 
-## Text analysis
-# Frequency plot. 
-corpora_df %>%
-    count(word, sort = TRUE) %>%
-    filter(n > 200) %>%
-    mutate(word = reorder(word, n)) %>%
-    ggplot(aes(word, n, fill = word)) +
-    geom_bar(stat = "identity") +
-    labs(title = "Most frequent words", x = "Words", y = "Number of words") +
-    coord_flip() 
-    ggsave("./images/plot_1.png", height = 3, width = 5)
-  
-# Trasnforming corpora_df into a term-matrix corporta_dtm
-corpora_counts <- corpora_df %>%
-    count(id, word, sort = TRUE)
 
-corpora_dtm <- corpora_counts %>%
-    cast_dtm(id, word, n)
 
-corpora_dtm <- removeSparseTerms(corpora_dtm, 0.1)     # Eliminating sparse terms.   
 
-corpora_dtm
 
-# # Creating a wordcloud. 
-# freq <- sort(colSums(as.matrix(corpora_dtm)), decreasing=TRUE)
+
+
+
+
+results_df <- p_values_df %>%
+  filter((section == "result") & (p.values != "NA") & (p.values < 0.05) & (symbols == "="))
+
+abstracts_df <- p_values_df %>%
+  filter((section == "abstract") & (p.values != "NA") & (p.values < 0.05) & (symbols == "="))
+
+
+# binomial test all data.
+replications  <- 1
+
+results.bias.test <- bootstrap.binomial.bias.test(results_df, replications)
+abstracts.bias.test <- bootstrap.binomial.bias.test(abstracts_df, replications)
+
+write.csv(results.bias.test, file="./data/processed/results_combined_data.csv")
+write.csv(abstracts.bias.test, file="./data/processed/abstracts_combined_data.csv")
+
+# Binomial test by categories. 
+# categories_df <- p_values_df %>% 
+#   filter((p.values != "NA") & (p.values < 0.05) & (symbols == "=")) %>%
+#   group_by(pub_year)
+# 
+# bootstrap.binomial.bias.test(categories_df, replications)
+
+
+
+
+
+
+
+
+
+
+
+# ## Text analysis
+# # Frequency plot. 
+# corpora_df %>%
+#     count(word, sort = TRUE) %>%
+#     filter(n > 200) %>%
+#     mutate(word = reorder(word, n)) %>%
+#     ggplot(aes(word, n, fill = word)) +
+#     geom_bar(stat = "identity") +
+#     labs(title = "Most frequent words", x = "Words", y = "Number of words") +
+#     coord_flip() 
+#     ggsave("./images/plot_1.png", height = 3, width = 5)
+#   
+# # Trasnforming corpora_df into a term-matrix corporta_dtm
+# corpora_counts <- corpora_df %>%
+#     count(id, word, sort = TRUE)
+# 
+# corpora_dtm <- corpora_counts %>%
+#     cast_dtm(id, word, n)
+# 
+# corpora_dtm <- removeSparseTerms(corpora_dtm, 0.1)     # Eliminating sparse terms.   
+# 
+# corpora_dtm
+# 
+# # # Creating a wordcloud. 
+# # freq <- sort(colSums(as.matrix(corpora_dtm)), decreasing=TRUE)
 # 
 # png(filename="./images/wordcloud.png")
 # set.seed(123)
