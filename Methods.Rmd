@@ -1,0 +1,14 @@
+---
+title: "Methods"
+---
+For this final project, I created a script for the extraction of p-values from XML files from the open access papers available in the PubMed database at ftp://ftp.ncbi.nlm.nih.gov. Specifically, I accessed the files, articles.A-B.tar.gz, articles.C-H.tar.gz, articles.I-N.tar.gz and articles.O-Z.tar.gz on November the 14. Then files were extracted from the .gz format into their respective directories. 
+
+The full corpus of files were a sample of 100,000 files text-mined for information such as number of actors, journal names, article title, p-value operator, and publication year. This process of sampling and extraction took approximately 17 hours and was used to create the data set p_values_df_full_set.csv. which was used for the analysis. Other Scripts were created to conduct an exploratory data analysis of the  p-values’ reporting and p-hacking practices across categories and publication years. The categories were created merging the dataset with the p-values and the list of journals by categories created by the government of Australia (https://research.unsw.edu.au/excellence-research-australia-era-outlet-ranking) Finally; a binomial test was used for testing for p-hacking among categories. The binomial test was constructed following the study performed by Head, M. L., et al (2015). 
+
+I used a one-tailed sign test to test the hypothesis that the frequency of p-values in the bins 0.03 and 0.04 is similar. I did not use p = 0.05 because of more research that p-hacking are unlikely to set the p-value right at 0.05. This analysis also was created for each for each category.
+
+All the scripts were developed in RStudio 1.0.44 and R version 3.3.2 
+
+### Citations
+
+Head, M. L., Holman, L., Lanfear, R., Kahn, A. T., & Jennions, M. D. (2015). The Extent and Consequences of P-Hacking in Science. PLOS Biology, 13(3), e1002106–15. http://doi.org/10.1371/journal.pbio.1002106

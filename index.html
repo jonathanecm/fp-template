@@ -11,7 +11,7 @@
 
 
 
-<title>My Website</title>
+<title>Camacho Jonathan Final Project</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -179,7 +179,10 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li>
-  <a href="about.html">About</a>
+  <a href="Literature_review.html">Literature</a>
+</li>
+<li>
+  <a href="Methods.html">Methods</a>
 </li>
 <li>
   <a href="Analysis.html">Analysis</a>
@@ -196,12 +199,16 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">My Website</h1>
+<h1 class="title toc-ignore">Camacho Jonathan Final Project</h1>
 
 </div>
 
 
-<p>Hello, Website! Testy</p>
+<p>This site was created as a final project for the course MACS 30500 - Computing for the Social Sciences at the University of Chicago, during the Fall quarter of 2016.</p>
+<p>The main purpose of this project was the creating a script to extract p-values from nXML files in R programming language. Currently, there are scripts with the capability to extract p-values form XML. For example, the script “ZENODO” (<a href="https://zenodo.org/record/13147#.WGvjEbGZNFQ" class="uri">https://zenodo.org/record/13147#.WGvjEbGZNFQ</a>) has been used in several research projects as main tool for p-value extractions. However, the script was programmed in Python 2.7 which is already an aging version of the programming language.</p>
+<p>Similarly, in R language there are packages such as Statcheck (<a href="https://cran.r-project.org/web/packages/statcheck/index.html" class="uri">https://cran.r-project.org/web/packages/statcheck/index.html</a>) that can extract different statistics from articles and recalculate p-values. Nevertheless, this package is no longer compatible with newer versions of R Studio, for example Version 1.0.44, and requires text files in order to perform the p-value extraction. Furthermore, the package Statcheck focuses on the recalculation of p-values, which makes the isolation of the p-value a cumbersome task.</p>
+<p>Thus, for this final project, I created a script for the extraction of p-values from XML files. Then, I conducted an exploratory analysis and a binomial test for checking for p-values. I hypothesize that the frequency of p-values in the bins just below the threshold p= 0.05 will be the similar and the frequency of p-values will increase as the p-value approaches 0.01. This test assumes that there is a true effect, thus the p-curve is exponentially growing approaching 0.01.</p>
+<p>For an interactive app using this data and analysis go to <a href="https://jonathanecm.shinyapps.io/shiny_app/" class="uri">https://jonathanecm.shinyapps.io/shiny_app/</a></p>
 
 
 

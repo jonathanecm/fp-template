@@ -5,7 +5,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Literature"
+      href: Literature_review.html
+    - text: "Methods"
+      href: Methods.html
     - text: "Analysis"
       href: Analysis.html
+      

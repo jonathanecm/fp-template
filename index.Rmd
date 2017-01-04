@@ -1,5 +1,13 @@
 ---
-title: "My Website"
+title: "Camacho Jonathan Final Project"
 ---
 
-Hello, Website! Testy
+This site was created as a final project for the course MACS 30500 - Computing for the Social Sciences at the University of Chicago, during the Fall quarter of 2016. 
+
+The main purpose of this project was the creating a script to extract p-values from nXML files in R programming language. Currently, there are scripts with the capability to extract p-values form XML. For example, the script “ZENODO” (https://zenodo.org/record/13147#.WGvjEbGZNFQ) has been used in several research projects as main tool for p-value extractions. However, the script was programmed in Python 2.7 which is already an aging version of the programming language. 
+
+Similarly, in R language there are packages such as Statcheck (https://cran.r-project.org/web/packages/statcheck/index.html) that can extract different statistics from articles and recalculate p-values. Nevertheless, this package is no longer compatible with newer versions of R Studio, for example Version 1.0.44, and requires text files in order to perform the p-value extraction. Furthermore, the package Statcheck focuses on the recalculation of p-values, which makes the isolation of the p-value a cumbersome task. 
+
+Thus, for this final project, I created a script for the extraction of p-values from XML files. Then, I conducted an exploratory analysis and a binomial test for checking for p-values. I hypothesize that the frequency of p-values in the bins just below the threshold p= 0.05 will be the similar and the frequency of p-values will increase as the p-value approaches 0.01. This test assumes that there is a true effect, thus the p-curve is exponentially growing approaching 0.01.
+
+For an interactive app using this data and analysis go to https://jonathanecm.shinyapps.io/shiny_app/

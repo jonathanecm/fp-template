@@ -1,26 +1,28 @@
+##############################################
 # COMPUTING FOR THE SOCIAL SCIENCES
 # FINAL PROJECT 
 # Camacho Jonathan E.
+##############################################
+# Extracts p-values from abstract or results 
+# section, abbreviated journal name, number of 
+# authors, article title, symbols or operator, 
+# and publication year. 
+# "./data/sampled_corpus" folder 
+# *** THIS SCRIPT IS NOT IMPLEMENTE FOR THE ***
+#     ANALYSIS BECAUSE THE FULL CORPUS WAS NOT
+#     UPLOADED TO THE REMORE REPOSITORY BECAUSE
+#     IT SIZE ON DISK: 107.52 GB.
+##############################################
 
-# Notes ####
-# Extractor:
-# This script #### 
-# Use the R studio "Show document outline" functionality to see the script structure. 
-#####
-
-
-
-
-
-# Libraries ####
+# Libraries
 library(tm)
 library(tidyverse)
 library(tidytext)
 library(XML)
 library(stringr)
-source("./scripts/00_functions.R")
+source("./scripts/00_functions.R") # Call to functions script. 
 
-# Variables #### 
+# Variables 
 files <- list.files("./data/sampled_corpus", full.names = TRUE)
 autors_number_vec <- vector()
 section_vec <- vector()
@@ -32,6 +34,7 @@ title_vec <- vector()
 subject_vec <- vector() 
 abbrev_journal_name_vec <- vector()
 
+# Variable with possible results section titles. 
 possible_titles <- c('results', 'results and discussion', 'methods and results', 'results and discussions',
                      'results, discussion and conclusions', 'discussion and results',
                      'study results', 'results and conclusions', 'results and conclusion',
@@ -43,29 +46,28 @@ possible_titles <- c('results', 'results and discussion', 'methods and results',
                      'method and results')
 
 
-# extract P-values and other information form the nXML file. 
-for (i in seq_along(files)){
+for (i in seq_along(files)){                      # Iterates over corpus. 
   
   content <- xmlTreeParse(files[i]) 
-  if (!is.null(content$doc$children$article)) {
-    body_sections <- getNodeSet(content$doc$children$article, "//sec")
+  
+  if (!is.null(content$doc$children$article)) {   # Checks that xXML article section is not NULL.   
     
-    closeAllConnections() # Fixes the xmlValue bug related to too many textConnections opened. 
-    for (j in seq_along(body_sections)){
+    body_sections <- getNodeSet(content$doc$children$article, "//sec")  # Extracts nXML section to process.
+    closeAllConnections()                         # Fixes the xmlValue bug related to too many textConnections opened. 
+    
+    for (j in seq_along(body_sections)){          # Iterates over extracted nXML section. 
+      
       section_title <- getNodeSet(body_sections[[j]][["title"]], "//title")
       
+      # Calls to text_clarifier function for clarifying section title. 
       clarified_titles_vec <- text_clarifier(xmlValue(section_title[[1]], recursive = FALSE))
       
-      if (length(clarified_titles_vec) > 0) {
-        #print(clarified_titles_vec)
-        if (clarified_titles_vec %in% possible_titles) {
-          #browser()
+      if (length(clarified_titles_vec) > 0) {     # Checks that clarified section is not NULL.
+    
+        if (clarified_titles_vec %in% possible_titles) {  # Determines if is result section.   
+
           section <- getNodeSet(body_sections[[j]], "/sec")
           section_vec <- append(section_vec, xmlValue(section[[1]])) # Extracts result section. 
-          
-          # Extract journal name.
-          #journal <- getNodeSet(content$doc$children$article, "//journal-title")
-          #journal_vec <- append(journal_vec, xmlValue(journal[[1]])) # Extracts result section. 
           
           # Extract abbreviated journal name. 
           abbrev_journal_name <- getNodeSet(content$doc$children$article, "//journal-id[@journal-id-type='iso-abbrev']")
@@ -75,7 +77,7 @@ for (i in seq_along(files)){
             abbrev_journal_name_vec <- append(abbrev_journal_name_vec, "NA")
           }
           
-          # Extract abtract.
+          # Extract abstract.
           abstract <- getNodeSet(content$doc$children$article, "//abstract")
           if (!is_empty(abstract)) {
             abstract_vec <- append(abstract_vec, xmlValue(abstract[[1]]))
@@ -91,23 +93,11 @@ for (i in seq_along(files)){
             title_vec <- append(title_vec, "NA")
           }
           
-         
-          
-          
-          
-          # Extract subject. 
-          # subject <- getNodeSet(content$doc$children$article, "//subject")
-          # if (!is_empty(subject)) {
-          #   subject_vec <- append(subject_vec, xmlValue(subject[[1]]))
-          # } else {
-          #   subject_vec <- append(subject_vec, "NA")
-          # }
-          
-          # Number of authors.
+          # Extract Number of authors.
           autors <- length(getNodeSet(content$doc$children$article, "//contrib")) 
           autors_number_vec <- append(autors_number_vec, autors)
           
-          # Get year of publication
+          # Gets year of publication.
           pub_year <- getNodeSet(content$doc$children$article[["front"]][["article-meta"]][["pub-date"]], "//year")
           pub_year_vec <- append(pub_year_vec, xmlValue(pub_year[[1]]))
           
@@ -116,14 +106,14 @@ for (i in seq_along(files)){
       }
     } 
   }
-  
+  print("Percent of files processed:")
   print(i/length(files) * 100)
 }
 
-
 # Extract p-values and symbols into a data frame. 
-p_remover <- function (x) gsub("[Pp]", "", x) # removes p from the string 
+p_remover <- function (x) gsub("[Pp]", "", x) # removes the p character from the string. 
 
+# Extract p-values from result section and removes unwanted character and white spaces from p-value. 
 regexp <- "[Pp][\\s]*[=<>≤≥][\\s]*[01]?[.][\\d]+"
 p_values_vec <- as.vector(str_extract(section_vec, regexp)) %>%
   map_chr(p_remover) %>% 
@@ -131,41 +121,29 @@ p_values_vec <- as.vector(str_extract(section_vec, regexp)) %>%
   stripWhitespace() %>%
   str_replace_all(" ", "") 
 
-# symbols <- str_extract(p_values_vec, "[=<>≤≥]") 
-# 
-# p_values_df <- p_values_vec %>% 
-#   as_tibble() %>%
-#   separate(value, c("symbol", "p_value"), sep = "[=<>≤≥]") 
-
-# # Extractig p-values form abstracts
+# # Extractig p-values form abstracts and removes unwanted character and white spaces from p-value.
 regexp <- "[Pp][\\s]*[=<>≤≥][\\s]*[01]?[.][\\d]+"
 abstract_p_val_vec  <- as.vector(str_extract(abstract_vec, regexp)) %>%
   map_chr(p_remover) %>%
   str_replace_all(" ", "") %>%
   stripWhitespace() %>%
   str_replace_all(" ", "")
-# 
-# symbols <- str_extract(abstract_p_val_vec, "[=<>≤≥]") 
-# 
-# abstract_p_val_df <- abstract_p_val_vec %>% 
-#   as_tibble() %>%
-#   separate(value, c("symbol", "p_value"), sep = "[=<>≤≥]") 
 
-
-# create data frame. ####
+# Create data frame for extracted information.
 p_values_df <- tibble(p_values_vec, abstract_p_val_vec, autors_number_vec, 
                       pub_year_vec, title_vec, abbrev_journal_name_vec)
 
 names(p_values_df) <- c("result", "abstract", "num_authors", 
                         "pub_year", "title", "abbrev_journal_name")  
 
+# Removes operator from p-values.
 symbols_remover <- function (x) gsub("[=<>≤≥]", "", x)
 p_values_df <-p_values_df %>% 
   gather(`result`, `abstract`, key = "section", value = "p-values") %>%
   mutate(symbols = str_extract(`p-values`, "[=<>≤≥]"), 
         `p-values` = as.double(map_chr(`p-values`, symbols_remover)))
 
-# safe data frame.
+# save data frame.
 write.csv(p_values_df, "./data/raw/p-values_df.csv")
 
 

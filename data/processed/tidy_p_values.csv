@@ -1,0 +1,127 @@
+"","num_authors","pub_year","title","abbrev_journal_name","section","p.values","symbols","FoR1","FoRCode","Category"
+"1",3,2007,"AIDS_Res_Ther_2007_Nov_29_4_28.nxml",NA,"result",0.79,"=",NA,NA,NA
+"2",2,2016,"Anesth_Essays_Res_2016_May-Aug_10(2)_301-304.nxml","Anesth Essays Res","result",NA,NA,NA,NA,NA
+"3",7,2014,"Ann_Oncol_2014_Jun_31_25(6)_1116-1121.nxml","Ann. Oncol","result",0.0049,"=",NA,NA,NA
+"4",9,2015,"Ann_Surg_Treat_Res_2015_Feb_27_88(2)_55-62.nxml","Ann Surg Treat Res","result",0.004,"=","Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"5",2,2016,"Appl_Plant_Sci_2016_Nov_3_4(11)_apps_1600084.nxml","Appl Plant Sci","result",0.001,"<",NA,NA,NA
+"6",6,2011,"Arthritis_Res_Ther_2011_Nov_16_13(6)_R185.nxml","Arthritis Res. Ther","result",0.001,"=",NA,NA,NA
+"7",12,2015,"Biochemistry_2014_Oct_28_53(42)_6628-6640.nxml","Biochemistry","result",0.001,"=","Biochemistry And Cell Biology","Biological sciences","Biochemistry And Cell Biology"
+"8",16,2016,"BMC_Infect_Dis_2016_Oct_3_16_533.nxml","BMC Infect. Dis","result",0.01,"<",NA,NA,NA
+"9",6,2014,"BMC_Musculoskelet_Disord_2014_Sep_20_15_308.nxml","BMC Musculoskelet Disord","result",NA,NA,"Clinical Sciences","Medical and health sciences","Medical And Health Sciences"
+"10",6,2016,"BMC_Pregnancy_Childbirth_2016_Jun_1_16_127.nxml","BMC Pregnancy Childbirth","result",NA,NA,"Paediatrics And Reproductive Medicine","Medical and health sciences","Medical And Health Sciences"
+"11",8,2009,"BMC_Public_Health_2009_Jan_22_9_30.nxml",NA,"result",NA,NA,NA,NA,NA
+"12",7,2005,"Br_J_Cancer_2005_Nov_28_93(11)_1305-1306.nxml",NA,"result",0.3,"=",NA,NA,NA
+"13",13,2016,"Cancer_2016_Oct_15_122(20)_3225-3231.nxml","Cancer","result",0.001,"=","Oncology And Carcinogenesis","Medical and health sciences","Medical And Health Sciences"
+"14",8,2015,"Cancer_Cell_Int_2015_Mar_7_15_29.nxml","Cancer Cell Int","result",NA,NA,"Biochemistry And Cell Biology","Biological sciences","Biochemistry And Cell Biology"
+"15",8,2014,"Cancer_Imaging_2014_Oct_9_14(Suppl_1)_S11.nxml","Cancer Imaging","result",NA,NA,NA,NA,NA
+"16",9,2014,"Chest_2014_Dec_3_146(6)_1494-1504.nxml","Chest","result",0.001,"<","Clinical Sciences","Medical and health sciences","Medical And Health Sciences"
+"17",8,2016,"Clin_Exp_Otorhinolaryngol_2016_Dec_18_9(4)_346-351.nxml","Clin Exp Otorhinolaryngol","result",NA,NA,"Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"18",6,2015,"Drug_Des_Devel_Ther_2015_Sep_24_9_5159-5168.nxml","Drug Des Devel Ther","result",NA,NA,"Pharmacology And Pharmaceutical Sciences","Medical and health sciences","Pharmacology And Pharmaceutical Sciences"
+"19",6,2013,"Environ_Health_Perspect_2013_May_12_121(5)_594-599.nxml","Environ. Health Perspect","result",0.05,"<",NA,NA,NA
+"20",3,2013,"Eplasty_2013_Sep_16_13_e48.nxml","Eplasty","result",NA,NA,NA,NA,NA
+"21",6,2012,"Genet_Mol_Biol_2012_Feb_3_Jan-Mar_35(1)_142-148.nxml","Genet. Mol. Biol","result",NA,NA,NA,NA,NA
+"22",10,2013,"Head_Face_Med_2013_Aug_23_9_23.nxml","Head Face Med","result",NA,NA,"Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"23",27,2010,"Hum_Genet_2011_Feb_9_129(2)_129-139.nxml",NA,"result",0.0236,"=",NA,NA,NA
+"24",11,2014,"Hum_Mol_Genet_2014_Jun_1_23(11)_3035-3044.nxml","Hum. Mol. Genet","result",NA,NA,NA,NA,NA
+"25",5,2012,"Indian_J_Anaesth_2012_Nov-Dec_56(6)_553-557.nxml","Indian J Anaesth","result",0.05,"<","Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"26",11,2010,"Int_J_Biol_Sci_2010_Sep_10_6(5)_513-524.nxml",NA,"result",NA,NA,NA,NA,NA
+"27",9,2015,"Int_J_Nanomedicine_2015_Feb_20_10_1505-1519.nxml","Int J Nanomedicine","result",NA,NA,"Nanotechnology","Technology","Informatics, mathematics and physics"
+"28",3,2013,"Iran_J_Public_Health_2013_Jan_1_42(1)_48-55.nxml","Iran. J. Public Health","result",0.27,"=",NA,NA,NA
+"29",2,2010,"J_Int_AIDS_Soc_2010_Apr_22_13_16.nxml","J Int AIDS Soc","result",NA,NA,"Other Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"30",4,2010,"J_Neuroinflammation_2010_Jul_12_7_38.nxml",NA,"result",NA,NA,NA,NA,NA
+"31",5,2014,"Korean_Circ_J_2014_Nov_25_44(6)_386-393.nxml","Korean Circ J","result",0.001,"<","Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"32",8,2014,"Korean_J_Pediatr_2014_Oct_31_57(10)_440-444.nxml","Korean J Pediatr","result",0.001,"=","Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"33",8,2014,"Korean_J_Urol_2014_Feb_14_55(2)_140-144.nxml","Korean J Urol","result",NA,NA,"Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"34",12,2013,"Malar_J_2013_Mar_20_12_107.nxml","Malar. J","result",NA,NA,NA,NA,NA
+"35",8,2013,"Mikrochim_Acta_2013_Jun_29_180(7-8)_675-685.nxml","Mikrochim Acta","result",NA,NA,NA,NA,NA
+"36",5,2011,"Nanoscale_Res_Lett_2011_May_18_6(1)_390.nxml",NA,"result",NA,NA,NA,NA,NA
+"37",9,2014,"Nat_Commun_2014_Aug_12_5_4611.nxml","Nat Commun","result",NA,NA,"Multidisciplinary","Multidisciplinary","Multidisciplinary"
+"38",5,2014,"Neuropsychiatr_Dis_Treat_2014_Nov_10_10_2115-2121.nxml","Neuropsychiatr Dis Treat","result",0.001,"=","Clinical Sciences","Medical and health sciences","Medical And Health Sciences"
+"39",6,2013,"Patient_Saf_Surg_2013_Jan_21_7_4.nxml","Patient Saf Surg","result",NA,NA,"Clinical Sciences","Medical and health sciences","Medical And Health Sciences"
+"40",9,2008,"PLoS_ONE_2008_Oct_6_3(10)_e3347.nxml",NA,"result",0.22,"=",NA,NA,NA
+"41",9,2009,"PLoS_One_2009_Dec_30_4(12)_e8495.nxml",NA,"result",0.0199,"=",NA,NA,NA
+"42",7,2010,"PLoS_One_2010_Nov_9_5(11)_e13891.nxml",NA,"result",0.05,">",NA,NA,NA
+"43",5,2012,"PLoS_One_2012_Aug_29_7(8)_e44131.nxml","PLoS ONE","result",0.05,"<",NA,NA,NA
+"44",7,2012,"PLoS_One_2012_Mar_7_7(3)_e32539.nxml",NA,"result",0.05,">",NA,NA,NA
+"45",6,2013,"PLoS_One_2013_Feb_27_8(2)_e56503.nxml","PLoS ONE","result",0.01,"<",NA,NA,NA
+"46",7,2013,"PLoS_One_2013_Jan_30_8(1)_e54784.nxml","PLoS ONE","result",0.01,"<",NA,NA,NA
+"47",13,2013,"PLoS_One_2013_Jun_24_8(6)_e66816.nxml","PLoS ONE","result",0.05,"<",NA,NA,NA
+"48",8,2014,"PLoS_One_2014_Aug_25_9(8)_e105788.nxml","PLoS ONE","result",NA,NA,NA,NA,NA
+"49",7,2014,"PLoS_One_2014_Dec_1_9(12)_e113538.nxml","PLoS ONE","result",NA,NA,NA,NA,NA
+"50",3,2014,"PLoS_One_2014_Dec_11_9(12)_e114872.nxml","PLoS ONE","result",NA,NA,NA,NA,NA
+"51",10,2014,"PLoS_One_2014_Dec_29_9(12)_e115687.nxml","PLoS ONE","result",0.01,"<",NA,NA,NA
+"52",8,2015,"PLoS_One_2015_Apr_22_10(4)_e0125186.nxml","PLoS ONE","result",0.05,">",NA,NA,NA
+"53",7,2015,"PLoS_One_2015_Aug_7_10(8)_e0134915.nxml","PLoS ONE","result",0.01,"<",NA,NA,NA
+"54",11,2015,"PLoS_One_2015_Feb_23_10(2)_e0118391.nxml","PLoS ONE","result",0.01,"<",NA,NA,NA
+"55",7,2015,"PLoS_One_2015_May_14_10(5)_e0126992.nxml","PLoS ONE","result",0.05,"<",NA,NA,NA
+"56",6,2015,"PLoS_One_2015_Oct_14_10(10)_e0140423.nxml","PLoS ONE","result",0.01,"<",NA,NA,NA
+"57",7,2015,"PLoS_One_2015_Oct_2_10(10)_e0139569.nxml","PLoS ONE","result",0.05,"<",NA,NA,NA
+"58",6,2015,"PLoS_One_2015_Sep_15_10(9)_e0137427.nxml","PLoS ONE","result",NA,NA,NA,NA,NA
+"59",7,2015,"PLoS_One_2015_Sep_18_10(9)_e0138632.nxml","PLoS ONE","result",0.001,"<",NA,NA,NA
+"60",7,2014,"Reprod_Biol_Endocrinol_2014_Jul_5_12_59.nxml","Reprod. Biol. Endocrinol","result",0.001,"=",NA,NA,NA
+"61",10,2016,"Sci_Rep_2016_Apr_21_6_24763.nxml","Sci Rep","result",NA,NA,"Information And Computing Sciences","Information and computing sciences","Computer sciences"
+"62",6,2016,"Sci_Rep_2016_Feb_22_6_21091.nxml","Sci Rep","result",NA,NA,"Information And Computing Sciences","Information and computing sciences","Computer sciences"
+"63",7,2016,"Sci_Rep_2016_Feb_4_6_20469.nxml","Sci Rep","result",0,"=","Information And Computing Sciences","Information and computing sciences","Computer sciences"
+"64",3,2007,"AIDS_Res_Ther_2007_Nov_29_4_28.nxml",NA,"abstract",NA,NA,NA,NA,NA
+"65",2,2016,"Anesth_Essays_Res_2016_May-Aug_10(2)_301-304.nxml","Anesth Essays Res","abstract",NA,NA,NA,NA,NA
+"66",7,2014,"Ann_Oncol_2014_Jun_31_25(6)_1116-1121.nxml","Ann. Oncol","abstract",NA,NA,NA,NA,NA
+"67",9,2015,"Ann_Surg_Treat_Res_2015_Feb_27_88(2)_55-62.nxml","Ann Surg Treat Res","abstract",0.004,"=","Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"68",2,2016,"Appl_Plant_Sci_2016_Nov_3_4(11)_apps_1600084.nxml","Appl Plant Sci","abstract",NA,NA,NA,NA,NA
+"69",6,2011,"Arthritis_Res_Ther_2011_Nov_16_13(6)_R185.nxml","Arthritis Res. Ther","abstract",0.001,"=",NA,NA,NA
+"70",12,2015,"Biochemistry_2014_Oct_28_53(42)_6628-6640.nxml","Biochemistry","abstract",NA,NA,"Biochemistry And Cell Biology","Biological sciences","Biochemistry And Cell Biology"
+"71",16,2016,"BMC_Infect_Dis_2016_Oct_3_16_533.nxml","BMC Infect. Dis","abstract",0.01,"<",NA,NA,NA
+"72",6,2014,"BMC_Musculoskelet_Disord_2014_Sep_20_15_308.nxml","BMC Musculoskelet Disord","abstract",NA,NA,"Clinical Sciences","Medical and health sciences","Medical And Health Sciences"
+"73",6,2016,"BMC_Pregnancy_Childbirth_2016_Jun_1_16_127.nxml","BMC Pregnancy Childbirth","abstract",NA,NA,"Paediatrics And Reproductive Medicine","Medical and health sciences","Medical And Health Sciences"
+"74",8,2009,"BMC_Public_Health_2009_Jan_22_9_30.nxml",NA,"abstract",NA,NA,NA,NA,NA
+"75",7,2005,"Br_J_Cancer_2005_Nov_28_93(11)_1305-1306.nxml",NA,"abstract",NA,NA,NA,NA,NA
+"76",13,2016,"Cancer_2016_Oct_15_122(20)_3225-3231.nxml","Cancer","abstract",0.001,"=","Oncology And Carcinogenesis","Medical and health sciences","Medical And Health Sciences"
+"77",8,2015,"Cancer_Cell_Int_2015_Mar_7_15_29.nxml","Cancer Cell Int","abstract",NA,NA,"Biochemistry And Cell Biology","Biological sciences","Biochemistry And Cell Biology"
+"78",8,2014,"Cancer_Imaging_2014_Oct_9_14(Suppl_1)_S11.nxml","Cancer Imaging","abstract",NA,NA,NA,NA,NA
+"79",9,2014,"Chest_2014_Dec_3_146(6)_1494-1504.nxml","Chest","abstract",0.001,"<","Clinical Sciences","Medical and health sciences","Medical And Health Sciences"
+"80",8,2016,"Clin_Exp_Otorhinolaryngol_2016_Dec_18_9(4)_346-351.nxml","Clin Exp Otorhinolaryngol","abstract",NA,NA,"Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"81",6,2015,"Drug_Des_Devel_Ther_2015_Sep_24_9_5159-5168.nxml","Drug Des Devel Ther","abstract",NA,NA,"Pharmacology And Pharmaceutical Sciences","Medical and health sciences","Pharmacology And Pharmaceutical Sciences"
+"82",6,2013,"Environ_Health_Perspect_2013_May_12_121(5)_594-599.nxml","Environ. Health Perspect","abstract",NA,NA,NA,NA,NA
+"83",3,2013,"Eplasty_2013_Sep_16_13_e48.nxml","Eplasty","abstract",NA,NA,NA,NA,NA
+"84",6,2012,"Genet_Mol_Biol_2012_Feb_3_Jan-Mar_35(1)_142-148.nxml","Genet. Mol. Biol","abstract",NA,NA,NA,NA,NA
+"85",10,2013,"Head_Face_Med_2013_Aug_23_9_23.nxml","Head Face Med","abstract",NA,NA,"Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"86",27,2010,"Hum_Genet_2011_Feb_9_129(2)_129-139.nxml",NA,"abstract",0.001,"<",NA,NA,NA
+"87",11,2014,"Hum_Mol_Genet_2014_Jun_1_23(11)_3035-3044.nxml","Hum. Mol. Genet","abstract",NA,NA,NA,NA,NA
+"88",5,2012,"Indian_J_Anaesth_2012_Nov-Dec_56(6)_553-557.nxml","Indian J Anaesth","abstract",NA,NA,"Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"89",11,2010,"Int_J_Biol_Sci_2010_Sep_10_6(5)_513-524.nxml",NA,"abstract",NA,NA,NA,NA,NA
+"90",9,2015,"Int_J_Nanomedicine_2015_Feb_20_10_1505-1519.nxml","Int J Nanomedicine","abstract",NA,NA,"Nanotechnology","Technology","Informatics, mathematics and physics"
+"91",3,2013,"Iran_J_Public_Health_2013_Jan_1_42(1)_48-55.nxml","Iran. J. Public Health","abstract",NA,NA,NA,NA,NA
+"92",2,2010,"J_Int_AIDS_Soc_2010_Apr_22_13_16.nxml","J Int AIDS Soc","abstract",NA,NA,"Other Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"93",4,2010,"J_Neuroinflammation_2010_Jul_12_7_38.nxml",NA,"abstract",NA,NA,NA,NA,NA
+"94",5,2014,"Korean_Circ_J_2014_Nov_25_44(6)_386-393.nxml","Korean Circ J","abstract",0.001,"<","Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"95",8,2014,"Korean_J_Pediatr_2014_Oct_31_57(10)_440-444.nxml","Korean J Pediatr","abstract",0.001,"=","Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"96",8,2014,"Korean_J_Urol_2014_Feb_14_55(2)_140-144.nxml","Korean J Urol","abstract",NA,NA,"Medical And Health Sciences","Medical and health sciences","Medical And Health Sciences"
+"97",12,2013,"Malar_J_2013_Mar_20_12_107.nxml","Malar. J","abstract",NA,NA,NA,NA,NA
+"98",8,2013,"Mikrochim_Acta_2013_Jun_29_180(7-8)_675-685.nxml","Mikrochim Acta","abstract",NA,NA,NA,NA,NA
+"99",5,2011,"Nanoscale_Res_Lett_2011_May_18_6(1)_390.nxml",NA,"abstract",NA,NA,NA,NA,NA
+"100",9,2014,"Nat_Commun_2014_Aug_12_5_4611.nxml","Nat Commun","abstract",NA,NA,"Multidisciplinary","Multidisciplinary","Multidisciplinary"
+"101",5,2014,"Neuropsychiatr_Dis_Treat_2014_Nov_10_10_2115-2121.nxml","Neuropsychiatr Dis Treat","abstract",0.001,"=","Clinical Sciences","Medical and health sciences","Medical And Health Sciences"
+"102",6,2013,"Patient_Saf_Surg_2013_Jan_21_7_4.nxml","Patient Saf Surg","abstract",NA,NA,"Clinical Sciences","Medical and health sciences","Medical And Health Sciences"
+"103",9,2008,"PLoS_ONE_2008_Oct_6_3(10)_e3347.nxml",NA,"abstract",NA,NA,NA,NA,NA
+"104",9,2009,"PLoS_One_2009_Dec_30_4(12)_e8495.nxml",NA,"abstract",NA,NA,NA,NA,NA
+"105",7,2010,"PLoS_One_2010_Nov_9_5(11)_e13891.nxml",NA,"abstract",NA,NA,NA,NA,NA
+"106",5,2012,"PLoS_One_2012_Aug_29_7(8)_e44131.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"107",7,2012,"PLoS_One_2012_Mar_7_7(3)_e32539.nxml",NA,"abstract",NA,NA,NA,NA,NA
+"108",6,2013,"PLoS_One_2013_Feb_27_8(2)_e56503.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"109",7,2013,"PLoS_One_2013_Jan_30_8(1)_e54784.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"110",13,2013,"PLoS_One_2013_Jun_24_8(6)_e66816.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"111",8,2014,"PLoS_One_2014_Aug_25_9(8)_e105788.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"112",7,2014,"PLoS_One_2014_Dec_1_9(12)_e113538.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"113",3,2014,"PLoS_One_2014_Dec_11_9(12)_e114872.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"114",10,2014,"PLoS_One_2014_Dec_29_9(12)_e115687.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"115",8,2015,"PLoS_One_2015_Apr_22_10(4)_e0125186.nxml","PLoS ONE","abstract",0.05,"<",NA,NA,NA
+"116",7,2015,"PLoS_One_2015_Aug_7_10(8)_e0134915.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"117",11,2015,"PLoS_One_2015_Feb_23_10(2)_e0118391.nxml","PLoS ONE","abstract",0.01,"<",NA,NA,NA
+"118",7,2015,"PLoS_One_2015_May_14_10(5)_e0126992.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"119",6,2015,"PLoS_One_2015_Oct_14_10(10)_e0140423.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"120",7,2015,"PLoS_One_2015_Oct_2_10(10)_e0139569.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"121",6,2015,"PLoS_One_2015_Sep_15_10(9)_e0137427.nxml","PLoS ONE","abstract",NA,NA,NA,NA,NA
+"122",7,2015,"PLoS_One_2015_Sep_18_10(9)_e0138632.nxml","PLoS ONE","abstract",0.001,"<",NA,NA,NA
+"123",7,2014,"Reprod_Biol_Endocrinol_2014_Jul_5_12_59.nxml","Reprod. Biol. Endocrinol","abstract",0.001,"=",NA,NA,NA
+"124",10,2016,"Sci_Rep_2016_Apr_21_6_24763.nxml","Sci Rep","abstract",NA,NA,"Information And Computing Sciences","Information and computing sciences","Computer sciences"
+"125",6,2016,"Sci_Rep_2016_Feb_22_6_21091.nxml","Sci Rep","abstract",NA,NA,"Information And Computing Sciences","Information and computing sciences","Computer sciences"
+"126",7,2016,"Sci_Rep_2016_Feb_4_6_20469.nxml","Sci Rep","abstract",NA,NA,"Information And Computing Sciences","Information and computing sciences","Computer sciences"

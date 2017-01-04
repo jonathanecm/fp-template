@@ -1,17 +1,21 @@
-
+###############################################################
+# COMPUTING FOR THE SOCIAL SCIENCES
+# FINAL PROJECT 
+# Camacho Jonathan E.
+###############################################################
+# This script contains a series of helper functions:
+# text_clarifier: Clarifies text.
+# bootstrap.binomial.bias.test: Carries out a binomial test
+# binomial.bias.test: Creates the limits for the binomial test
+###############################################################
 
 # libraries
+#library(RColorBrewer)
 source("./scripts/00_functions.R")
 
 # Fiting data set for analysis.
 p_values_df <- read.csv("./data/processed/tidy_p_values_df_full_set.csv") %>%
   filter((p.value >= 0) & (!is.na(p.value)))
-
-# Exploratory analysis. ####
-
-# #Table
-# #p_values_df %>% 
-#   count(cut_width(p.value, 0.005, boundary = 0))
 
 
 ggplot(p_values_df) +
@@ -20,29 +24,73 @@ ggplot(p_values_df) +
        x = "p-values",
        y = "Number of p-values")
 
-ggsave("./plots/p_val_distribution.png", scale = 0.5)
+ggsave("./plots/p_val_distribution.png", scale = 1)
 
 
+# Distribution of p-values by categories. 
+# Subsetting more common categories. 
+common_cat <- p_values_df %>%
+  select(Category, p.value) %>%
+  group_by(Category) %>%
+  count() %>%
+  filter(n > 2000) %>% 
+  select(Category) 
+
+p_values_df_common_cat <- filter(p_values_df,  Category %in% common_cat$Category) 
+
+ggplot(p_values_df_common_cat) +
+  geom_freqpoly(aes(p.value, color = Category), bins = 30) +
+  labs(title = "Distribution of p-values by categories",  subtitle = "Significace trhreshold <= 0.05",
+       x = "p-values",
+       y = "Frequency")
+
+ggsave("./plots/p_val_cat_distribution.png", scale = 1)
 
 
+# Distribution of p-values by year of publication. 
+common_pub_year <- p_values_df %>%
+  select(pub_year, p.value) %>%
+  group_by(pub_year) %>%
+  select(pub_year, p.value) %>% count()
+
+ggplot(p_values_df) +
+  geom_bar(aes(pub_year)) +
+  labs(title= "P-values by Year of Publication ",
+       x = "Year of Publication",
+       y = "Frequency")
+
+ggsave("./plots/p_val_year_distribution.png", scale = 1)
+
+# P-values by section (abstract or results)
+ggplot(p_values_df) +
+  geom_bar(aes(section)) +
+  labs(title= "P-values by Section (Abstract or Result)",
+       x = "p-values",
+       y = "Frequency")
+
+ggsave("./plots/p_val_section_distribution.png", scale = 1)
+
+# P-values in abstract section
+ggplot(p_values_df) +
+  geom_histogram(aes(p.value), bins = 30) +
+  labs(title = "P-values by Sections",  subtitle = "Significace trhreshold <= 0.05",
+       x = "p-values",
+       y = "Frequency") +
+  facet_wrap(~ section)
+
+ggsave("./plots/sections_pval_distribution.png", scale = 1)
 
 
-
-
-
-
-
-
-
+# binomial test.
 results_df <- p_values_df %>%
-  filter((section == "result") & (p.values != "NA") & (p.values < 0.05) & (symbols == "="))
+  filter((section == "results") & (p.value != "NA") & (p.value < 1))
 
 abstracts_df <- p_values_df %>%
-  filter((section == "abstract") & (p.values != "NA") & (p.values < 0.05) & (symbols == "="))
+  filter((section == "abstract") & (p.value != "NA") & (p.value < 1))
 
 
 # binomial test all data.
-replications  <- 1
+replications  <- 10
 
 results.bias.test <- bootstrap.binomial.bias.test(results_df, replications)
 abstracts.bias.test <- bootstrap.binomial.bias.test(abstracts_df, replications)
@@ -51,112 +99,36 @@ write.csv(results.bias.test, file="./data/processed/results_combined_data.csv")
 write.csv(abstracts.bias.test, file="./data/processed/abstracts_combined_data.csv")
 
 # Binomial test by categories. 
-# categories_df <- p_values_df %>% 
-#   filter((p.values != "NA") & (p.values < 0.05) & (symbols == "=")) %>%
-#   group_by(pub_year)
-# 
-# bootstrap.binomial.bias.test(categories_df, replications)
+results.FoR.test <- bootstrap.FoR.test(results_df, replications)
+abstract.FoR.test <- bootstrap.FoR.test(abstracts_df, replications)
+
+# Creating data frame for results. 
+both <- results.FoR.test[which(rowSums(cbind(results.FoR.test$binomial2.bias.lower, 
+                                             results.FoR.test$binomial2.bias.upper)) > 10),]
+
+both <- rbind(both,abstract.FoR.test[abstract.FoR.test$category %in% both$category, ])
+both$section <- rep(c("Results", "Abstract"), each = 8)
+both$n <- both$binomial2.bias.higher + both$binomial2.bias.lower
+both$prop.upper <- both$binomial2.bias.higher / both$n
+both$lowerCI <-NA
+both$upperCI <- NA
+
+for(i in 1:nrow(both)) both[i, c(ncol(both)-1, ncol(both))] <- as.numeric(binom.test(c(both[i,7], 
+                                                                                       both[i,6]), 
+                                                                                     alternative="greater")$conf)
+
+both$category <- factor(both$category, levels = rev(sort(unique(both$category))))
 
 
+#colors <- colorRampPalette(c("white","red"))
 
+# Plot of binomial distribution by category. 
+ggplot(both, aes(x = prop.upper, y = category))  + 
+  facet_wrap(~section) + geom_errorbarh(aes(xmin = lowerCI, xmax = upperCI),height=0.2) + 
+  geom_point(aes(colour=log(n)),pch=5, size=4) + geom_vline(x=0.5, linetype=2, xintercept = 0.5) + 
+  theme_bw() + scale_colour_gradient(low = "yellow", high = "blue") + 
+  labs(title = "P-values by Sections",
+       x = "p-values",
+       y = "Categories") 
 
-
-
-
-
-
-
-
-# ## Text analysis
-# # Frequency plot. 
-# corpora_df %>%
-#     count(word, sort = TRUE) %>%
-#     filter(n > 200) %>%
-#     mutate(word = reorder(word, n)) %>%
-#     ggplot(aes(word, n, fill = word)) +
-#     geom_bar(stat = "identity") +
-#     labs(title = "Most frequent words", x = "Words", y = "Number of words") +
-#     coord_flip() 
-#     ggsave("./images/plot_1.png", height = 3, width = 5)
-#   
-# # Trasnforming corpora_df into a term-matrix corporta_dtm
-# corpora_counts <- corpora_df %>%
-#     count(id, word, sort = TRUE)
-# 
-# corpora_dtm <- corpora_counts %>%
-#     cast_dtm(id, word, n)
-# 
-# corpora_dtm <- removeSparseTerms(corpora_dtm, 0.1)     # Eliminating sparse terms.   
-# 
-# corpora_dtm
-# 
-# # # Creating a wordcloud. 
-# # freq <- sort(colSums(as.matrix(corpora_dtm)), decreasing=TRUE)
-# 
-# png(filename="./images/wordcloud.png")
-# set.seed(123)
-# wordcloud(names(freq), freq, min.freq = 50, colors=brewer.pal(6, "Dark2"), scale=c(8,.6))
-# dev.off()
-# 
-# # Topic modeling
-# 
-# # Topic model. 
-# LDA_topics <- LDA(corpora_dtm, k = 4, control = list(seed = 11091987))
-# 
-# # Transforming the LDA topics into a table. 
-# topics_table <- tidy(LDA_topics)
-# 
-# top_terms <- topics_table %>%
-#     group_by(topic) %>%
-#     top_n(6, beta) %>%
-#     ungroup() %>%
-#     arrange(topic, -beta)
-# top_terms
-# 
-# # Plotting top terms. 
-# top_terms %>%
-#     mutate(term = reorder(term, beta)) %>%
-#     ggplot(aes(term, beta, fill = factor(topic))) +
-#     geom_bar(alpha = 0.8, stat = "identity", show.legend = FALSE) +
-#     facet_wrap(~ topic, scales = "free", ncol = 2) +
-#     labs(title = "Top Terms in LDA", x = "Words", y = "Number of words") +
-#     coord_flip()
-# ggsave("./images/topics.png", height = 5, width = 5)
-# 
-# # Determining perplexity. 
-# ## Generating different LDA topic models. 
-# topics_number <- c(2, 4, 10, 20, 50, 100)
-# ap_lda_compare <- topics_number %>%
-#     map(LDA, x = corpora_dtm, control = list(seed = 1109))
-# 
-# # Plotting the different models. 
-# data_frame(k = topics_number,
-#            perplex = map_dbl(ap_lda_compare, perplexity)) %>%
-#     ggplot(aes(k, perplex)) +
-#     geom_point() +
-#     geom_line() +
-#     labs(title = "Evaluating LDA topic models",
-#          subtitle = "Optimal number of topics (smaller is better)",
-#          x = "Number of topics",
-#          y = "Perplexity")
-# ggsave("./images/topic_models.png", width = 5)
-# 
-# # Ploting the 6 first LDA topics
-# lda_td <- tidy(ap_lda_compare[[6]])
-# 
-# top_terms <- lda_td %>%
-#     group_by(topic) %>%
-#     top_n(5, beta) %>%
-#     ungroup() %>%
-#     arrange(topic, -beta)
-# 
-# top_terms %>%
-#     filter(topic <= 6) %>%
-#     mutate(term = reorder(term, beta)) %>%
-#     ggplot(aes(term, beta, fill = factor(topic))) +
-#     geom_bar(alpha = 0.8, stat = "identity", show.legend = FALSE) +
-#     facet_wrap(~ topic, scales = "free", ncol = 3) +
-#     labs(title = "Top 10 LDA Topics", x = "Terms", y = "Beta") +
-#     coord_flip()
-# ggsave("./images/top_six_LDAtopics.png", width = 7)
-
+ggsave("./plots/binomial_distribution_by_cat.png", scale = 1)
