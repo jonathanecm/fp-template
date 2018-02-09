@@ -4,7 +4,7 @@
 
 <head>
 
-<meta charset="utf-8">
+<meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 
@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -204,10 +206,10 @@ $(document).ready(function () {
 </div>
 
 
-<p>Among scientist there has been a growing concern with the increasing publication bias, the tendency of researchers to only report positive and significant results. This has prompted several researchers to explore how scientist report p-values. (Bruns, S. B. et all., 2015; Head, M. L., et al, 2015)</p>
-<p>Some researchers such as David Chavalarias et al., (2016) explored the proportions of p-values reported in different section of papers such as results and abstract sections over time and among different categories. They also focused on the type of p-values, significant or not, and the extent to which significant p-values are reported as absolute (with equal operator) or as intervals (with sing grater or lower than). Finally, they explored the number and proportion of abstracts and full-text articles that included at least 1 P value ≤.05.</p>
+<p>Among scientist, there is growing concern with the increasing publication bias, the tendency of researchers to only report positive and significant results. This has prompted several researchers to explore how scientist report p-values. (Bruns, S. B. et all., 2015; Head, M. L., et al, 2015)</p>
+<p>Some researchers such as David Chavalarias et al., (2016) explored the proportions of p-values reported in the different sections of papers such as results and abstract sections over time and among different categories. They also focused on the type of p-values, significant or not, and the extent to which significant p-values are reported as absolute (with equal operator) or as intervals (with sing grater or lower than). Finally, they explored the number and proportion of abstracts and full-text articles that included at least 1 P value ≤.05.</p>
 <p>Other researchers have focused on a particular practice when reporting p-values, p-hacking. This practice consists of manipulating the value of a non-significant p-value to make it appear significant. In order to determine if p-hacking is present in a body of research, Simonsohn et al. (2014), developed the denominate p-curve. The p-curve is the distribution of statistically significant p-values for a set of studies and allows it to assess the reliability of published research.</p>
-<p>According to the theory, when there is not an effect size, the distribution of p-values is uniform. On the other hand, when there is an effect, the distribution of p-values is exponential with a right skew, so it is more likely to obtain very low p-values, and less likely still to obtain non-significant p-values. So, as the true effect size increases the p-curve is more right skewed. If there is p-hacking, the p-curve’s shape will be altered close to the significance threshold (usually p = 0.05). Thus, a p-hacked p-curve will have an overabundance of p-values just below 0.05.</p>
+<p>According to the theory, when there is not an effect size, the distribution of p-values is uniform. On the other hand, when there is an effect, the distribution of p-values is exponential with a right skew, so it is more likely to obtain very low p-values, and less likely still to obtain non-significant p-values. So, as the true effect size increases the p-curve is more right-skewed. If there is p-hacking, the p-curve’s shape will be altered close to the significance threshold (usually p = 0.05). Thus, a p-hacked p-curve will have an overabundance of p-values just below 0.05.</p>
 <div id="citations" class="section level3">
 <h3>Citations</h3>
 <p>Bruns, S. B., &amp; Ioannidis, J. P. A. (2016). p-Curve and p-Hacking in Observational Research. Plos One, 11(2), e0149144–13. <a href="http://doi.org/10.1371/journal.pone.0149144" class="uri">http://doi.org/10.1371/journal.pone.0149144</a></p>
@@ -240,7 +242,7 @@ $(document).ready(function () {
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>

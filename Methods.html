@@ -4,7 +4,7 @@
 
 <head>
 
-<meta charset="utf-8">
+<meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 
@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -204,9 +206,9 @@ $(document).ready(function () {
 </div>
 
 
-<p>For this final project, I created a script for the extraction of p-values from XML files from the open access papers available in the PubMed database at <a href="ftp://ftp.ncbi.nlm.nih.gov" class="uri">ftp://ftp.ncbi.nlm.nih.gov</a>. Specifically, I accessed the files, articles.A-B.tar.gz, articles.C-H.tar.gz, articles.I-N.tar.gz and articles.O-Z.tar.gz on November the 14. Then files were extracted from the .gz format into their respective directories.</p>
-<p>The full corpus of files were a sample of 100,000 files text-mined for information such as number of actors, journal names, article title, p-value operator, and publication year. This process of sampling and extraction took approximately 17 hours and was used to create the data set p_values_df_full_set.csv. which was used for the analysis. Other Scripts were created to conduct an exploratory data analysis of the p-values’ reporting and p-hacking practices across categories and publication years. The categories were created merging the dataset with the p-values and the list of journals by categories created by the government of Australia (<a href="https://research.unsw.edu.au/excellence-research-australia-era-outlet-ranking" class="uri">https://research.unsw.edu.au/excellence-research-australia-era-outlet-ranking</a>) Finally; a binomial test was used for testing for p-hacking among categories. The binomial test was constructed following the study performed by Head, M. L., et al (2015).</p>
-<p>I used a one-tailed sign test to test the hypothesis that the frequency of p-values in the bins 0.03 and 0.04 is similar. I did not use p = 0.05 because of more research that p-hacking are unlikely to set the p-value right at 0.05. This analysis also was created for each for each category.</p>
+<p>I created a script for the extraction of p-values from XML files from the open access papers available in the PubMed database at <a href="ftp://ftp.ncbi.nlm.nih.gov" class="uri">ftp://ftp.ncbi.nlm.nih.gov</a>. Specifically, I accessed the following files: articles.A-B.tar.gz, articles.C-H.tar.gz, articles.I-N.tar.gz and articles.O-Z.tar.gz on November the 14. Then, files were extracted from the .gz format into their respective directories.</p>
+<p>The full corpus of files was a sample of 100,000 files text-mined for information such as the number of authors, journal names, article title, p-value operator, and publication year. This process of sampling and extraction took approximately 17 hours and was used to create the dataset p_values_df_full_set.csv., which was used for the analysis. Other Scripts were created to conduct an exploratory data analysis of the p-values’ reporting and p-hacking practices across categories and publication years. The categories were created merging the dataset with the p-values and the list of journals by categories created by the government of Australia (<a href="https://research.unsw.edu.au/excellence-research-australia-era-outlet-ranking" class="uri">https://research.unsw.edu.au/excellence-research-australia-era-outlet-ranking</a>) Finally; a binomial test was used for testing for p-hacking among categories. The binomial test was constructed following the study performed by Head, M. L., et al (2015).</p>
+<p>I used a one-tailed sign test to test the hypothesis that the frequency of p-values in the bins 0.03 and 0.04 is similar. I did not use p = 0.05 because of more research that p-hacking is unlikely to set the p-value right at 0.05. This analysis also was created for each for each category.</p>
 <p>All the scripts were developed in RStudio 1.0.44 and R version 3.3.2</p>
 <div id="citations" class="section level3">
 <h3>Citations</h3>
@@ -236,7 +238,7 @@ $(document).ready(function () {
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>
