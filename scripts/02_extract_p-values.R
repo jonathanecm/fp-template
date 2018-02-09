@@ -68,6 +68,7 @@ for (i in seq_along(files)){                      # Iterates over corpus.
 
           section <- getNodeSet(body_sections[[j]], "/sec")
           section_vec <- append(section_vec, xmlValue(section[[1]])) # Extracts result section. 
+      
           
           # Extract abbreviated journal name. 
           abbrev_journal_name <- getNodeSet(content$doc$children$article, "//journal-id[@journal-id-type='iso-abbrev']")
@@ -131,11 +132,12 @@ abstract_p_val_vec  <- as.vector(str_extract(abstract_vec, regexp)) %>%
 
 # Create data frame for extracted information.
 p_values_df <- tibble(p_values_vec, abstract_p_val_vec, autors_number_vec, 
-                      pub_year_vec, title_vec, abbrev_journal_name_vec)
+                      pub_year_vec, title_vec, abbrev_journal_name_vec, 
+                      section_vec, abstract_vec)
 
 names(p_values_df) <- c("result", "abstract", "num_authors", 
-                        "pub_year", "title", "abbrev_journal_name")  
-
+                        "pub_year", "title", "abbrev_journal_name", "results_text", 
+                        "abstract_text")  
 # Removes operator from p-values.
 symbols_remover <- function (x) gsub("[=<>≤≥]", "", x)
 p_values_df <-p_values_df %>% 
@@ -144,7 +146,9 @@ p_values_df <-p_values_df %>%
         `p-values` = as.double(map_chr(`p-values`, symbols_remover)))
 
 # save data frame.
-write.csv(p_values_df, "./data/raw/p-values_df.csv")
+write.csv(p_values_df, "./data/raw/p_values_df.csv")
+
+
 
 
 
