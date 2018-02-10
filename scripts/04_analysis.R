@@ -5,6 +5,8 @@
 ###############################################################
 # This script contains a series of helper functions:
 # text_clarifier: Clarifies text.
+#
+#### The following based on Head, M. L., et al (2015) analysis:
 # bootstrap.binomial.bias.test: Carries out a binomial test
 # binomial.bias.test: Creates the limits for the binomial test
 ###############################################################
